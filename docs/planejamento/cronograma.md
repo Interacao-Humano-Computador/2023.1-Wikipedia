@@ -19,7 +19,7 @@ Fonte: Lucas
 | Tarefa                                     | Autor(es)                        | Entrega    | Revisor | Revisão |
 |--------------------------------------------|----------------------------------|------------|---------|---------|
 | Criação da wiki                            | Lucas                            | 01/04/2023 | Gabriel | ...     |
-| Documentar Equipe                          |                                  | 05/04/2023 |         |         |
+| Documentar Equipe                          |                                  | 07/04/2023 |         |         |
 | Lista de sites avaliados / Escolha do site |                                  | 07/04/2023 |         |         |
 | Ferramentas do projeto                     |                                  | 07/04/2023 |         |         |
 | Processo de design                         |                                  | 13/04/2023 |         |         |
