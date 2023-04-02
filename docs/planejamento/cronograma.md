@@ -12,7 +12,7 @@ O objetivo do cronograma é viabilizar a organização visual das atividades, re
 |------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|---------------------|----------------------|-------------------|
 | 1    | Planejamento | Planejamento do Projeto, equipe, litas de sites avaliados, site selecionado para o projeto da disciplina, Ferramentas do projeto, Processo de Design, cronograma detalhado das atividades do projeto | 22/04/2023             | 23/04/2023          | 01/04                | ...               |
 <!-- Fim tabela cronograma geral -->
-Fonte: Lucas Frazão
+Fonte: Lucas
 
 ## Fase 1 - Planejamento
 
@@ -25,4 +25,9 @@ Fonte: Lucas Frazão
 | Processo de design                         |                                  | 13/04/2023 |         |         |
 | Cronograma                                 | Lucas, Gabriel, Chaydson, Samuel | 21/04/2023 |         |         |
 
-Fonte: Lucas Frazão
+Fonte: Lucas
+
+## Histórico de Versão
+| Versão | Data       | Descrição            | Autor(es) | Revisor(es) |
+|--------|------------|----------------------|-----------|-------------|
+| 1.0    | 01/04/2023 | Criação do documento | Lucas     | ...         |
