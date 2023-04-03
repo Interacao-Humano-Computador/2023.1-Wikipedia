@@ -1,8 +1,9 @@
-# Introdução
-
-Bem-vindo à página de ferramentas do projeto! Aqui você encontrará uma lista de ferramentas e recursos que serão utilizados ao longo do desenvolvimento do projeto. Essas ferramentas foram selecionadas para ajudar a maximizar a eficiência e a qualidade do projeto, tornando o processo de desenvolvimento mais ágil e eficaz. Cada ferramenta listada nesta página tem um propósito específico e irá desempenhar um papel importante em todo o processo.
-
 # Ferramentas
+## Introdução
+
+Bem-vindo à página de ferramentas do projeto! Aqui você encontrará uma lista de ferramentas e recursos que estamos utilizando no desenvolvimento do projeto. Essas ferramentas foram selecionadas para ajudar a maximizar a eficiência e a qualidade do projeto, tornando o processo de desenvolvimento mais ágil e eficaz. Cada ferramenta listada nesta página tem um propósito específico e irá desempenhar um papel importante em todo o processo.
+
+## Ferramentas
 
 As ferramentas que iremos utilizar estão ilustradas na tabela 1 a seguir:
 
@@ -18,10 +19,10 @@ As ferramentas que iremos utilizar estão ilustradas na tabela 1 a seguir:
 
 <p style="margin-left: 38%;">Tabela 1: Ferramentas</p>
 
-# Histórico de Versão
+## Histórico de Versão
 
 | Data | Descrição | Autor(es) | Revisor(es) | Versão |
 | ---- | ----------| ------| --------| -------|
-| 03/04/2023 | Criação da página de ferramentas | Pedro Henrique | Lucas | 1.0 |
+| 03/04/2023 | Criação do documento| Pedro Henrique | Lucas | 1.0 |
 
 
