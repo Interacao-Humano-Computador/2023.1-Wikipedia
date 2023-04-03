@@ -1,4 +1,13 @@
 site_name: IHC 2023.1
 
+repo_name: "2023.1 grupo 2"
+repo_url: "https://github.com/Interacao-Humano-Computador/2023.1-Grupo02"
+
+copyright: "Copyright &copy; 2023 ihc"
+
 theme:
   name: material
+nav:
+  - Home: index.md
+  - Planejamento:
+      - Ferramentas: planejamento/ferramentas.md
