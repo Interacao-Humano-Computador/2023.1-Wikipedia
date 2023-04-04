@@ -1,4 +1,4 @@
-# Cronograma
+# Cronograma Planejado
 
 ## Introdução
 
@@ -38,7 +38,67 @@ Tabela 1 - Cronograma geral da equipe.
 | Planejamento                               | -         | 13/04/2023 | -           | -          |
 | Ata reunião 1                              | Lucas     | 03/04/2023 | -           | -          |
 
-Tabela 2 - Cronograma da entrega 1, planejamento do projeto.
+Tabela 2 - Cronograma da entrega 1.
+
+## Entrega 2 - Perfil do usuário
+
+| Tarefa                                          | Autor(es)         | Data limite da entrega | Revisor(es)   | Data limite da revisão |
+|-------------------------------------------------|-------------------|------------------------|---------------|------------------------|
+| Perfil do usuário                               | Gabriel           | 28/04/2023             | Chaydson      | 30/04/2023             |
+| Aspectos éticos de pesquisas envolvendo pessoas | Ana               | 28/04/2023             | Pedro         | 30/04/2023             |
+| Personas                                        | Lucas / Pedro     | 28/04/2023             | Gabriel / Ana | 30/04/2023             |
+| Análise de tarefas                              | Chaydson / Samuel | 28/04/2023             | Lucas         | 30/04/2023             |
+
+## Entrega 3 - Princípios gerais do projeto
+
+| Tarefa                                       | Autor(es)         | Data limite da entrega | Revisor(es)   | Data limite da revisão |
+|----------------------------------------------|-------------------|------------------------|---------------|------------------------|
+| Princípios gerais de projeto                 | Gabriel           | 05/05/2023             | Chaydson      | 07/05/2023             |
+| Metas de usabilidade                         | Ana               | 05/05/2023             | Pedro         | 07/05/2023             |
+| Guia de estilo                               | Lucas / Pedro     | 05/05/2023             | Gabriel / Ana | 07/05/2023             |
+| Características da plataforma para o projeto | Chaydson / Samuel | 05/05/2023             | Lucas         | 07/05/2023             |
+
+## Entrega 4 - Planejamento da avaliação do storyboard
+
+| Tarefa                                                                   | Autor(es)         | Data limite da entrega | Revisor(es)   | Data limite da revisão |
+|--------------------------------------------------------------------------|-------------------|------------------------|---------------|------------------------|
+| Planejamento da avaliação do storyboard                                  | Gabriel           | 12/05/2023             | Chaydson      | 14/05/2023             |
+| Planejamento do relato dos resultados da avaliação do Storyboard         | Ana               | 12/05/2023             | Pedro         | 14/05/2023             |
+| Planejamento da Avaliação do Análise de tarefas                          | Lucas / Pedro     | 12/05/2023             | Gabriel / Ana | 14/05/2023             |
+| Planejamento do relato dos resultados da avaliação do Análise de tarefas | Chaydson / Samuel | 12/05/2023             | Lucas         | 14/05/2023             |
+
+## Entrega 5 - Resultados
+
+| Tarefa                                                                   | Autor(es)         | Data limite da entrega | Revisor(es)   | Data limite da revisão |
+|--------------------------------------------------------------------------|-------------------|------------------------|---------------|------------------------|
+| Relato dos resultados do Story Board                                     | Gabriel           | 21/05/2023             | Chaydson      | 23/05/2023             |
+| Relato dos resultados da análise de tarefas                              | Ana               | 21/05/2023             | Pedro         | 23/05/2023             |
+| Planejamento da avaliação do protótipo de papel                          | Lucas / Pedro     | 21/05/2023             | Gabriel / Ana | 23/05/2023             |
+| Planejamento do relato dos resultados da avaliação do protótipo de papel | Chaydson / Samuel | 21/05/2023             | Lucas         | 23/05/2023             |
+
+## Entrega 6.1 - Análise dos artefatos
+
+## Entrega 6.2 - Análise dos artefatos
+
+## Entrega 7 - Relato dos resultados do protótipo de papel
+
+| Tarefa                                                                             | Autor(es)        | Data limite da entrega | Revisor(es)   | Data limite da revisão |
+|------------------------------------------------------------------------------------|------------------|------------------------|---------------|------------------------|
+| Relato dos resultados do protótipo de papel                                        | Gabriel / Samuel | 02/06/2023             | Chaydson      | 04/06/2023             |
+| Planejamento da avaliação do protótipo de alta fidelidade                          | Ana / Chaydson   | 02/06/2023             | Pedro         | 04/06/2023             |
+| planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Lucas / Pedro    | 02/06/2023             | Gabriel / Ana | 04/06/2023             |
+
+## Entrega 8 - Relatos dos resultados
+
+| Tarefa                                                 | Autor(es) | Data limite da entrega | Revisor(es) | Data limite da revisão |
+|--------------------------------------------------------|-----------|------------------------|-------------|------------------------|
+| Relato dos resultados do protótipo de alta fidelidade. | Grupo     | 16/06/2023             | Grupo    | 18/06/2023             |
+
+## Entrega 9 - Entrega final
+
+| Tarefa                                   | Autor(es) | Data limite da entrega | Revisor(es) | Data limite da revisão |
+|------------------------------------------|-----------|------------------------|-------------|------------------------|
+| Entrega da apresentação do projeto final | Grupo     | 23/06/2023             | Grupo    | 25/06/2023             |
 
 ## Histórico de Versão
 
