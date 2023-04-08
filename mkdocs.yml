@@ -11,3 +11,5 @@ nav:
   - Home: index.md
   - Atas:
       - 07/04/2023: atas/ata_02_07.md  
+  - Planejamento:
+      - Ferramentas: planejamento/ferramentas.md
