@@ -31,18 +31,20 @@ Tabela 1 - Cronograma geral da equipe.
 
 ## Entrega 1 - Planejamento
 
-| Tarefa                                     | Autor(es) | Entrega    | Revisor(es) | Revisão   |
-| ------------------------------------------ | --------- | ---------- | ----------- | ---------- |
-| Criação do projeto usando mkdocs         | Lucas     | 01/04/2023 | Gabriel     | 06/04/2023 |
-| Documentação da equipe                   | Ana       | 07/04/2023 | -           | -          |
-| Lista de sites avaliados / Escolha do site | -         | 07/04/2023 | -           | -          |
-| Ferramentas                                | Pedro     | 03/04/2023 | Lucas       | 03/04/2023 |
-| Processo de design                         | Gabriel   | 13/04/2023 | -           | -          |
-| Lista de sites avaliados                   | Grupo     | 07/04/2023 | -           | -          |
-| Site escolhido                             | Grupo     | 07/04/2023 | -           | -          |
-| Cronograma geral                           | Lucas     | 03/04/2023 | Gabriel     | 06/04/2023 |
-| Planejamento                               | -         | 13/04/2023 | -           | -          |
-| Ata reunião 1                             | Lucas     | 03/04/2023 | -           | -          |
+| Tarefa                                     | Autor(es)      | Entrega    | Revisor(es) | Revisão   |
+| ------------------------------------------ | -------------- | ---------- | ----------- | ---------- |
+| Criação do projeto usando mkdocs         | Lucas          | 01/04/2023 | Gabriel     | 06/04/2023 |
+| Ata reunião 1                             | Lucas          | 03/04/2023 | Gabriel     | -          |
+| Cronograma geral                           | Lucas          | 03/04/2023 | Gabriel     | 06/04/2023 |
+| Ferramentas                                | Pedro          | 03/04/2023 | Lucas       | 03/04/2023 |
+| Documentação da equipe                   | Ana            | 07/04/2023 | Chaydson    | -          |
+| Análise do site escolhido                 | Grupo          | 07/04/2023 | Grupo       | 07/04/2023 |
+| Ata reunião 2                             | Pedro          | 14/04/2023 | Samuel      | -          |
+| Processo de design                         | Gabriel        | 14/04/2023 | Ana         | -          |
+| Aplicação do Framework DECIDE          | Chaydson e Ana | 14/04/2023 | Pedro       | -          |
+| Lista de sites avaliados / Escolha do site | Samuel         | 14/04/2023 | Chaydson    | -          |
+| Gravação da Apresentação               | Grupo          | 21/04/2023 | Grupo       | 23/04/2023 |
+| Finalização                              | Grupo          | 21/04/2023 | Grupo       | 23/04/2023 |
 
 Tabela 2 - Cronograma da entrega 1.
 
