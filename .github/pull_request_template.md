@@ -5,6 +5,3 @@
 ## Issues
 <!---OBRIGATÓRIO-->
 <!---Faça o link da issue aqui -->
-
-## Screenshots
-<!---Opcional-->
