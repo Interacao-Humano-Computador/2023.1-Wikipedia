@@ -21,8 +21,7 @@ As ferramentas que iremos utilizar estão ilustradas na tabela 1 a seguir:
 
 ## Histórico de Versão
 
-| Data | Descrição | Autor(es) | Revisor(es) | Versão |
-| ---- | ----------| ------| --------| -------|
-| 03/04/2023 | Criação do documento| Pedro Henrique | Lucas | 1.0 |
-
+| Versão | Data  | Descrição            | Autor(es) | Revisor(es) |
+|--------|-------|----------------------|-----------|-------------|
+| 1.0    | 03/04 | Criação do documento | Pedro     | Lucas       |
 

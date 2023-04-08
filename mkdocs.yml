@@ -9,5 +9,8 @@ theme:
   name: material
 nav:
   - Home: index.md
+  - Atas:
+      - 01/04/2023: atas/ata_01_04.md
   - Planejamento:
-      - Ferramentas: planejamento/ferramentas.md
+      - Cronograma planejado: planejamento/cronogramaPlanejado.md
+      - Ferramentas: planejamento/ferramentas.md    
