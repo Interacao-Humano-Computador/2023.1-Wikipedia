@@ -1,15 +1,39 @@
-site_name: IHC 2023.1
+site_name: DDS - UnB
 
-repo_name: "2023.1 grupo 2"
-repo_url: "https://github.com/Interacao-Humano-Computador/2023.1-Grupo02"
+repo_name: "DDS - UnB"
+repo_url: "https://github.com/Interacao-Humano-Computador/2023.1-DDS-UnB"
 
-copyright: "Copyright &copy; 2023 ihc"
+copyright: "Copyright &copy; 2023 DDS - UnB"
 
 theme:
   name: material
+  language: pt-BR
+
+  palette: 
+    - scheme: default
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/weather-night
+        name: Trocar para o modo escuro
+
+    - scheme: slate
+      primary: green
+      accent: green
+      toggle:
+        icon: material/weather-sunny
+        name: Trocar para o modo claro
+  
+  icon:
+    repo: fontawesome/brands/github
+    
+  logo: images/unb.jpg
+
 nav:
   - Home: index.md
   - Atas:
-      - 07/04/2023: atas/ata_02_07.md  
+      - 07/04/2023: atas/ata_02_07.md
+      - 01/04/2023: atas/ata_01_04.md
   - Planejamento:
       - Ferramentas: planejamento/ferramentas.md
+      - Cronograma planejado: planejamento/cronogramaPlanejado.md  
