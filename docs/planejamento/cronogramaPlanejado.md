@@ -44,7 +44,6 @@ Tabela 1 - Cronograma geral da equipe.
 |     Aplicação do Framework DECIDE     | Chaydson e Ana |        01/04 - 21/04        |    Pedro    |    22/04 - 23/04    |
 | Lista de sites avaliados / Escolha do site |     Samuel     |        01/04 - 21/04        |  Chaydson  |    22/04 - 23/04    |
 |        Gravação da Apresentação        |     Grupo     |        01/04 - 21/04        |    Grupo    |    22/04 - 23/04    |
-|        Gravação da apresentação        |     Grupo     |        01/04 - 21/04        |    Grupo    |    22/04 - 23/04    |
 |               Finalização               |     Grupo     |        01/04 - 21/04        |    Grupo    |    22/04 - 23/04    |
 
 Tabela 2 - Cronograma da entrega 1.
