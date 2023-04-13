@@ -1,33 +1,24 @@
-site_name: DDS - UnB
+site_name: Wikipedia
 
-repo_name: "DDS - UnB"
-repo_url: "https://github.com/Interacao-Humano-Computador/2023.1-DDS-UnB"
+repo_name: "Wikipedia"
+repo_url: "https://github.com/Interacao-Humano-Computador/2023.1-Wikipedia"
 
-copyright: "Copyright &copy; 2023 DDS - UnB"
+copyright: "Copyright &copy; 2023 Wikipedia"
 
 theme:
   name: material
   language: pt-BR
+  favicon: images/wikipedia.png
 
   palette: 
     - scheme: default
-      primary: green
-      accent: light green
-      toggle:
-        icon: material/weather-night
-        name: Trocar para o modo escuro
-
-    - scheme: slate
-      primary: green
-      accent: green
-      toggle:
-        icon: material/weather-sunny
-        name: Trocar para o modo claro
+      primary: black
+      accent: blue
   
   icon:
     repo: fontawesome/brands/github
     
-  logo: images/unb.jpg
+  logo: images/wikipedia.png
 
 nav:
   - Home: index.md
