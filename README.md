@@ -1,10 +1,10 @@
-# DDS UnB
+# Wikipedia
 
 ## Introdução
 
 Este conjunto de trabalhos foi criado durante a disciplina de interação humano computador na Universidade de Brasília (UnB), no primeiro semestre de 2023. O principal objetivo do projeto desenvolvido pela equipe é avaliar a usabilidade do site [wikipedia](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal) e fornecer sugestões para melhorar a interação humano-computador do site.
 
-<img src="docs/images/wikipedia.png">
+<img src="docs/images/wikipedia.png" style="width: 10vw">
 
 ## Equipe
 
@@ -12,12 +12,12 @@ Nossa equipe de trabalho é composta pelos seguintes estudantes de Engenharia de
 
 |                                              Foto                                              |                 Nome                 |
 | :--------------------------------------------------------------------------------------------: | :----------------------------------: |
-|   `<img src="https://github.com/analuizargds.png" alt="Davi Matias" style="width: 10vw">`   |     Ana Luiza Rodrigues Da Silva     |
-|     `<img src="https://github.com/chaydson.png" alt="Davi Matias" style="width: 10vw">`     |    Chaydson Ferreira Da Aparecida    |
-|    `<img src="https://github.com/oo7gabriel.png" alt="Davi Matias" style="width: 10vw">`    |      Gabriel Ferreira Da Silva      |
-| `<img src="https://github.com/lucaslopesfrazao.png" alt="Davi Matias" style="width: 10vw">` |          Lucas Lopes Frazao          |
-| `<img src="https://github.com/PedroHenrique2077.png" alt="Davi Matias" style="width: 10vw">` | Pedro Henrique Rodrigues De Carvalho |
-|   `<img src="https://github.com/SamuelGSouza.png" alt="Davi Matias" style="width: 10vw">`   |        Samuel Gomes De Souza        |
+|   <img src="https://github.com/analuizargds.png" alt="Davi Matias" style="width: 10vw">   |     Ana Luiza Rodrigues Da Silva     |
+|     <img src="https://github.com/chaydson.png" alt="Davi Matias" style="width: 10vw">     |    Chaydson Ferreira Da Aparecida    |
+|    <img src="https://github.com/oo7gabriel.png" alt="Davi Matias" style="width: 10vw">    |      Gabriel Ferreira Da Silva      |
+| <img src="https://github.com/lucaslopesfrazao.png" alt="Davi Matias" style="width: 10vw"> |          Lucas Lopes Frazao          |
+| <img src="https://github.com/PedroHenrique2077.png" alt="Davi Matias" style="width: 10vw"> | Pedro Henrique Rodrigues De Carvalho |
+|   <img src="https://github.com/SamuelGSouza.png" alt="Davi Matias" style="width: 10vw">   |        Samuel Gomes De Souza        |
 
 ## Histórico de Versão
 
