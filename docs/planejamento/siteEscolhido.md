@@ -26,3 +26,8 @@ Figura 2. Página de discussão da Wikipédia (Fonte: captura de tela realizada 
 
 WIKIPÉDIA. Sobre a Wikipédia. Disponível em: [https://pt.wikipedia.org/wiki/Wikipédia:Sobre_a_Wikipédia](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Sobre_a_Wikip%C3%A9dia). Acesso em: 20 abr. 2023.
 
+## Histórico de Versão
+
+| Versão | Data       | Descrição            | Autor(es) | Revisor(es) |
+| ------ | ---------- | -------------------- | --------- | ----------- |
+| 1.0    | 20/04/2023 | Criação do documento | Samuel    | Chaydson    |
