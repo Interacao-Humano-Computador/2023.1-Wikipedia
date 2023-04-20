@@ -18,3 +18,7 @@ O [site da DDS](https://dds.dac.unb.br/ "Link para o site da DDS") (Diretoria de
 
 O [site do Senado Federal](https://www12.senado.leg.br/hpsenado "Link para o site do Senado Federal") é uma plataforma digital que disponibiliza informações sobre a atuação do Poder Legislativo brasileiro. Nele, é possível acessar notícias, transmissões ao vivo das sessões, agendas, votações, além de ter acesso aos projetos de lei e outras proposições em tramitação no Senado. Embora seja uma fonte útil de informações, o site pode ser difícil de navegar para alguns usuários devido à sobrecarga de informações exibidas de uma vez na tela. Isso pode ser especialmente problemático para usuários mais velhos ou para aqueles que não estão familiarizados com a navegação em sites
 
+## Simcast
+
+O [Simcast](https://simcast.com/ "Link para o site do Simcast") é uma plataforma de busca que permite aos usuários economizar tempo ao realizar pesquisas em vários mecanismos de busca simultaneamente, como Google, Yahoo e Bing. Apesar da funcionalidade geral ser boa, a interface do usuário é antiquada e pode não ser tão intuitiva quanto outras plataformas modernas, o que pode fazer com que alguns usuários prefiram outras opções.
+
