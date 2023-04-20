@@ -10,3 +10,7 @@ Bem-vindo à página de sites analisados! Aqui você encontrará uma lista de to
 
 O [site do DER-SP](http://www.der.sp.gov.br/WebSite/Index.aspx "Link para o site do DER-SP") é uma plataforma online que oferece informações e recursos para os usuários das rodovias do estado de São Paulo. Por meio do site, é possível acessar informações sobre as condições das estradas, tarifas de pedágio, leis de trânsito e serviços online, como a consulta de multas e a emissão de documentos. Embora o site ofereça uma ampla gama de recursos, ele apresenta alguns problemas de usabilidade, como falta de organização, um menu com muitos itens, informações repetidas e disposição inadequada do texto nos botões.
 
+## Diretoria de Desenvolvimento Social (DDS)
+
+O [site da DDS](https://dds.dac.unb.br/ "Link para o site da DDS") (Diretoria de Desenvolvimento Social) da UnB (Universidade de Brasília) é um portal que fornece informações sobre programas, notícias, editais, relatórios e legislação relacionados à assistência estudantil na universidade. No entanto, existem alguns problemas no site como a apresentação de muitas informações em uma única página e alguns botões que não funcionam corretamente.
+
