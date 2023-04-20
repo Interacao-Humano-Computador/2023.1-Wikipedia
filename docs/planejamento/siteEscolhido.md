@@ -10,3 +10,15 @@ O site escolhido para estudo na disciplina foi a Wikipédia, uma plataforma que 
 
 O site da Wikipedia foi escolhido para estudo na disciplina devido à sua relevância como uma das maiores e mais conhecidas enciclopédias online, com milhões de artigos em diversos idiomas e por causa da sua interface, a Wikipedia pode ser considerada um exemplo de interface pouco amigável, uma vez que possui muita informação e pode ser difícil de navegar para usuários iniciantes. O estudo da Wikipedia pode fornecer importantes ideias sobre como identificar e melhorar problemas em interfaces que possuem uma grande quantidade de informações.
 
+## Imagens
+
+As figuras apresentadas ilustram diferentes páginas da Wikipédia. A Figura 1 retrata a página inicial da Wikipédia em português, que contém informações sobre o projeto, artigos em destaque e eventos atuais. Já a Figura 2 exibe a página de discussão, que é um espaço onde os editores podem debater e propor melhorias para o seu conteúdo
+
+![Figura 1: Página inicial da Wikipédia](../images/paginaInicialWikipedia.png)
+
+Figura 1. Página inicial da Wikipédia (Fonte: captura de tela realizada em 20 de abril de 2023).
+
+![Figura 2: Página de discussão da Wikipédia](../images/paginaDiscussaoWikipedia.png)
+
+Figura 2. Página de discussão da Wikipédia (Fonte: captura de tela realizada em 20 de abril de 2023).
+
