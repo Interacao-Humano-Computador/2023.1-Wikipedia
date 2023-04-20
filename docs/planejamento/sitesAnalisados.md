@@ -22,3 +22,7 @@ O [site do Senado Federal](https://www12.senado.leg.br/hpsenado "Link para o sit
 
 O [Simcast](https://simcast.com/ "Link para o site do Simcast") é uma plataforma de busca que permite aos usuários economizar tempo ao realizar pesquisas em vários mecanismos de busca simultaneamente, como Google, Yahoo e Bing. Apesar da funcionalidade geral ser boa, a interface do usuário é antiquada e pode não ser tão intuitiva quanto outras plataformas modernas, o que pode fazer com que alguns usuários prefiram outras opções.
 
+## SINTEGRA
+
+[SINTEGRA](http://www.sintegra.gov.br/ "Link para o site deo SINTEGRA") é um site que oferece serviços relacionados ao Cadastro CNPJ da Receita Federal e ao Cadastro Centralizado de Contribuintes. Ele também fornece informações sobre cadastros estaduais, legislação e inscrições estaduais. No entanto, é notável que o design do site se encontra desatualizado e pode comprometer a experiência do usuário ao utilizá-lo.
+
