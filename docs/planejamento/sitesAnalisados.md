@@ -30,6 +30,22 @@ O [Simcast](https://simcast.com/ "Link para o site do Simcast") é uma plataform
 
 A [Wikipedia](https://pt.wikipedia.org/ "Link para o site da Wikipédia") é uma enciclopédia online gratuita e colaborativa que contém milhões de artigos escritos em diferentes idiomas sobre uma ampla variedade de tópicos. Os artigos são escritos por voluntários de todo o mundo e são editáveis por qualquer pessoa que tenha acesso à internet. No entanto, a wikipédia apresenta alguns problemas de interface que podem dificultar a navegação e a compreensão de certos conteúdos, como excesso de informações, dificuldades em encontrar o caminho em meio a uma grande quantidade de dados e problemas de usabilidade em algumas funcionalidades.
 
+## Bibliografia
+
+CENTRAL EXPRESSO. Central Expresso. Disponível em: [https://centralexpresso.com/](https://centralexpresso.com/). Acesso em: 20 abr. 2023.
+
+DEPARTAMENTO DE ESTRADAS DE RODAGEM (DER). Site do DER-SP. Disponível em: [http://www.der.sp.gov.br/WebSite/Index.aspx](http://www.der.sp.gov.br/WebSite/Index.aspx). Acesso em: 20 abr. 2023.
+
+DIRETORIA DE DESENVOLVIMENTO SOCIAL (DDS). Site da DDS. Disponível em: [https://dds.dac.unb.br/](https://dds.dac.unb.br/). Acesso em: 20 abr. 2023.
+
+SENADO FEDERAL. Site do Senado Federal. Disponível em: [https://www12.senado.leg.br/hpsenado](https://www12.senado.leg.br/hpsenado). Acesso em: 20 abr. 2023.
+
+SIMCAST. Simcast. Disponível em: [https://simcast.com/](https://simcast.com/). Acesso em: 20 abr. 2023.
+
+SINTEGRA. Sintegra - Sistema Integrado de Informações sobre Operações Interestaduais com Mercadorias e Serviços. Disponível em: [http://www.sintegra.gov.br/](http://www.sintegra.gov.br/). Acesso em: 20 abr. 2023.
+
+WIKIPÉDIA. Sobre a Wikipédia. Disponível em: [https://pt.wikipedia.org/wiki/Wikipédia:Sobre_a_Wikipédia](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Sobre_a_Wikip%C3%A9dia). Acesso em: 20 abr. 2023.
+
 ## Histórico de Versão
 
 | Versão | Data       | Descrição            | Autor(es) | Revisor(es) |
