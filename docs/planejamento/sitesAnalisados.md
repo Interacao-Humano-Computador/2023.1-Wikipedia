@@ -30,3 +30,8 @@ O [Simcast](https://simcast.com/ "Link para o site do Simcast") é uma plataform
 
 A [Wikipedia](https://pt.wikipedia.org/ "Link para o site da Wikipédia") é uma enciclopédia online gratuita e colaborativa que contém milhões de artigos escritos em diferentes idiomas sobre uma ampla variedade de tópicos. Os artigos são escritos por voluntários de todo o mundo e são editáveis por qualquer pessoa que tenha acesso à internet. No entanto, a wikipédia apresenta alguns problemas de interface que podem dificultar a navegação e a compreensão de certos conteúdos, como excesso de informações, dificuldades em encontrar o caminho em meio a uma grande quantidade de dados e problemas de usabilidade em algumas funcionalidades.
 
+## Histórico de Versão
+
+| Versão | Data       | Descrição            | Autor(es) | Revisor(es) |
+| ------ | ---------- | -------------------- | --------- | ----------- |
+| 1.0    | 20/04/2023 | Criação do documento | Samuel    | Chaydson    |
