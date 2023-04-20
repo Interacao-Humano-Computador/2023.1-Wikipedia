@@ -26,3 +26,7 @@ O [Simcast](https://simcast.com/ "Link para o site do Simcast") é uma plataform
 
 [SINTEGRA](http://www.sintegra.gov.br/ "Link para o site deo SINTEGRA") é um site que oferece serviços relacionados ao Cadastro CNPJ da Receita Federal e ao Cadastro Centralizado de Contribuintes. Ele também fornece informações sobre cadastros estaduais, legislação e inscrições estaduais. No entanto, é notável que o design do site se encontra desatualizado e pode comprometer a experiência do usuário ao utilizá-lo.
 
+## Wikipédia
+
+A [Wikipedia](https://pt.wikipedia.org/ "Link para o site da Wikipédia") é uma enciclopédia online gratuita e colaborativa que contém milhões de artigos escritos em diferentes idiomas sobre uma ampla variedade de tópicos. Os artigos são escritos por voluntários de todo o mundo e são editáveis por qualquer pessoa que tenha acesso à internet. No entanto, a wikipédia apresenta alguns problemas de interface que podem dificultar a navegação e a compreensão de certos conteúdos, como excesso de informações, dificuldades em encontrar o caminho em meio a uma grande quantidade de dados e problemas de usabilidade em algumas funcionalidades.
+
