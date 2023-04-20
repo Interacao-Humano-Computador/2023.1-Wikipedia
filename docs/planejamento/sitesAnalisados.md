@@ -14,3 +14,7 @@ O [site do DER-SP](http://www.der.sp.gov.br/WebSite/Index.aspx "Link para o site
 
 O [site da DDS](https://dds.dac.unb.br/ "Link para o site da DDS") (Diretoria de Desenvolvimento Social) da UnB (Universidade de Brasília) é um portal que fornece informações sobre programas, notícias, editais, relatórios e legislação relacionados à assistência estudantil na universidade. No entanto, existem alguns problemas no site como a apresentação de muitas informações em uma única página e alguns botões que não funcionam corretamente.
 
+## Senado Federal
+
+O [site do Senado Federal](https://www12.senado.leg.br/hpsenado "Link para o site do Senado Federal") é uma plataforma digital que disponibiliza informações sobre a atuação do Poder Legislativo brasileiro. Nele, é possível acessar notícias, transmissões ao vivo das sessões, agendas, votações, além de ter acesso aos projetos de lei e outras proposições em tramitação no Senado. Embora seja uma fonte útil de informações, o site pode ser difícil de navegar para alguns usuários devido à sobrecarga de informações exibidas de uma vez na tela. Isso pode ser especialmente problemático para usuários mais velhos ou para aqueles que não estão familiarizados com a navegação em sites
+
