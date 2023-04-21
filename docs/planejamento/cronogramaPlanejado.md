@@ -42,6 +42,8 @@ Tabela 1 - Cronograma geral da equipe.
 |                 Processo de design                 |    Gabriel    |        01/04 - 21/04        |     Ana     |    22/04 - 23/04    |
 | Aplicação do Framework DECIDE no site escolhido | Chaydson e Ana |        01/04 - 21/04        |    Pedro    |    22/04 - 23/04    |
 |              Lista de sites avaliados              |     Samuel     |        01/04 - 21/04        |  Chaydson  |    22/04 - 23/04    |
+|             Disponibilidade dos membros             |    Gabriel    |        01/04 - 21/04        |    Lucas    |    22/04 - 23/04    |
+|                    Metodologias                    |     Lucas     |        01/04 - 21/04        |     Ana     |    22/04 - 23/04    |
 |            Gravação da Apresentação            |     Grupo     |        01/04 - 21/04        |    Grupo    |    22/04 - 23/04    |
 |                    Finalização                    |     Grupo     |        01/04 - 21/04        |    Grupo    |    22/04 - 23/04    |
 
