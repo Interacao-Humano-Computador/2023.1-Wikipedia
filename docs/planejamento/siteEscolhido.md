@@ -22,12 +22,30 @@ Figura 1. Página inicial da Wikipédia (Fonte: captura de tela realizada em 20 
 
 Figura 2. Página de discussão da Wikipédia (Fonte: captura de tela realizada em 20 de abril de 2023).
 
+## Termos de Uso
+
+O aplicativo web Wikipedia possui uma política de uso claramente estabelecida em seus Termos de Uso. Conforme declarado na política, todo o conteúdo presente no site está licenciado sob uma licença livre, permitindo o acesso e o compartilhamento do conhecimento de forma ampla e gratuita.
+
+É importante enfatizar que a filosofia da Wikipedia é a de criar e compartilhar conteúdo livre e aberto, sem fins lucrativos. Embora a plataforma possa ser usada para fins educacionais, é crucial ressaltar que não é permitido usar a Wikipedia para fins comerciais. Portanto, para evitar violações dos Termos de Uso da plataforma, é necessário que sejam seguidas as diretrizes estabelecidas.
+
+Abaixo, segue uma imagem dos Termos de Uso da Wikipedia, que devem ser lidos e compreendidos antes de qualquer uso da plataforma. É importante ter em mente que o uso da Wikipedia para projetos acadêmicos é permitido e incentivado, desde que as informações sejam usadas corretamente e de acordo com as diretrizes acadêmicas estabelecidas.
+
+![Figura 3: Termo de Uso](../images/termoUso.png)
+
+Figura 3. Termo de Uso (Fonte: captura de tela realizada em 21 de abril de 2023).
+
+
 ## Bibliografia
 
 WIKIPÉDIA. Sobre a Wikipédia. Disponível em: [https://pt.wikipedia.org/wiki/Wikipédia:Sobre_a_Wikipédia](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Sobre_a_Wikip%C3%A9dia). Acesso em: 20 abr. 2023.
+
+Termos e condições de uso - Wikimedia Foundation Governance Wiki. Disponível em: <https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pt-br#16._Modifica%C3%A7%C3%B5es_a_estes_termos_de_uso>. Acesso em: 22 abr. 2023.
+
+‌
 
 ## Histórico de Versão
 
 | Versão | Data       | Descrição            | Autor(es) | Revisor(es) |
 | ------ | ---------- | -------------------- | --------- | ----------- |
 | 1.0    | 20/04/2023 | Criação do documento | Samuel    | Chaydson    |
+| 1.1    | 21/04/2023 | Adicionando termo de uso | Pedro    | Gabriel    |
