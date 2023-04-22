@@ -20,7 +20,9 @@ As ferramentas que iremos utilizar estão ilustradas na tabela 1 a seguir:
 | <img src="../../images/vscode.png" width="80px"/> | O VsCode é usado para editar o código markdown que gera a página. |
 | <img src="../../images/youtube.png" width="80px"/> | O YouTube é o site pelo qual o grupo hospeda as gravações. |
 
-<p style="margin-left: 38%;">Tabela 1: Ferramentas</p>
+<div style="text-align: center">
+<p> Tabela 1: Ferramentas utilizadas durante o projeto (Fonte: Autor, 2023). </p>
+</div>
 
 ## Referências
 
