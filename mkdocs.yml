@@ -28,6 +28,8 @@ nav:
   - Planejamento:
       - Cronograma planejado: planejamento/cronogramaPlanejado.md
       - Ferramentas: planejamento/ferramentas.md    
+      - Site escolhido: planejamento/siteEscolhido.md    
+      - Sites analisados: planejamento/sitesAnalisados.md
   - Politicas:
       - Metodologias: politicas/metodologias.md
       - Issues: politicas/issues.md
