@@ -18,9 +18,15 @@ Escolha a branch que irá fazer o pull request (A branch que irá receber é sem
 <p> Figura 2: Demontração para a escolha da branch. </p>
 </div>
 
-Agora preencha a descrição do pull request e faça o link da issue.
+O padrão utilizado aqui, é uma breve descrição do que foi feito, e o link da issue que foi resolvida acompanhada da palavra resolve.
 
-Coloque o revisor e finalize a criação do pull request.
+Exemplo: 
+
+Adicionando metodologias e politicas de desenvolvimento
+
+`resolve #20`
+
+Por fim, coloque o revisor e finalize a criação do pull request.
 
 <img  src="../../images/politicas/pullRequest/passo3.jpeg">
 

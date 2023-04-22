@@ -13,6 +13,18 @@ O SCRUM também define quatro eventos principais: o Planejamento da Sprint, a Re
 
 O SCRUM é um framework flexível e adaptável, que permite à equipe responder às mudanças do cliente e do mercado de forma rápida e eficaz, entregando valor de forma constante e incremental.
 
+### Aplicação
+
+A equipe está aplicando o scrum master da seguinte forma:
+
+- Realizando encontros diários, onde cada membro da equipe compartilha o que fez, o que vai fazer no dia atual e quais são os impedimentos que enfrenta.
+
+- Seguindo um ciclo de trabalho chamado sprint, que tem uma duração definida (geralmente de uma a duas semanas) e um conjunto de objetivos acordados pela equipe e pelo cliente (chamado de backlog do produto).
+
+- Realizando uma reunião de planejamento do sprint no início de cada sprint, onde a equipe seleciona as tarefas do backlog do produto que vai realizar no sprint.
+
+- Realizando uma revisão do sprint no final de cada sprint, onde a equipe apresenta o que entregou no sprint e recebe feedback do cliente e dos stakeholders.
+
 ## Pair Programming
 
 Pair programming é uma técnica de desenvolvimento de software em que dois programadores trabalham juntos em um mesmo código, alternando os papéis de driver e navigator. O driver é o responsável por escrever o código, enquanto o navigator é o responsável por orientar e revisar o código. Os papéis podem ser trocados a qualquer momento, de acordo com a conveniência da dupla.
@@ -25,6 +37,16 @@ O pair programming traz vários benefícios para a equipe de desenvolvimento, ta
 - Melhoria da comunicação e da colaboração: os programadores se comunicam mais entre si e com a equipe, criando um ambiente de trabalho mais harmonioso e produtivo.
 
 O pair programming pode ser aplicado tanto presencialmente quanto remotamente, desde que haja uma boa conexão de internet e ferramentas adequadas para a comunicação e a edição do código. O pair programming pode ser combinado com outras metodologias ágeis, como o SCRUM, para potencializar os resultados do projeto.
+
+### Aplicação
+
+- Escolhendo duplas de programadores com base na afinidade, no nível de experiência e na complexidade da tarefa a ser realizada. As duplas podem ser formadas por programadores com o mesmo nível de experiência ou por um mais experiente e outro iniciante, dependendo do objetivo do trabalho.
+
+- Definindo um tempo limite para cada sessão de pair programming, que pode variar de algumas horas a um dia inteiro, dependendo da disponibilidade e da preferência dos programadores.
+
+- Estabelecendo regras de comunicação e feedback entre os pares, como respeitar as opiniões alheias, evitar interrupções desnecessárias, elogiar os acertos e sugerir melhorias.
+
+- Utilizando ferramentas que facilitem o trabalho em conjunto, como editores de código colaborativos, plataformas de videoconferência e sistemas de controle de versão.
 
 ## Referências
 
