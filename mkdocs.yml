@@ -28,3 +28,9 @@ nav:
   - Planejamento:
       - Cronograma planejado: planejamento/cronogramaPlanejado.md
       - Ferramentas: planejamento/ferramentas.md    
+  - Politicas:
+      - Metodologias: politicas/metodologias.md
+      - Issues: politicas/issues.md
+      - Pull requests: politicas/pullrequest.md
+      - Commit: politicas/commit.md
+      - Branch: politicas/branch.md
