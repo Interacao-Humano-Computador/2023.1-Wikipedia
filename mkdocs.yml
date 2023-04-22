@@ -27,7 +27,12 @@ nav:
       - 07/04/2023: atas/ata_07_04.md
   - Planejamento:
       - Cronograma planejado: planejamento/cronogramaPlanejado.md
-      - Ferramentas: planejamento/ferramentas.md
-
+      - Ferramentas: planejamento/ferramentas.md    
       - Site escolhido: planejamento/siteEscolhido.md    
       - Sites analisados: planejamento/sitesAnalisados.md
+  - Politicas:
+      - Metodologias: politicas/metodologias.md
+      - Issues: politicas/issues.md
+      - Pull requests: politicas/pullrequest.md
+      - Commit: politicas/commit.md
+      - Branch: politicas/branch.md
