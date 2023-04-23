@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A página home é destinada a apresentação dos colaboradores do grupo DDS da disciplina Interação Humano Computador (IHC) da UnB-FGA.
+A página home é destinada a apresentação dos colaboradores do grupo Wikipédia da disciplina Interação Humano Computador (IHC) da UnB-FGA.
 Nesta página encontram-se os colabores do projeto e os respectivos GitHub de cada um.
 
 ## Colaboradores
