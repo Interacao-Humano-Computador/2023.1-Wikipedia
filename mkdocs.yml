@@ -26,10 +26,14 @@ nav:
       - 01/04/2023: atas/ata_01_04.md  
       - 07/04/2023: atas/ata_07_04.md
   - Planejamento:
-      - Cronograma planejado: planejamento/cronogramaPlanejado.md
-      - Ferramentas: planejamento/ferramentas.md    
-      - Site escolhido: planejamento/siteEscolhido.md    
+      - Cronogramas: 
+        - Planejado: planejamento/cronogramaPlanejado.md
+        - Realizado: planejamento/cronogramaRealizado.md
       - Sites analisados: planejamento/sitesAnalisados.md
+      - Site selecionado:
+        - Sobre a Wikipedia: planejamento/siteEscolhido.md    
+        - Avaliação Heurística: planejamento/avaliacaoHeuristica.md  
+      - Ferramentas: planejamento/ferramentas.md    
   - Politicas:
       - Metodologias: politicas/metodologias.md
       - Issues: politicas/issues.md
