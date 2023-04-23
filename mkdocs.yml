@@ -33,7 +33,8 @@ nav:
       - Site selecionado:
         - Sobre a Wikipedia: planejamento/siteEscolhido.md    
         - Avaliação Heurística: planejamento/avaliacaoHeuristica.md  
-      - Ferramentas: planejamento/ferramentas.md    
+      - Ferramentas: planejamento/ferramentas.md
+      - Disponibildade dos Membros: planejamento/disponibilidade.md   
   - Politicas:
       - Metodologias: politicas/metodologias.md
       - Issues: politicas/issues.md
