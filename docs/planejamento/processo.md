@@ -4,11 +4,9 @@
 
 O processo de design é uma parte importante do desenvolvimento de um projeto de IHC(Interação Humano Computador), consistindo na execução organizada e iterativa de uma atividade de design em busca de conhecimento do problema e construção de solução(intervenção) para esse problema, sendo essas atividades de design dividas em:
 
--**Análise de Contexto** : Consiste no estudo e interpretação da situação atual
-
--**Síntese de Intervenção**: Planejar e executar intervenções(soluções) na situação presente
-
--**Avaliação da Nova situação** : Comparar os efeito que a nova intervenção trouxe comparando-a com a intervenção anterior.
+- **Análise de Contexto** : Consiste no estudo e interpretação da situação atual
+- **Síntese de Intervenção**: Planejar e executar intervenções(soluções) na situação presente
+- **Avaliação da Nova situação** : Comparar os efeito que a nova intervenção trouxe comparando-a com a intervenção anterior.
 
 Essa atividades irão ser repetidas em iterações que refinarão o projeto, até que a proposta de intervenção esteja solucionando satisfatoriamente o problema para projeto de IHC, com essa atividade sistemática visando trazer a eficiência no desenvolvimento e conhecimento do produto e problema do mesmo.
 
@@ -18,12 +16,11 @@ Essa atividades irão ser repetidas em iterações que refinarão o projeto, at�
 
 O Ciclo de Vida Simples na construção de uma sequência genérica de atividades de design, na qual inicia-se o projeto identificando as necessidades e definindo os requisitos do produto, para numa etapa seguinte o design analisar e cria um esboço de como funcionará o sistema, caso seja satisfatório, o mesmo avança para a fase de gerar um protótipo interativo do esboço ou voltar a etapa anterior para adicionar a intervenção caracteristicas que o designer não havia pensado. Para a fase de construção de uma versão interativa, caso a intervenção esteja completada com sucesso ela vai para a etapa de avaliação, caso não ela retorna a etapa anterior que a de (re-)design. Após a avaliação, se a solução desenvolvida atende o necessidades e  o requisitos identificados anteriormente o processo é finalizado e é dado um passo posterior ao processo de design para se desenvolver o sistema interativo. Caso não atenda, ele vai para  etapa de identificar necessidades e requisitos novamente ou a para a parte de (re-)design. Por ser muito simples, esse processo não é muito amigável com pessoas que estão aprendendo a realizar processos de design, por pular partes essenciais do desenvolvimento de design de IHC. Abaixo está uma figura do modelo simples:
 
+
 ![Modelo Simples de Ciclo de Vida](../images/cicloSimples.png)
 
-<divstyle="text-align: center">
-
-    `<p>` Figura 1: Modelo simples do processo de design`</p>`
-
+<div style="text-align: center">
+    <p> Figura 1: Modelo simples do processo de design</p>
 </div>
 
 ### Ciclo de Vida em Estrela
@@ -32,10 +29,8 @@ O Ciclo de Vida em Estrela, cabe ao designer em qual parte, como demonstrada por
 
 ![Ciclo de Vida em Estrela](../images/cicloEstrela.png)
 
-<divstyle="text-align: center">
-
-    `<p>` Figura 2 : Modelo de Ciclo de Vida em Estrela`</p>`
-
+<div style="text-align: center">
+    <p> Figura 2 : Modelo de Ciclo de Vida em Estrela</p>
 </div>
 
 ### Engenharia de Usabilidade de Mayhew
@@ -54,12 +49,11 @@ Essa fase consiste em três níves os quais definirão o andamento do projeto, n
 
 Na última fase, a de instalação, é realizada uma coleta de dados com base na opinião do usuário com base no uso do sistema, utilizando-se dessas informações para realizar melhorias quanto ao sistema ou planejar o desenvolvimento de novos sistemas que não foram catálogados anteriomente, por esta em uma fase muito cedo do projeto.
 
+
 ![Ciclo de Vida Mayhew](../images/cicloMayhew.png)
 
-<divstyle="text-align: center">
-
+<div style="text-align: center">
 <p>Figura 3: Modelo de Ciclo de Vida com uso engenharia da usabilidade(adaptado de Mayhew,1999)</p>
-
 </div>
 
 ### Engenharia de Usabilidade de Nielsen
@@ -67,33 +61,20 @@ Na última fase, a de instalação, é realizada uma coleta de dados com base na
 A engenharia de Usabilidade de Nielsen consiste no uso de conjunto de atividades para definir uma especie de passo a passo para o ciclo de vida de um produto/design, tais atividades e sub-atividades continham instruções do que se realizar para um bom ciclo de vida e solucionar problemas, sendo as atividades:
 
 | Número | Atividade                                           |
-
 | :-----: | --------------------------------------------------- |
-
 |    1    | Conheça seu usuário                               |
-
 |    2    | Realize uma análise competitiva                    |
-
 |    3    | Defina as metas de usabilidade                      |
-
 |    4    | Faça designs paralelos                             |
-
 |    5    | Adote o design participativo                        |
-
 |    6    | Faça o design coordenado da interface como um todo |
-
 |    7    | Aplique diretrizes e análise heurística           |
-
 |    8    | Faça protótipos                                   |
-
 |    9    | Realize testes empíricos                           |
-
 |   10   | Pratique design iterativo                           |
 
-<divstyle="text-align: center">
-
-    `<p>` Tabela 1: Conjunto de Atividades de Nielsen.`</p>`
-
+<div style="text-align: center">
+    <p> Tabela 1: Conjunto de Atividades de Nielsen.</p>
 </div>
 
 ## Ciclo de Vida Escolhido
@@ -103,13 +84,10 @@ Baseando na escolha de grupo e nas atividades desenvolvidas até o momento pelo 
 ## Bibliografia
 
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
-
 Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em 23 de Abril de 2023.
 
 ## Histórico de Versão
 
 | Versão | Data       | Descrição                          | Autor(es) | Revisor(es) |
-
 | ------- | ---------- | ------------------------------------ | --------- | ----------- |
-
 | 1.0     | 23/04/2023 | Documentação do Processo de Design | Gabriel   | Ana Luiza   |
