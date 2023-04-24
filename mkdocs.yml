@@ -35,6 +35,7 @@ nav:
         - Avaliação Heurística: planejamento/avaliacaoHeuristica.md  
       - Ferramentas: planejamento/ferramentas.md
       - Disponibildade dos Membros: planejamento/disponibilidade.md   
+      - Processo de Design: planejamento/processo.md
   - Politicas:
       - Metodologias: politicas/metodologias.md
       - Issues: politicas/issues.md
