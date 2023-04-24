@@ -47,7 +47,7 @@ Essa fase consiste em três níves os quais definirão o andamento do projeto, n
 
 #### **Instalação**
 
-Na última fase, a de instalação, é realizada uma coleta de dados com base na opinião do usuário durante o tempo em que se se usou o sistema, utilizando-se dessas informações para realizar melhorias quanto ao sistema ou planejar o desenvolvimento de novos sistemas interativos que não foram catálogados anteriomente, por esta em uma fase muito cedo do projeto. Dessa maneira encerra-se o ciclo de vida de Mayhew.
+Na última fase, a de instalação, é realizada uma coleta de dados com base na opinião do usuário durante o tempo em que se usou o sistema, utilizando-se dessas informações para realizar melhorias quanto ao sistema ou planejar o desenvolvimento de novos sistemas interativos que não foram catálogados anteriomente, por esta em uma fase muito cedo do projeto. Dessa maneira encerra-se o ciclo de vida de Mayhew.
 
 
 ![Ciclo de Vida Mayhew](../images/cicloMayhew.png)
