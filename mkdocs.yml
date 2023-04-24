@@ -34,6 +34,7 @@ nav:
         - Sobre a Wikipedia: planejamento/siteEscolhido.md    
         - Avaliação Heurística: planejamento/avaliacaoHeuristica.md  
       - Ferramentas: planejamento/ferramentas.md    
+      - Processo de Design: planjamento/processo.md
   - Politicas:
       - Metodologias: politicas/metodologias.md
       - Issues: politicas/issues.md
