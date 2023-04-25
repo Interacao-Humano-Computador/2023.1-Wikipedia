@@ -10,10 +10,20 @@ theme:
   language: pt-BR
   favicon: images/wikipedia.png
 
-  palette: 
+  palette:
     - scheme: default
-      primary: black
-      accent: blue
+      primary: grey
+      accent: light blue
+      toggle:
+        icon: material/weather-night
+        name: Trocar para o modo escuro
+
+    - scheme: slate
+      primary: grey
+      accent: light blue
+      toggle:
+        icon: material/weather-sunny
+        name: Trocar para o modo claro
   
   icon:
     repo: fontawesome/brands/github
@@ -43,3 +53,5 @@ nav:
       - Pull requests: politicas/pullrequest.md
       - Commit: politicas/commit.md
       - Branch: politicas/branch.md
+  - Apresentaçoes:
+      - Apresentação 1: apresentacoes/apresentacao1.md
