@@ -37,6 +37,10 @@ O site [Pichau](https://www.pichau.com.br/) é uma loja online de computadores e
 
 [Avaliação do site SINTEGRA](../pdfs/avaliacaoSintegra.pdf)
 
+## Wikipedia
+
+A [Wikipedia](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal) é uma enciclopédia online gratuita e colaborativa que contém milhões de artigos escritos em diferentes idiomas sobre uma ampla variedade de tópicos. Os artigos são escritos por voluntários de todo o mundo e são editáveis por qualquer pessoa que tenha acesso à internet. No entanto, a wikipédia apresenta alguns problemas de interface que podem dificultar a navegação e a compreensão de certos conteúdos, como excesso de informações, dificuldades em encontrar o caminho em meio a uma grande quantidade de dados e problemas de usabilidade em algumas funcionalidades.
+
 ## Bibliografia
 
 CENTRAL EXPRESSO. Central Expresso. Disponível em: [https://centralexpresso.com/](https://centralexpresso.com/). Acesso em: 20 abr. 2023.
