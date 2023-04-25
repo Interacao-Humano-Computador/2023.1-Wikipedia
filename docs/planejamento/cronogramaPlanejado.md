@@ -158,6 +158,14 @@ Tabela 10 - Cronograma da entrega 8.
 
 Tabela 11 - Cronograma da entrega 9.
 
+## Bibliografia
+
+[1] Cronograma Simples Nacional. Disponível em: https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Planejamento/Roadmap/. Acesso em 10 de abril de 2023.
+
+[2] Cronograma Simples Nacional. Disponível em: https://interacao-humano-computador.github.io/2022.2-Lichess/planejamento/cronograma/. Acesso em 10 de abril de 2023.
+
+[3] Cronograma Simples Nacional. Disponível em: https://interacao-humano-computador.github.io/2022.2-Skoob/planejamento/cronograma/. Acesso em 10 de abril de 2023.
+
 ## Histórico de Versão
 
 | Versão | Data       | Descrição                          | Autor(es) | Revisor(es) |
