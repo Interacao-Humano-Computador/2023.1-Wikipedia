@@ -1,5 +1,9 @@
 # Cronograma Realizado
 
+## Introdução
+
+Bem-vindo à página do Cronograma Realizado do projeto de IHC. Aqui você encontrará o que já foi realizado no desenvolvimento do projeto. Esse cronograma é resultado do trabalho e debate dos membros da equipe, visando obter a máxima eficiência, eficácia e qualidade do projeto. Todas as datas cumpridas são de extrema importância para garantir um desenvolvimento do projeto sem contratempos.
+
 ## Entrega 1 - Planejamento
 
 |                       Tarefa                       |          Autor(es)          | Período de desenvolvimento | Revisor(es) | Período de revisão |

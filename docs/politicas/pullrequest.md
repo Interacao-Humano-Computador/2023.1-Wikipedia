@@ -1,5 +1,9 @@
 # Politica de Pull Request
 
+## Introdução
+
+Pull request é um recurso utilizado em plataformas de controle de versão, como o GitHub, para permitir que os desenvolvedores colaborem em um mesmo projeto de forma mais eficiente. Basicamente, um pull request é uma solicitação feita por um desenvolvedor para que suas alterações sejam mescladas com o código base do projeto.
+
 ## Criação
 
 O primeiro passo para a criação do pull request é ir no github e clicar na aba de pull request.

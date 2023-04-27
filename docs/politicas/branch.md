@@ -1,5 +1,9 @@
 # Politica de Branch
 
+## Introdução
+
+Branch é um termo utilizado em gerenciamento de versões de software para se referir a uma linha de desenvolvimento independente dentro de um repositório de controle de versão. Basicamente, um branch é uma cópia do código fonte do projeto em um determinado momento, que pode ser modificada sem afetar o código fonte principal.
+
 ## Criação
 
 Para uma nova branch ser criada, deve-se seguir os seguintes passos:

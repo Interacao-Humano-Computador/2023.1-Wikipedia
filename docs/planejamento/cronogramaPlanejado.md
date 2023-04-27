@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Bem-vindo à página do Cronograma Planejado do projeto. Nesta página se encontra o que estamos planejando realizar no desenvolvimento do projeto de IHC. Esse cronograma é um resultado de debate e esforço dos integrantes para ajudar a trazer ao projeto sua máxima eficiência e eficácia, além de uma melhor qualidade de projeto. Toda data aqui planejada tem grande importância para o desenvolvimento fluído e sem complicações do projeto
+Bem-vindo à página do Cronograma Planejado do projeto. Nesta página se encontra o que estamos planejando realizar no desenvolvimento do projeto de IHC. Esse cronograma é um resultado de debate e esforço dos integrantes para ajudar a trazer ao projeto sua máxima eficiência e eficácia, além de uma melhor qualidade de projeto. Toda data aqui planejada tem grande importância para o desenvolvimento fluído e sem complicações do projeto.
 
 ---
 

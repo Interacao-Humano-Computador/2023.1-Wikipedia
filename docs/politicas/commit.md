@@ -1,5 +1,9 @@
 # Politica de commit
 
+## Introdução
+
+Commit é um termo utilizado em gerenciamento de versões de software para se referir à ação de salvar uma alteração em um repositório de controle de versão. Basicamente, um commit representa uma alteração específica feita em um arquivo ou conjunto de arquivos, com um registro preciso do que foi alterado e quando isso foi feito. 
+
 ## Criação
 Para um novo commit ser feito, deve-se seguir os seguintes passos:
 

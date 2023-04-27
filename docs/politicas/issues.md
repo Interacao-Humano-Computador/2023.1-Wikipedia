@@ -1,5 +1,9 @@
 # Politica de Issues
 
+## Introdução
+
+Issue é um termo utilizado em gerenciamento de projetos e desenvolvimento de software para se referir a um problema, tarefa, sugestão ou ideia que precisa ser resolvida ou implementada. Esses issues podem ser identificados por qualquer membro da equipe ou pelo cliente, e são registrados em uma plataforma de gerenciamento de projetos, como o GitHub ou Jira.
+
 ## Criação
 
 O primeiro passo para a criação de uma issue, é ir no github e na aba de issues.

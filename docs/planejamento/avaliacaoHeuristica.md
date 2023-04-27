@@ -1,5 +1,9 @@
 # Site escolhido para o projeto da disciplina
 
+## Introdução
+
+DECIDE é um framework para apoio à tomada de decisão em design de interfaces de usuário. Ele fornece uma estrutura sistemática para avaliar a usabilidade de um sistema interativo, considerando aspectos como eficácia, eficiência e satisfação do usuário. Uma das técnicas de avaliação recomendadas pelo DECIDE é a avaliação heurística, que envolve a análise sistemática da interface por especialistas em usabilidade, identificando problemas de usabilidade com base em um conjunto de princípios heurísticos.
+
 ## Framework DECIDE
 
 Esta avaliação é baseada no Framework DECIDE que é dividido em 6 etapas. O site escolhido para ser avaliado é a Wikipedia (https://pt.wikipedia.org/). Se trata de uma enciclopédia online colaborativa e gratuita com milhões de artigos em diversos idiomas e tópicos, mantida pela Fundação Wikimedia. Os artigos são escritos em um estilo claro e conciso, com links para outras fontes e artigos relacionados. A Wikipedia é organizada em seções e permite que os usuários criem e editem conteúdo de forma colaborativa. É um recurso útil para qualquer pessoa que queira aprender algo novo ou expandir seus conhecimentos em um determinado assunto.
