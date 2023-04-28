@@ -17,11 +17,11 @@ A primeira etapa é determinar os objetivos gerais da avaliação. Os objetivos 
 
 A segunda etapa envolve explorar perguntas a serem respondidas, ou seja, questões que a avaliação pretende responder como, por exemplo:
 
-1. Quais são os possíveis problemas de usabilidade e acessibilidade do site da Wikipedia que podem afetar a navegação ou a legibilidade para os usuários? 
+1. Quais são os possíveis problemas de usabilidade e acessibilidade do site da Wikipedia que podem afetar a navegação ou a legibilidade para os usuários?
 2. De que forma o design e a apresentação do conteúdo da Wikipedia poderiam ser melhorados para torná-los mais atraentes e apresentáveis aos usuários?
-3. O site é fácil de usar? 
-4. A pesquisa no site oferece resultados precisos? 
-5. O site é responsivo? 
+3. O site é fácil de usar?
+4. A pesquisa no site oferece resultados precisos?
+5. O site é responsivo?
 6. O site é acessível para diferentes usuários?
 
 A terceira etapa inclui escolher o método de avaliação que será utilizado. Como o objetivo é basicamente avaliar a usabilidade do site, o método escolhido foi a avaliação heurística que é uma abordagem que envolve a análise da interface com base em princípios heurísticos estabelecidos, como a consistência e feedback do sistema. Essa abordagem é mais adequada para avaliar a usabilidade geral da interface, identificar problemas de design e fornecer recomendações para melhorias.
@@ -37,7 +37,7 @@ A quarta etapa se refere a questões práticas abordadas pela avaliação. No ca
 
 A quinta etapa é para decidir como lidar com questões éticas. Avaliações envolvem usuários, participantes que serão observados e terão suas ações avaliadas. Por isso, na etapa decidir como lidar com questões éticas, faz-se necessário considerar questões relacionadas à privacidade dos participantes. É recomendada a total privacidade dos participantes, principalmente na divulgação dos resultados, de modo que os dados coletados não possam identificar o participante, evitando constrangimento e problemas relacionados aos registros coletados. Por tanto é necessário obter consentimento dos usuários para participar da avaliação e garantir sigilo dos dados coletados.
 
-A última etapa se refere a avaliar, interpretar e apresentar os dados obtidos. O objetivo é coletar os dados, analisar e apresenta-los da melhor forma, ficando atento as perguntas feitas na segunda etapa e no método escolhido na terceira etapa. 
+A última etapa se refere a avaliar, interpretar e apresentar os dados obtidos. O objetivo é coletar os dados, analisar e apresenta-los da melhor forma, ficando atento as perguntas feitas na segunda etapa e no método escolhido na terceira etapa.
 
 Em conclusão, a avaliação da Wikipedia com DECIDE identificou objetivos, perguntas e um método adequado. Foram definidos objetivos para identificar problemas de usabilidade e acessibilidade, avaliar a experiência do usuário e escolher a avaliação heurística. Considerações éticas foram apresentadas e as recomendações para melhorar a usabilidade e acessibilidade serão fornecidas com base na avaliação dos dados coletados.
 
@@ -51,14 +51,14 @@ Não foram identificados problemas em relação a esse aspecto, uma vez que o si
 
 A Wikipedia não atende corretamente a esta heurística em alguns casos, como na nomenclatura de alguns termos específicos, que podem não ser facilmente compreendidos por usuários iniciantes ou que não estejam familiarizados com os termos técnicos, como pode ser observado na Figura 1. Além disso, algumas interfaces podem não ser intuitivas o suficiente para o usuário, o que pode levar a confusão e erros de navegação.
 
-<img src="../../images/avaliacaoHeuristica/compatibilidade_do_sistema.png">
+<img src="../../images/avaliacaoHeuristica/heuristica1.jpeg">
 <div style="text-align: center">
     <p> Figura 1: Compatibilidade do sistema com o mundo real, versão 1. (Fonte: Autores. 2023).</p>
 </div>
 
 ### 3. Controle do usuário e liberdade
 
-Não foram identificados problemas em relação a esse aspecto, uma vez que o site fornece funções disponíveis que possibilitam saídas de funções indesejadas. O menu lateral está presente a todo momento garantindo uma boa navegabilidade. 
+Não foram identificados problemas em relação a esse aspecto, uma vez que o site fornece funções disponíveis que possibilitam saídas de funções indesejadas. O menu lateral está presente a todo momento garantindo uma boa navegabilidade.
 
 ### 4. Consistência e padrões
 
@@ -71,7 +71,7 @@ Foram encontrados problemas nessa heurística, pois o site não oferece um padr�
 
 Abaixo na Figura 3 está a avaliação dessa heurística:
 
-<img src="../../images/avaliacaoHeuristica/4.jpeg">
+<img src="../../images/avaliacaoHeuristica/heuristica2.jpeg">
 <div style="text-align: center">
     <p> Figura 3: Consistência e padrões, versão 1. (Fonte: Autores. 2023).</p>
 </div>
@@ -97,15 +97,16 @@ A Wikipedia atende à heurística Flexibilidade e eficiência de uso de Nielsen 
 
 ### 8. Estética e design minimalista
 
-A página "Páginas vigiadas" da Wikipedia não atende adequadamente a essa heurística, uma vez que a página é confusa visualmente e pode ser considerada poluída em termos de design, como mostrado na Figura 5. A interface contém muitos elementos diferentes, como caixas de seleção, botões e diversos menus, o que pode sobrecarregar a página e dificultar a navegação. No geral, a página "Páginas vigiadas" pode ser melhorada visualmente para torná-la mais esteticamente agradável e mais fácil de usar como é possível observar na imagem abaixo: 
+A página "Páginas vigiadas" da Wikipedia não atende adequadamente a essa heurística, uma vez que a página é confusa visualmente e pode ser considerada poluída em termos de design, como mostrado na Figura 5. A interface contém muitos elementos diferentes, como caixas de seleção, botões e diversos menus, o que pode sobrecarregar a página e dificultar a navegação. No geral, a página "Páginas vigiadas" pode ser melhorada visualmente para torná-la mais esteticamente agradável e mais fácil de usar como é possível observar na imagem abaixo:
 
-<img src="../../images/avaliacaoHeuristica/estetica_e_design_minimalista.png">
+<img src="../../images/avaliacaoHeuristica/heuristica3.jpeg">
 <div style="text-align: center">
     <p> Figura 5: Exemplo de tela fora que não atende a heurística, versão 1. (Fonte: Autores. 2023).</p>
 </div>
 
 Segue a avaliação heurística dessa tela na Figura 6:
-<img src="../../images/avaliacaoHeuristica/estetica_e_design_minimalista_heuristica.png">
+`<img src="../../images/avaliacaoHeuristica/estetica_e_design_minimalista_heuristica.png">`
+
 <div style="text-align: center">
     <p> Figura 6: Estética e design minimalista, versão 1. (Fonte: Autores. 2023).</p>
 </div>
@@ -121,7 +122,7 @@ A tela de edição de páginas vigiadas na Wikipedia apresenta falhas na heurís
 
 Segue a avaliação heurística dessa tela na Figura 8:
 
-<img src="../../images/avaliacaoHeuristica/ajuda_aos_usuarios_no_reconhecimento_e_diagnostico_e_correcao_de_erros_heuristica.png">
+<img src="../../images/avaliacaoHeuristica/heuristica4.jpeg">
 <div style="text-align: center">
     <p> Figura 8: Ajuda aos usuários no reconhecimento e diagnóstico e correção de erros, versão 1. (Fonte: Autores. 2023).</p>
 </div>
@@ -135,8 +136,9 @@ A Wikipedia atende corretamente à heurística Ajuda e Documentação de Nielsen
     <p> Figura 9: Ajuda e documentação, versão 1. (Fonte: Autores. 2023).</p>
 </div>
 
-| Versão | Data       | Descrição                            | Autor(es) | Revisor(es)    |
-| ------- | ---------- | -------------------------------------- | --------- | -------------- |
-| 1.0     | 07/04/2023 | Criação do Documento             | Lucas  | Gabriel            |
-| 1.1     | 07/04/2023 | Heuristica 4, 5 e 6             | Lucas  | Gabriel            |
-| 1.3     | 22/04/2023 | Criação do texto do decide e as heurísticas que faltavam            | Lucas, Pedro, Ana e Chaydson  | Gabriel            |
+| Versão | Data       | Descrição                                                 | Autor(es)                    | Revisor(es) |
+| ------- | ---------- | ----------------------------------------------------------- | ---------------------------- | ----------- |
+| 1.0     | 07/04/2023 | Criação do Documento                                      | Lucas                        | Gabriel     |
+| 1.1     | 07/04/2023 | Heuristica 4, 5 e 6                                         | Lucas                        | Gabriel     |
+| 1.3     | 22/04/2023 | Criação do texto do decide e as heurísticas que faltavam | Lucas, Pedro, Ana e Chaydson | Gabriel     |
+| 1.4     | 28/04/2023 | Padronizando imagens da avaliação heurística             | Lucas                        | Grupo       |
