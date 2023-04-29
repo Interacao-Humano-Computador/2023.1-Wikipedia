@@ -12,7 +12,7 @@ Assim sendo, foram utilizadas para criar o heatmap, um padrão 0 a 6, consideran
 
 ## Tabela de Disponibilidade
 
-<iframe width="1250px" height="350px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQrLWWkcJGJOv-Ews2B3V1Aabnkz0WwaZ0UzpZ3-GS2qahl9SbZYwWfiefI8WeoAO2QmanwSy39RH9s/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width="1250px" height="350px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQrLWWkcJGJOv-Ews2B3V1Aabnkz0WwaZ0UzpZ3-GS2qahl9SbZYwWfiefI8WeoAO2QmanwSy39RH9s/pubhtml?widget=true&headers=false"></iframe>
 
 <div style="text-align: center">
 <p> Tabela 1: Disponibilidade dos membros (Fonte: Autor, 2023). </p>
@@ -26,11 +26,9 @@ QLIK SENSE. Heatmap chart. Disponível em: https://help.qlik.com/pt-BR/sense/Feb
 
 UNIVERSIDADE DE BRASÍLIA. Cepe/UnB 128/2021. Disponível em: https://saa.unb.br/destaques/134-cepe-unb-128-2021. Acesso em: 23 abr. 2023.
 
-
-
 ## Histórico de Versão
 
 | Versão | Data       | Descrição          | Autor(es) | Revisor(es) |
 | ------- | ---------- | -------------------- | --------- | ----------- |
-| 1.0     | 23/04/2023 | Criação da Página | Gabriel   | Chaydson      |
-| 1.1     | 29/04/2023 | Aplicando feedbacks | Chaydson   |       |
+| 1.0     | 23/04/2023 | Criação da Página | Gabriel   | Chaydson    |
+| 1.1     | 29/04/2023 | Aplicando feedbacks  | Chaydson  | Pedro       |

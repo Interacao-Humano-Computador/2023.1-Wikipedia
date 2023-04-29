@@ -51,4 +51,4 @@ DINAMIZE. Scrum – O que é, suas etapas e como funciona na prática. Disponív
 | ------- | ---------- | ------------------------ | --------- | ----------- |
 | 1.0     | 21/04/2023 | Criação do documento   | Lucas     | Chaydson    |
 | 1.1     | 28/04/2023 | Mudando Pair programming | Lucas     | Grupo       |
-| 1.2     | 29/04/2023 | Aplicando feedbacks | Chaydson     |        |
+| 1.2     | 29/04/2023 | Aplicando feedbacks | Chaydson     |   Pedro     |

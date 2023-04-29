@@ -12,7 +12,6 @@ Bem-vindo à página de sites analisados! Aqui você encontrará uma lista de to
 
 O [site do DER-SP](http://www.der.sp.gov.br/WebSite/Index.aspx "Link para o site do DER-SP") é uma plataforma online que oferece informações e recursos para os usuários das rodovias do estado de São Paulo. Por meio do site, é possível acessar informações sobre as condições das estradas, tarifas de pedágio, leis de trânsito e serviços online, como a consulta de multas e a emissão de documentos. Embora o site ofereça uma ampla gama de recursos, ele apresenta alguns problemas de usabilidade, como falta de organização, um menu com muitos itens, informações repetidas e disposição inadequada do texto nos botões.
 
-
 [Avaliação do site DER-SP](../pdfs/avaliacaodersp.pdf)
 
 ## Diretoria de Desenvolvimento Social (DDS)
@@ -62,4 +61,4 @@ WIKIPÉDIA. Sobre a Wikipédia. Disponível em: [https://pt.wikipedia.org/wiki/W
 | Versão | Data       | Descrição            | Autor(es) | Revisor(es) |
 | ------- | ---------- | ---------------------- | --------- | ----------- |
 | 1.0     | 20/04/2023 | Criação do documento | Samuel    | Chaydson    |
-| 1.1     | 29/04/2023 | Aplicando feedbacks | Chaydson    |     |
+| 1.1     | 29/04/2023 | Aplicando feedbacks    | Chaydson  | Pedro       |
