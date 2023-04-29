@@ -47,7 +47,7 @@ Abaixo, segue uma imagem dos Termos de Uso da Wikipedia, que devem ser lidos e c
 
 Figura 3. Termo de Uso (Fonte: captura de tela realizada em 21 de abril de 2023).
 
-## Bibliografia
+## Referência Bibliográfica
 
 WIKIPÉDIA. Sobre a Wikipédia. Disponível em: [https://pt.wikipedia.org/wiki/Wikipédia:Sobre_a_Wikipédia](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Sobre_a_Wikip%C3%A9dia). Acesso em: 20 abr. 2023.
 
@@ -61,3 +61,4 @@ Termos e condições de uso - Wikimedia Foundation Governance Wiki. Disponível 
 | ------- | ---------- | ------------------------ | --------- | ----------- |
 | 1.0     | 20/04/2023 | Criação do documento   | Samuel    | Chaydson    |
 | 1.1     | 21/04/2023 | Adicionando termo de uso | Pedro     | Gabriel     |
+| 1.2     | 29/04/2023 | Aplicando feedbacks | Chaydson     |      |

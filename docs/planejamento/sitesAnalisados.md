@@ -41,7 +41,7 @@ O site [Pichau](https://www.pichau.com.br/) é uma loja online de computadores e
 
 A [Wikipedia](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal) é uma enciclopédia online gratuita e colaborativa que contém milhões de artigos escritos em diferentes idiomas sobre uma ampla variedade de tópicos. Os artigos são escritos por voluntários de todo o mundo e são editáveis por qualquer pessoa que tenha acesso à internet. No entanto, a wikipédia apresenta alguns problemas de interface que podem dificultar a navegação e a compreensão de certos conteúdos, como excesso de informações, dificuldades em encontrar o caminho em meio a uma grande quantidade de dados e problemas de usabilidade em algumas funcionalidades.
 
-## Bibliografia
+## Referência Bibliográfica
 
 CENTRAL EXPRESSO. Central Expresso. Disponível em: [https://centralexpresso.com/](https://centralexpresso.com/). Acesso em: 20 abr. 2023.
 
@@ -49,9 +49,9 @@ DEPARTAMENTO DE ESTRADAS DE RODAGEM (DER). Site do DER-SP. Disponível em: [http
 
 DIRETORIA DE DESENVOLVIMENTO SOCIAL (DDS). Site da DDS. Disponível em: [https://dds.dac.unb.br/](https://dds.dac.unb.br/). Acesso em: 20 abr. 2023.
 
-SENADO FEDERAL. Site do Senado Federal. Disponível em: [https://www12.senado.leg.br/hpsenado](https://www12.senado.leg.br/hpsenado). Acesso em: 20 abr. 2023.
+MANGA LIVRE. Site do Manga Livre. Disponível em: [https://mangalivre.net/](https://mangalivre.net/). Acesso em: 20 abr. 2023.
 
-SIMCAST. Simcast. Disponível em: [https://simcast.com/](https://simcast.com/). Acesso em: 20 abr. 2023.
+PICHAU. Site da Pichau. Disponível em: [https://www.pichau.com.br/](https://www.pichau.com.br/). Acesso em: 20 abr. 2023.
 
 SINTEGRA. Sintegra - Sistema Integrado de Informações sobre Operações Interestaduais com Mercadorias e Serviços. Disponível em: [http://www.sintegra.gov.br/](http://www.sintegra.gov.br/). Acesso em: 20 abr. 2023.
 
@@ -62,3 +62,4 @@ WIKIPÉDIA. Sobre a Wikipédia. Disponível em: [https://pt.wikipedia.org/wiki/W
 | Versão | Data       | Descrição            | Autor(es) | Revisor(es) |
 | ------- | ---------- | ---------------------- | --------- | ----------- |
 | 1.0     | 20/04/2023 | Criação do documento | Samuel    | Chaydson    |
+| 1.1     | 29/04/2023 | Aplicando feedbacks | Chaydson    |     |

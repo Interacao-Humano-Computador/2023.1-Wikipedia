@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O processo de design é uma parte importante do desenvolvimento de um projeto de IHC(Interação Humano Computador), consistindo na execução organizada e iterativa de uma atividade de design em busca de conhecimento do problema e construção de solução(intervenção) para esse problema, sendo essas atividades de design dividas em:
+O processo de design é uma parte importante do desenvolvimento de um projeto de IHC (Interação Humano Computador), consistindo na execução organizada e iterativa de uma atividade de design em busca de conhecimento do problema e construção de solução(intervenção) para esse problema, sendo essas atividades de design dividas em:
 
 - **Análise de Contexto** : Consiste no estudo e interpretação da situação atual
 - **Síntese de Intervenção**: Planejar e executar intervenções(soluções) na situação presente
@@ -14,7 +14,7 @@ Essas atividades irão ser repetidas em iterações que refinarão o projeto, at
 
 ### Ciclo de Vida Simples
 
-O Ciclo de Vida Simples é a construção de uma sequência genérica de atividades de design, na qual inicia-se o projeto identificando as necessidades e definindo os requisitos do produto para numa etapa seguinte o designer analisar e criar um esboço de como funcionará o sistema, caso seja satisfatório, o mesmo avança para a fase de gerar um protótipo interativo do esboço ou voltar a etapa anterior para adicionar a intervenção,pensando em caracteristicas que o designer não havia pensado anteriormente. Para a fase de construção de uma versão interativa, caso a intervenção esteja completada com sucesso ela vai para a etapa de avaliação, caso não, ela retorna a etapa anterior que é a de (re-)design. Após a avaliação, se a solução desenvolvida atende a necessidades e os requisitos identificados anteriormente o processo é finalizado e é dado um passo posterior ao processo de design para se desenvolver o sistema interativo. Caso não atenda, ele vai para  etapa de identificar necessidades e requisitos novamente ou a para a parte de (re-)design. Por ser muito simples, esse processo não é muito amigável com pessoas que estão aprendendo a realizar processos de design, por pular partes essenciais do desenvolvimento de design de IHC, fazendo com que pessoas que não conheçam o processo acabem por gerar artefatos essenciais ao processo de design. Abaixo está uma figura do modelo simples:
+O Ciclo de Vida Simples é a construção de uma sequência genérica de atividades de design, na qual inicia-se o projeto identificando as necessidades e definindo os requisitos do produto para numa etapa seguinte o designer analisar e criar um esboço de como funcionará o sistema, caso seja satisfatório, o mesmo avança para a fase de gerar um protótipo interativo do esboço ou voltar a etapa anterior para adicionar a intervenção, pensando em caracteristicas que o designer não havia pensado anteriormente. Para a fase de construção de uma versão interativa, caso a intervenção esteja completada com sucesso ela vai para a etapa de avaliação, caso não, ela retorna a etapa anterior que é a de (re-)design. Após a avaliação, se a solução desenvolvida atende a necessidades e os requisitos identificados anteriormente o processo é finalizado e é dado um passo posterior ao processo de design para se desenvolver o sistema interativo. Caso não atenda, ele vai para  etapa de identificar necessidades e requisitos novamente ou a para a parte de (re-)design. Por ser muito simples, esse processo não é muito amigável com pessoas que estão aprendendo a realizar processos de design, por pular partes essenciais do desenvolvimento de design de IHC, fazendo com que pessoas que não conheçam o processo acabem por gerar artefatos essenciais ao processo de design. Abaixo está uma figura do modelo simples:
 
 
 ![Modelo Simples de Ciclo de Vida](../images/cicloSimples.png)
@@ -91,3 +91,4 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 | Versão | Data       | Descrição                          | Autor(es) | Revisor(es) |
 | ------- | ---------- | ------------------------------------ | --------- | ----------- |
 | 1.0     | 23/04/2023 | Documentação do Processo de Design | Gabriel   | Ana Luiza   |
+| 1.1     | 29/04/2023 | Correção de erros de digitação | Chaydson   |   |
