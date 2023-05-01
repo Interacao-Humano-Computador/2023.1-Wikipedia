@@ -56,14 +56,14 @@ Tabela 2 - Cronograma da entrega 1.
 
 ## Entrega 2 - Perfil do usuário
 
-|                      Tarefa                      |     Autor(es)     | Período de desenvolvimento |  Revisor(es)  | Período de revisão |
-| :----------------------------------------------: | :---------------: | :-------------------------: | :-----------: | :------------------: |
-|                Perfil do usuário                |      Gabriel      |        24/04 - 28/04        |   Chaydson   |    06/05 - 07/05    |
-| Aspectos éticos de pesquisas envolvendo pessoas |        Ana        |        24/04 - 05/05        |     Pedro     |    06/05 - 07/05    |
-|                     Personas                     |   Lucas / Pedro   |        24/04 - 05/05        | Gabriel / Ana |    06/05 - 07/05    |
-|               Análise de tarefas               | Chaydson / Samuel |        24/04 - 05/05        |     Lucas     |    06/05 - 07/05    |
-|           Gravação da apresentação           |       Grupo       |        24/04 - 05/05        |     Grupo     |    06/05 - 07/05    |
-|                  Finalização                  |       Grupo       |        24/04 - 05/05        |     Grupo     |    06/05 - 07/05    |
+|                      Tarefa                      |       Autor(es)       | Período de desenvolvimento |  Revisor(es)  | Período de revisão |
+| :----------------------------------------------: | :--------------------: | :-------------------------: | :-----------: | :------------------: |
+|                Perfil do usuário                |        Gabriel        |        24/04 - 28/04        |   Chaydson   |    06/05 - 07/05    |
+| Aspectos éticos de pesquisas envolvendo pessoas |          Ana          |        24/04 - 05/05        |     Pedro     |    06/05 - 07/05    |
+|                     Personas                     | Lucas / Pedro / Samuel |        24/04 - 05/05        | Gabriel / Ana |    06/05 - 07/05    |
+|               Análise de tarefas               |   Chaydson / Samuel   |        24/04 - 05/05        |     Lucas     |    06/05 - 07/05    |
+|           Gravação da apresentação           |         Grupo         |        24/04 - 05/05        |     Grupo     |    06/05 - 07/05    |
+|                  Finalização                  |         Grupo         |        24/04 - 05/05        |     Grupo     |    06/05 - 07/05    |
 
 Tabela 3 - Cronograma da entrega 2.
 
