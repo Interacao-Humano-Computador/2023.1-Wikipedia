@@ -6,6 +6,8 @@ Bem-vindo à página do Cronograma Realizado do projeto de IHC. Aqui você encon
 
 ## Entrega 1 - Planejamento
 
+Na tabela 1 encontra-se o cronograma realizado da entrega 1
+
 |                       Tarefa                       |          Autor(es)          | Período de desenvolvimento | Revisor(es) | Período de revisão |
 | :-------------------------------------------------: | :--------------------------: | :-------------------------: | :---------: | :------------------: |
 |             Criação da documentação             |            Lucas            |        01/04 - 01/04        |   Gabriel   |    22/04 - 23/04    |

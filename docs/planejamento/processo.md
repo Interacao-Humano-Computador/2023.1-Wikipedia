@@ -14,7 +14,7 @@ Essas atividades irão ser repetidas em iterações que refinarão o projeto, at
 
 ### Ciclo de Vida Simples
 
-O Ciclo de Vida Simples é a construção de uma sequência genérica de atividades de design, na qual inicia-se o projeto identificando as necessidades e definindo os requisitos do produto para numa etapa seguinte o designer analisar e criar um esboço de como funcionará o sistema, caso seja satisfatório, o mesmo avança para a fase de gerar um protótipo interativo do esboço ou voltar a etapa anterior para adicionar a intervenção,pensando em caracteristicas que o designer não havia pensado anteriormente. Para a fase de construção de uma versão interativa, caso a intervenção esteja completada com sucesso ela vai para a etapa de avaliação, caso não, ela retorna a etapa anterior que é a de (re-)design. Após a avaliação, se a solução desenvolvida atende a necessidades e os requisitos identificados anteriormente o processo é finalizado e é dado um passo posterior ao processo de design para se desenvolver o sistema interativo. Caso não atenda, ele vai para  etapa de identificar necessidades e requisitos novamente ou a para a parte de (re-)design. Por ser muito simples, esse processo não é muito amigável com pessoas que estão aprendendo a realizar processos de design, por pular partes essenciais do desenvolvimento de design de IHC, fazendo com que pessoas que não conheçam o processo acabem por gerar artefatos essenciais ao processo de design. Abaixo está uma figura do modelo simples:
+O Ciclo de Vida Simples é a construção de uma sequência genérica de atividades de design, na qual inicia-se o projeto identificando as necessidades e definindo os requisitos do produto para numa etapa seguinte o designer analisar e criar um esboço de como funcionará o sistema, caso seja satisfatório, o mesmo avança para a fase de gerar um protótipo interativo do esboço ou voltar a etapa anterior para adicionar a intervenção,pensando em caracteristicas que o designer não havia pensado anteriormente. Para a fase de construção de uma versão interativa, caso a intervenção esteja completada com sucesso ela vai para a etapa de avaliação, caso não, ela retorna a etapa anterior que é a de (re-)design. Após a avaliação, se a solução desenvolvida atende a necessidades e os requisitos identificados anteriormente o processo é finalizado e é dado um passo posterior ao processo de design para se desenvolver o sistema interativo. Caso não atenda, ele vai para  etapa de identificar necessidades e requisitos novamente ou a para a parte de (re-)design. Por ser muito simples, esse processo não é muito amigável com pessoas que estão aprendendo a realizar processos de design, por pular partes essenciais do desenvolvimento de design de IHC, fazendo com que pessoas que não conheçam o processo acabem por gerar artefatos essenciais ao processo de design. A figura 1 apresenta o modelo simples.
 
 
 ![Modelo Simples de Ciclo de Vida](../images/cicloSimples.png)
@@ -25,7 +25,7 @@ O Ciclo de Vida Simples é a construção de uma sequência genérica de ativida
 
 ### Ciclo de Vida em Estrela
 
-No Ciclo de Vida em Estrela, cabe ao designer definir em qual parte iniciar, como demonstrada por suas setas na Figura 2, não importantando muito a ordem em que ocorre, pois sempre irão passar pela etapa de avaliação que detectar problemas desde de a usabilidade até o sistema final. Essa etapa de avaliar o que foi desenvolvido reduz o custo que se poder ter mais para frente com retrabalho. Abaixo na está a Figura 2 demonstrando o fluxo do ciclo de vida em estrela:
+No Ciclo de Vida em Estrela, cabe ao designer definir em qual parte iniciar, como demonstrada por suas setas na Figura 2, não importantando muito a ordem em que ocorre, pois sempre irão passar pela etapa de avaliação que detectar problemas desde de a usabilidade até o sistema final. Essa etapa de avaliar o que foi desenvolvido reduz o custo que se poder ter mais para frente com retrabalho. A Figura 2 demonstra o fluxo do ciclo de vida em estrela.
 
 ![Ciclo de Vida em Estrela](../images/cicloEstrela.png)
 
@@ -58,7 +58,7 @@ Na última fase, a de instalação, é realizada uma coleta de dados com base na
 
 ### Engenharia de Usabilidade de Nielsen
 
-A engenharia de Usabilidade de Nielsen consiste no uso de conjunto de atividades para definir uma espécie de passo a passo para o ciclo de vida de um produto/design, tais atividades e sub-atividades contém instruções do que se realizar para um bom ciclo de vida e para se criar uma intervação que solucionará o problema, sendo as atividades:
+A engenharia de Usabilidade de Nielsen consiste no uso de conjunto de atividades para definir uma espécie de passo a passo para o ciclo de vida de um produto/design, tais atividades e sub-atividades contém instruções do que se realizar para um bom ciclo de vida e para se criar uma intervação que solucionará o problema. As atividades são listadas na tabela 1.
 
 | Número | Atividade                                           |
 | :-----: | --------------------------------------------------- |

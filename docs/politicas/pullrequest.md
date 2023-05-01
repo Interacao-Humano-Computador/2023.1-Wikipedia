@@ -6,7 +6,7 @@ Pull request é um recurso utilizado em plataformas de controle de versão, como
 
 ## Criação
 
-O primeiro passo para a criação do pull request é ir no github e clicar na aba de pull request.
+O primeiro passo para a criação do pull request é ir no github e clicar na aba de pull request. Como mostra a figura 1.
 
 <img  src="../../images/politicas/pullRequest/passo1.jpeg">
 
@@ -14,7 +14,7 @@ O primeiro passo para a criação do pull request é ir no github e clicar na ab
 <p> Figura 1: Demonstração para a criação do pull request. </p>
 </div>
 
-Escolha a branch que irá fazer o pull request (A branch que irá receber é sempre a main), após isso, o github mostrará os arquivos que foram alterados, e você deve clicar no botão de criar pull request.
+Escolha a branch que irá fazer o pull request (A branch que irá receber é sempre a main), após isso, o github mostrará os arquivos que foram alterados, e você deve clicar no botão de criar pull request. Como mostra a figura 2.
 
 <img  src="../../images/politicas/pullRequest/passo2.jpeg">
 
@@ -22,7 +22,7 @@ Escolha a branch que irá fazer o pull request (A branch que irá receber é sem
 <p> Figura 2: Demontração para a escolha da branch. </p>
 </div>
 
-O padrão utilizado aqui, é uma breve descrição do que foi feito, e o link da issue que foi resolvida acompanhada da palavra resolve.
+O padrão utilizado aqui, é uma breve descrição do que foi feito, e o link da issue que foi resolvida acompanhada da palavra resolve. Como mostra a figura 3.
 
 Exemplo: 
 
