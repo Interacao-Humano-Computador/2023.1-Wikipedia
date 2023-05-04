@@ -8,7 +8,7 @@ Bem-vindo à página do Cronograma Planejado do projeto. Nesta página se encont
 
 ## Cronograma geral
 
-O objetivo do cronograma é viabilizar a organização visual das atividades, recursos e prazos de um projeto através de tabelas. No presente caso, os cronogramas foram elaborados com base nas datas e prazos estabelecidos para o semestre letivo (2023.1) da disciplina.
+O objetivo do cronograma é viabilizar a organização visual das atividades, recursos e prazos de um projeto através de tabelas. No presente caso, os cronogramas foram elaborados com base nas datas e prazos estabelecidos para o semestre letivo (2023.1) da disciplina. A tabela 1 apresenta o cronograma geral da equipe.
 
 <!-- Inicio tabela cronograma geral-->
 
@@ -28,6 +28,10 @@ O objetivo do cronograma é viabilizar a organização visual das atividades, re
 <!-- Fim tabela cronograma geral -->
 
 Tabela 1 - Cronograma geral da equipe.
+
+## Cronograma detalhado
+
+Nas tabelas 2, 3, 4, 5, 6, 7, 8, 9, 10 e 11 é apresentado o planejamento detalhado de cada entrega no decorrer da disciplina.
 
 ## Entrega 1 - Planejamento
 
