@@ -47,6 +47,8 @@ nav:
       - Ferramentas: planejamento/ferramentas.md
       - Disponibildade dos Membros: planejamento/disponibilidade.md   
       - Processo de Design: planejamento/processo.md
+  - Elicitação:
+      - Perfil de Usuário: elicitacao/perfilDeUsuario.md 
   - Politicas:
       - Metodologias: politicas/metodologias.md
       - Issues: politicas/issues.md
