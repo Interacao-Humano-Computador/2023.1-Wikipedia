@@ -12,15 +12,15 @@ Para a coleta de dados, foram empregadas duas técnicas: um questionário virtua
 
 Com a pesquisa feita em cima do "Why We Read Wikipedia"(Wulczyn, 2017), foram obtidos a motivação e certos que comportamentos do porque os leitores, leem na Wikipédia variando dos mais diversos motivos que serão explicados a seguir.
 
-A pesquisa feita por esses pesquisadores de Stanford e da própria Wikimedia Foundation, buscou entender as motivações e comportamentos por trás de quem lia o Wikipedia dessa maneira os levou a cria um primeiro Survey, que consistiam em obter essas informações desse determinado grupo de pessoas. Os resultados de sua pesquisa que foram feitas com 5000 pessoas, e que depois de dois processos de triagem que reduziram para 500 depois 100 pessoas, com o objetivo de identificar características que definiam um grupo de categorias com opinião em comum entre os participantes, acabou por gerar as seguintes categorias e descrições:
+A pesquisa feita pelos pesquisadores de Stanford e da própria Wikimedia Foundation, buscou entender as motivações e comportamentos por trás de quem lia o Wikipedia dessa maneira os levou a criar um primeiro Survey, que consistiam em obter essas informações desse determinado grupo de pessoas. Os resultados de sua pesquisa que foram feitas com 5000 pessoas, e que depois de dois processos de triagem que reduziram para 500 depois 100 pessoas, com o objetivo de identificar características que definiam um grupo de categorias com opinião em comum entre os participantes, acabou por gerar as seguintes categorias e descrições:
 
-| Motivação                 | Projeto do Trabalho/Escola, Decisão Pessoal, Evento Atual, Mídia, conversação,  tédio/aleatório, aprendizado intríseco |
-| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| Necessidade de Informação | Informação Rápida, Visão Geral, Aprofundamento de Conhecimento                                                             |
-| Conhecimento Prévio        | Familiar, Não Familiar                                                                                                        |
+| Motivação                 | Projeto do Trabalho/Escola, Decisão Pessoal, Evento Atual, Mídia, conversação,  tédio/aleatório, aprendizado intrínseco |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| Necessidade de Informação | Informação Rápida, Visão Geral, Aprofundamento de Conhecimento                                                              |
+| Conhecimento Prévio        | Familiar, Não Familiar                                                                                                         |
 
-<p style="margin-left: 30%;">Tabela 1 - Categorias definidas a partir de Respotas do Survey</p>
-<p style="margin-left: 40%;">Fonte - Adaptado(Wulczyn, 2017)</p>
+<p style="margin-left: 20%;">Tabela 1 - Categorias definidas a partir de Respotas do Survey</p>
+<p style="margin-left: 35%;">Fonte - Adaptado(Wulczyn, 2017)</p>
 
 Após obter tal resultado, os pesquisadores realizaram um segundo Survey com cerca de 10.500 pessoas, aplicando um peso de 1 para 200 nas respostas, pela Espanha com duas perguntas com opções abertas para escrever e de multi-escolha e uma perguntando a familiaridade com o conteúdo, para identificar o porquê das pessoas estarem lendo tais artigos, para que, e nível de familiaridade com esse artigo,gerando as respostas da Tabela 2, com apenas 2,3% usando as opções de escreve a mão a repsosta, entretanto não geraram novas categorias. Após tais respostas, os pesquisadores partiram para construir um terceiro survey.
 
@@ -30,18 +30,18 @@ Após obter tal resultado, os pesquisadores realizaram um segundo Survey com cer
 | Eu estou lendo esse artigo para...  | procurar por um fato específico ou resposta rápida.<br />obter um visão geral do tópico.<br />aprofundar conhecimento sobre o tópico.                                                                                                                                                                                                                                                                      |
 | Antes de visitar este artigo...     | eu já era familiar com esse tópico.<br />eu não era familiar com esse tópico.<br />eu estava apredendo sobre isso pela primeira vez.                                                                                                                                                                                                                                                                        |
 
-<p style="margin-left: 30%;">Tabela 2 - Perguntas e Respostas Gerais do segundo Survey</p>
-<p style="margin-left: 40%;">Fonte - Adaptado(Wulczyn, 2017)</p>
+<p style="margin-left: 20%;">Tabela 2 - Perguntas e Respostas Gerais do segundo Survey</p>
+<p style="margin-left: 35%;">Fonte - Adaptado(Wulczyn, 2017)</p>
 
- Nesse terceiro Survey com a ajuda dos desenvolvedores da Wikipedia, eles utilizaram de informações relacionadas as requisições feitas em artigos contidos no site e selecionados por eles, para que isso acontecesse foram abertos um google forms, o qual foi feito com 29.372 participantes,  utilzando as mesmas perguntas feitas nos outros surveys anteriores com a adição de termo de consentimento para rastrear/guardar o ip da pessoa para identificar atividades da mesma durante a sua entrada no site, verificando e guardando a informação para quando a mesma tivesse acessado um dos tópicos que os pesquisadores escolheram.
+ No terceiro Survey com a ajuda dos desenvolvedores da Wikipedia, eles utilizaram de informações relacionadas as requisições feitas em artigos contidos no site e selecionados por eles, para que isso acontecesse foram abertos um google forms, o qual foi feito com 29.372 participantes,  utilzando as mesmas perguntas feitas nos outros surveys anteriores com a adição de termo de consentimento para rastrear/guardar o ip da pessoa para identificar atividades da mesma durante a sua entrada no site, verificando e guardando a informação para quando a mesma tivesse acessado um dos tópicos que os pesquisadores escolheram.
 
- Dessa maneira, sabendo, que a informação sozinha não definiria o padrão de comportamento dos usuários do Wikpédia, s pesquisadores cruzaram os dados das requisições dos usuários que aceitaram participar da pesquisa com as perguntas, assim gerando resultados do survey contidos na Figura 1.
+ Dessa maneira, sabendo, que a informação sozinha não definiria o padrão de comportamento dos usuários do Wikpédia, os pesquisadores cruzaram os dados das requisições dos usuários que aceitaram participar da pesquisa com as perguntas, assim gerando resultados do survey contidos na Figura 1.
 
 <img src="../../images/graficoForms/infoSurvey.png"/>
-<p style="margin-left: 30%;">Figura 1 - Grafico de Resultados do Survey com Pesos</p>
-<p style="margin-left: 40%;">Fonte - Wulczyn, 2017</p>
+<p style="margin-left: 20%;">Figura 1 - Grafico de Resultados do Survey com Pesos</p>
+<p style="margin-left: 35%;">Fonte - (Wulczyn, 2017)</p>
 
-Na Figura 1, os dados consistem de dois de duas informações uma com os dados somente das respostas e sem pesos aplicados, sem peso, e a outra com o peso aplicado e relacionamento realizado, em verde, gerando assim resultados e informações sobre o comportamento dos leitores da wikipédia. Focando pelos dados da barra verde na Figura 1 é verificado que na motivação por procura de informações 30% tem relação com a mídia, 25% relacionado ao um conhecimento intríseco, 22% de tópicos de conversas, 20% por está entediado, 16% relacionado ao trabalho ou escola, 13% relacionado ao um evento que está acontecendo no momento e 10% por ter que precisar de infomação para tomar uma decisão pessoal. Lembrando que as as pessoas poderiam selecionar mais de um tópico.
+Na Figura 1, os dados consistem de dois de duas informações uma com os dados somente das respostas e sem pesos aplicados, sem peso, e a outra com o peso aplicado e relacionamento realizado, em verde, gerando assim resultados e informações sobre o comportamento dos leitores da wikipédia. Focando pelos dados da barra verde na Figura 1 é verificado que na motivação por procura de informações 30% tem relação com a mídia, 25% relacionado ao um conhecimento intrínseco, 22% de tópicos de conversas, 20% por está entediado, 16% relacionado ao trabalho ou escola, 13% relacionado ao um evento que está acontecendo no momento e 10% por ter que precisar de infomação para tomar uma decisão pessoal. Lembrando que as as pessoas poderiam selecionar mais de um tópico.
 
 Já para necessidade de informação 39% era para uma visão geral do assunto, 38% para um fato rápido e 21% para um aprofundamento de conhecimento, além do restante dessa porcentagem que não foi possível obter a resposta. Sobre a familiaridade com esses conteúdos a maior parte dessa público 50% possuía familiaridade com o conteúdo e 47% não possuía essa familiaridade, os 3% restantes não houve resposta.
 
@@ -49,7 +49,7 @@ Além desses dados que geraram a Figura 1, de acordo com o artigo, foi possível
 
 - Quando o Wikipedia é usado para trabalhos, a sessões de acesso e visualização de página tendem a ser maiores, relacionadas mais para assuntos mais sérios do que artigos relacionados a entretenimento, e o acesso é mais feito pelo computador ou desktop.
 - O uso orientado a mídia é direcioando a artigos populares relacionados aos artigos de entretenimento que são menos relacionados a artigos da internet.
-- Aprendizado intríseco tende a envolver artigos de arte e ciência.
+- Aprendizado intrínseco tende a envolver artigos de arte e ciência.
 - Pessoas que navegam na Wikipédia por estarem entediados ou buscando aleatoriamente conteúdos, tendem a ser usuários que mais ficam no ativos na Wikipedia, e passarem em um ritmo acelerado os artigos que geralmente estão mais relacionados a artigos populares de entretenimento, mais do que relacionados a artigos científicos.
 - Eventos atuais tendem a direcionar os usuários para artigos de esportes e
   artigos relacionados à política, tais artigos tendem a ser populares,
@@ -98,7 +98,7 @@ Com relação à **pergunta 5**, na Figura 6, foi demoonstrado que 85,7% das pes
 <p style="margin-left: 30%;">Figura 6 - Grafico da pergunta 5 do forms</p>
 <p style="margin-left: 40%;">Fonte - Autores,2023</p>
 
-Com relação à **pergunta 6**, a Figura 7 demonstra que indo de 1 a 4, representando respectivamente, anualmente, mensalmente, semanalmente e diariamente, cerca de 9,5% das pessoas utilizam o wikipédia anualmente, 52,4% mensalmente, 38,1% semanalmente e 0% diariamente, dessa maneira representando a frequência que utilizam o site.
+Com relação à **pergunta 6**, a Figura 7 demonstra que indo de 1 a 4, representando respectivamente, anualmente, mensalmente, semanalmente e diariamente, cerca de 9,5% das pessoas utilizam o wikipédia anualmente, 52,4% mensalmente, 38,1% semanalmente e 0% diariamente, dessa maneira representando a frequeência que utilizam o site.
 
 <img src="../../images/graficoForms/pergunta6_usoWiki.png"/>
 <p style="margin-left: 30%;">Figura 7 - Grafico da pergunta 6 do forms</p>
@@ -110,7 +110,7 @@ Com relação à **pergunta 7**, a Figura 8 mostra que cerca de 23,8% das pessoa
 <p style="margin-left: 30%;">Figura 8 - Grafico da pergunta 7 do forms</p>
 <p style="margin-left: 40%;">Fonte - Autores,2023</p>
 
-Com relação à **pergunta 8**, na Figura 9, é mostrado que 100% das pessoas já utlizaram o sWikipédia como fonte de informação, o que demonstra que pelo menos em algum momento elas utilizaram para se obter informações para curiosidades, estudo, aprofudamento de conhecimento, seja para conteúdos os quais eles estejam familiares ou não.
+Com relação à **pergunta 8**, na Figura 9, é mostrado que 100% das pessoas já utlizaram o Wikipédia como fonte de informação, o que demonstra que pelo menos em algum momento elas utilizaram para se obter informações para curiosidades, estudo, aprofudamento de conhecimento, seja para conteúdos os quais eles estejam familiares ou não.
 
 <img src="../../images/graficoForms/pergunta8_fonteDeInfo.png"/>
 <p style="margin-left: 30%;">Figura 9 - Grafico da pergunta 8 do forms</p>
