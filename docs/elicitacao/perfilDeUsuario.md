@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O perfil de usuário é uma descrição detalhada das características, interesses, comportamentos e necessidades de um determinado público-alvo. Ele tem como objetivo, entendermos mais sobre os usuários que utilizam o aplicativo selecionado para a análise do grupo. Para isso, é preciso coletar informações sobre esses usuários como quem são, seus objetivos, e também, seus dados demográficos. Assim, o perfil de usuário irá descrever os mais detalhado possível as características dos usuários do site.
+O perfil de usuário é uma descrição detalhada das características, interesses, comportamentos e necessidades de um determinado público-alvo. Ele tem como objetivo, entendermos mais sobre os usuários que utilizam o aplicativo selecionado para a análise do grupo. Para isso, é preciso coletar informações sobre esses usuários como quem são, seus objetivos, e também, seus dados demográficos. Assim, o perfil de usuário irá descrever o mais detalhado possível as características dos usuários do site.
 
 ## Metodologia
 
@@ -56,7 +56,7 @@ Além desses dados que geraram a Figura 1, de acordo com o artigo, foi possível
   provavelmente porque o evento desencadeador é uma tendência.
 - Quando o Wikipédia é utilizado para se tomar decisões pessoais, os artigos estão mais relacionados a geografia e a tecnologia, provavelmente por está relacionado a uma decisão de compra ou viagem.
 
-Algumas considerações feitas pelos pesquisadores, estão relacionadas ao diversidade de usuários que os mesmos possuem, o que pode ajudar ou limitar as pesquisas dos mesmos, um dos fatores foi a questão de que os usuários mais jovens tem menos receio em responder a sua idade do que os usuários mais velhos o que poderia atrapalhar em muito a pesquisa, além de que usuários mais novos podem influenciar a pesquisa a ir mais para que motivação seja para estudo e trabalho. Entretanto, desde que para essa pesquisa, os mesmos não incluíram na pesquisa, as idade do participantes, mas consideraram que eles fazem parte de todas as faixas etárias, e que existem esses comportamentos em todas as categorias, os resultados ainda representam os interesses dos usuários.
+Algumas considerações feitas pelos pesquisadores, estão relacionadas a diversidade de usuários que os mesmos possuem, o que pode ajudar ou limitar as pesquisas dos mesmos entre outros fatores. Um dos fatores foi a questão de que os usuários mais jovens tem menos receio em responder o formulário, principalmente em aspectos que envolvem a sua idade, em comparação com os usuários mais velhos que tem mais receio, o que poderia atrapalhar em muito a pesquisa. Além disso, os usuários mais novos podem influenciar a pesquisa a ir mais para que a motivação ao uso do Wikipédiam tenha mais respostas relacionadas para estudo e trabalho. Entretanto, desde que para essa pesquisa, os mesmos não incluíram na pesquisa, as idade do participantes, mas consideraram que eles fazem parte de todas as faixas etárias, e que existem esses comportamentos em todas as categorias, os resultados ainda representam os interesses dos usuários.
 
 Com todos os aspectos descritos anteriomente é possível inferir, o perfil de usuário básico da Wikipédia, além de poder também poder inferir os comportamentos e possíveis expectativas em relação a que melhorias podem ocorrer no Wikipédia, as categorias de idade que esse mesmos envolvem, variam desde menores de 18 anos de idade até pessoas com mais de 65 anos de idade.
 
@@ -80,19 +80,19 @@ Com relação à **pergunta 2** , no escopo em que a pesquisa ocorreu, foi notad
 <p style="margin-left: 30%;">Figura 3 - Grafico da pergunta 2 do forms</p>
 <p style="margin-left: 40%;">Fonte - Autores,2023</p>
 
-Com relação à **pergunta 3**, no escopo aplicado, a Figura 4 , demonstra que existem cerca de 90,5% com ensino superior incompleto e 9,5% com ensino médio completo.
+Com relação à **pergunta 3**, no escopo aplicado, a Figura 4 , demonstra que existem cerca de 90,5% são pessoas com ensino superior incompleto e 9,5% com ensino médio completo.
 
 <img src="../../images/graficoForms/pergunta3_escolaridade.png"/>
 <p style="margin-left: 30%;">Figura 4 - Grafico da pergunta 3 do forms</p>
 <p style="margin-left: 40%;">Fonte - Autores,2023</p>
 
-Com relação à **pergunta 4**, a Figura 5, desmonstra que 100% das pessoas da que respoderam o formulário são estudantes.
+Com relação à **pergunta 4**, a Figura 5, demonstra que 100% das pessoas da que responderam o formulário são estudantes.
 
 <img src="../../images/graficoForms/pergunta4_ocupacao.png"/>
 <p style="margin-left: 30%;">Figura 5 - Grafico da pergunta 4 do forms</p>
 <p style="margin-left: 40%;">Fonte - Autores,2023</p>
 
-Com relação à **pergunta 5**, na Figura 6, foi demoonstrado que 85,7% das pessoas que responderam o formulário, possuem idades entre 19 e 25 anos, enquanto 14,3% possuem menos de 18 anos.
+Com relação à **pergunta 5**, na Figura 6, foi demonstrado que 85,7% das pessoas que responderam o formulário, possuem idades entre 19 e 25 anos, enquanto 14,3% possuem menos de 18 anos.
 
 <img src="../../images/graficoForms/pergunta5_idade.png"/>
 <p style="margin-left: 30%;">Figura 6 - Grafico da pergunta 5 do forms</p>
@@ -104,13 +104,13 @@ Com relação à **pergunta 6**, a Figura 7 demonstra que indo de 1 a 4, represe
 <p style="margin-left: 30%;">Figura 7 - Grafico da pergunta 6 do forms</p>
 <p style="margin-left: 40%;">Fonte - Autores,2023</p>
 
-Com relação à **pergunta 7**, a Figura 8 mostra que cerca de 23,8% das pessoas consideram o site dificil de usar e feio, 14,3% aparentam indiferença quanto a aparência do site e não consideram nem fácil, nem difícil o uso do site, e das pessoas que consideram tem consideração positvas sobre o wikipédia representam cerca de 47,6% consideram que o mesmo é bonito e ótimo para usar, e 14,3% é próximo a perfeição do que consideram um site bonito e perfeito.
+Com relação à **pergunta 7**, a Figura 8 mostra que cerca de 23,8% das pessoas consideram o site dificil de usar e feio, 14,3% aparentam indiferença quanto a aparência do site e não consideram nem fácil, nem difícil o uso do site, e das pessoas que consideram, tem consideração positvas sobre o wikipédia representam cerca de 47,6% consideram que o mesmo é bonito e ótimo para usar, e 14,3% é próximo a perfeição do que consideram um site bonito e perfeito.
 
 <img src="../../images/graficoForms/pergunta7_facilidadeDeUso.png"/>
 <p style="margin-left: 30%;">Figura 8 - Grafico da pergunta 7 do forms</p>
 <p style="margin-left: 40%;">Fonte - Autores,2023</p>
 
-Com relação à **pergunta 8**, na Figura 9, é mostrado que 100% das pessoas já utlizaram o Wikipédia como fonte de informação, o que demonstra que pelo menos em algum momento elas utilizaram para se obter informações para curiosidades, estudo, aprofudamento de conhecimento, seja para conteúdos os quais eles estejam familiares ou não.
+Com relação à **pergunta 8**, na Figura 9, é mostrado que 100% das pessoas já utilizaram o Wikipédia como fonte de informação, o que demonstra que pelo menos em algum momento elas utilizaram para se obter informações para curiosidades, estudo, aprofudamento de conhecimento, seja para conteúdos os quais eles estejam familiares ou não.
 
 <img src="../../images/graficoForms/pergunta8_fonteDeInfo.png"/>
 <p style="margin-left: 30%;">Figura 9 - Grafico da pergunta 8 do forms</p>
@@ -128,7 +128,7 @@ Com relação à **pergunta 10**, essa mesma, a Figura 11, está representando p
 <p style="margin-left: 30%;">Figura 11 - Grafico da pergunta 10 do forms</p>
 <p style="margin-left: 40%;">Fonte - Autores,2023</p>
 
-Com relação à **pergunta 11** , a Figura 12, demonstra funcionalidades que existem no site do Wikipédia, e que tem o objetivo além de verificar a porcentagem em que o usuários viram ou usaram alguma funcionalidade, assim o que os usuários mais viram foram as imagens com 85,5% e o Histórico de Versão do Artigos, todas contidas no Wikipédia, apesar de dar a opçao para o usuário comentar sobre alguma funcionallidade que o grupo não tenha encontrado no site, não ouve comentários em cima desse.
+Com relação à **pergunta 11** , a Figura 12, demonstra funcionalidades que existem no site do Wikipédia, e que tem o objetivo além de verificar a porcentagem em que o usuários viram ou usaram alguma funcionalidade, assim o que os usuários mais viram foram as imagens com 85,5% e o Histórico de Versão do Artigos, todas contidas no Wikipédia, apesar de dar a opção para o usuário comentar sobre alguma funcionallidade que o grupo não tenha encontrado no site, não ouve comentários em cima desse.
 
 <img src="../../images/graficoForms/pergunta11_funcionalidade.png"/>
 <p style="margin-left: 30%;">Figura 12 - Grafico da pergunta 11 do forms</p>
