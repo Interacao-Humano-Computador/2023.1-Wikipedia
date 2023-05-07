@@ -50,8 +50,8 @@ nav:
   - Análise de Requisitos:
       - Personas: analise-de-requisitos/personas.md
       - Análise de Tarefas:
-        - HTC: analise-de-requisitos/analise-de-tarefas.md
-        - GOMS: analise-de-requisitos/analise-de-tarefas.md
+        - HTC: analise-de-requisitos/htc.md
+        - GOMS: analise-de-requisitos/goms.md
   - Politicas:
       - Metodologias: politicas/metodologias.md
       - Issues: politicas/issues.md
