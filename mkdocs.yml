@@ -49,6 +49,7 @@ nav:
       - Processo de Design: planejamento/processo.md
   - Elicitação:
       - Personas: elicitacoes/personas.md
+      - Aspectos eticos: elicitacoes/aspectosEticos.md
   - Politicas:
       - Metodologias: politicas/metodologias.md
       - Issues: politicas/issues.md
