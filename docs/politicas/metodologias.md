@@ -37,7 +37,7 @@ Utilizamos ferramentas que permitem trabalhar em conjunto, como editores de text
 
 O pair programming pode ser aplicado em várias áreas, inclusive na criação de documentação de projetos. A técnica pode melhorar a qualidade do trabalho, aumentar a produtividade e promover a troca de experiências entre os membros da equipe.
 
-## Referências
+## Bibliografia
 
 ATLASSIAN. Scrum — o que é, como funciona e por que é incrível. Disponível em: [https://www.atlassian.com/br/agile/scrum](https://www.atlassian.com/br/agile/scrum). Acesso em: 21 abr. 2023.
 
@@ -51,3 +51,4 @@ DINAMIZE. Scrum – O que é, suas etapas e como funciona na prática. Disponív
 | ------- | ---------- | ------------------------ | --------- | ----------- |
 | 1.0     | 21/04/2023 | Criação do documento   | Lucas     | Chaydson    |
 | 1.1     | 28/04/2023 | Mudando Pair programming | Lucas     | Grupo       |
+| 1.2     | 29/04/2023 | Aplicando feedbacks | Chaydson     |   Pedro     |

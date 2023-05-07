@@ -2,7 +2,7 @@
 
 Bem-vindo a página de disponibilidade dos membros, nessa página se encontram o tempo disponível de cada membro, e os horários em que os mesmos podem contrubir com o desenvolvimento efeciente e claro do projeto. Seguindo nessa mesma linha, foram utilizadas algumas técnicas abaixo para deduzir o tempo disponível de cada membro, dessa maneira pode-se decidir o horário das reuniões semanais e pode-se marcar possíveis reuniões avulsas com os membros para o contribui com o projeto.
 
-Observação: Os horários são referentes ao semestre 2023.1 da UnB
+Observação: Os horários são referentes ao semestre 2023.1 da UnB e podem ser encontrados no site da Secretaria de Administração Acadêmica da Univerdade de Brasília.
 
 ## Metodologia
 
@@ -12,9 +12,7 @@ Assim sendo, foram utilizadas para criar o heatmap apresentado na tabela 1, um p
 
 ## Tabela de Disponibilidade
 
-<!-- <iframe  width="1250px" height="350px"   style="overflow: hidden; margin-bottom: 5px;"src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQrLWWkcJGJOv-Ews2B3V1Aabnkz0WwaZ0UzpZ3-GS2qahl9SbZYwWfiefI8WeoAO2QmanwSy39RH9s/pubhtml"></iframe> -->
-
-<iframe width="1250px" height="350px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQrLWWkcJGJOv-Ews2B3V1Aabnkz0WwaZ0UzpZ3-GS2qahl9SbZYwWfiefI8WeoAO2QmanwSy39RH9s/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width="1250px" height="350px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQrLWWkcJGJOv-Ews2B3V1Aabnkz0WwaZ0UzpZ3-GS2qahl9SbZYwWfiefI8WeoAO2QmanwSy39RH9s/pubhtml?widget=true&headers=false"></iframe>
 
 <div style="text-align: center">
 <p> Tabela 1: Disponibilidade dos membros (Fonte: Autor, 2023). </p>
@@ -22,12 +20,15 @@ Assim sendo, foram utilizadas para criar o heatmap apresentado na tabela 1, um p
 
 ## Bibliografia
 
-[1] UNIVERSIDADE DE BRASÍLIA. Cepe/UnB 128/2021. Disponível em: https://saa.unb.br/destaques/134-cepe-unb-128-2021. Acesso em: 23 abr. 2023.
+QLIK SENSE. Heatmap chart. Disponível em: https://help.qlik.com/pt-BR/sense/February2023/Subsystems/Hub/Content/Sense_Hub/Visualizations/VisualizationBundle/heatmap-chart.htm. Acesso em: 23 abr. 2023.
 
-[2] QLIK SENSE. Heatmap chart. Disponível em: https://help.qlik.com/pt-BR/sense/February2023/Subsystems/Hub/Content/Sense_Hub/Visualizations/VisualizationBundle/heatmap-chart.htm. Acesso em: 23 abr. 2023.
+## Referências bibliográficas
+
+UNIVERSIDADE DE BRASÍLIA. Cepe/UnB 128/2021. Disponível em: https://saa.unb.br/destaques/134-cepe-unb-128-2021. Acesso em: 23 abr. 2023.
 
 ## Histórico de Versão
 
 | Versão | Data       | Descrição          | Autor(es) | Revisor(es) |
 | ------- | ---------- | -------------------- | --------- | ----------- |
-| 1.0     | 23/04/2023 | Criação da Página | Gabriel   | Chaydson      |
+| 1.0     | 23/04/2023 | Criação da Página | Gabriel   | Chaydson    |
+| 1.1     | 29/04/2023 | Aplicando feedbacks  | Chaydson  | Pedro       |
