@@ -10,7 +10,6 @@ O site escolhido para estudo na disciplina foi a Wikipédia, uma plataforma que 
 
 O site da Wikipedia foi escolhido para estudo na disciplina devido à sua relevância como uma das maiores e mais conhecidas enciclopédias online, com milhões de artigos em diversos idiomas e por causa da sua interface, a Wikipedia pode ser considerada um exemplo de interface pouco amigável, uma vez que possui muita informação e pode ser difícil de navegar para usuários iniciantes. O estudo da Wikipedia pode fornecer importantes ideias sobre como identificar e melhorar problemas em interfaces que possuem uma grande quantidade de informações.
 
-
 ## Usuários do site
 
 A Wikipédia é uma das maiores plataformas de conhecimento livre e colaborativo do mundo, com milhões de usuários ativos em todo o mundo. Esses usuários podem ser divididos em duas categorias principais: editores e leitores.
@@ -47,7 +46,7 @@ Abaixo, segue uma imagem dos Termos de Uso da Wikipedia, que devem ser lidos e c
 
 Figura 3. Termo de Uso (Fonte: captura de tela realizada em 21 de abril de 2023).
 
-## Bibliografia
+## Referência Bibliográfica
 
 WIKIPÉDIA. Sobre a Wikipédia. Disponível em: [https://pt.wikipedia.org/wiki/Wikipédia:Sobre_a_Wikipédia](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Sobre_a_Wikip%C3%A9dia). Acesso em: 20 abr. 2023.
 
@@ -61,3 +60,4 @@ Termos e condições de uso - Wikimedia Foundation Governance Wiki. Disponível 
 | ------- | ---------- | ------------------------ | --------- | ----------- |
 | 1.0     | 20/04/2023 | Criação do documento   | Samuel    | Chaydson    |
 | 1.1     | 21/04/2023 | Adicionando termo de uso | Pedro     | Gabriel     |
+| 1.2     | 29/04/2023 | Aplicando feedbacks      | Chaydson  | Pedro       |
