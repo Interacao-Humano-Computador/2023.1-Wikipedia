@@ -49,7 +49,7 @@ nav:
       - Processo de Design: planejamento/processo.md
   - Análise de Requisitos:
       - Personas: analise-de-requisitos/personas.md
-      - Análise de Tarefas: analise-de-requisitos/personas.md
+      - Análise de Tarefas: analise-de-requisitos/analise-de-tarefas.md
   - Politicas:
       - Metodologias: politicas/metodologias.md
       - Issues: politicas/issues.md
