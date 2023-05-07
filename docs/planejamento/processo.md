@@ -24,7 +24,7 @@ O Ciclo de Vida Simples é a construção de uma sequência genérica de ativida
 
 ### Ciclo de Vida em Estrela
 
-No Ciclo de Vida em Estrela, cabe ao designer definir em qual parte iniciar, como demonstrada por suas setas na Figura 2, não importantando muito a ordem em que ocorre, pois sempre irão passar pela etapa de avaliação que detectar problemas desde de a usabilidade até o sistema final. Essa etapa de avaliar o que foi desenvolvido reduz o custo que se poder ter mais para frente com retrabalho. Abaixo na está a Figura 2 demonstrando o fluxo do ciclo de vida em estrela:
+No Ciclo de Vida em Estrela, cabe ao designer definir em qual parte iniciar, como demonstrada por suas setas na Figura 2, não importantando muito a ordem em que ocorre, pois sempre irão passar pela etapa de avaliação que detectar problemas desde de a usabilidade até o sistema final. Essa etapa de avaliar o que foi desenvolvido reduz o custo que se poder ter mais para frente com retrabalho. A Figura 2 demonstra o fluxo do ciclo de vida em estrela.
 
 ![Ciclo de Vida em Estrela](../images/cicloEstrela.png)
 
@@ -56,7 +56,7 @@ Na última fase, a de instalação, é realizada uma coleta de dados com base na
 
 ### Engenharia de Usabilidade de Nielsen
 
-A engenharia de Usabilidade de Nielsen consiste no uso de conjunto de atividades para definir uma espécie de passo a passo para o ciclo de vida de um produto/design, tais atividades e sub-atividades contém instruções do que se realizar para um bom ciclo de vida e para se criar uma intervação que solucionará o problema, sendo as atividades:
+A engenharia de Usabilidade de Nielsen consiste no uso de conjunto de atividades para definir uma espécie de passo a passo para o ciclo de vida de um produto/design, tais atividades e sub-atividades contém instruções do que se realizar para um bom ciclo de vida e para se criar uma intervação que solucionará o problema. As atividades são listadas na tabela 1.
 
 | Número | Atividade                                           |
 | :-----: | --------------------------------------------------- |

@@ -8,7 +8,7 @@ Bem-vindo à página do Cronograma Planejado do projeto. Nesta página se encont
 
 ## Cronograma geral
 
-O objetivo do cronograma é viabilizar a organização visual das atividades, recursos e prazos de um projeto através de tabelas. No presente caso, os cronogramas foram elaborados com base nas datas e prazos estabelecidos para o semestre letivo (2023.1) da disciplina.
+O objetivo do cronograma é viabilizar a organização visual das atividades, recursos e prazos de um projeto através de tabelas. No presente caso, os cronogramas foram elaborados com base nas datas e prazos estabelecidos para o semestre letivo (2023.1) da disciplina. A tabela 1 apresenta o cronograma geral da equipe.
 
 <!-- Inicio tabela cronograma geral-->
 
@@ -28,6 +28,10 @@ O objetivo do cronograma é viabilizar a organização visual das atividades, re
 <!-- Fim tabela cronograma geral -->
 
 Tabela 1 - Cronograma geral da equipe.
+
+## Cronograma detalhado
+
+Nas tabelas 2, 3, 4, 5, 6, 7, 8, 9, 10 e 11 é apresentado o planejamento detalhado de cada entrega no decorrer da disciplina.
 
 ## Entrega 1 - Planejamento
 
@@ -56,14 +60,14 @@ Tabela 2 - Cronograma da entrega 1.
 
 ## Entrega 2 - Perfil do usuário
 
-|                      Tarefa                      |     Autor(es)     | Período de desenvolvimento |  Revisor(es)  | Período de revisão |
-| :----------------------------------------------: | :---------------: | :-------------------------: | :-----------: | :------------------: |
-|                Perfil do usuário                |      Gabriel      |        24/04 - 28/04        |   Chaydson   |    06/05 - 07/05    |
-| Aspectos éticos de pesquisas envolvendo pessoas |        Ana        |        24/04 - 05/05        |     Pedro     |    06/05 - 07/05    |
-|                     Personas                     |   Lucas / Pedro   |        24/04 - 05/05        | Gabriel / Ana |    06/05 - 07/05    |
-|               Análise de tarefas               | Chaydson / Samuel |        24/04 - 05/05        |     Lucas     |    06/05 - 07/05    |
-|           Gravação da apresentação           |       Grupo       |        24/04 - 05/05        |     Grupo     |    06/05 - 07/05    |
-|                  Finalização                  |       Grupo       |        24/04 - 05/05        |     Grupo     |    06/05 - 07/05    |
+|                      Tarefa                      |       Autor(es)       | Período de desenvolvimento |  Revisor(es)  | Período de revisão |
+| :----------------------------------------------: | :--------------------: | :-------------------------: | :-----------: | :------------------: |
+|                Perfil do usuário                |        Gabriel        |        24/04 - 28/04        |   Chaydson   |    06/05 - 07/05    |
+| Aspectos éticos de pesquisas envolvendo pessoas |          Ana          |        24/04 - 05/05        |     Pedro     |    06/05 - 07/05    |
+|                     Personas                     | Lucas / Pedro / Samuel |        24/04 - 05/05        | Gabriel / Ana |    06/05 - 07/05    |
+|               Análise de tarefas               |   Chaydson / Samuel   |        24/04 - 05/05        |     Lucas     |    06/05 - 07/05    |
+|           Gravação da apresentação           |         Grupo         |        24/04 - 05/05        |     Grupo     |    06/05 - 07/05    |
+|                  Finalização                  |         Grupo         |        24/04 - 05/05        |     Grupo     |    06/05 - 07/05    |
 
 Tabela 3 - Cronograma da entrega 2.
 

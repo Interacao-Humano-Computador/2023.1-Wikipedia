@@ -8,7 +8,7 @@ Branch é um termo utilizado em gerenciamento de versões de software para se re
 
 Para uma nova branch ser criada, deve-se seguir os seguintes passos:
 
-- Verifique o número da issue que você criou para a branch, para isso, vá até a aba de issues no github e veja o número dela.
+- Verifique o número da issue que você criou para a branch, para isso, vá até a aba de issues no github e veja o número dela. Como mostra a figura 1.
 
 <img  src="../../images/politicas/branch/passo1.jpeg">
 
