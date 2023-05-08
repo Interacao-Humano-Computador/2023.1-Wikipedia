@@ -115,6 +115,89 @@ CARD, Stuart K. The psychology of human-computer interaction. Hillsdale: Lawrenc
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                          | Autor(es) | Revisor(es) |
-| ------- | ---------- | ------------------------------------ | --------- | ----------- |
-| 1.0     | 07/05/2023 | Criação do documento               | Chaydson     | Lucas     |
+| Versão | Data       | Descrição            | Autor(es) | Revisor(es) |
+| ------ | ---------- | -------------------- | --------- | ----------- |
+| 1.0    | 07/05/2023 | Criação do documento | Samuel    | Lucas       |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
