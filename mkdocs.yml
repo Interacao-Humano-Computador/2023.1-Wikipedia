@@ -50,7 +50,7 @@ nav:
       - Processo de Design: planejamento/processo.md
   - Análise de Requisitos:
       - Personas: analise-de-requisitos/personas.md
-      - Perfil de Usuário: elicitacoes/perfilDeUsuario.md 
+      - Perfil de Usuário: analise-de-requisitos/perfilDeUsuario.md 
       - Análise de Tarefas:
         - AHT: analise-de-requisitos/aht.md
         - GOMS: analise-de-requisitos/goms.md
