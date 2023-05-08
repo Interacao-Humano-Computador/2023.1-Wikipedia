@@ -10,6 +10,13 @@ A análise GOMS é uma técnica bastante útil para avaliar a usabilidade de um 
 
 ## Análise utilizando CMN-GOMS
 
+| Componentes                   | Significado                                                                                |
+| ----------------------------- | ------------------------------------------------------------------------------------------ |
+| Goal (Meta)                   | o que o usuário deseja alcançar na tarefa em questão                                       |
+| OP (Operador)                 | as ações mentais ou físicas que o usuário executa para atingir as metas                    |
+| Method (Método)               | as sequências de operadores que o usuário usa para alcançar as metas                       |
+| Sel. rule (Regras de Seleção) | as heurísticas que o usuário usa para decidir qual método ou operador usar em cada momento |
+
 ### Criação de um artigo no Wikipédia
 
 **GOAL 0:** Criar um artigo na Wikipédia
