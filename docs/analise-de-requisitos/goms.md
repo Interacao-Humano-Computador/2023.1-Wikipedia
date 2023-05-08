@@ -1,6 +1,9 @@
 # GOMS
 
-Vou gerar um exemplo de análise GOMS para a tarefa de criar uma nova página na Wikipédia:
+## Introdução
+
+Bem-vindo à página de análise de tarefas utilizando a técnica GOMS! Aqui você encontrará uma análise da Wikipédia feita por meio do método CMN-GOMS.
+
 
 Goals (Objetivos):
 Criar uma nova página na Wikipédia sobre um determinado assunto.
