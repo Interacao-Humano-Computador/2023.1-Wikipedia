@@ -52,7 +52,7 @@ A análise GOMS é uma técnica bastante útil para avaliar a usabilidade de um 
 
 <hr/>
 
-### Realizar uma pesquisa na Wikipédia
+### Realização de uma pesquisa na Wikipédia
 
 <p style="padding-left: 0vw"><b>GOAL 0:</b> pesquisar um artigo na Wikipédia</p>
 
