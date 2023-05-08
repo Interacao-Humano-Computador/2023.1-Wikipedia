@@ -68,6 +68,7 @@ Tabela 2 - Cronograma da entrega 1.
 |               Análise de tarefas               |   Chaydson / Samuel   |        24/04 - 05/05        |     Lucas     |    06/05 - 07/05    |
 |           Gravação da apresentação           |         Grupo         |        24/04 - 05/05        |     Grupo     |    06/05 - 07/05    |
 |                  Finalização                  |         Grupo         |        24/04 - 05/05        |     Grupo     |    06/05 - 07/05    |
+|                Ata da reunião 4                |         Pedro         |        05/05 - 06/05        |    Samuel    |    06/05 - 07/05    |
 
 Tabela 3 - Cronograma da entrega 2.
 

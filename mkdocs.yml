@@ -36,6 +36,7 @@ nav:
       - 01/04/2023: atas/ata_01_04.md  
       - 07/04/2023: atas/ata_07_04.md
       - 21/04/2023: atas/ata_21_04.md
+      - 05/05/2023: atas/ata_05_05.md
   - Planejamento:
       - Cronogramas: 
         - Planejado: planejamento/cronogramaPlanejado.md
@@ -49,6 +50,7 @@ nav:
       - Processo de Design: planejamento/processo.md
   - Análise de Requisitos:
       - Personas: analise-de-requisitos/personas.md
+      - Perfil de Usuário: elicitacoes/perfilDeUsuario.md 
       - Análise de Tarefas:
         - AHT: analise-de-requisitos/aht.md
         - GOMS: analise-de-requisitos/goms.md
