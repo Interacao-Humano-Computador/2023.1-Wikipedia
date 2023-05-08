@@ -106,6 +106,12 @@ A análise GOMS é uma técnica bastante útil para avaliar a usabilidade de um 
 
 <p style="padding-left: 6vw"><b>OP. 2.B.4:</b> verificar se o artigo correspondente à sugestão foi exibido</p>
 
+## Bibliografia
+
+BARBOSA, Simone D. J. Interação humano-computador. Rio de Janeiro: Elsevier, 2010.
+
+CARD, Stuart K. The psychology of human-computer interaction. Hillsdale: Lawrence Erlbaum Associates, 1983.
+
 
 ## Histórico de Versão
 
