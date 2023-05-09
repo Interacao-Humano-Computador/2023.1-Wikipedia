@@ -37,6 +37,9 @@ nav:
       - 07/04/2023: atas/ata_07_04.md
       - 21/04/2023: atas/ata_21_04.md
       - 05/05/2023: atas/ata_05_05.md
+  - Apresentaçoes:
+      - Apresentação 1: apresentacoes/apresentacao1.md
+      - Apresentação 2: apresentacoes/apresentacao2.md
   - Planejamento:
       - Cronogramas: 
         - Planejado: planejamento/cronogramaPlanejado.md
@@ -61,5 +64,3 @@ nav:
       - Pull requests: politicas/pullrequest.md
       - Commit: politicas/commit.md
       - Branch: politicas/branch.md
-  - Apresentaçoes:
-      - Apresentação 1: apresentacoes/apresentacao1.md
