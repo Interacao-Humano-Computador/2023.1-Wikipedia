@@ -49,8 +49,9 @@ nav:
       - Disponibildade dos Membros: planejamento/disponibilidade.md   
       - Processo de Design: planejamento/processo.md
   - Análise de Requisitos:
-      - Personas: analise-de-requisitos/personas.md
       - Perfil de Usuário: analise-de-requisitos/perfilDeUsuario.md 
+      - Personas: analise-de-requisitos/personas.md
+      - Aspectos eticos: analise-de-requisitos/aspectosEticos.md
       - Análise de Tarefas:
         - AHT: analise-de-requisitos/aht.md
         - GOMS: analise-de-requisitos/goms.md
