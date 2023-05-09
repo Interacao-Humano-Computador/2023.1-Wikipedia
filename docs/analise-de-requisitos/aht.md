@@ -8,6 +8,16 @@ Nesta seção, verificaremos como a análise hierárquica de tarefas foi utiliza
 
 Quando aplicada à Wikipedia, a AHT busca identificar as principais tarefas que os usuários realizam na plataforma, como, por exemplo, buscar por informações, criar e editar artigos, entre outras. Nesta seção abordaremos a edição de um artigo, pois conforme constatado no [perfil do usuário](./perfilDeUsuario.md), essa é uma das principais funcionalidades do site em questão.
 
+## Sobre o AHT
+
+A Análise Hierárquica de Tarefas é composta por cinco elementos:
+
+* Tarefa: Qualquer etapa ou parte de um trabalho que precisa ser concluída;
+* Objetivo: Um resultado final que pode ser medido através de eventos ou valores observáveis;
+* Subobjetivo: Um objetivo de nível superior que é dividido em objetivos menores;
+* Plano: O conjunto de subobjetivos de um objetivo e as suas inter-relações formam um plano;
+* Operação: As circunstâncias que ativam o objetivo (entrada), as ações ou atividades necessárias para alcançá-lo e as condições que indicam que o objetivo foi alcançado (feedback).
+
 ## Analise da tarefa: Edição de um artigo
 
 Realizar uma contribução/edição a algum artigo é uma das principais atividades que o usuário executa no Wikipédia, visto que a colaboração é parte fundamental da manutenção da aplicação. A Tabela 1 e a Figura 1 ilustram, em diagrama e texto , respectivamente, a análise hierárquica dessa tarefa.
@@ -36,6 +46,12 @@ Realizar uma contribução/edição a algum artigo é uma das principais ativida
 <div style="text-align: center">
     <p> Figura 1: Diagrama HTA (Fonte: Autores. 2023).</p>
 </div>
+
+## Bibliografia
+
+BARBOSA, Simone D. J. Interação humano-computador. Rio de Janeiro: Elsevier, 2010.
+
+CARD, Stuart K. The psychology of human-computer interaction. Hillsdale: Lawrence Erlbaum Associates, 1983.
 
 ## Histórico de Versão
 
