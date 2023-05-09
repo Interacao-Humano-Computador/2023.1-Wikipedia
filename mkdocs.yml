@@ -36,6 +36,7 @@ nav:
       - 01/04/2023: atas/ata_01_04.md  
       - 07/04/2023: atas/ata_07_04.md
       - 21/04/2023: atas/ata_21_04.md
+      - 05/05/2023: atas/ata_05_05.md
   - Planejamento:
       - Cronogramas: 
         - Planejado: planejamento/cronogramaPlanejado.md
@@ -47,9 +48,13 @@ nav:
       - Ferramentas: planejamento/ferramentas.md
       - Disponibildade dos Membros: planejamento/disponibilidade.md   
       - Processo de Design: planejamento/processo.md
-  - Elicitação:
-      - Personas: elicitacoes/personas.md
-      - Aspectos eticos: elicitacoes/aspectosEticos.md
+  - Análise de Requisitos:
+      - Perfil de Usuário: analise-de-requisitos/perfilDeUsuario.md 
+      - Personas: analise-de-requisitos/personas.md
+      - Aspectos eticos: analise-de-requisitos/aspectosEticos.md
+      - Análise de Tarefas:
+        - AHT: analise-de-requisitos/aht.md
+        - GOMS: analise-de-requisitos/goms.md
   - Politicas:
       - Metodologias: politicas/metodologias.md
       - Issues: politicas/issues.md
