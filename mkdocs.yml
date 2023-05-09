@@ -48,9 +48,12 @@ nav:
       - Ferramentas: planejamento/ferramentas.md
       - Disponibildade dos Membros: planejamento/disponibilidade.md   
       - Processo de Design: planejamento/processo.md
-  - Elicitação:
-      - Perfil de Usuário: elicitacoes/perfilDeUsuario.md 
-      - Personas: elicitacoes/personas.md
+  - Análise de Requisitos:
+      - Personas: analise-de-requisitos/personas.md
+      - Perfil de Usuário: analise-de-requisitos/perfilDeUsuario.md 
+      - Análise de Tarefas:
+        - AHT: analise-de-requisitos/aht.md
+        - GOMS: analise-de-requisitos/goms.md
   - Politicas:
       - Metodologias: politicas/metodologias.md
       - Issues: politicas/issues.md
