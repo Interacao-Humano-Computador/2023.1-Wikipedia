@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Os aspectos éticos de pesquisa são cruciais para garantir que os participantes sejam tratados com respeito e dignidade, e que a pesquisa seja realizada de maneira justa e responsável. No Brasil, a Resolução no 196/96 do Conselho Nacional de Saúde (1996) re-gulamenta as pesquisas científi cas envolvendo pessoas, em qualquer área do conhe-cimento. Apesar de essa resolução não se aplicar à execução de métodos de avaliação com objetivos técnicos, suas recomendações são muito úteis para orientar os avalia-dores no cuidado ético durante seu trabalho [1]. Essa resolução tem como base os seguintes princípios:
+Os aspectos éticos de pesquisa são cruciais para garantir que os participantes sejam tratados com respeito e dignidade, e que a pesquisa seja realizada de maneira justa e responsável. No Brasil, a Resolução no 196/96 do Conselho Nacional de Saúde (1996) regulamenta as pesquisas científicas envolvendo pessoas, em qualquer área do conhecimento. Apesar de essa resolução não se aplicar à execução de métodos de avaliação com objetivos técnicos, suas recomendações são muito úteis para orientar os avaliadores no cuidado ético durante seu trabalho [1]. Essa resolução tem como base os seguintes princípios:
 
 - princípio da autonomia: envolve obter o consentimento livre e esclarecido dos indivíduos e proteger grupos vulneráveis e legalmente incapazes, como menores de idade e alunos. A pesquisa deve tratar os participantes com dignidade, respeitar sua autonomia e protegê-los em sua vulnerabilidade.
 - princípio da beneficência: envolve pesar os riscos e benefícios, individuais ou coletivos, visando o máximo de benefícios e o mínimo de danos e riscos. Os danos podem ocorrer em várias dimensões do ser humano, tanto durante como após a pesquisa.
@@ -18,7 +18,7 @@ A figura 1 apresenta o termo de consentimento utilizado no projeto.
 ![Termo de Consentimento](../images/termoConsentimento.png)
 
 <div style="text-align: center">
-<p>Figura 1: Termo de Consentimento</p>
+<p>Figura 1: Termo de Consentimento, versão 1.(Fonte: Autores. 2023).</p>
 </div>
 
 ## Referência Bibliográfica
