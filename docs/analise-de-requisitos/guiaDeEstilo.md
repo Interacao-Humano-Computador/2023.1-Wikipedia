@@ -18,13 +18,13 @@ Outro objetivo importante do Guia de Estilo é melhorar a usabilidade do produto
 
 Por fim, o Guia de Estilo pode ser uma ferramenta valiosa para manter a consistência da marca e a identidade visual do produto. Ele pode incluir diretrizes para o uso da marca, como a cor e a tipografia da logomarca, garantindo que o produto final reflita a identidade da marca de forma consistente e coerente.
 
-### Organização e contéudo do guia de estilo
+### Organização e conteúdo do guia de estilo
 
-1. Introdução (com Objetivo do guia de estilo, Organização e conteúdo do guia de estilo, Públicoalvo do guia de estilos (programadores, gerentes, equipe de suporte), Como utilizar o guia (em produção e manutenção), Como manter o guia.
+1. Introdução (com Objetivo do guia de estilo, Organização e conteúdo do guia de estilo, Público alvo do guia de estilos (programadores, gerentes, equipe de suporte), Como utilizar o guia (em produção e manutenção), Como manter o guia.
 2. Resultados de análise • Descrição do ambiente de trabalho do usuário
 3. Elementos de interface • Disposição espacial e grid • Janelas • Tipografia • Cores
 4. Elementos de interação • Estilos de interação • Seleção de um estilo • Aceleradores (teclas de atalho)
-5. Elementos de ação • Preenchimento de campos • Seleçã • Ativação
+5. Elementos de ação • Preenchimento de campos • Seleção • Ativação
 6. Vocabulário e padrões • Terminologia • Tipos de tela (para tarefas comuns) • Sequências de diálogos (e.g., para feedback ou confirmação de uma operação)
 
 ### Público alvo do guia de estilo (programadores, gerentes, designers, etc)
@@ -45,7 +45,7 @@ O objetivo do usuário ao acessar a Wikipedia é obter informações de forma cl
 
 ### Disposição espacial e grid
 
-O site possui um loyout em que os elementos são divididos em sessões e estes são centralizados na página. A Figura 1 a seguir demonstra a disposição dos elementos da página principal e inicial do sistema.
+O site possui um layout em que os elementos são divididos em sessões e estes são centralizados na página. A Figura 1 a seguir demonstra a disposição dos elementos da página principal e inicial do sistema.
 
 <img src="/images/guiaEstilo/layoutGrid.png"/>
 
@@ -123,7 +123,7 @@ Na Wikipédia o preenchimento de campos ocorre na maior parte da aplicação, po
 
 ### Seleção
 
-Os elesmentos de seleção são mais raros, porém pode-se encontrar campos de seleção de datas e etiquetas em algumas funcionalidades da Wikipédia.
+Os elementos de seleção são mais raros, porém pode-se encontrar campos de seleção de datas e etiquetas em algumas funcionalidades da Wikipédia. 
 
 ### Ativação
 
@@ -151,7 +151,7 @@ Línguas: escolha de idiomas
 
 ### Tipos de tela (para tarefas comuns)
 
-As principais telas da Wikipédia são as telas de leitura de artigo, a página inical e a página de edição de artigos, que podem ser observadas, respectivamente, na Figura 8, Figura 9 e Figura 10.
+As principais telas da Wikipédia são as telas de leitura de artigo, a página inicial e a página de edição de artigos, que podem ser observadas, respectivamente, na Figura 8, Figura 9 e Figura 10.
 
 <img src="/images/guiaEstilo/macacoNarigudo.png"/>
 
