@@ -1,18 +1,24 @@
 # Características da plataforma
 
-## Ciclo de vida de Mayhew
-
-
+## Introdução
+cita a Mayhew + print do diagrama dela
 
 ## Objetivo
+paragrafo simples sobre oq vai ter no documento
 
+## Portabilidade
+Onde roda(quais navegadores e tal)
 
+## Tecnologias Utilizadas
+quais coisas os cara usa pra rodar a wikipedia(tem no github)
 
-## Características da Plataforma
+## Funcionalidades
 
-## Limitações
+### Seção 1
+### Seção 2
+### Seção 3
 
-## Possibilidades
+## Limitações e Características Negativas
 
 ## Histórico de versão
 
