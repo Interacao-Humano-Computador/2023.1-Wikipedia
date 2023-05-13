@@ -23,7 +23,7 @@ Por fim, o Guia de Estilo pode ser uma ferramenta valiosa para manter a consist�
 1. Introdução (com Objetivo do guia de estilo, Organização e conteúdo do guia de estilo, Públicoalvo do guia de estilos (programadores, gerentes, equipe de suporte), Como utilizar o guia (em produção e manutenção), Como manter o guia.
 2. Resultados de análise • Descrição do ambiente de trabalho do usuário
 3. Elementos de interface • Disposição espacial e grid • Janelas • Tipografia • Cores
-4. Elementos de interação - • Estilos de interação • Seleção de um estilo • Aceleradores (teclas de atalho)
+4. Elementos de interação • Estilos de interação • Seleção de um estilo • Aceleradores (teclas de atalho)
 5. Elementos de ação • Preenchimento de campos • Seleçã • Ativação
 6. Vocabulário e padrões • Terminologia • Tipos de tela (para tarefas comuns) • Sequências de diálogos (e.g., para feedback ou confirmação de uma operação)
 
@@ -99,22 +99,82 @@ O site utiliza as cores azul e branco, como pode ser visto na Figura 6.
 
 ### Estilos de interação
 
+Na Wikipédia a interação com o usuário é feita por meio de hiperlinks e ícones que funcionam como pontes para outras páginas.
+
 ### Seleção de um estilo
 
+Na Wikipédia foi optado por um estilo bem minimalista, pois dado a grande quantidade de telas e funcionalidades uma interface com muitas cores e elementos poderia deixaria a interface poluída.
+
 ### Aceleradores (teclas de atalho)
+
+A Wikipédia possui um menu de acesso rápido para os principais tópicos pesquisados, por tanto podemos ver acesse acelerador na Figura 7.
+
+<img src="/images/guiaEstilo/acelerador.png"/>
+
+<div style="text-align: center">
+    <p> Figura 7: Acelerador (Fonte: Wikipédia. 2023).</p>
+</div>
 
 ## Elementos de ação
 
 ### Preenchimento de campos
 
+Na Wikipédia o preenchimento de campos ocorre na maior parte da aplicação, pois o site se baseia principalmente na criação e edição de artigos de texto e campos de pesquisa. 
+
 ### Seleção
 
+Os elesmentos de seleção são mais raros, porém pode-se encontrar campos de seleção de datas e etiquetas em algumas funcionalidades da Wikipédia. 
+
 ### Ativação
+
+A ativação acontece por meio de hiperlinks e ícones.
 
 ## Vobabulário e padrões
 
 ### Terminologia
 
+Editar: abre o editor de artigos
+
+Ver histórico: exibe histórico de alterações do artigo
+
+Línguas: escolha de idiomas
+
+Ìcone de pessoa: área de controle do perfil do usuário
+
+Ícone de lista com estrela: páginas visitadas
+
+Ícone de caixa aberta: notificações
+
+Ícone de sino: Alertas
+
+Ícone de marca páginas: gravar configurações de filtros atuais
+
 ### Tipos de tela (para tarefas comuns)
 
+As principais telas da Wikipédia são as telas de leitura de artigo, a página inical e a página de edição de artigos, que podem ser observadas, respectivamente, na Figura 8, Figura 9 e Figura 10.
+
+<img src="/images/guiaEstilo/macacoNarigudo.png"/>
+
+<div style="text-align: center">
+    <p> Figura 8: Página de leitura de artigo (Fonte: Wikipédia. 2023).</p>
+</div>
+
+<br/><br/>
+
+<img src="/images/guiaEstilo/homePage.png"/>
+
+<div style="text-align: center">
+    <p> Figura 9: Página inicial (Fonte: Wikipédia. 2023).</p>
+</div>
+
+<br/><br/>
+
+<img src="/images/guiaEstilo/paginaEdicao.png"/>
+
+<div style="text-align: center">
+    <p> Figura 10: Página de edição (Fonte: Wikipédia. 2023).</p>
+</div>
+
 ### Sequências de dialógos (para feedback ou confirmação de operação)
+
+A Wikipédia não possui nenhum tipo de confirmação de operações e os feedbacks só são dados quando a ação foi completamente realizada.
