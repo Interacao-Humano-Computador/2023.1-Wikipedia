@@ -36,6 +36,7 @@ O público-alvo do Guia de Estilo são as equipes envolvidas no desenvolvimento 
 Para manter a eficácia do Guia de Estilo, é importante atualizá-lo regularmente com novas decisões de design e mudanças na identidade visual ou nas diretrizes de marca. A equipe de design deve garantir que todas as mudanças e atualizações sejam documentadas no Guia de Estilo e que as informações estejam sempre acessíveis e atualizadas. Além disso, é importante educar e conscientizar a equipe de desenvolvimento sobre o uso e a importância do Guia de Estilo, garantindo que ele seja seguido de forma consistente em todas as etapas do projeto. Ao manter o Guia de Estilo atualizado e fazer com que a equipe de desenvolvimento o siga adequadamente, é possível garantir a consistência do design e da identidade visual do produto, melhorar a eficácia da equipe e a satisfação do cliente.
 
 ## Resultados de análise
+
 ### Descrição de ambiente de trabalho do usuário
 
 O objetivo do usuário ao acessar a Wikipedia é obter informações de forma clara e objetiva. Por isso, é importante que o site apresente um layout simples e organizado, para que o usuário possa encontrar facilmente o que está procurando. Além disso, é fundamental que o conteúdo dos artigos seja de fácil compreensão e apresentado de forma coerente, com informações precisas e confiáveis. É importante que os links para outras páginas da Wikipedia estejam disponíveis e facilmente acessíveis, para que o usuário possa aprofundar seus conhecimentos sobre o assunto que está pesquisando.
@@ -63,7 +64,6 @@ São diversas as janelas contidas no site, porém, pode-se destacar as principai
 </div>
 
 <img src="/images/guiaEstilo/telaInicial.png"/>
-
 
 <div style="text-align: center">
     <p> Figura 3: Página inicial (Fonte: Wikipedia. 2023).</p>
@@ -119,11 +119,11 @@ A Wikipédia possui um menu de acesso rápido para os principais tópicos pesqui
 
 ### Preenchimento de campos
 
-Na Wikipédia o preenchimento de campos ocorre na maior parte da aplicação, pois o site se baseia principalmente na criação e edição de artigos de texto e campos de pesquisa. 
+Na Wikipédia o preenchimento de campos ocorre na maior parte da aplicação, pois o site se baseia principalmente na criação e edição de artigos de texto e campos de pesquisa.
 
 ### Seleção
 
-Os elesmentos de seleção são mais raros, porém pode-se encontrar campos de seleção de datas e etiquetas em algumas funcionalidades da Wikipédia. 
+Os elesmentos de seleção são mais raros, porém pode-se encontrar campos de seleção de datas e etiquetas em algumas funcionalidades da Wikipédia.
 
 ### Ativação
 
@@ -139,7 +139,7 @@ Ver histórico: exibe histórico de alterações do artigo
 
 Línguas: escolha de idiomas
 
-Ìcone de pessoa: área de controle do perfil do usuário
+Ícone de pessoa: área de controle do perfil do usuário
 
 Ícone de lista com estrela: páginas visitadas
 
@@ -178,3 +178,15 @@ As principais telas da Wikipédia são as telas de leitura de artigo, a página 
 ### Sequências de dialógos (para feedback ou confirmação de operação)
 
 A Wikipédia não possui nenhum tipo de confirmação de operações e os feedbacks só são dados quando a ação foi completamente realizada.
+
+## Bibliografia
+
+BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador. 1ª Edição. Elsevier, 2010.
+
+Guia de estilo do projeto Skoob. Disponível em: <https://interacao-humano-computador.github.io/2022.2-Skoob/analise-de-requisitos/guia-de-estilo/>. Acesso em: 13 de maio de 2023.
+
+## Histórico de Versão
+
+| Versão | Data       | Descrição            | Autor(es)        | Revisor(es)      |
+| ------ | ---------- | -------------------- | ---------------- | ---------------- |
+| 1.0    | 13/05/2023 | Criação do documento | Chaydson e Lucas | Gabriel e Samuel |
