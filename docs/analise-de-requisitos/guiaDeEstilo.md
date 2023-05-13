@@ -36,18 +36,64 @@ O público-alvo do Guia de Estilo são as equipes envolvidas no desenvolvimento 
 Para manter a eficácia do Guia de Estilo, é importante atualizá-lo regularmente com novas decisões de design e mudanças na identidade visual ou nas diretrizes de marca. A equipe de design deve garantir que todas as mudanças e atualizações sejam documentadas no Guia de Estilo e que as informações estejam sempre acessíveis e atualizadas. Além disso, é importante educar e conscientizar a equipe de desenvolvimento sobre o uso e a importância do Guia de Estilo, garantindo que ele seja seguido de forma consistente em todas as etapas do projeto. Ao manter o Guia de Estilo atualizado e fazer com que a equipe de desenvolvimento o siga adequadamente, é possível garantir a consistência do design e da identidade visual do produto, melhorar a eficácia da equipe e a satisfação do cliente.
 
 ## Resultados de análise
-
 ### Descrição de ambiente de trabalho do usuário
+
+O objetivo do usuário ao acessar a Wikipedia é obter informações de forma clara e objetiva. Por isso, é importante que o site apresente um layout simples e organizado, para que o usuário possa encontrar facilmente o que está procurando. Além disso, é fundamental que o conteúdo dos artigos seja de fácil compreensão e apresentado de forma coerente, com informações precisas e confiáveis. É importante que os links para outras páginas da Wikipedia estejam disponíveis e facilmente acessíveis, para que o usuário possa aprofundar seus conhecimentos sobre o assunto que está pesquisando.
 
 ## Elementos de interface
 
 ### Disposição espacial e grid
 
+O site possui um loyout em que os elementos são divididos em sessões e estes são centralizados na página. A Figura 1 a seguir demonstra a disposição dos elementos da página principal e inicial do sistema.
+
+<img src="/images/guiaEstilo/layoutGrid.png"/>
+
+<div style="text-align: center">
+    <p> Figura 1: Layout (Fonte: Autores. 2023).</p>
+</div>
+
 ### Janelas
+
+São diversas as janelas contidas no site, porém, pode-se destacar as principais, como a página inicial, a página de um artigo qualquer, e a página de edição de um artigo. As páginas citadas podem ser visualizadas na Figura 2, Figura 3 e Figura 4.
+
+<img src="/images/guiaEstilo/telaArtigo.png"/>
+
+<div style="text-align: center">
+    <p> Figura 2: Página de um artigo (Fonte: Wikipedia. 2023).</p>
+</div>
+
+<img src="/images/guiaEstilo/telaInicial.png"/>
+
+
+<div style="text-align: center">
+    <p> Figura 3: Página inicial (Fonte: Wikipedia. 2023).</p>
+</div>
+
+<img src="/images/guiaEstilo/telaEdicao.png"/>
+
+<div style="text-align: center">
+    <p> Figura 4: Página de edição de um artigo (Fonte: Wikipedia. 2023).</p>
+</div>
 
 ### Tipografia
 
+O site utiliza o Sans Serif (Figura 5) como família de fonte com tamanho de 16px.
+
+<img src="/images/guiaEstilo/fonte.png"/>
+
+<div style="text-align: center">
+    <p> Figura 5: Tipografia do Sans serif (Fonte: Microsoft. 2023).</p>
+</div>
+
 ### Cores
+
+O site utiliza as cores azul e branco, como pode ser visto na Figura 6.
+
+<img src="/images/guiaEstilo/paleta.png"/>
+
+<div style="text-align: center">
+    <p> Figura 6: Paleta de cores da wikipedia (Fonte: Autores. 2023).</p>
+</div>
 
 ## Elementos de interação
 
