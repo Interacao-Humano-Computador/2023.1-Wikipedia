@@ -16,17 +16,58 @@ Com base nisso, foi realizado uma análise na plataforma Wikipedia em três nave
 
 ## Tecnologias Utilizadas
 
-quais coisas os cara usa pra rodar a wikipedia(tem no github)
+A Wikipedia é construída utilizando várias tecnologias e ferramentas para gerenciar seu conteúdo e permitir a colaboração dos usuários. Algumas das principais tecnologias usadas na construção da Wikipedia são:
+
+MediaWiki: A Wikipedia é alimentada pelo software MediaWiki, que é uma plataforma de gerenciamento de conteúdo de código aberto. O MediaWiki é escrito principalmente em PHP e utiliza um banco de dados, geralmente o MySQL, para armazenar o conteúdo.
+
+HTML/CSS: A interface da Wikipedia é criada usando HTML (Hypertext Markup Language) e CSS (Cascading Style Sheets). O HTML é usado para estruturar o conteúdo da página, enquanto o CSS é usado para estilizar a aparência visual.
+
+JavaScript: A Wikipedia utiliza JavaScript para adicionar interatividade e funcionalidades adicionais à interface. O JavaScript é usado para implementar recursos como menus suspensos, sugestões de pesquisa, exibição de imagens em miniatura e muito mais.
+
+Servidores web: A Wikipedia é hospedada em um conjunto de servidores web distribuídos ao redor do mundo para garantir o acesso rápido e confiável ao site. O software de servidor web mais comumente usado é o Apache.
+
+Banco de dados: A Wikipedia armazena seu conteúdo, histórico de revisões e outros dados em um banco de dados, geralmente o MySQL. Isso permite a recuperação eficiente das informações e o controle de versões.
+
+Git: O Git é um sistema de controle de versão distribuído amplamente utilizado para gerenciar o código-fonte do software MediaWiki e o controle de revisões da Wikipedia. Ele permite que vários colaboradores trabalhem juntos, rastreiem alterações, resolvam conflitos e revertam edições, se necessário.
+
+APIs: A Wikipedia fornece APIs (Interfaces de Programação de Aplicativos) para permitir o acesso aos seus dados por meio de aplicativos de terceiros. As APIs fornecem métodos para recuperar informações da Wikipedia, como páginas, imagens, categorias, histórico de revisões e muito mais.
 
 ## Funcionalidades
 
-### Seção 1
+Pesquisa: A Wikipedia oferece uma função de pesquisa que permite aos usuários encontrar artigos sobre uma ampla gama de tópicos. Os usuários podem pesquisar por palavras-chave, frases ou nomes específicos.
 
-### Seção 2
+Navegação por categorias: Os artigos da Wikipedia são organizados em categorias temáticas, permitindo que os usuários naveguem por tópicos relacionados e descubram novos conteúdos.
 
-### Seção 3
+Criação de artigos: A Wikipedia possui milhões de artigos escritos por colaboradores de todo o mundo. Esses artigos abrangem uma ampla gama de tópicos, incluindo ciência, história, cultura, tecnologia, geografia, entre outros. E esses artigos são criados pela própria comunidade.
+
+Edição de artigos: Uma das características distintivas da Wikipedia é que qualquer pessoa pode editar os artigos. Os usuários podem fazer correções, adicionar informações, remover conteúdo impreciso ou desatualizado, criar novos artigos e melhorar o conteúdo existente.
+
+Versões em vários idiomas: A Wikipedia está disponível em muitos idiomas diferentes, o que permite que os usuários acessem informações em sua língua materna ou em qualquer idioma que desejem.
+
+Hiperlinks: Os artigos da Wikipedia contêm hiperlinks que conectam palavras e frases relevantes a outros artigos relacionados. Isso permite que os usuários naveguem facilmente entre tópicos relacionados e aprofundem seu conhecimento.
+
+Discussões: Cada artigo da Wikipedia possui uma página de discussão onde os usuários podem debater sobre o conteúdo, propor alterações, discutir pontos de vista e resolver disputas.
+
+Histórico de revisões: Cada artigo da Wikipedia possui um histórico completo de revisões, permitindo que os usuários visualizem todas as alterações feitas ao longo do tempo. Isso promove a transparência e permite que os usuários acompanhem a evolução do conteúdo.
+
+Portal comunitário: A Wikipedia possui um portal que serve como ponto central para a comunidade de colaboradores. Ele oferece recursos, orientações, fóruns de discussão e áreas de suporte para os usuários.
+
+Fóruns de discussão do usuário: Além das páginas de usuário, os usuários da Wikipedia também têm fóruns de discussão dedicadas, onde podem se comunicar com outros usuários, receber mensagens e discutir questões relacionadas à edição e ao conteúdo.
+
+Recomendações de leitura: Muitos artigos da Wikipedia incluem uma seção de "Leitura adicional" que fornece recomendações de livros, artigos, pesquisas ou outras fontes relevantes para obter mais informações sobre o tópico.
+
+Monitoramento de alterações: Os usuários podem monitorar as alterações feitas em artigos específicos ou em sua lista de artigos vigiados. Isso permite que eles acompanhem as atualizações e sejam notificados sobre alterações relevantes.
+
+Conteúdo multimídia: Além de texto, a Wikipedia permite a inclusão de conteúdo multimídia, como imagens, gráficos, áudio e vídeo, enriquecendo a experiência do usuário.
+
+Estatísticas e métricas: A Wikipedia oferece informações estatísticas sobre o número de artigos, colaboradores ativos, visualizações de página e outras métricas relacionadas ao seu conteúdo e atividade.
+
+Listas e resumos: Além de artigos completos, a Wikipedia também possui listas, resumos e sumários que fornecem informações concisas e organizadas sobre determinados tópicos.
+
 
 ## Limitações e Características Negativas
+
+A Wikipédia apresenta algumas limitações e características negativas. Por exemplo, podemos citar a dificuldade para encontrar e realizar edições em artigos, devido à grande quantidade de cliques e opções oferecidas, acarretando em um aprendizado lento, onde o usuário precisa decorar o caminho para realizar um caminho que é de uma das principais funcionalidades do sistema. Outro aspecto negativo é a falta de feedback para o usuário, onde em nenhum momento o sistema deixa claro o que está acontecendo. Por fim, vale ressaltar a falta de mecanismos de prevenção de erros, pois quando uma ação é tomada pelo usuário, mesmo se ela for muito importante, muitas vezes o sistema executa sem pedir confirmação.
 
 ## Histórico de versão
 
@@ -39,5 +80,7 @@ quais coisas os cara usa pra rodar a wikipedia(tem no github)
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
 ISO 25010 . Disponível em: [https://iso25000.com/index.php/en/iso-25000-standards/iso-25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010). Acesso em: 13 maio. 2023.
+
+SimplesNacional. Disponível em: Disponível em: [https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Tarefas/CaracteristicasPlataforma/](interacao-humano-computador.github.io/2022.2-SimplesNacional/Tarefas/CaracteristicasPlataforma). Acesso em: 13 maio. 2023.
 
 ‌
