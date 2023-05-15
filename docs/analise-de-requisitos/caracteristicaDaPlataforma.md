@@ -2,11 +2,11 @@
 
 ## Introdução
 
-A plataforma é uma estrutura tecnológica que suporta o desenvolvimento e execução de aplicações. Seguindo o ciclo de vida Mayhew, sua criação começa com o planejamento e identificação de necessidades. Em seguida, ocorre o design da arquitetura e a implementação dos componentes. Após a fase de desenvolvimento, a plataforma é disponibilizada aos usuários, com suporte e manutenção contínuos. Por fim, a evolução ocorre para se adaptar a novas demandas e tecnologias. Uma plataforma eficaz deve ser planejada, projetada, desenvolvida, operada e evoluída com foco na usabilidade, desempenho e relevância.
+A plataforma é uma estrutura tecnológica que suporta o desenvolvimento e execução de aplicações. Seguindo o ciclo de vida Mayhew, sua criação começa com o planejamento e identificação de necessidades. Em seguida, ocorre o design da arquitetura e a implementação dos componentes. Após a fase de desenvolvimento, a plataforma é disponibilizada aos usuários, com suporte e manutenção contínuos. Por fim, a evolução ocorre para se adaptar a novas demandas e tecnologias. Uma plataforma eficaz deve ser projetada, desenvolvida, operada e evoluída com foco na usabilidade, desempenho e relevância.
 
 ## Objetivo
 
-O objetivo desta página é descrever as características do site Wikipedia, a fim de realizar um levantamento de requisitos e desenvolver propostas de intervenções para a melhoria da plataforma. Neste artefato, serão listadas características como portabilidade, tecnologias utilizadas, funcionalidades, limitações e características negativas.
+O objetivo desta página é descrever as características do site Wikipedia, a fim de realizar uma elicitação de requisitos e desenvolver propostas de intervenções para a melhoria da plataforma. Neste artefato, serão listadas características como portabilidade, tecnologias utilizadas, funcionalidades, limitações e características negativas.
 
 ## Portabilidade
 
@@ -67,7 +67,7 @@ Listas e resumos: Além de artigos completos, a Wikipedia também possui listas,
 
 ## Limitações e Características Negativas
 
-A Wikipédia apresenta algumas limitações e características negativas. Por exemplo, podemos citar a dificuldade para encontrar e realizar edições em artigos, devido à grande quantidade de cliques e opções oferecidas, acarretando em um aprendizado lento, onde o usuário precisa decorar o caminho para realizar um caminho que é de uma das principais funcionalidades do sistema. Outro aspecto negativo é a falta de feedback para o usuário, onde em nenhum momento o sistema deixa claro o que está acontecendo. Por fim, vale ressaltar a falta de mecanismos de prevenção de erros, pois quando uma ação é tomada pelo usuário, mesmo se ela for muito importante, muitas vezes o sistema executa sem pedir confirmação.
+A Wikipédia apresenta algumas limitações e características negativas que podem ser aprimoradas. Por exemplo, a plataforma pode ser melhorada no que diz respeito à facilidade de encontrar e editar artigos. Atualmente, o processo envolve uma quantidade considerável de cliques e opções, dificultando o aprendizado e exigindo que o usuário memorize os passos necessários para realizar uma edição, que é uma das principais funcionalidades do sistema. Além disso, seria benéfico implementar um sistema de feedback mais claro, proporcionando ao usuário informações sobre o que está ocorrendo durante suas interações. Por fim, é importante destacar a ausência de mecanismos de prevenção de erros, uma vez que o sistema muitas vezes executa ações importantes sem solicitar confirmação do usuário.
 
 ## Histórico de versão
 
