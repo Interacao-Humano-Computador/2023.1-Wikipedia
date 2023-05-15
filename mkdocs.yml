@@ -58,6 +58,7 @@ nav:
       - Análise de Tarefas:
         - AHT: analise-de-requisitos/aht.md
         - GOMS: analise-de-requisitos/goms.md
+      - Metas de Usabilidade: analise-de-requisitos/metasUsabilidade.md
   - Politicas:
       - Metodologias: politicas/metodologias.md
       - Issues: politicas/issues.md
