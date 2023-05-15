@@ -73,7 +73,7 @@ A Wikipédia apresenta algumas limitações e características negativas que pod
 
 | Versão |    Data    |    Descrição    |      Autor      | Revisor |
 | :-----: | :--------: | :---------------: | :--------------: | :-----: |
-|   1.0   | 13/05/2023 | Criando documento | Chaydson e Pedro |   Ana   |
+|   1.0   | 13/05/2023 | Criando documento | Samuel e Pedro |   Ana   |
 
 ## Bibliografia
 
