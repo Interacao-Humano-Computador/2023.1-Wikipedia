@@ -2,7 +2,7 @@
 
 Os Princípios Gerais do Projeto se baseiam na necessidade de projetar o sistema utilizando um modelo conceitual, o qual deve auxiliar a interpretar o relacionamento entre as ações e informações apresentadas pelo sistema e o conhecimento do mundo. Esses princípios, frequentemente usados em IHC, se baseiam em correspondência com as expectativas dos usuários; simplicidade nas estruturas das tarefas; equilíbrio entre controle e liberdade do usuário; consistência e padronização; promoção da eficiência do usuário; antecipação das necessidades do usuário; visibilidade e reconhecimento; conteúdo relevante e expressão adequada; e projeto para erros. [1]
 
-## Princípios e Diretrizes Gerais
+## Princípios Gerais
 
 - Correspondência com as Expectativas dos Usuários: O projetista deve seguir as convenções do mundo real. É importante entender a sequência de ações que são familiares aos usuários, e caso fuja um pouco do padrão deve ao menos seguir uma ordem lógica.
 
