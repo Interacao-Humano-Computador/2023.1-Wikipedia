@@ -61,6 +61,7 @@ nav:
       - Princípios Gerais do Projeto: analise-de-requisitos/principiosGerais.md
       - Características da Plataforma: analise-de-requisitos/caracteristicaDaPlataforma.md
       - Guia de estilo: analise-de-requisitos/guiaDeEstilo.md
+      - Metas de Usabilidade: analise-de-requisitos/metasUsabilidade.md
   - Politicas:
       - Metodologias: politicas/metodologias.md
       - Issues: politicas/issues.md
