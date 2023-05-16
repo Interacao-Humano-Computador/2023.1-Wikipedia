@@ -13,6 +13,10 @@ Os aspectos éticos de pesquisa são cruciais para garantir que os participantes
 
 No termo de consentimento inclui algumas informações como o objetivo da pesquisa, garantir aos participantes a confidencialidade e a privacidade dos dados brutos coletados e garantir o anonimato dos participantes, pois o objetivo principal é não prejudicá-los. Caso haja necessidade de gravação de voz ou imagem é necessário a permissão da pessoa. Tendo tudo esclarecido é assinado o termo de consentimento e ao assinar esse termo o participante atesta que entende as garantias e os riscos do estudo e concorda com sua participação naquelas condições. Uma das vias assinadas do termo de consentimento permanece com o pesquisador, enquanto a outra é entregue ao participante.
 
+### Como será aplicado
+
+O termo de consentimento será aplicado no início da pesquisa, antes de qualquer atividade, para que o participante tenha ciência do que será feito e possa decidir se quer ou não participar.
+
 A figura 1 apresenta o termo de consentimento utilizado no projeto.
 
 ![Termo de Consentimento](../images/termoConsentimento.png)
