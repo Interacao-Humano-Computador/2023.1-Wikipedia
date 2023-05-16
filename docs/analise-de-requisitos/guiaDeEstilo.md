@@ -179,6 +179,9 @@ As principais telas da Wikipédia são as telas de leitura de artigo, a página 
 
 A Wikipédia não possui nenhum tipo de confirmação de operações e os feedbacks só são dados quando a ação foi completamente realizada.
 
+## Referências bibliográficas
+[1] Processo de Design. Disponível em: https://interacao-humano-computador.github.io/2023.1-Wikipedia/planejamento/processo/ . Acesso em 15 de maio de 2023.
+
 ## Bibliografia
 
 BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador. 1ª Edição. Elsevier, 2010.
