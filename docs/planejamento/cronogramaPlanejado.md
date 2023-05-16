@@ -75,11 +75,11 @@ Tabela 3 - Cronograma da entrega 2.
 ## Entrega 3 - Princípios gerais do projeto
 
 |                    Tarefa                    |    Autor(es)    | Período de desenvolvimento |   Revisor(es)   | Período de revisão |
-| :-------------------------------------------: | :--------------: | :-------------------------: | :-------------: | :------------------: |
+| :-------------------------------------------: | :--------------: | :-------------------------: | :--------------: | :------------------: |
 |         Princípios gerais de projeto         |       Ana       |        08/05 - 12/05        |      Pedro      |    13/05 - 14/05    |
-|             Metas de usabilidade             |     Gabriel     |        08/05 - 12/05        |    Chaydson    |    13/05 - 14/05    |
-|                Guia de estilo                | Lucas / Chaydson |        08/05 - 12/05        | Gabriel / Lucas |    13/05 - 14/05    |
-| Características da plataforma para o projeto | Chaydson / Pedro |        08/05 - 12/05        |       Ana       |    13/05 - 14/05    |
+|             Metas de usabilidade             |     Gabriel     |        08/05 - 12/05        |     Chaydson     |    13/05 - 14/05    |
+|                Guia de estilo                | Lucas / Chaydson |        08/05 - 12/05        | Gabriel / Samuel |    13/05 - 14/05    |
+| Características da plataforma para o projeto |  Samuel / Pedro  |        08/05 - 12/05        |       Ana       |    13/05 - 14/05    |
 |         Gravação da apresentação         |      Grupo      |        08/05 - 12/05        |      Grupo      |    13/05 - 14/05    |
 |                 Finalização                 |      Grupo      |        08/05 - 12/05        |      Grupo      |    13/05 - 14/05    |
 
