@@ -47,7 +47,7 @@ O objetivo do usuário ao acessar a Wikipedia é obter informações de forma cl
 
 O site possui um layout em que os elementos são divididos em sessões e estes são centralizados na página. A Figura 1 a seguir demonstra a disposição dos elementos da página principal e inicial do sistema.
 
-<img src="/images/guiaEstilo/layoutGrid.png"/>
+<img src="../../images/guiaEstilo/layoutGrid.png"/>
 
 <div style="text-align: center">
     <p> Figura 1: Layout (Fonte: Autores. 2023).</p>
@@ -57,19 +57,19 @@ O site possui um layout em que os elementos são divididos em sessões e estes s
 
 São diversas as janelas contidas no site, porém, pode-se destacar as principais, como a página inicial, a página de um artigo qualquer, e a página de edição de um artigo. As páginas citadas podem ser visualizadas na Figura 2, Figura 3 e Figura 4.
 
-<img src="/images/guiaEstilo/telaArtigo.png"/>
+<img src="../../images/guiaEstilo/telaArtigo.png"/>
 
 <div style="text-align: center">
     <p> Figura 2: Página de um artigo (Fonte: Wikipedia. 2023).</p>
 </div>
 
-<img src="/images/guiaEstilo/telaInicial.png"/>
+<img src="../../images/guiaEstilo/telaInicial.png"/>
 
 <div style="text-align: center">
     <p> Figura 3: Página inicial (Fonte: Wikipedia. 2023).</p>
 </div>
 
-<img src="/images/guiaEstilo/telaEdicao.png"/>
+<img src="../../images/guiaEstilo/telaEdicao.png"/>
 
 <div style="text-align: center">
     <p> Figura 4: Página de edição de um artigo (Fonte: Wikipedia. 2023).</p>
@@ -79,7 +79,7 @@ São diversas as janelas contidas no site, porém, pode-se destacar as principai
 
 O site utiliza o Sans Serif (Figura 5) como família de fonte com tamanho de 16px.
 
-<img src="/images/guiaEstilo/fonte.png"/>
+<img src="../../images/guiaEstilo/fonte.png"/>
 
 <div style="text-align: center">
     <p> Figura 5: Tipografia do Sans serif (Fonte: Microsoft. 2023).</p>
@@ -89,7 +89,7 @@ O site utiliza o Sans Serif (Figura 5) como família de fonte com tamanho de 16p
 
 O site utiliza as cores azul e branco, como pode ser visto na Figura 6.
 
-<img src="/images/guiaEstilo/paleta.png"/>
+<img src="../../images/guiaEstilo/paleta.png"/>
 
 <div style="text-align: center">
     <p> Figura 6: Paleta de cores da wikipedia (Fonte: Autores. 2023).</p>
@@ -109,7 +109,7 @@ Na Wikipédia foi optado por um estilo bem minimalista, pois dado a grande quant
 
 A Wikipédia possui um menu de acesso rápido para os principais tópicos pesquisados, por tanto podemos ver acesse acelerador na Figura 7.
 
-<img src="/images/guiaEstilo/acelerador.png"/>
+<img src="../../images/guiaEstilo/acelerador.png"/>
 
 <div style="text-align: center">
     <p> Figura 7: Acelerador (Fonte: Wikipédia. 2023).</p>
@@ -153,7 +153,7 @@ Línguas: escolha de idiomas
 
 As principais telas da Wikipédia são as telas de leitura de artigo, a página inicial e a página de edição de artigos, que podem ser observadas, respectivamente, na Figura 8, Figura 9 e Figura 10.
 
-<img src="/images/guiaEstilo/macacoNarigudo.png"/>
+<img src="../../images/guiaEstilo/macacoNarigudo.png"/>
 
 <div style="text-align: center">
     <p> Figura 8: Página de leitura de artigo (Fonte: Wikipédia. 2023).</p>
@@ -161,7 +161,7 @@ As principais telas da Wikipédia são as telas de leitura de artigo, a página 
 
 <br/><br/>
 
-<img src="/images/guiaEstilo/homePage.png"/>
+<img src="../../images/guiaEstilo/homePage.png"/>
 
 <div style="text-align: center">
     <p> Figura 9: Página inicial (Fonte: Wikipédia. 2023).</p>
@@ -169,7 +169,7 @@ As principais telas da Wikipédia são as telas de leitura de artigo, a página 
 
 <br/><br/>
 
-<img src="/images/guiaEstilo/paginaEdicao.png"/>
+<img src="../../images/guiaEstilo/paginaEdicao.png"/>
 
 <div style="text-align: center">
     <p> Figura 10: Página de edição (Fonte: Wikipédia. 2023).</p>
