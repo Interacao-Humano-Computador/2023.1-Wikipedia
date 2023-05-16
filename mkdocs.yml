@@ -59,6 +59,7 @@ nav:
         - AHT: analise-de-requisitos/aht.md
         - GOMS: analise-de-requisitos/goms.md
       - Características da Plataforma: analise-de-requisitos/caracteristicaDaPlataforma.md
+      - Guia de estilo: analise-de-requisitos/guiaDeEstilo.md
   - Politicas:
       - Metodologias: politicas/metodologias.md
       - Issues: politicas/issues.md
