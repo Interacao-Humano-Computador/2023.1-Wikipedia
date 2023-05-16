@@ -1,6 +1,6 @@
 ## Introdução
 
-Bem-vindo à página de Metas de Usabilidade, nessa presente página serão definidas as metas para definir fatores  de qualidade de uso que deverão ser priorizados no projeto atual, como serão avaliados ao longo do processo de design, no caso desse projeto sendo o ciclo de vida da Engenharia da Usabilidade de Mayhew[1] como definido anteriormente.
+Bem-vindo à página de Metas de Usabilidade, nessa presente página serão definidas as metas para definir fatores  de qualidade de uso que deverão ser priorizados no projeto atual, como serão avaliados ao longo do processo de design, definindo também indicadores para definir valores que serão aceitos ou não e ideais a serem seguidos. No caso desse projeto relacionado ao processo de design, o ciclo de vida da Engenharia da Usabilidade de Mayhew[1]  foi o definido anteriormente.
 
 ## Metas de Usabilidade
 
@@ -14,23 +14,28 @@ Bem-vindo à página de Metas de Usabilidade, nessa presente página serão defi
 | Erros          | Quantos erros os usuários cometem, o quão grave são esse erros, e com que facilidade eles podem se recuperar dos erros ?    |
 | Satisfação   | O quão agradável é usar o design ?                                                                                         |
 
+<div style="text-align: center">
+    <p> Tabela 1: Componentes da Usabilidade (Fonte: Adaptado de Nielsen. 2012).</p>
+</div>
 
 Nielsen, escreve que também existem diversos outros atributos de qualidade importantes, sendo um principal, a **utilidade**, significando se a funcionalidade do design ***"faz o que o usuário necessita ?"***[2] , sendo essas qualidades, assim como a usabilidade, importantes para a sobrevivência de sistemas principalmente na web onde se qualquer dessas qualidades não for atendida as pessoas podem abandonar o sistema ou o site, principalmente por insatisfação com o mesmo, por não poder encontrar algo ou pelo motivo do mesmo ser lento.
 
 Para Preece, Rogers and Sharp[3] refere-se a garantir que a interatividade do produto seja fácil de aprender, com uso efetivo e divertido do ponto de vista do usuário, envolvendo melhorar a interatividade entre o usuário e produto para que o mesmo consiga realiza suas atividade no trabalho, na escola, na sua vida diária. Para isso as metas da Tabela 2 foram criadas para atender esses objetivos.
 
-| Componente     | Descrição                 |
-| -------------- | --------------------------- |
-| Eficiência    | Eficiente para usar         |
-| Eficácia      | Eficaz para usar            |
-| Segurança     | Seguro para se usar         |
-| Utilidade      | Ter boa utilidade           |
-| Aprendizagem   | Fácil de Aprender          |
+| Componente     |         Descrição         |
+| -------------- | :-------------------------: |
+| Eficiência    |     Eficiente para usar     |
+| Eficácia      |      Eficaz para usar      |
+| Segurança     |     Seguro para se usar     |
+| Utilidade      |      Ter boa utilidade      |
+| Aprendizagem   |     Fácil de Aprender     |
 | Memorabilidade | Fácil de lembrar como usar |
 
+<div style="text-align: center">
+    <p> Tabela 2: Metas de Usabilidade de Preece, Rogers and Sharp  (Fonte: Adaptado de  Preece, Rogers and Sharp. 2015).</p>
+</div>
 
 As metas de usabilidade geralmente são guiadas por perguntas, sendo as respostas sobre essas questões que provêm ao designer alertas sobre problemas que possam existir bem cedo durante o processo de design. Dessa maneira, com o uso desses dois pode-se definir quais atributos de qualide ou componentes da Tabela 1 ou Tabela 2, serão utilizados para definir as metas de usabilidade e o que será seguido em cada uma dessas.
-
 
 ## Metas de Usabilidade no Projeto
 
@@ -45,6 +50,19 @@ A metas de usabilidade foram definidas levando-se em consideração e baseando-s
 | M06 | Memorabilidade | O sistema é facil de se lembrar ou relembrar como usar ?                                                                        | Para atividades básicas o fluxo para se realizar a atividade é simples, entretanto para fluxo mais aprofundados do sistema é uma tarefa arduar para se lembrar a sua localização.                                                                                                                                                                                                                     | O sistema deve ser fácil de se usar através de tipografia sem serifa,  simples e palavras de hiperlinks que remetar de maneira objetiva o que o mesmo faz.                                                                                                                                                                                                                              |
 | M07 | Erros          | Quantos erros os usuários cometem, o quão grave são esse erros ?                                                              | O sistema facilmente permite que usuários revertam o erro cometido através de avisos por mensagem, e possam reverter artigos caso o mesmo não tenham sido verificado por alguma administrador do Wikipédia.                                                                                                                                                                                            | O sistema deve informar o usuário por meio de avisos de mensagens e sonoros, se possível sobre quando os usuários preencherem informações erradas em formulários simples internos do site e haver possibilidade de reveter edições que façam a qualidade de artigos diminuírem de qualidade ou não seguirem o padrão definidos nas políticas do site.                         |
 | M08 | Erros          | Com que facilidade eles podem se recuperar dos erros ?                                                                           | O sistema permite simplesmente apagar a informação errada e continua o fluxo do sistema ou com um fluxo simples bastando estar logado reverter um artigo no qual o erro foi cometido.                                                                                                                                                                                                                    | O usuário deve poder reescrever suas informações sem perder o que foi escrito anteriormente e deve haver um botão para pode reverter alterações feitas em artigos indevidamente.                                                                                                                                                                                                     |
+
+<div style="text-align: center">
+    <p> Tabela 3: Metas de Usabilidade  (Fonte: Autor. 2023).</p>
+</div>
+
+### Legenda
+
+| ID | Descrição                                                    |
+| -- | -------------------------------------------------------------- |
+| M  | Meta de Usabilidade. Ex. M01 é igual a meta de usabilidade 01 |
+<div style="text-align: center">
+    <p> Tabela 4: Legenda (Fonte: Autor. 2023).</p>
+</div>
 
 ## Referências Bibliográficas
 
