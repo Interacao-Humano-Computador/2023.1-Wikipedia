@@ -4,7 +4,7 @@ Nessa página está localizado o primeiro video de apresentação do projeto ref
 
 ## Video da Apresentação
 
-A apresentação se encontra no [link](https://www.youtube.com/watch?v=l0xgvjbAQA4)
+A apresentação se encontra no [link](https://youtu.be/pFsMw969SaY)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pFsMw969SaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
