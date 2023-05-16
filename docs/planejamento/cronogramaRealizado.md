@@ -38,11 +38,25 @@ Tabela 1 - Cronograma da entrega 1.
 |                   Finalização                   |         Grupo          |       24/04 - 05/05        |     Grupo     |   06/05 - 07/05    |
 |                Ata da reunião 4                 |         Pedro          |       05/05 - 06/05        |    Samuel     |   06/05 - 07/05    |
 
-Tabela 1 - Cronograma da entrega 2.
+Tabela 2 - Cronograma da entrega 2.
+
+## Entrega 3 - Princípios gerais do projeto
+
+|                    Tarefa                    |    Autor(es)     | Período de desenvolvimento |   Revisor(es)    | Período de revisão |
+| :------------------------------------------: | :--------------: | :------------------------: | :--------------: | :----------------: |
+|         Princípios gerais de projeto         |       Ana        |       08/05 - 14/05        |      Pedro       |   14/05 - 15/05    |
+|             Metas de usabilidade             |     Gabriel      |       08/05 - 14/05        |     Chaydson     |   14/05 - 15/05    |
+|                Guia de estilo                | Lucas / Chaydson |       08/05 - 14/05        | Gabriel / Samuel |   14/05 - 15/05    |
+| Características da plataforma para o projeto |  Samuel / Pedro  |       08/05 - 14/05        |       Ana        |   14/05 - 15/05    |
+|           Gravação da apresentação           |      Grupo       |         15/05/2023         |      Grupo       |     15/05/2023     |
+|                 Finalização                  |      Grupo       |       16/05 - 18/05        |      Grupo       |     19/05/2023     |
+
+Tabela 3 - Cronograma da entrega 3.
 
 ## Histórico de Versão
 
 | Versão | Data       | Descrição            | Autor(es) | Revisor(es) |
 | ------ | ---------- | -------------------- | --------- | ----------- |
 | 1.0    | 21/04/2023 | Criação do documento | Lucas     | Gabriel     |
-| 1.0    | 07/05/2023 | Entrega 2            | Lucas     | Gabriel     |
+| 1.1    | 07/05/2023 | Entrega 2            | Lucas     | Pedro       |
+| 1.2    | 15/05/2023 | Entrega 3            | Lucas     | Samuel      |
