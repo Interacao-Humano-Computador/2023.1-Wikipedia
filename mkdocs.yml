@@ -58,6 +58,7 @@ nav:
       - Análise de Tarefas:
         - AHT: analise-de-requisitos/aht.md
         - GOMS: analise-de-requisitos/goms.md
+      - Princípios Gerais do Projeto: analise-de-requisitos/principiosGerais.md
       - Características da Plataforma: analise-de-requisitos/caracteristicaDaPlataforma.md
       - Guia de estilo: analise-de-requisitos/guiaDeEstilo.md
   - Politicas:
