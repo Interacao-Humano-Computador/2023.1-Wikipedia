@@ -14,7 +14,15 @@ O planejamento se baseará no uso do framework DECIDE e utilizará o método da 
 
 ### Recrutamento dos participantes
 
-### cronograma da avaliação
+No contexto da atividade de [Perfil do Usuário](../../../analise-de-requisitos/perfilDeUsuario.md) e das [Personas](../../../analise-de-requisitos/personas.md), podemos identificar as qualidades necessárias para conduzir uma entrevista com um utilizador. Assim, iremos procurar por dois tipos de perfis: um menor de idade, com menos de 18 anos, e outro com idades entre 19 e 35 anos. Ambos os perfis utilizam a plataforma Wikipedia como fonte de conhecimento, seja para fins académicos ou profissionais. Para realizar o recrutamento, empregamos grupos como meio de divulgação, visando atrair pessoas que se enquadrem nos perfis mencionados acima. Adicionalmente, convidamos conhecidos que se encaixam no perfil procurado. O nosso objetivo para esta avaliação é obter a participação de dois entrevistados.
+
+### Cronograma da avaliação
+
+|    Data e horário    | Atividade                              | Autor(es)               | Revisor(es)    |
+| :-------------------: | -------------------------------------- | ----------------------- | -------------- |
+| 22/05/2023 às 21:00 | Executar teste piloto                  | Ana Luiza e Lucas Lopes | Pedro Henrique |
+| 24/05/2023 às 20:00 | Entrevistar os usuários               | Chaydson e Gabriel      | Lucas Lopes    |
+| 26/05/2023 até 22:00 | Registrar os resultados da entrevista | Samuel                  | Chaydson       |
 
 ### Papéis dos Avaliadores
 
@@ -22,7 +30,7 @@ O planejamento se baseará no uso do framework DECIDE e utilizará o método da 
 
 ### Teste Piloto
 
-## Questões Éticas 
+## Questões Éticas
 
 Ao realizar avaliações que envolvem a participação de indivíduos, é imprescindível obter o consentimento dos mesmos por meio de um Termo de Consentimento Livre e Esclarecido, em conformidade com os princípios éticos estabelecidos para o projeto.
 
@@ -32,16 +40,14 @@ Abaixo, encontra-se o Termo de Consentimento que será assinado antes da realiza
 
 [Termo de consentimento](../../../pdfs/termoConsentimentoStoryBoard.pdf)
 
-## Storyboard desenvolvido
-
 ## Bibliografia
 
 BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 
-Lichess. Disponível em: <https://interacao-humano-computador.github.io/2022.2-Lichess/>. Acesso em: 16 maio. 2023.‌
+Lichess. Disponível em: [https://interacao-humano-computador.github.io/2022.2-Lichess/](https://interacao-humano-computador.github.io/2022.2-Lichess/). Acesso em: 16 maio. 2023.‌
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição            | Autor(es) | Revisor(es) |
-| ------- | ---------- | ---------------------- | --------- | ----------- |
-| 1.0     | 16/05/2023 | Criação do documento | Pedro e Ana     | Chaydson e Pedro     |
+| Versão | Data       | Descrição            | Autor(es)   | Revisor(es)      |
+| ------- | ---------- | ---------------------- | ----------- | ---------------- |
+| 1.0     | 16/05/2023 | Criação do documento | Pedro e Ana | Chaydson e Pedro |
