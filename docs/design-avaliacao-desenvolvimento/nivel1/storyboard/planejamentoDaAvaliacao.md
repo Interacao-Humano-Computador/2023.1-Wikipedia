@@ -32,11 +32,24 @@ Abaixo, apresentamos a Tabela 1 com o cronograma da avaliação:
 
 ### Papéis dos Avaliadores
 
+Durante a entrevista com o usuário, um dos membros do grupo exercerá o papel de avaliador. Ele ficará responsável por observar os comportamentos, comunicação não verbal e respostas do entrevistado, enquanto conduz a entrevista. Terá mais um membro do grupo presente na avaliação que observará e, se necessário, auxiliará na entrevista. Esse segundo membro também será responsável por registrar as respostas do entrevistado.
+
 ### Roteiro de Perguntas
+
+As perguntas apresentadas na Figura 1 comporão a entrevista com o usuário.
+
+![Perguntas para entrevista ](../../../images/roteiroPerguntas.png)
+
+<div style="text-align: center">
+<p>Figura 1: Roteiro de perguntas, versão 1.(Fonte: Autores. 2023).</p>
+</div>
+
 
 ### Teste Piloto
 
-## Questões Éticas
+Antes de realizar a entrevista com o usuário será realizado um teste piloto. O teste piloto consiste em simular a entrevista com um membro do grupo. A partir desse teste será possível verificar se as perguntas abrangem o que é necessário para a avaliação e o tempo previsto para a entrevista. Qualquer mudança necessária será feita antes de realizar a entrevista.
+
+## Questões Éticas 
 
 Ao realizar avaliações que envolvem a participação de indivíduos, é imprescindível obter o consentimento dos mesmos por meio de um Termo de Consentimento Livre e Esclarecido, em conformidade com os princípios éticos estabelecidos para o projeto.
 
