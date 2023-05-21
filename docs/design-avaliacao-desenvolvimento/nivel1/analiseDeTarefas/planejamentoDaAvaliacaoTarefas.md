@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Bem-vindo à página de
+A análise de tarefas é uma metodologia que busca compreender como os usuários realizam suas atividades em um determinado sistema ou ambiente. Ao investigar as tarefas executadas pelos usuários, seus objetivos e necessidades, os pesquisadores podem identificar conhecimentos fundamentais para projetar interfaces mais eficientes, intuitivas e adaptadas às demandas do público-alvo. Durante a etapa de análise de requisitos, foi realizada uma Análise de Tarefas utilizando as metodologias [AHT](../../../analise-de-requisitos/aht.md) e [GOMS](../../../analise-de-requisitos/goms.md) para obter informações mais detalhadas sobre as atividades executadas pelos usuários da Wikipédia. Agora, nessa etapa atual, estamos preparando o planejamento da avaliação dessas tarefas.
 
 ## Metodologia
 
