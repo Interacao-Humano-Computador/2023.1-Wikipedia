@@ -6,7 +6,7 @@ A análise de tarefas é uma metodologia que busca compreender como os usuários
 
 ## Metodologia
 
-O planejamento será fundamentado no uso do framework DECIDE, empregando o método da entrevista. A integração do framework DECIDE com o método da entrevista na avaliação oferece uma abordagem estruturada e altamente eficiente. O DECIDE desempenha um papel crucial ao estabelecer objetivos, identificar questões-chave, selecionar métodos adequados e analisar resultados. Por sua vez, as entrevistas proporcionam uma compreensão mais profunda dos participantes. Combinados, esses elementos fornecem informações valiosas para embasar decisões bem fundamentadas e impulsionar a busca pela melhoria contínua.
+O planejamento da Análise de Tarefas será fundamentado no uso do framework DECIDE, empregando o método da entrevista. A integração do framework DECIDE com o método da entrevista na avaliação oferece uma abordagem estruturada e altamente eficiente. O DECIDE desempenha um papel crucial ao estabelecer objetivos, identificar questões-chave, selecionar métodos adequados e analisar resultados. Por sua vez, as entrevistas proporcionam uma compreensão mais profunda dos participantes. Combinados, esses elementos fornecem informações valiosas para embasar decisões bem fundamentadas e impulsionar a busca pela melhoria contínua.
 
 ## Pré-Planejamento
 
@@ -27,17 +27,13 @@ Utilizando o Framework DECIDE e seus significados localizados na Tabela 1, retir
 
 ## Planejamento
 
-## Entrevista
-
-### Teste Piloto
-
 ## Determinar os objetivos
 
 ## Explorar as perguntas a serem respondidas
 
 ## Escolher(Choose) métodos de avaliação
 
-Neste estudo, optamos pela utilização do método de entrevista investigativa para coletar dados acerca das necessidades e expectativas dos usuários do Wikipédia. Esse método envolve a realização de conversas estruturadas com os usuários do sistema, seguindo um roteiro previamente planejado, com o intuito de analisar as respostas obtidas. O objetivo primordial dessa abordagem é identificar os problemas, preferências e motivações dos usuários em relação ao sistema.
+Neste estudo, optamos pela utilização do método de entrevista investigativa para coletar dados acerca das necessidades e expectativas dos usuários do Wikipédia. Esse método envolve a realização de conversas estruturadas com os usuários do sistema, seguindo um roteiro previamente planejado, com o intuito de analisar as respostas obtidas. O objetivo primordial dessa abordagem é identificar os problemas, preferências e motivações dos usuários em relação ao sistema. Tal entrevista seguirá uma estrutura de entrevista guiada, para reduzir o tempo o qual ela consumirá. 
 
 ## Identificar e administrar as questões práticas da avaliação.
 
@@ -56,7 +52,13 @@ A situação sobre como irá se lidar com as questões éticas dessa avaliação
 
 Com os dados obtidos, irá se verificar o grau de confiabilidade dos dados obtidos, observando a situação na qual os mesmos foram coletados, verificar se o que foi obtido não teve distorção tanto interna quanto externa, verificar se há possibilidade de replicar os dados no contexto esperado,sendo este, para entretenimento, estudo ou por estar entendiado. Tudo antes de um conclusão imediata e gerar uma documentação com os resultados obtidos.
 
+## Teste Piloto
+
+O teste piloto, um fase muito importante para que as entrevistas ocorram em boa forma, é precisa ser feita antes de cada entrevista para garantir que as ferramentas utilizadas estarão em perfeitas condições e verificar em caso de imprevistos a possibilidade de contornar o problema. 
+
 ## Conclusão
+
+Com essa página, espera-se que a documentação ocorra de forma simples e fidedigna ao esperado pelo planejamento, para se obter dados coesos e concisos para um bom andamento de projeto.   
 
 ## Referências Bibliográficas
 
