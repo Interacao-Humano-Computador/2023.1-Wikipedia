@@ -37,6 +37,8 @@ Utilizando o Framework DECIDE e seus significados localizados na Tabela 1, retir
 
 ## Escolher(Choose) métodos de avaliação
 
+Neste estudo, optamos pela utilização do método de entrevista investigativa para coletar dados acerca das necessidades e expectativas dos usuários do Wikipédia. Esse método envolve a realização de conversas estruturadas com os usuários do sistema, seguindo um roteiro previamente planejado, com o intuito de analisar as respostas obtidas. O objetivo primordial dessa abordagem é identificar os problemas, preferências e motivações dos usuários em relação ao sistema.
+
 ## Identificar e administrar as questões práticas da avaliação.
 
 ## Decidir como lidar com as Questões Éticas
