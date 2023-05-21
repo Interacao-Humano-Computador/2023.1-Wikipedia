@@ -10,36 +10,42 @@ A análise de tarefas é uma metodologia que busca compreender como os usuários
 
 Utilizando o Framework DECIDE e seus significados localizados na Tabela 1, retirados a partir do livro "Interação Humano-Computador e  Experiência Usuário"[1],  tudo para um melhor andamento no desenvolvimento do Planejamento da Análise de Tarefas.
 
-| Componente | Descrição |
-| :---------: | ----------- |
-| **D** |             |
-| **E** |             |
-| **C** |             |
-| **I** |             |
-| **D** |             |
-| **E** |             |
+| Componente | Descrição                                                      |
+| :---------: | ---------------------------------------------------------------- |
+| **D** | Determinar os objetivos da avaliação de IHC.                   |
+| **E** | Explorar perguntas a serem respondidas com a avaliação.        |
+| **C** | Escolher (Choose) os métodos de avaliação a serem utilizados. |
+| **I** | Identificar e administrar as questões práticas da avaliação. |
+| **D** | Decidir como lidar com as questões éticas.                     |
+| **E** | Avaliar (Evaluate), interpretar e apresentar os dados.           |
 
 <div style="text-align: center">
-    <p> Tabela 1: Framework DECIDE (Fonte: Simone e Barbosa. 2022).</p>
+    <p> Tabela 1: Framework DECIDE (Fonte:Barbosa, Silva, Silveira, et al. 2021).</p>
 </div>
 
 ## Planejamento
 
 ## Entrevista
 
-## D
+## Determinar os Objetivos
 
-## E
+## Explorar as perguntas a serem Respondidas
 
-## C
+## Escolher Métodos de Avaliação
 
-## I
+## Identificar e administrar as questões práticas da avaliação.
 
-## D
+## Decidir como lidar com as Questões Éticas
+A situação sobre como irá se lidar com as questões éticas dessa avaliação tomarão como base os [Aspectos Éticos]() do projeto, o qual visam não prejudicar direta ou indiretamente, como pode ser visto na Figura 1. 
 
-## E
+## Avaliar, intepretar e apresentar os dados
 
 ## Conclusão
+
+## Referências Bibliográficas
+
+[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
+Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
 ## Bibliografia
 
