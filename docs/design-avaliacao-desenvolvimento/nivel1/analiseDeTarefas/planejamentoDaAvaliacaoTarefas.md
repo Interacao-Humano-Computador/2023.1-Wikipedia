@@ -6,6 +6,8 @@ A análise de tarefas é uma metodologia que busca compreender como os usuários
 
 ## Metodologia
 
+A metodologia escolhida para a avaliação de tarefas será a entrevista. Por meio dessa técnica, será possível obter informações valiosas sobre as atividades realizadas, os processos envolvidos e as necessidades dos indivíduos envolvidos nas tarefas em questão. Através de perguntas cuidadosamente elaboradas e da escuta atenta, será possível compreender de forma aprofundada os desafios enfrentados, as estratégias adotadas e as possíveis melhorias a serem implementadas. A entrevista se apresenta como uma ferramenta eficaz para explorar a experiência dos participantes e fornecer uma compreensão mais profunda das tarefas em estudo, permitindo identificar informações cruciais para a análise e o aprimoramento das mesmas.
+
 ## Pré-Planejamento
 
 Utilizando o Framework DECIDE e seus significados localizados na Tabela 1, retirados a partir do livro "Interação Humano-Computador e  Experiência Usuário"[1],  tudo para um melhor andamento no desenvolvimento do Planejamento da Análise de Tarefas.
