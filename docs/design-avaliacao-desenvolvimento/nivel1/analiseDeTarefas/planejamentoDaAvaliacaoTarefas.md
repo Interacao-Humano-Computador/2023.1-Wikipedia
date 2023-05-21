@@ -6,7 +6,7 @@ A análise de tarefas é uma metodologia que busca compreender como os usuários
 
 ## Metodologia
 
-A metodologia escolhida para a avaliação de tarefas será a entrevista. Por meio dessa técnica, será possível obter informações valiosas sobre as atividades realizadas, os processos envolvidos e as necessidades dos indivíduos envolvidos nas tarefas em questão. Através de perguntas cuidadosamente elaboradas e da escuta atenta, será possível compreender de forma aprofundada os desafios enfrentados, as estratégias adotadas e as possíveis melhorias a serem implementadas. A entrevista se apresenta como uma ferramenta eficaz para explorar a experiência dos participantes e fornecer uma compreensão mais profunda das tarefas em estudo, permitindo identificar informações cruciais para a análise e o aprimoramento das mesmas.
+O planejamento será fundamentado no uso do framework DECIDE, empregando o método da entrevista. A integração do framework DECIDE com o método da entrevista na avaliação oferece uma abordagem estruturada e altamente eficiente. O DECIDE desempenha um papel crucial ao estabelecer objetivos, identificar questões-chave, selecionar métodos adequados e analisar resultados. Por sua vez, as entrevistas proporcionam uma compreensão mais profunda dos participantes. Combinados, esses elementos fornecem informações valiosas para embasar decisões bem fundamentadas e impulsionar a busca pela melhoria contínua.
 
 ## Pré-Planejamento
 
