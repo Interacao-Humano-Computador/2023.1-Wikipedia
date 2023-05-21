@@ -29,18 +29,30 @@ Utilizando o Framework DECIDE e seus significados localizados na Tabela 1, retir
 
 ## Entrevista
 
-## Determinar os Objetivos
+### Teste Piloto
 
-## Explorar as perguntas a serem Respondidas
+## Determinar os objetivos
 
-## Escolher Métodos de Avaliação
+## Explorar as perguntas a serem respondidas
+
+## Escolher(Choose) métodos de avaliação
 
 ## Identificar e administrar as questões práticas da avaliação.
 
 ## Decidir como lidar com as Questões Éticas
-A situação sobre como irá se lidar com as questões éticas dessa avaliação tomarão como base os [Aspectos Éticos]() do projeto, o qual visam não prejudicar direta ou indiretamente, como pode ser visto na Figura 1. 
 
-## Avaliar, intepretar e apresentar os dados
+A situação sobre como irá se lidar com as questões éticas dessa avaliação tomarão como base os [Aspectos Éticos](https://interacao-humano-computador.github.io/2023.1-Wikipedia/analise-de-requisitos/aspectosEticos/#como-sera-aplicado) do projeto, o qual visam não prejudicar direta ou indiretamente, como pode ser visto na Figura 1.
+
+![Termo de Consentimento](../../../images/termoConsentimento.png)
+
+<div style="text-align: center">
+<p>Figura 1: Termo de Consentimento, versão 1.(Fonte: Autores. 2023).</p>
+</div>
+
+
+## Avaliar(Evaluate), intepretar e apresentar os dados
+
+Com os dados obtidos, irá se verificar o grau de confiabilidade dos dados obtidos, observando a situação na qual os mesmos foram coletados, verificar se o que foi obtido não teve distorção tanto interna quanto externa, verificar se há possibilidade de replicar os dados no contexto esperado,sendo este, para entretenimento, estudo ou por estar entendiado. Tudo antes de um conclusão imediata e gerar uma documentação com os resultados obtidos.
 
 ## Conclusão
 
