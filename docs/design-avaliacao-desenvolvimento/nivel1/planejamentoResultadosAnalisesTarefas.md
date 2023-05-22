@@ -34,10 +34,6 @@ Além disso, antes de prosseguir com as entrevistas, é altamente recomendado re
 
 Dessa forma, ao envolver o participante no planejamento e execução das entrevistas e realizar um teste piloto, aumentamos a probabilidade de obter dados de qualidade e uma experiência geral mais satisfatória para todas as partes envolvidas.
 
-## Tarefas
-
-É PRECISO DEFINIR AS TAREFAS QUE SERÃO EXECUTADAS NO PLANEJAMENTO DA ANÁLISE DE TAREFAS
-
 ## Conclusão
 
 Ao concluir a avaliação, é essencial que os avaliadores elaborem um relatório consolidado dos resultados obtidos. Esse relatório normalmente é apresentado em forma de documento, seguindo as diretrizes propostas por Barbosa e Silva (2021).
