@@ -143,6 +143,10 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 ## Bibliografia
 
+Simples Nacional. Disponível em: https://interacao-humano-computador.github.io/2022.2-SimplesNacional/. Acesso em 21 de maio de 2023.
+
+Lichess. Disponível em: https://interacao-humano-computador.github.io/2022.2-Lichess/. Acesso em 20 de maio de 2023.
+
 ## Histórico de Versão
 
 | Versão | Data  | Descrição            | Autor(es)        | Revisor(es) |
