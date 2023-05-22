@@ -35,28 +35,27 @@ O objetivo desse documento visa planejar a avaliação da análise de tarefas e 
 
 As perguntas base para tais atividades foram desenvolvidas no mesmo sentido do objetivo planejado anteriormente. Resultando na Tabela 2, qual contém perguntas essenciais para se responder e obter dados para a melhoria do site.
 
-| Número Questão | Questão                                                                                                | Opções para Resposta    | Tipo de Resposta |
-| :--------------: | ------------------------------------------------------------------------------------------------------- | ------------------------- | :--------------: |
-|        1        | Qual a sua idade?                                                                                       | Resposta                  |     Fechada     |
-|        2        | Qual o seu nome?                                                                                        |                           |     Fechada     |
-|        3        | Qual o seu nível de formação acadêmica?                                                             |                           |     Fechada     |
-|        4        | Já realizou algum tipo de leitura que envolvesse alguma curiosidade sua, sem envolver meio acadêmico? |                           |     Fechada     |
-|        5        | Você já fez a leitura de alguma página da Wikipédia?                                              |                           |     Fechada     |
-|        6        | Você já editou alguma página de Wikipédia?                                                          |                           |     Fechada     |
-|        7        | Você já criou algum artigo na Wikipédia?                                                             |                           |     Fechada     |
-|        8        | Você acha que foi fácil criar um artigo na Wikipédia?                                                |                           |     Fechada     |
-|        9        | Com relação a leitura na Wikipédia, foi fácil de entender o que estava escrito?                    | Sim (  )<br />Não (  ) |     Fechada     |
-|        10        | Você já denunciou alguma página?                                                                     | Sim (  )<br />Não (  ) |     Fechada     |
-|        11        | Teve muita dificuldade para encontrar onde denunciar página?                                           | Resposta Discusiva        |      Aberta      |
-|        12        | Alguma característica do site te prejudicou a encontrar algo?                                          | Resposta Discursiva       |      Aberta      |
-|        13        | Acredita que o site possa ser melhorado em algo? Se sim, em que o site pode ser melhorado?              | Resposta Discursiva       |      Aberta      |
-|        14        | Teve alguma característica que te ajudou ou você legal do site?                                       | Resposta Discursiva       |      Aberta      |
-|        15        | Achou útil a funcionalidade de àudio de uma página do Wikipédia?                                    | Sim (  )<br />Não (  ) |     Fechada     |
-|        16        | Em algum momento o site te ajudou em algo que teve dúvida?                                             | Sim (  )<br />Não (  ) |     Fechada     |
-|        17        | O site era simples de se usar?                                                                          | Sim (  )<br />Não (  ) |     Fechada     |
-|        18        | Acredita que conseguiria ler por longas horas horas em ambientes escuros?                               | Sim (  )<br />Não (  ) |     Fechada     |
-|        19        | Acredita que algo possa ser feito para aumentar o tempo de leitura dos artigos?                         | Sim (  )<br />Não (  ) |     Fechada     |
-
+| Número Questão | Questão                                                                                                | Opções para Resposta      | Tipo de Resposta |
+| :--------------: | ------------------------------------------------------------------------------------------------------- | --------------------------- | :--------------: |
+|        1        | Qual a sua idade?                                                                                       | Resposta                    |     Fechada     |
+|        2        | Qual o seu nome?                                                                                        |                             |     Fechada     |
+|        3        | Qual o seu nível de formação acadêmica?                                                             |                             |     Fechada     |
+|        4        | Já realizou algum tipo de leitura que envolvesse alguma curiosidade sua, sem envolver meio acadêmico? |                             |     Fechada     |
+|        5        | Você já fez a leitura de alguma página da Wikipédia?                                              |                             |     Fechada     |
+|        6        | Você já editou alguma página de Wikipédia?                                                          |                             |     Fechada     |
+|        7        | Você já criou algum artigo na Wikipédia?                                                             |                             |     Fechada     |
+|        8        | Você acha que foi fácil criar um artigo na Wikipédia?                                                |                             |     Fechada     |
+|        9        | Com relação a leitura na Wikipédia, foi fácil de entender o que estava escrito?                    | (  ) Sim<br />(  ) Não  |     Fechada     |
+|        10        | Você já denunciou alguma página?                                                                     | (  ) Sim<br />(  ) Não  |     Fechada     |
+|        11        | Teve muita dificuldade para encontrar onde denunciar página?                                           | Resposta Discusiva          |      Aberta      |
+|        12        | Alguma característica do site te prejudicou a encontrar algo?                                          | Resposta Discursiva         |      Aberta      |
+|        13        | Acredita que o site possa ser melhorado em algo? Se sim, em que o site pode ser melhorado?              | Resposta Discursiva         |      Aberta      |
+|        14        | Teve alguma característica que te ajudou ou você legal do site?                                       | Resposta Discursiva         |      Aberta      |
+|        15        | Achou útil a funcionalidade de àudio de uma página do Wikipédia?                                    | (  ) Sim<br />(  ) Não  |     Fechada     |
+|        16        | Em algum momento o site te ajudou em algo que teve dúvida?                                             | (  ) Sim<br />(  ) Não  |     Fechada     |
+|        17        | O site era simples de se usar?                                                                          | (  ) Sim<br />(  ) Não  |     Fechada     |
+|        18        | Acredita que conseguiria ler por longas horas horas em ambientes escuros?                               | (  ) Sim<br />(  ) Não  |     Fechada     |
+|        19        | Acredita que algo possa ser feito para aumentar o tempo de leitura dos artigos?                         | (  ) Sim<br />(  ) Não  |     Fechada     |
 
 <div style="text-align: center">
     <p> Tabela 2: Perguntas a Serem Respondidas(Fonte: Autores. 2023).</p>
