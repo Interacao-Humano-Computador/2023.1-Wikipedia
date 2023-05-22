@@ -33,9 +33,65 @@ Utilizando o Framework DECIDE e seus significados localizados na Tabela 1, retir
 
 ## Escolher(Choose) métodos de avaliação
 
-Neste estudo, optamos pela utilização do método de entrevista investigativa para coletar dados acerca das necessidades e expectativas dos usuários do Wikipédia. Esse método envolve a realização de conversas estruturadas com os usuários do sistema, seguindo um roteiro previamente planejado, com o intuito de analisar as respostas obtidas. O objetivo primordial dessa abordagem é identificar os problemas, preferências e motivações dos usuários em relação ao sistema. Tal entrevista seguirá uma estrutura de entrevista guiada, para reduzir o tempo o qual ela consumirá. 
+Neste estudo, optamos pela utilização do método de entrevista investigativa para coletar dados acerca das necessidades e expectativas dos usuários do Wikipédia. Esse método envolve a realização de conversas estruturadas com os usuários do sistema, seguindo um roteiro previamente planejado, com o intuito de analisar as respostas obtidas. O objetivo primordial dessa abordagem é identificar os problemas, preferências e motivações dos usuários em relação ao sistema. Tal entrevista seguirá uma estrutura de entrevista guiada, para reduzir o tempo o qual ela consumirá.
 
 ## Identificar e administrar as questões práticas da avaliação.
+
+Para a realização do método da entrevista investigativa, serão adotadas algumas etapas. Inicialmente, será realizado um processo de seleção dos participantes, com convites direcionados a indivíduos que possuam o perfil desejado para a pesquisa. Poderão ser utilizadas personas, que são representações fictícias de usuários com características específicas. Durante a entrevista, será constituída uma equipe composta por dois membros do grupo. Um deles assumirá o papel de entrevistador, conduzindo a entrevista propriamente dita, enquanto o outro membro ficará responsável por tomar notas detalhadas durante o processo.
+
+Já para a realização do método de observação utilizando o teste de usabilidade, serão seguidas determinadas diretrizes. Primeiramente, será definido um conjunto de tarefas que sejam relevantes e representativas das interações esperadas com o sistema. Os participantes selecionados serão convidados a realizar essas tarefas, enquanto são observados pelo pesquisador. Durante a observação, serão coletados dados qualitativos e quantitativos, registrando-se diversos aspectos, como comportamentos dos participantes, expressões faciais, interações realizadas e tempo gasto em cada tarefa. Esses dados serão posteriormente analisados, permitindo ao pesquisador identificar padrões e problemas recorrentes, bem como áreas específicas que necessitem de melhorias.
+
+As tabelas de 1 a 6 apresentam o cronograma planejado de cada entrevista.
+
+### Entrevista 1
+
+| Entrevistadores  | Entrevistado | Data       | Horário          | Local |
+| ---------------- | ------------ | ---------- | ----------------- | ----- |
+| Gabriel e Samuel | A definir    | 23/05/2023 | 18:00h às 20:00h | Teams |
+
+<div style="text-align: center">
+    <p> Tabela 2: Cronograma da entrevista 1 (Fonte: Autores. 2023).</p>
+</div>
+
+### Entrevista 2
+
+| Entrevistadores  | Entrevistado | Data       | Horário          | Local |
+| ---------------- | ------------ | ---------- | ----------------- | ----- |
+| Gabriel e Samuel | A definir    | 24/05/2023 | 18:00h às 20:00h | Teams |
+
+<div style="text-align: center">
+    <p> Tabela 3: Cronograma da entrevista 2 (Fonte: Autores. 2023).</p>
+</div>
+
+### Entrevista 3
+
+| Entrevistadores  | Entrevistado | Data       | Horário          | Local |
+| ---------------- | ------------ | ---------- | ----------------- | ----- |
+| Gabriel e Samuel | A definir    | 25/05/2023 | 18:00h às 20:00h | Teams |
+
+<div style="text-align: center">
+    <p> Tabela 4: Cronograma da entrevista 3 (Fonte: Autores. 2023).</p>
+</div>
+
+### Entrevista 4
+
+| Entrevistadores  | Entrevistado | Data       | Horário          | Local |
+| ---------------- | ------------ | ---------- | ----------------- | ----- |
+| Gabriel e Samuel | A definir    | 26/05/2023 | 18:00h às 20:00h | Teams |
+
+<div style="text-align: center">
+    <p> Tabela 5: Cronograma da entrevista 4 (Fonte: Autores. 2023).</p>
+</div>
+
+### Entrevista 5
+
+| Entrevistadores  | Entrevistado | Data       | Horário          | Local |
+| ---------------- | ------------ | ---------- | ----------------- | ----- |
+| Gabriel e Samuel | A definir    | 27/05/2023 | 18:00h às 20:00h | Teams |
+
+<div style="text-align: center">
+    <p> Tabela 6: Cronograma para entrevista 5 (Fonte: Autores. 2023).</p>
+</div>
 
 ## Decidir como lidar com as Questões Éticas
 
@@ -47,18 +103,17 @@ A situação sobre como irá se lidar com as questões éticas dessa avaliação
 <p>Figura 1: Termo de Consentimento, versão 1.(Fonte: Autores. 2023).</p>
 </div>
 
-
 ## Avaliar(Evaluate), intepretar e apresentar os dados
 
 Com os dados obtidos, irá se verificar o grau de confiabilidade dos dados obtidos, observando a situação na qual os mesmos foram coletados, verificar se o que foi obtido não teve distorção tanto interna quanto externa, verificar se há possibilidade de replicar os dados no contexto esperado,sendo este, para entretenimento, estudo ou por estar entendiado. Tudo antes de um conclusão imediata e gerar uma documentação com os resultados obtidos.
 
 ## Teste Piloto
 
-O teste piloto, um fase muito importante para que as entrevistas ocorram em boa forma, é precisa ser feita antes de cada entrevista para garantir que as ferramentas utilizadas estarão em perfeitas condições e verificar em caso de imprevistos a possibilidade de contornar o problema. 
+O teste piloto, um fase muito importante para que as entrevistas ocorram em boa forma, é precisa ser feita antes de cada entrevista para garantir que as ferramentas utilizadas estarão em perfeitas condições e verificar em caso de imprevistos a possibilidade de contornar o problema.
 
 ## Conclusão
 
-Com essa página, espera-se que a documentação ocorra de forma simples e fidedigna ao esperado pelo planejamento, para se obter dados coesos e concisos para um bom andamento de projeto.   
+Com essa página, espera-se que a documentação ocorra de forma simples e fidedigna ao esperado pelo planejamento, para se obter dados coesos e concisos para um bom andamento de projeto.
 
 ## Referências Bibliográficas
 
