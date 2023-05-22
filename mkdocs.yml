@@ -63,6 +63,10 @@ nav:
       - Características da Plataforma: analise-de-requisitos/caracteristicaDaPlataforma.md
       - Guia de estilo: analise-de-requisitos/guiaDeEstilo.md
       - Metas de Usabilidade: analise-de-requisitos/metasUsabilidade.md
+  - Design, Avaliação e Desenvolvimento:
+      - Nível 1:
+        - Storyboard:
+          - Planejamento do relato dos resultados: design-avaliacao-desenvolvimento/nivel1/planejamentoResultadosAvaliacaoStoryboard.md
   - Politicas:
       - Metodologias: politicas/metodologias.md
       - Issues: politicas/issues.md
