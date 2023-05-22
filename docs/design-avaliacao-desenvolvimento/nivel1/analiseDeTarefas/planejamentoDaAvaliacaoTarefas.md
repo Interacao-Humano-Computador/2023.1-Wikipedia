@@ -29,9 +29,38 @@ Utilizando o Framework DECIDE e seus significados localizados na Tabela 1, retir
 
 ## Determinar os objetivos
 
-O objetivo desse documento visa planejar a avaliação da análise de tarefas e das pessoas que irão participar, com o propósitos de verificar se tais tarefas interferem nas [metas de usabilidade](../../../analise-de-requisitos/metasUsabilidade.md) definidas pelo grupo, a experiência do usuário,a facilidade do uso do site, a experiência na leitura dos artigos para se obter de maneira útil informações relevantes e que o conteúdo lido possa ser algo em que se possa saber a confiabilidade ou não, e por último definir possíveis melhorias no design do site. Todas definidas por meio da interação da usuário com tarefas do site a serem definidas posteriormente no planejamento, para se obter o resultado dessa experiência.
+O objetivo desse documento visa planejar a avaliação da análise de tarefas e das pessoas que irão participar, com o propósitos de verificar se tais tarefas interferem nas [metas de usabilidade](../../../analise-de-requisitos/metasUsabilidade.md) definidas pelo grupo, a experiência do usuário,a facilidade do uso do site, a experiência na leitura dos artigos para se obter de maneira útil informações relevantes e que o conteúdo lido possa ser algo em que se possa saber a confiabilidade ou não, e por último definir possíveis melhorias no design do site. Todas definidas por meio da interação da usuário com tarefas do site a serem definidas posteriormente no planejamento, para se obter o resultado dessa experiência. Dessa maneira temos como
 
 ## Explorar as perguntas a serem respondidas
+
+As perguntas base para tais atividades foram desenvolvidas no mesmo sentido do objetivo planejado anteriormente. Resultando na Tabela 2, qual contém perguntas essenciais para se responder e obter dados para a melhoria do site.
+
+| Número Questão | Questão                                                                                                | Opções para Resposta | Tipo de Resposta |
+| :--------------: | ------------------------------------------------------------------------------------------------------- | ---------------------- | :--------------: |
+|        1        | Qual a sua idade?                                                                                       | Resposta               |     Fechada     |
+|        2        | Qual o seu nome?                                                                                        |                        |     Fechada     |
+|        3        | Qual o seu nível de formação acadêmica?                                                             |                        |     Fechada     |
+|        4        | Já realizou algum tipo de leitura que envolvesse alguma curiosidade sua, sem envolver meio acadêmico? |                        |     Fechada     |
+|        5        | Você já fez a leitura de alguma página da Wikipédia?                                              |                        |     Fechada     |
+|        6        | Você já editou alguma página de Wikipédia?                                                          |                        |     Fechada     |
+|        7        | Você já criou algum artigo na Wikipédia?                                                             |                        |     Fechada     |
+|        8        | Você acha que foi fácil criar um artigo na Wikipédia?                                                |                        |     Fechada     |
+|        9        | A leitura na Wikipédia foi fácil de entender o que estava escrito?                                    |                        |     Fechada     |
+|        10        | Você já denunciou alguma página?                                                                     |                        |     Fechada     |
+|        11        | Teve muita dificuldade para encontrar onde denunciar página?                                           |                        |                  |
+|        12        | Alguma característica do site te prejudicou a encontrar algo?                                          |                        |     Fechada     |
+|        13        | Acredita que o site possa ser melhorado em algo? Se sim, em que o site pode ser melhorado?              |                        |     Fechada     |
+|        14        | Teve alguma característica que te ajudou ou você legal do site?                                       |                        |     Fechada     |
+|        15        | Achou útil a funcionalidade de àudio de uma página do Wikipédia?                                    |                        |     Fechada     |
+|        16        | Em algum momento o site te ajudou em algo que teve dúvida?                                             |                        |     Fechada     |
+|        17        | O site era simples de se usar?                                                                          |                        |     Fechada     |
+|        18        | Acredita que conseguiria ler por longas horas horas em ambientes escuros?                               |                        |     Fechada     |
+|        19        | Acredita que algo possa ser feito para aumentar o tempo de leitura dos artigos?                         |                        |     Fechada     |
+
+
+<div style="text-align: center">
+    <p> Tabela 2: Perguntas a Serem Respondidas(Fonte: Autores. 2023).</p>
+</div>
 
 ## Escolher(Choose) métodos de avaliação
 
@@ -44,7 +73,7 @@ Para a realização do método da entrevista investigativa, serão adotadas algu
 
 Já para a realização do método de observação utilizando o teste de usabilidade, serão seguidas determinadas diretrizes. Primeiramente, será definido um conjunto de tarefas que sejam relevantes e representativas das interações esperadas com o sistema. Os participantes selecionados serão convidados a realizar essas tarefas, enquanto são observados pelo pesquisador. Durante a observação, serão coletados dados qualitativos, como melhorias de interfaces para facilitar certas tarefas, avisos sonoros para identificar erros ou completudes de certas atividades e quantitativos como quantidade de ações a serem feitas para realizar determinada tarefa e minutagem para o sistema perceber erros de página ou do próprio usuário. Além de registrar diversos aspectos, como comportamentos dos participantes, expressões faciais, interações realizadas e tempo gasto em cada tarefa. Esses dados serão posteriormente analisados, permitindo ao pesquisador identificar padrões e problemas recorrentes, bem como áreas específicas que necessitem de melhorias.
 
-As tabelas de 1 a 6 apresentam o cronograma planejado de cada entrevista.
+As tabelas de 3 a 6 apresentam o cronograma planejado de cada entrevista.
 
 ### Entrevista 1
 
@@ -53,7 +82,7 @@ As tabelas de 1 a 6 apresentam o cronograma planejado de cada entrevista.
 | Gabriel e Samuel | A definir    | 23/05/2023 | 18:00h às 20:00h | Teams |
 
 <div style="text-align: center">
-    <p> Tabela 2: Cronograma da entrevista 1 (Fonte: Autores. 2023).</p>
+    <p> Tabela 3: Cronograma da entrevista 1 (Fonte: Autores. 2023).</p>
 </div>
 
 ### Entrevista 2
@@ -63,7 +92,7 @@ As tabelas de 1 a 6 apresentam o cronograma planejado de cada entrevista.
 | Gabriel e Samuel | A definir    | 24/05/2023 | 18:00h às 20:00h | Teams |
 
 <div style="text-align: center">
-    <p> Tabela 3: Cronograma da entrevista 2 (Fonte: Autores. 2023).</p>
+    <p> Tabela 4: Cronograma da entrevista 2 (Fonte: Autores. 2023).</p>
 </div>
 
 ### Entrevista 3
@@ -73,7 +102,7 @@ As tabelas de 1 a 6 apresentam o cronograma planejado de cada entrevista.
 | Gabriel e Samuel | A definir    | 25/05/2023 | 18:00h às 20:00h | Teams |
 
 <div style="text-align: center">
-    <p> Tabela 4: Cronograma da entrevista 3 (Fonte: Autores. 2023).</p>
+    <p> Tabela 5: Cronograma da entrevista 3 (Fonte: Autores. 2023).</p>
 </div>
 
 ### Entrevista 4
@@ -83,17 +112,7 @@ As tabelas de 1 a 6 apresentam o cronograma planejado de cada entrevista.
 | Gabriel e Samuel | A definir    | 26/05/2023 | 18:00h às 20:00h | Teams |
 
 <div style="text-align: center">
-    <p> Tabela 5: Cronograma da entrevista 4 (Fonte: Autores. 2023).</p>
-</div>
-
-### Entrevista 5
-
-| Entrevistadores  | Entrevistado | Data       | Horário          | Local |
-| ---------------- | ------------ | ---------- | ----------------- | ----- |
-| Gabriel e Samuel | A definir    | 27/05/2023 | 18:00h às 20:00h | Teams |
-
-<div style="text-align: center">
-    <p> Tabela 6: Cronograma para entrevista 5 (Fonte: Autores. 2023).</p>
+    <p> Tabela 6: Cronograma da entrevista 4 (Fonte: Autores. 2023).</p>
 </div>
 
 ## Decidir como lidar com as Questões Éticas
