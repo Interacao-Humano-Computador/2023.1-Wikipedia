@@ -68,11 +68,11 @@ Enquanto no método de avaliação através da observação, foi optado pelo tes
 
 ## Identificar e administrar as questões práticas da avaliação.
 
-Para a realização do método da entrevista investigativa, serão adotadas algumas etapas. Inicialmente, será realizado um processo de seleção dos participantes, com convites direcionados a indivíduos que possuam o perfil desejado para a pesquisa. Serão utilizadas usuários, com características obtidas a partir do [Perfil de Usuário](../../../analise-de-requisitos/perfilDeUsuario.md). Na entrevista duas pessoas irão participar, uma como o entrevistador e guia da entrevista e outro como a pessoas que realiza a atividade de anotar pontos essenciais a reunião que podem ser úteis durante ou após a reunião.
+Para a realização do método da entrevista investigativa, serão adotadas algumas etapas. Inicialmente, será realizado um processo de seleção dos participantes, com convites direcionados a indivíduos que possuam o perfil desejado para a pesquisa. Serão utilizadas usuários, com características obtidas a partir do [Perfil de Usuário](../../../analise-de-requisitos/perfilDeUsuario.md). Na entrevista duas pessoas irão participar, uma como o entrevistador e guia da entrevista e outro como a pessoas que realiza a atividade de anotar pontos essenciais a reunião que podem ser úteis durante ou após a reunião. A motivação para escolher de 3 a 5 pessoas na entrevista, de acordo com Nielsen, com essa quantidade de pesosas é possível entender as ações que um usuário pode realizar.   
 
 Já para a realização do método de observação utilizando o teste de usabilidade, serão seguidas determinadas diretrizes. Primeiramente, será definido um conjunto de tarefas que sejam relevantes e representativas das interações esperadas com o sistema. Os participantes selecionados serão convidados a realizar essas tarefas, enquanto são observados pelo pesquisador. Durante a observação, serão coletados dados qualitativos, como melhorias de interfaces para facilitar certas tarefas, avisos sonoros para identificar erros ou completudes de certas atividades e quantitativos como quantidade de ações a serem feitas para realizar determinada tarefa e minutagem para o sistema perceber erros de página ou do próprio usuário. Além de registrar diversos aspectos, como comportamentos dos participantes, expressões faciais, interações realizadas e tempo gasto em cada tarefa. Esses dados serão posteriormente analisados, permitindo ao pesquisador identificar padrões e problemas recorrentes, bem como áreas específicas que necessitem de melhorias.
 
-As tabelas de 3 a 6 apresentam o cronograma planejado de cada entrevista.
+As tabelas de 3 a 7 apresentam o cronograma planejado de cada entrevista.
 
 ### Entrevista 1
 
@@ -114,6 +114,16 @@ As tabelas de 3 a 6 apresentam o cronograma planejado de cada entrevista.
     <p> Tabela 6: Cronograma da entrevista 4 (Fonte: Autores. 2023).</p>
 </div>
 
+### Entrevista 5
+
+| Entrevistadores  | Entrevistado | Data       | Horário          | Local |
+| ---------------- | ------------ | ---------- | ----------------- | ----- |
+| Gabriel e Samuel | A definir    | 27/05/2023 | 18:00h às 20:00h | Teams |
+
+<div style="text-align: center">
+    <p> Tabela 7: Cronograma da entrevista 5 (Fonte: Autores. 2023).</p>
+</div>
+
 ## Decidir como lidar com as Questões Éticas
 
 A situação sobre como irá se lidar com as questões éticas dessa avaliação tomarão como base os [Aspectos Éticos](https://interacao-humano-computador.github.io/2023.1-Wikipedia/analise-de-requisitos/aspectosEticos/#como-sera-aplicado) do projeto, o qual visam não prejudicar direta ou indiretamente, como pode ser visto na Figura 1.
@@ -146,6 +156,8 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 Simples Nacional. Disponível em: https://interacao-humano-computador.github.io/2022.2-SimplesNacional/. Acesso em 21 de maio de 2023.
 
 Lichess. Disponível em: https://interacao-humano-computador.github.io/2022.2-Lichess/. Acesso em 20 de maio de 2023.
+
+Nielsen, Jacob. Disponível em: https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/. Acesso em 21 de maio de 2023.
 
 ## Histórico de Versão
 
