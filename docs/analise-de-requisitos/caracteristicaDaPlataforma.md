@@ -69,12 +69,6 @@ Listas e resumos: Além de artigos completos, a Wikipedia também possui listas,
 
 A Wikipédia apresenta algumas limitações e características negativas que podem ser aprimoradas. Por exemplo, a plataforma pode ser melhorada no que diz respeito à facilidade de encontrar e editar artigos. Atualmente, o processo envolve uma quantidade considerável de cliques e opções, dificultando o aprendizado e exigindo que o usuário memorize os passos necessários para realizar uma edição, que é uma das principais funcionalidades do sistema. Além disso, seria benéfico implementar um sistema de feedback mais claro, proporcionando ao usuário informações sobre o que está ocorrendo durante suas interações. Por fim, é importante destacar a ausência de mecanismos de prevenção de erros, uma vez que o sistema muitas vezes executa ações importantes sem solicitar confirmação do usuário.
 
-## Histórico de versão
-
-| Versão |    Data    |    Descrição    |      Autor      | Revisor |
-| :-----: | :--------: | :---------------: | :--------------: | :-----: |
-|   1.0   | 13/05/2023 | Criando documento | Samuel e Pedro |   Ana   |
-
 ## Bibliografia
 
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
@@ -82,5 +76,11 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 ISO 25010 . Disponível em: [https://iso25000.com/index.php/en/iso-25000-standards/iso-25010](https://iso25000.com/index.php/en/iso-25000-standards/iso-25010). Acesso em: 13 maio. 2023.
 
 SimplesNacional. Disponível em: Disponível em: [https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Tarefas/CaracteristicasPlataforma/](interacao-humano-computador.github.io/2022.2-SimplesNacional/Tarefas/CaracteristicasPlataforma). Acesso em: 13 maio. 2023.
+
+## Histórico de versão
+
+| Versão |    Data    |    Descrição    |      Autor      | Revisor |
+| :-----: | :--------: | :---------------: | :--------------: | :-----: |
+|   1.0   | 13/05/2023 | Criando documento | Samuel e Pedro |   Ana   |
 
 ‌

@@ -91,7 +91,7 @@ Tabela 4 - Cronograma da entrega 3.
 | --------------------------------------------------------------------------- | ---------------- | --------------------------- | ---------------- | ----------------------- |
 | Planejamento da avaliação do storyboard                                   | Pedro / Ana      | 15/05 - 21/05               | Chaydson / Pedro | 21/05 - 22/05           |
 | Planejamento do relato dos resultados da avaliação do Storyboard          | Chaydson         | 15/05 - 21/05               | Gabriel          | 21/05 - 22/05           |
-| Planejamento da Avaliação da Análise de tarefas                          | Gabriel / Samuel | 15/05 - 21/05               | Lucas / Samuel   | 21/05 - 22/05           |
+| Planejamento da Avaliação da Análise de tarefas                          | Gabriel / Samuel | 15/05 - 21/05               | Lucas            | 21/05 - 22/05           |
 | Planejamento do relato dos resultados da avaliação da Análise de tarefas | Lucas            | 15/05 - 21/05               | Ana              | 21/05 - 22/05           |
 | Gravação da apresentação                                                | Grupo            | 22/05/2023                  | Grupo            | 22/05/2023              |
 | Finalização                                                               | Grupo            | 22/05/2023 - 26/05/2023     | Grupo            | 26/05/2023 - 29/05/2023 |

@@ -67,6 +67,7 @@ nav:
       - Nível 1:
         - Análise de tarefas:
           - Planejamento dos Resultados das Análises de Tarefas: design-avaliacao-desenvolvimento/nivel1/planejamentoResultadosAnalisesTarefas.md
+          - Planejamento da Avaliação: design-avaliacao-desenvolvimento/nivel1/analiseDeTarefas/planejamentoDaAvaliacaoTarefas.md
         - Storyboard: design-avaliacao-desenvolvimento/nivel1/storyboard.md
   - Politicas:
       - Metodologias: politicas/metodologias.md
