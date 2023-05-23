@@ -65,8 +65,10 @@ nav:
       - Metas de Usabilidade: analise-de-requisitos/metasUsabilidade.md
   - Design, Avaliação e Desenvolvimento:
       - Nível 1:
-        - Análise de Tarefas:
-            - Planejamento da Avaliação: design-avaliacao-desenvolvimento/nivel1/analiseDeTarefas/planejamentoDaAvaliacaoTarefas.md
+        - Análise de tarefas:
+          - Planejamento dos Resultados das Análises de Tarefas: design-avaliacao-desenvolvimento/nivel1/planejamentoResultadosAnalisesTarefas.md
+          - Planejamento da Avaliação: design-avaliacao-desenvolvimento/nivel1/analiseDeTarefas/planejamentoDaAvaliacaoTarefas.md
+        - Storyboard: design-avaliacao-desenvolvimento/nivel1/storyboard.md
   - Politicas:
       - Metodologias: politicas/metodologias.md
       - Issues: politicas/issues.md
