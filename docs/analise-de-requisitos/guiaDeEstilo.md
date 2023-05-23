@@ -35,6 +35,36 @@ O público-alvo do Guia de Estilo são as equipes envolvidas no desenvolvimento 
 
 Para manter a eficácia do Guia de Estilo, é importante atualizá-lo regularmente com novas decisões de design e mudanças na identidade visual ou nas diretrizes de marca. A equipe de design deve garantir que todas as mudanças e atualizações sejam documentadas no Guia de Estilo e que as informações estejam sempre acessíveis e atualizadas. Além disso, é importante educar e conscientizar a equipe de desenvolvimento sobre o uso e a importância do Guia de Estilo, garantindo que ele seja seguido de forma consistente em todas as etapas do projeto. Ao manter o Guia de Estilo atualizado e fazer com que a equipe de desenvolvimento o siga adequadamente, é possível garantir a consistência do design e da identidade visual do produto, melhorar a eficácia da equipe e a satisfação do cliente.
 
+### Como utilizar o guia de estilo
+
+O Guia de Estilo é uma ferramenta essencial para orientar o processo de design e desenvolvimento de um projeto, garantindo consistência e facilitando a comunicação entre as equipes envolvidas. Aqui estão algumas orientações sobre como utilizar o Guia de Estilo de forma efetiva:
+
+1 - Durante a produção:
+
+- Ao iniciar um projeto, familiarize-se com o Guia de Estilo. Leia cuidadosamente a introdução, que descreve os objetivos e a organização do guia, e entenda as principais decisões de design já tomadas.
+
+- Utilize o guia como uma referência constante durante o processo de design e desenvolvimento. Consulte as diretrizes visuais, como tipografia, cores e elementos de interface, para garantir a consistência em todo o projeto.
+
+- Ao criar novas telas ou funcionalidades, verifique se elas estão alinhadas com as diretrizes estabelecidas no Guia de Estilo. Isso ajudará a garantir a coerência visual e a usabilidade do produto final.
+
+2 - Durante a manutenção:
+
+- Mantenha o Guia de Estilo atualizado. À medida que novas decisões de design forem tomadas ou alterações forem feitas na identidade visual ou nas diretrizes de marca, documente-as no guia.
+
+- Certifique-se de que todas as equipes envolvidas no projeto estejam cientes da existência do Guia de Estilo e saibam como acessá-lo. Promova a conscientização sobre a importância de seguir as diretrizes estabelecidas para garantir a consistência e a qualidade do produto.
+
+- Realize revisões periódicas do Guia de Estilo com a equipe de desenvolvimento para garantir que ele esteja sendo seguido corretamente. Isso ajudará a identificar e corrigir possíveis desvios e garantir a conformidade com as decisões de design estabelecidas.
+
+3 - Como utilizar o guia:
+
+- O Guia de Estilo pode ser utilizado como uma fonte de referência para a implementação de novos elementos de interface, estilos de interação, ações e padrões de vocabulário. Consulte-o sempre que surgirem dúvidas sobre a maneira correta de implementar determinados elementos ou interações.
+
+- Use o Guia de Estilo como um meio de comunicação efetivo entre as equipes de design e desenvolvimento. Ao seguir as diretrizes estabelecidas no guia, a comunicação e o alinhamento entre as equipes serão facilitados, evitando retrabalhos e garantindo a consistência do produto.
+
+- Não hesite em atualizar o Guia de Estilo com base no feedback dos usuários e nas lições aprendidas ao longo do desenvolvimento. O guia deve ser um documento vivo, adaptável e aprimorado continuamente para atender às necessidades do projeto.
+
+Seguindo essas orientações, você poderá utilizar o Guia de Estilo de forma eficiente, garantindo a consistência do design, a usabilidade do produto final e uma comunicação eficaz entre as equipes envolvidas no projeto.
+
 ## Resultados de análise
 
 ### Descrição de ambiente de trabalho do usuário
