@@ -14,11 +14,11 @@ O planejamento se baseará no uso do framework DECIDE e utilizará o método da 
 
 ### Recrutamento dos participantes
 
-No contexto da atividade de [Perfil do Usuário](../../../analise-de-requisitos/perfilDeUsuario.md) e das [Personas](../../../analise-de-requisitos/personas.md), podemos identificar as qualidades necessárias para conduzir uma entrevista com um utilizador. Assim, iremos procurar por dois tipos de perfis: um menor de idade, com menos de 18 anos, e outro com idades entre 19 e 35 anos. Ambos os perfis utilizam a plataforma Wikipedia como fonte de conhecimento, seja para fins académicos ou profissionais. Para realizar o recrutamento, empregamos grupos como meio de divulgação, visando atrair pessoas que se enquadrem nos perfis mencionados acima. Adicionalmente, convidamos conhecidos que se encaixam no perfil procurado. O nosso objetivo para esta avaliação é obter a participação de dois entrevistados.
+No contexto da atividade de [Perfil do Usuário](../../../analise-de-requisitos/perfilDeUsuario.md) e das [Personas](../../../analise-de-requisitos/personas.md), podemos identificar as qualidades necessárias para conduzir uma entrevista com um utilizador. Assim, iremos procurar por dois tipos de perfis: um menor de idade, com menos de 18 anos, e outro com idades entre 19 e 35 anos. Ambos os perfis utilizam a plataforma Wikipedia como fonte de conhecimento, seja para fins acadêmicos ou profissionais. Para realizar o recrutamento, empregamos grupos como meio de divulgação, visando atrair pessoas que se enquadrem nos perfis mencionados acima. Adicionalmente, convidamos conhecidos que se encaixam no perfil procurado. O nosso objetivo para esta avaliação é obter a participação de dois entrevistados.
 
 ### Cronograma da avaliação
 
-Abaixo, apresentamos a Tabela 1 com o cronograma da avaliação:
+A seguir, apresentamos a Tabela 1 com o cronograma da avaliação:
 
 |    Data e horário    | Atividade                              | Autor(es)               | Revisor(es)    |
 | :-------------------: | -------------------------------------- | ----------------------- | -------------- |
@@ -55,7 +55,7 @@ Ao realizar avaliações que envolvem a participação de indivíduos, é impres
 
 ### Termo de Consentimento
 
-Abaixo, encontra-se o Termo de Consentimento que será assinado antes da realização da entrevista, como parte do processo necessário para obter a permissão do participante.
+A seguir, encontra-se o Termo de Consentimento que será assinado antes da realização da entrevista, como parte do processo necessário para obter a permissão do participante.
 
 [Termo de consentimento](../../../pdfs/termoConsentimentoStoryBoard.pdf)
 
