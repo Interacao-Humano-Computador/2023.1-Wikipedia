@@ -10,7 +10,7 @@ Será utilizado o método de entrevista em conjunto com o framework DECIDE para 
 
 ## Relato de Resultados
 
-Abaixo estão os elementos que devem constar no documento de relato dos resultados da avaliação do Storyboard.
+Segue a elaboração dos elementos fundamentais para o documento referente ao planejamento do relato dos resultados da avaliação do Storyboard.
 
 ### Objetivo
 
@@ -42,13 +42,10 @@ Os avaliadores devem elaborar um relatório dos resultados consolidados, seguind
 
 * os objetivos e escopo da avaliação;
 * a forma como a avaliação foi realizada (método de avaliação empregado);
-
 * o número e o perfil de usuários e avaliadores que participaram da avaliação;
 * um sumário dos dados coletados, incluindo tabelas e gráficos;
-
 * um relato da interpretação e análise dos dados;
 * uma lista dos problemas encontrados;
-
 * um planejamento para o reprojeto do sistema.
 
 ## Bibliografia
