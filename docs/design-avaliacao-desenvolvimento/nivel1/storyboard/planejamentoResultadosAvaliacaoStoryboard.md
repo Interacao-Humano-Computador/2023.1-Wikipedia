@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento apresenta o plano para relatar os resultados das entrevistas do storyboard. Ele se baseia no documento de [Planejamento da Avaliação do Storyboard](design-avaliacao-desenvolvimento/nivel1/storyboard/planejamentoDaAvaliacao.md) e desempenha um papel fundamental na organização e disposição dos dados coletados durante a fase de avaliação.
+Este documento apresenta o plano para relatar os resultados das entrevistas do storyboard. Ele se baseia no documento de [Planejamento da Avaliação do Storyboard](../storyboard/planejamentoDaAvaliacao.md) e desempenha um papel fundamental na organização e disposição dos dados coletados durante a fase de avaliação.
 
 ## Metodologia
 
