@@ -22,7 +22,7 @@ A seguir, apresentamos a Tabela 1 com o cronograma da avaliação:
 
 |    Data e horário    | Atividade                              | Autor(es)               | Revisor(es)    |
 | :-------------------: | -------------------------------------- | ----------------------- | -------------- |
-| 22/05/2023 às 21:00 | Executar teste piloto                  | Ana Luiza e Lucas Lopes | Pedro Henrique |
+| 23/05/2023 às 21:00 | Executar teste piloto                  | Ana Luiza e Lucas Lopes | Pedro Henrique |
 | 24/05/2023 às 20:00 | Entrevistar os usuários               | Chaydson e Gabriel      | Lucas Lopes    |
 | 26/05/2023 até 22:00 | Registrar os resultados da entrevista | Samuel                  | Chaydson       |
 
@@ -44,12 +44,11 @@ As perguntas apresentadas na Figura 1 comporão a entrevista com o usuário.
 <p>Figura 1: Roteiro de perguntas, versão 1.(Fonte: Autores. 2023).</p>
 </div>
 
-
 ### Teste Piloto
 
 Antes de realizar a entrevista com o usuário será realizado um teste piloto. O teste piloto consiste em simular a entrevista com um membro do grupo. A partir desse teste será possível verificar se as perguntas abrangem o que é necessário para a avaliação e o tempo previsto para a entrevista. Qualquer mudança necessária será feita antes de realizar a entrevista.
 
-## Questões Éticas 
+## Questões Éticas
 
 Ao realizar avaliações que envolvem a participação de indivíduos, é imprescindível obter o consentimento dos mesmos por meio de um Termo de Consentimento Livre e Esclarecido, em conformidade com os princípios éticos estabelecidos para o projeto.
 
