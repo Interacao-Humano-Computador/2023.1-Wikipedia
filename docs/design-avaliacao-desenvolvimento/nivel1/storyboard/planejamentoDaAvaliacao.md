@@ -64,7 +64,7 @@ A seguir, apresentamos os storyboards que serão avaliados:
 
 ### Análise de tarefa - Realização de uma pesquisa na Wikipédia
 
-Na figura 2, podemos vê o usuário fazendo uma pesquisa sobre um tema que ele tem curiosidade.
+Na figura 2, podemos ver o usuário fazendo uma pesquisa sobre um tema que ele tem curiosidade.
 
 <img src="../../../../images/storyboards/storyboard_pesquisa.png"/>
 
@@ -74,7 +74,7 @@ Na figura 2, podemos vê o usuário fazendo uma pesquisa sobre um tema que ele t
 
 ### Análise de tarefa - Informar um erro na Wikipédia
 
-Na figura 3, podemos vê o usuário identificando um erro em uma página e relatando o erro.
+Na figura 3, podemos ver o usuário identificando um erro em uma página e relatando o erro.
 
 <img src="../../../../images/storyboards/informaErro.png"/>
 
