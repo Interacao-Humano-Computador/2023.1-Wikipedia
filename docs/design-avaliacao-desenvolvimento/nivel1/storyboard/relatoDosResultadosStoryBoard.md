@@ -21,6 +21,9 @@ A avaliação dos Storyboards tem como objetivo verificar se as tarefas represen
 Usamos a metodologia de entrevista seguindo o [planejamento](relatoDosResultadosStoryBoard.md). O participante foi escolhido pensando na representatividade do público-alvo. Durante as entrevistas, o participante analisou os storyboards e foi dado feedback sobre a usabilidade e experiência do usuário. Os dados foram analisados qualitativamente, buscando padrões e pontos problemáticos. A metodologia permitiu uma avaliação abrangente, resultando em uma visão mais ampla para a construção de para melhorias no sistema.
 
 ### Avaliadores e Participantes
+Os avaliadores foram responsáveis por conduzir a entrevista, facilitando a interação com os participantes, além de analisar e interpretar os dados coletados.
+
+Os participantes foram selecionados com base em critérios específicos que refletiam o público-alvo do sistema em avaliação. Isso incluiu fatores como faixa etária, experiência prévia com tecnologia e conhecimento do domínio relevante. A seleção cuidadosa dos participantes buscou garantir uma representação adequada dos usuários reais do sistema. Durante as entrevistas, os participantes foram encorajados a expressar suas opiniões, críticas e sugestões. A interação com os participantes foi conduzida de forma respeitosa e empática, visando criar um ambiente confortável para que compartilhassem suas percepções de maneira aberta e honesta.
 
 ### Sumário dos dados
 
