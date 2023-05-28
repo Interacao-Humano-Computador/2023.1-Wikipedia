@@ -72,6 +72,16 @@ Na figura 2, podemos vê o usuário fazendo uma pesquisa sobre um tema que ele t
 <p>Figura 2: Storyboard da análise de tarefa de realizar pesquisa.(Fonte: Lucas. 2023).</p>
 </div>
 
+### Análise de tarefa - Informar um erro na Wikipédia
+
+Na figura 3, podemos vê o usuário identificando um erro em uma página e relatando o erro.
+
+<img src="../../../../images/storyboards/informaErro.png"/>
+
+<div style="text-align: center">
+<p>Figura 3: Storyboard da análise de tarefa de identificando um erro em uma página e relatando o erro.(Fonte: Pedro. 2023).</p>
+</div>
+
 ## Bibliografia
 
 BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
