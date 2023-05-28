@@ -25,6 +25,20 @@ Utilizando o Framework DECIDE e seus significados localizados na Tabela 1, retir
     <p> Tabela 1: Framework DECIDE (Fonte:Barbosa, Silva, Silveira, et al. 2021).</p>
 </div>
 
+As tarefas que serão avaliadas estão contidas na tabela 2
+
+| Número | Tarefa                                     | Rastro                                      |
+| ------- | ------------------------------------------ | ------------------------------------------- |
+| 01      | Edição de um artigo                      | [AHT](../../../analise-de-requisitos/aht.md)   |
+| 02      | Criação de um artigo na Wikipédia       | [GOMS](../../../analise-de-requisitos/goms.md) |
+| 03      | Realização de uma pesquisa na Wikipédia | [GOMS](../../../analise-de-requisitos/goms.md) |
+| 04      | Informar um erro                           | [GOMS](../../../analise-de-requisitos/goms.md) |
+| 05      | Contatar um Mentor                         | [GOMS](../../../analise-de-requisitos/goms.md) |
+
+<div style="text-align: center">
+    <p> Tabela 2: Perguntas a Serem Respondidas(Fonte: Gabriel e Samuel. 2023).</p>
+</div>
+
 ## Planejamento
 
 ## Determinar os objetivos
@@ -33,30 +47,27 @@ O objetivo desse documento visa planejar a avaliação da análise de tarefas e 
 
 ## Explorar as perguntas a serem respondidas
 
-As perguntas base para tais atividades foram desenvolvidas no mesmo sentido do objetivo planejado anteriormente. Resultando na Tabela 2, qual contém perguntas essenciais para se responder e obter dados para a melhoria do site.
+As perguntas base para tais atividades foram desenvolvidas no mesmo sentido do objetivo planejado anteriormente. Resultando na Tabela 3, qual contém perguntas essenciais para se responder e obter dados para a melhoria do site.
 
-| Número Questão | Questão                                                                                                | Opções para Resposta                                                                                                                                                                                                      | Tipo de Resposta |
-| :--------------: | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------: |
-|        1        | Qual a sua idade?                                                                                       | Resposta discursiva                                                                                                                                                                                                         |     Fechada     |
-|        2        | Qual o seu nome?                                                                                        | Resposta discursiva                                                                                                                                                                                                         |     Fechada     |
-|        3        | Qual o seu grau de escolaridade?                                                                        | (  ) Ensino Fundamental incompleto<br />(  ) Ensino Fundamental completo<br />(  ) Ensino Médio incompleto<br />(  ) Ensino Médio completo<br />(  ) Ensino Superior incompleto<br />(  ) Ensino Superior completo |     Fechada     |
-|        4        | Já realizou algum tipo de leitura que envolvesse alguma curiosidade sua, sem envolver meio acadêmico? | (  ) Sim<br />(  ) Não                                                                                                                                                                                                   |     Fechada     |
-|        5        | Você já fez a leitura de alguma página da Wikipédia?                                              | (  ) Sim<br />(  ) Não                                                                                                                                                                                                   |     Fechada     |
-|        6        | Você já editou alguma página da Wikipédia?                                                          | (  ) Sim<br />(  ) Não                                                                                                                                                                                                   |     Fechada     |
-|        7        | Você já criou algum artigo na Wikipédia?                                                             | (  ) Sim<br />(  ) Não                                                                                                                                                                                                   |     Fechada     |
-|        8        | Você acha que foi fácil criar um artigo na Wikipédia?                                                | (  ) Sim<br />(  ) Não                                                                                                                                                                                                   |     Fechada     |
-|        9        | Com relação a leitura na Wikipédia, foi fácil de entender o que estava escrito?                    | (  ) Sim<br />(  ) Não                                                                                                                                                                                                  |     Fechada     |
-|        10        | Você já denunciou alguma página?                                                                     | (  ) Sim<br />(  ) Não                                                                                                                                                                                                  |     Fechada     |
-|        11        | Teve muita dificuldade para encontrar onde denunciar página?                                           | Resposta Discusiva                                                                                                                                                                                                          |      Aberta      |
-|        12        | Acredita que algo possa ser feito para aumentar o tempo de leitura dos artigos?                         | Resposta Discusiva                                                                                                                                                                                                          |      Aberta      |
-|        13        | Você acredita que a tarefa de realizar uma pesquisa fez sentido?                                     | (  ) Sim<br />(  ) Não                                                                                                                                                                                                   |     Fechada     |
-|        14        | Você acredita que a tarefa de informar um erro fez sentido?                                           | (  ) Sim<br />(  ) Não                                                                                                                                                                                                   |     Fechada     |
-|        15        | Você acredita que a tarefa de criar um artigo fez sentido?                                             | (  ) Sim<br />(  ) Não                                                                                                                                                                                                   |     Fechada     |
-|        16        | Você acredita que a tarefa de contatar um mentor fez sentido?                                         | (  ) Sim<br />(  ) Não                                                                                                                                                                                                   |     Fechada     |
-|        17        | Você acredita que a tarefa de editar um artigo fez sentido?                                           | (  ) Sim<br />(  ) Não                                                                                                                                                                                                   |     Fechada     |
+| Número Questão | Questão                                                                                                             | Opções para Resposta                                                                                                                                                                                                      | Tipo de Resposta |
+| :--------------: | -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------: |
+|        1        | Qual a sua idade?                                                                                                    | Resposta discursiva                                                                                                                                                                                                         |     Fechada     |
+|        2        | Qual o seu nome?                                                                                                     | Resposta discursiva                                                                                                                                                                                                         |     Fechada     |
+|        3        | Qual o seu grau de escolaridade?                                                                                     | (  ) Ensino Fundamental incompleto<br />(  ) Ensino Fundamental completo<br />(  ) Ensino Médio incompleto<br />(  ) Ensino Médio completo<br />(  ) Ensino Superior incompleto<br />(  ) Ensino Superior completo |     Fechada     |
+|        4        | Você já editou alguma página da Wikipédia?                                                                       | (  ) Sim<br />(  ) Não                                                                                                                                                                                                   |     Fechada     |
+|        5        | Você acredita que a tarefa de editar um artigo fez sentido?                                                        | (  ) Sim<br />(  ) Não                                                                                                                                                                                                   |     Fechada     |
+|        6        | Você já criou algum artigo na Wikipédia?                                                                          | (  ) Sim<br />(  ) Não                                                                                                                                                                                                   |     Fechada     |
+|        7        | Você acha que foi fácil criar um artigo na Wikipédia?                                                             | (  ) Sim<br />(  ) Não                                                                                                                                                                                                   |     Fechada     |
+|        8        | Você acredita que a tarefa de criar um artigo fez sentido?                                                          | (  ) Sim<br />(  ) Não                                                                                                                                                                                                   |     Fechada     |
+|        9        | Você acredita que a tarefa de realizar uma pesquisa fez sentido?                                                  | (  ) Sim<br />(  ) Não                                                                                                                                                                                                   |     Fechada     |
+|        10        | Você acredita que a tarefa de informar um erro fez sentido?                                                        | (  ) Sim<br />(  ) Não                                                                                                                                                                                                   |     Fechada     |
+|        11        | Você acredita que a tarefa de contatar um mentor fez sentido?                                                      | (  ) Sim<br />(  ) Não                                                                                                                                                                                                   |     Fechada     |
+|        12        | O quão importante você acredita que a tarefa de contratar um mentor é relevante para usuário de primeira viagem? | Resposta discursiva                                                                                                                                                                                                         |      Aberta      |
+|        13        | Como você pensa que as tarefas descritas afetam a facilidade de um usuário completar uma atividade?                | Resposta discursiva                                                                                                                                                                                                         |      Aberta      |
+|        14        | Demoraria para os usuários completarem as atividades dessas tarefas?                                                | Resposta discursiva                                                                                                                                                                                                         |      Aberta      |
 
 <div style="text-align: center">
-    <p> Tabela 2: Perguntas a Serem Respondidas(Fonte: Autores. 2023).</p>
+    <p> Tabela 3: Perguntas a Serem Respondidas(Fonte: Autores. 2023).</p>
 </div>
 
 ## Escolher(Choose) métodos de avaliação
@@ -66,11 +77,11 @@ Enquanto no método de avaliação através da observação, foi optado pelo tes
 
 ## Identificar e administrar as questões práticas da avaliação.
 
-Para a realização do método da entrevista investigativa, serão adotadas algumas etapas. Inicialmente, será realizado um processo de seleção dos participantes, com convites direcionados a indivíduos que possuam o perfil desejado para a pesquisa. Serão utilizadas usuários, com características obtidas a partir do [Perfil de Usuário](../../../analise-de-requisitos/perfilDeUsuario.md). Na entrevista duas pessoas irão participar, uma como o entrevistador e guia da entrevista e outro como a pessoas que realiza a atividade de anotar pontos essenciais a reunião que podem ser úteis durante ou após a reunião. A motivação para escolher de 3 a 5 pessoas na entrevista, de acordo com Nielsen, com essa quantidade de pesosas é possível entender as ações que um usuário pode realizar.   
+Para a realização do método da entrevista investigativa, serão adotadas algumas etapas. Inicialmente, será realizado um processo de seleção dos participantes, com convites direcionados a indivíduos que possuam o perfil desejado para a pesquisa. Serão utilizadas usuários, com características obtidas a partir do [Perfil de Usuário](../../../analise-de-requisitos/perfilDeUsuario.md). Na entrevista duas pessoas irão participar, uma como o entrevistador e guia da entrevista e outro como a pessoas que realiza a atividade de anotar pontos essenciais a reunião que podem ser úteis durante ou após a reunião. A motivação para escolher de 3 a 5 pessoas na entrevista, de acordo com Nielsen, com essa quantidade de pesosas é possível entender as ações que um usuário pode realizar.
 
 Já para a realização do método de observação utilizando o teste de usabilidade, serão seguidas determinadas diretrizes. Primeiramente, será definido um conjunto de tarefas que sejam relevantes e representativas das interações esperadas com o sistema. Os participantes selecionados serão convidados a realizar essas tarefas, enquanto são observados pelo pesquisador. Durante a observação, serão coletados dados qualitativos, como melhorias de interfaces para facilitar certas tarefas, avisos sonoros para identificar erros ou completudes de certas atividades e quantitativos como quantidade de ações a serem feitas para realizar determinada tarefa e minutagem para o sistema perceber erros de página ou do próprio usuário. Além de registrar diversos aspectos, como comportamentos dos participantes, expressões faciais, interações realizadas e tempo gasto em cada tarefa. Esses dados serão posteriormente analisados, permitindo ao pesquisador identificar padrões e problemas recorrentes, bem como áreas específicas que necessitem de melhorias.
 
-As tabelas de 3 a 7 apresentam o cronograma planejado de cada entrevista.
+As tabelas de 4 a 8 apresentam o cronograma planejado de cada entrevista.
 
 ### Entrevista 1
 
@@ -79,7 +90,7 @@ As tabelas de 3 a 7 apresentam o cronograma planejado de cada entrevista.
 | Gabriel e Samuel | A definir    | 23/05/2023 | 18:00h às 20:00h | Teams |
 
 <div style="text-align: center">
-    <p> Tabela 3: Cronograma da entrevista 1 (Fonte: Autores. 2023).</p>
+    <p> Tabela 4: Cronograma da entrevista 1 (Fonte: Autores. 2023).</p>
 </div>
 
 ### Entrevista 2
@@ -89,7 +100,7 @@ As tabelas de 3 a 7 apresentam o cronograma planejado de cada entrevista.
 | Gabriel e Samuel | A definir    | 24/05/2023 | 18:00h às 20:00h | Teams |
 
 <div style="text-align: center">
-    <p> Tabela 4: Cronograma da entrevista 2 (Fonte: Autores. 2023).</p>
+    <p> Tabela 5: Cronograma da entrevista 2 (Fonte: Autores. 2023).</p>
 </div>
 
 ### Entrevista 3
@@ -99,7 +110,7 @@ As tabelas de 3 a 7 apresentam o cronograma planejado de cada entrevista.
 | Gabriel e Samuel | A definir    | 25/05/2023 | 18:00h às 20:00h | Teams |
 
 <div style="text-align: center">
-    <p> Tabela 5: Cronograma da entrevista 3 (Fonte: Autores. 2023).</p>
+    <p> Tabela 6: Cronograma da entrevista 3 (Fonte: Autores. 2023).</p>
 </div>
 
 ### Entrevista 4
@@ -109,7 +120,7 @@ As tabelas de 3 a 7 apresentam o cronograma planejado de cada entrevista.
 | Gabriel e Samuel | A definir    | 26/05/2023 | 18:00h às 20:00h | Teams |
 
 <div style="text-align: center">
-    <p> Tabela 6: Cronograma da entrevista 4 (Fonte: Autores. 2023).</p>
+    <p> Tabela 7: Cronograma da entrevista 4 (Fonte: Autores. 2023).</p>
 </div>
 
 ### Entrevista 5
@@ -119,7 +130,7 @@ As tabelas de 3 a 7 apresentam o cronograma planejado de cada entrevista.
 | Gabriel e Samuel | A definir    | 27/05/2023 | 18:00h às 20:00h | Teams |
 
 <div style="text-align: center">
-    <p> Tabela 7: Cronograma da entrevista 5 (Fonte: Autores. 2023).</p>
+    <p> Tabela 8: Cronograma da entrevista 5 (Fonte: Autores. 2023).</p>
 </div>
 
 ## Decidir como lidar com as Questões Éticas
@@ -162,3 +173,4 @@ Nielsen, Jacob. Disponível em: https://www.nngroup.com/articles/why-you-only-ne
 | Versão | Data  | Descrição            | Autor(es)        | Revisor(es) |
 | ------- | ----- | ---------------------- | ---------------- | ----------- |
 | 1.0     | 21/05 | Criação do documento | Gabriel, Samuel | Lucas       |
+| 1.1     | 28/05 | Revisão das perguntas | Gabriel, Samuel | Lucas       |
