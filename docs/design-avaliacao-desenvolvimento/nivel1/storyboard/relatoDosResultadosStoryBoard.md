@@ -2,8 +2,11 @@
 
 ## Introdução
 
+O relatório dos resultados da avaliação do "StoryBoard" é um artefato importante que tem o propósito de documentar minuciosamente os resultados obtidos através de uma avaliação meticulosa. O presente documento apresenta detalhadamente o relato de desempenho da avaliação dos "Storyboards", fornecendo informações substanciais sobre os resultados alcançados durante o processo.
+
 ### Objetivos da Avaliação
 
+A avaliação dos Storyboards tem como objetivo verificar se as tarefas representadas em cada storyboard correspondem à experiência que o usuário tem durante sua rotina na plataforma Wikipedia. Além disso, busca-se analisar as áreas que podem ser aprimoradas e as críticas feitas pelos usuários, visando aperfeiçoar os storyboards.
 
 ### Metodologia
 
