@@ -151,6 +151,61 @@ A análise GOMS é uma técnica bastante útil para avaliar a usabilidade de um 
 
 <hr/>
 
+### Contatar um Mentor
+
+<p style="padding-left: 0vw"><b>GOAL 0:</b> contatar o mentor do seu perfil</p>
+
+<p style="padding-left: 1vw"><b>GOAL 1:</b> entrar na página principal do perfil de usuário</p>
+
+<p style="padding-left: 2vw"><b>METHOD 1.A:</b> Utilizar a opção de clicar no nome de usuário.</p>
+
+<p style="padding-left: 2vw">(SEL. RULE: O usuário sabe o seu nome de usuário e sabe localizar seu nome de usuário na tela)</p>
+
+<p style="padding-left: 3vw"><b>OP. 1.A.1:</b> Mover o cursor para o nome de usuário que é uma opção clicável no menu superior.</p>
+
+<p style="padding-left: 3vw"><b>OP. 1.A.2:</b> Clicar no nome de usuário logado ou criado.</p>
+
+<p style="padding-left: 2vw"><b>METHOD 1.B:</b> Usuário a opção de "Testes"</p>
+
+<p style="padding-left: 2vw">(SEL. RULE: O usuário sabe qual é o ícone de perfil de usuário)</p>
+
+<p style="padding-left: 3vw"><b>OP. 1.B.1:</b> Mover o cursor e clica no ícone de perfil de usuário</p>
+
+<p style="padding-left: 3vw"><b>OP 1.B.2:</b> Mover o cursor e clica na opção "Testes"</p>
+
+<p style="padding-left: 3vw"><b>OP 1.B.3:</b> Mover o cursor e clica na opção "Página Principal" que está do lado esquerdo da opção "Página de Usuário"</p>
+
+<p style="padding-left: 1vw"><b>GOAL 2:</b> Escrever uma pergunta ao mentor</p>
+
+<p style="padding-left: 2vw"><b>METHOD 2.A:</b> Digitar uma pergunta ao mentor</p>
+
+<p style="padding-left: 3vw"><b>OP. 2.A.1:</b> Mover o cursor e clicar na opção "Faça uma pergunta ao seu mentor"</p>
+
+<p style="padding-left: 3vw"><b>OP. 2.A.2:</b> Digitar a pergunta de acordo com a sua dúvida sobre o assunto da Wikipédia</p>
+
+<p style="padding-left: 2vw"><b>METHOD 2.B:</b> Digitar na página de discussão do mentor</p>
+
+<p style="padding-left: 3vw"><b>OP. 2.B.1:</b> Clicar no nome do mentor que é uma opção para o perfil dele</p>
+
+<p style="padding-left: 3vw"><b>OP. 2.B.2:</b> Clicar na opção de "Discussão"</p>
+
+<p style="padding-left: 3vw"><b>OP. 2.B.3:</b> Clicar na opção de "Adicionar Tópico"</p>
+
+<p style="padding-left: 3vw"><b>OP. 2.B.4:</b> Digitar o assunto da pergunta</p>
+
+<p style="padding-left: 3vw"><b>OP. 2.B.5:</b> Digitar a descrição</p>
+
+<p style="padding-left: 1vw"><b>GOAL 3:</b> Enviar pergunta ao mentor</p>
+
+<p style="padding-left: 2vw"><b>METHOD 3.A:</b> Enviar pergunta no METHOD 2.A</p>
+
+<p style="padding-left: 3vw"><b>OP. 3.A.1:</b> Mover o curso para a opção de "Publicar"</p>
+
+<p style="padding-left: 2vw"><b>METHOD 3.B:</b> Enviar pergunta no METHOD 2.B</p>
+
+<p style="padding-left: 3vw"><b>OP. 3.B.1:</b>  Mover o cursor para "Adicionar Tópico"</p>
+
+
 ## Bibliografia
 
 BARBOSA, Simone D. J. Interação humano-computador. Rio de Janeiro: Elsevier, 2010.
