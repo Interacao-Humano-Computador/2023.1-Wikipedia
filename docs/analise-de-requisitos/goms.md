@@ -113,6 +113,44 @@ A análise GOMS é uma técnica bastante útil para avaliar a usabilidade de um 
 
 <p style="padding-left: 6vw"><b>OP. 2.B.4:</b> verificar se o artigo correspondente à sugestão foi exibido</p>
 
+### Informar um erro
+
+<p style="padding-left: 1vw"><b>GOAL 0:</b>Informar um erro na Wikipedia</p>
+
+<p style="padding-left: 1vw"><b>GOAL 1:</b>Acessar a opção de relatar um erro</p>
+
+<p style="padding-left: 2vw"><b>METHOD 1.A:</b>Utilizar a opção "Editar" no artigo</p>
+
+<p style="padding-left: 2vw">(SEL. RULE: O usuário identifica um erro diretamente no conteúdo do artigo)</p>
+
+<p style="padding-left: 3vw"><b>OP. 1.A.1:</b>Localizar o artigo com o erro na Wikipedia</p>
+
+<p style="padding-left: 3vw"><b>OP. 1.A.2:</b>Clicar no botão "Editar" localizado no topo da página</p>
+
+<p style="padding-left: 2vw"><b>METHOD 1.B:</b>Utilizar a opção "Relatar um problema" na barra lateral</p>
+
+<p style="padding-left: 2vw">(SEL. RULE: O usuário não deseja editar o artigo, mas relatar um erro específico)</p>
+
+<p style="padding-left: 3vw"><b>OP. 1.B.1:</b>Localizar o artigo com o erro na Wikipedia</p>
+
+<p style="padding-left: 3vw"><b>OP. 1.B.2:</b>Mover o cursor do mouse para a opção "Mais" na barra lateral</p>
+
+<p style="padding-left: 3vw"><b>OP. 1.B.3:</b>Clicar na opção "Relatar um problema"</p>
+
+<p style="padding-left: 1vw"><b>GOAL 2:</b>Descrever o erro</p>
+
+<p style="padding-left: 2vw"><b>METHOD 2.A:</b>Digitar a descrição do erro</p>
+
+<p style="padding-left: 3vw"><b>OP. 2.A.1:</b>Digitar uma descrição clara e detalhada do erro encontrado</p>
+
+<p style="padding-left: 1vw"><b>GOAL 3:</b>Enviar a informação de erro</p>
+
+<p style="padding-left: 2vw"><b>METHOD 3.A:</b>Clicar no botão "Enviar" ou "Salvar"</p>
+
+<p style="padding-left: 3vw"><b>OP. 3.A.1: </b>Clicar no botão "Enviar" ou "Salvar" para submeter a informação de erro</p>
+
+<hr/>
+
 ## Bibliografia
 
 BARBOSA, Simone D. J. Interação humano-computador. Rio de Janeiro: Elsevier, 2010.
