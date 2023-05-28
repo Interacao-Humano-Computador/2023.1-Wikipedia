@@ -5,18 +5,26 @@
 O relatório dos resultados da avaliação do "StoryBoard" é um artefato importante que tem o propósito de documentar minuciosamente os resultados obtidos através de uma avaliação meticulosa. O presente documento apresenta detalhadamente o relato de desempenho da avaliação dos "Storyboards", fornecendo informações substanciais sobre os resultados alcançados durante o processo.
 
 ### Objetivos da Avaliação
-
 A avaliação dos Storyboards tem como objetivo verificar se as tarefas representadas em cada storyboard correspondem à experiência que o usuário tem durante sua rotina na plataforma Wikipedia. Além disso, busca-se analisar as áreas que podem ser aprimoradas e as críticas feitas pelos usuários, visando aperfeiçoar os storyboards.
 
-### Metodologia
+- Coletar percepções e opiniões sobre a usabilidade e a experiência do usuário.
 
+- Identificar pontos problemáticos, dificuldades ou ambiguidades.
+
+- Compreender o entendimento dos participantes em relação às informações visuais e funcionais apresentadas no storyboard.
+
+- Validar a eficácia do storyboard em representar a real atividade do usuário.
+
+- Fornecer subsídios para direcionar o desenvolvimento futuro do sistema, considerando as necessidades e expectativas dos usuários.
+
+### Metodologia
+Usamos a metodologia de entrevista seguindo o [planejamento](relatoDosResultadosStoryBoard.md). O participante foi escolhido pensando na representatividade do público-alvo. Durante as entrevistas, o participante analisou os storyboards e foi dado feedback sobre a usabilidade e experiência do usuário. Os dados foram analisados qualitativamente, buscando padrões e pontos problemáticos. A metodologia permitiu uma avaliação abrangente, resultando em uma visão mais ampla para a construção de para melhorias no sistema.
 
 ### Avaliadores e Participantes
 
 ### Sumário dos dados
 
 #### Gravação do Áudio da entrevista
-
 
 #### Respostas
 
@@ -49,6 +57,6 @@ A avaliação dos Storyboards tem como objetivo verificar se as tarefas represen
 
 ## Histórico de Versão
 
-| Versão | Data  | Descrição                          | Autor(es)     |  Revisor(es)  |
-| ------ | ----- | ---------------------------------- | ------------- | ------------- |
-| 1.0  | 28/05/2023      | Criação da versão inicial do documento | Chaydson e Pedro |  Lucas e Ana  |
+| Versão | Data       | Descrição                               | Autor(es)        | Revisor(es) |
+| ------- | ---------- | ----------------------------------------- | ---------------- | ----------- |
+| 1.0     | 28/05/2023 | Criação da versão inicial do documento | Chaydson e Pedro | Lucas e Ana |
