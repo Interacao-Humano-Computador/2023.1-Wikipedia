@@ -75,3 +75,4 @@ Tabela 4 - Cronograma da entrega 4.
 | 1.0     | 21/04/2023 | Criação do documento | Lucas     | Gabriel     |
 | 1.1     | 07/05/2023 | Entrega 2              | Lucas     | Pedro       |
 | 1.2     | 15/05/2023 | Entrega 3              | Lucas     | Samuel      |
+| 1.3     | 22/05/2023 | Entrega 4              | Lucas     | Chaydson    |

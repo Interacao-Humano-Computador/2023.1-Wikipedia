@@ -100,14 +100,20 @@ Tabela 5 - Cronograma da entrega 4.
 
 ## Entrega 5 - Resultados
 
-| Tarefa                                                                      | Autor(es)       | Período de desenvolvimento | Revisor(es)   | Período de revisão |
-| --------------------------------------------------------------------------- | --------------- | --------------------------- | ------------- | -------------------- |
-| Relato dos resultados do Story Board                                        | Samuel          | 22/05 - 26/05               | Chaydson      | 27/05 - 28/05        |
-| Relato dos resultados da análise de tarefas                                | Pedro           | 22/05 - 26/05               | Pedro         | 27/05 - 28/05        |
-| Planejamento da avaliação do protótipo de papel                          | Lucas / Gabriel | 22/05 - 26/05               | Gabriel / Ana | 27/05 - 28/05        |
-| Planejamento do relato dos resultados da avaliação do protótipo de papel | Chaydson / Ana  | 22/05 - 26/05               | Lucas         | 27/05 - 28/05        |
-| Gravação da apresentação                                                | Grupo           | 22/05 - 26/05               | Grupo         | 27/05 - 28/05        |
-| Finalização                                                               | Grupo           | 22/05 - 26/05               | Grupo         | 27/05 - 28/05        |
+| Tarefa                                                                      | Autor(es)                                     | Período de desenvolvimento | Revisor(es)                                   | Período de revisão |
+| --------------------------------------------------------------------------- | --------------------------------------------- | --------------------------- | --------------------------------------------- | -------------------- |
+| Criação de um storyboard com base na análise de tarefa                   | Ana, Lucas, Chaydson, Gabriel, Samuel e Pedro | 22/05 - 29/05               | Ana, Lucas, Chaydson, Gabriel, Samuel e Pedro | 29/05                |
+| Executar teste piloto do Story Board                                        | Ana e Lucas                                   | 22/05 - 29/05               | Chaydson e Pedro                              | 29/05                |
+| Entrevistar os usuários do Story Board                                     | Chaydson e Pedro                              | 22/05 - 29/05               | Lucas e Ana                                   | 29/05                |
+| Realizar o relato dos resultados do Story Board                             | Chaydson e Pedro                              | 22/05 - 29/05               | Lucas e Ana                                   | 29/05                |
+| Criação de análise de tarefa                                             | Gabriel, Pedro e Ana                          | 22/05 - 29/05               | Gabriel e Samuel                              | 29/05                |
+| Executar teste piloto na análise de tarefa                                 | Gabriel e Samuel                              | 22/05 - 29/05               | Lucas                                         | 29/05                |
+| Entrevistas os usuários da análise de tarefa                              | Gabriel e Samuel                              | 22/05 - 29/05               | Pedro                                         | 29/05                |
+| Realizar o relato da análise de tarefa                                     | Gabriel e Samuel                              | 22/05 - 29/05               | Chaydson                                      | 29/05                |
+| Planejamento da avaliação do protótipo de papel                          | Lucas, Gabriel e Ana                          | 22/05 - 29/05               | Pedro                                         | 29/05                |
+| Planejamento do relato dos resultados da avaliação do protótipo de papel | Chaydson, Ana e Lucas                        | 22/05 - 29/05               | Ana                                           | 29/05                |
+| Gravação da apresentação                                                | Ana, Lucas, Chaydson, Gabriel, Samuel e Pedro | 29/05                       | Ana, Lucas, Chaydson, Gabriel, Samuel e Pedro | 29/05                |
+| Finalização                                                               | Ana, Lucas, Chaydson, Gabriel, Samuel e Pedro | 29/05 - 02/06               | Ana, Lucas, Chaydson, Gabriel, Samuel e Pedro | 29/05                |
 
 Tabela 6 - Cronograma da entrega 5.
 
