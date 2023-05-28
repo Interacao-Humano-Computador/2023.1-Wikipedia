@@ -82,6 +82,18 @@ Na figura 3, podemos vê o usuário identificando um erro em uma página e relat
 <p>Figura 3: Storyboard da análise de tarefa de identificando um erro em uma página e relatando o erro.(Fonte: Pedro. 2023).</p>
 </div>
 
+### Análise de tarefa - Criação de um artigo na Wikipédia
+
+Na figura 4, podemos ver o usuário criando um artigo na Wikipédia.
+
+<img src="../../../../images/storyboards/storyboard_criacao_de_artigo.jpg" />
+
+
+<div style="text-align: center">
+<p>Figura 4: Storyboard da análise de tarefa de criar artigo.(Fonte: Samuel. 2023).</p>
+</div>
+
+
 ## Bibliografia
 
 BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
