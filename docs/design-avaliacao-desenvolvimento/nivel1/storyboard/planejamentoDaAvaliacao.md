@@ -103,6 +103,17 @@ Na Figura 5, podemos ver um usuário contatando um mentor na Wikipédia, para ti
 <p>Figura 5: Storyboard da análise de tarefa de contatar mentor.(Fonte: Gabriel. 2023).</p>
 </div>
 
+### Análise de tarefa - Editar um artigo
+
+Na Figura 6, podemos ver um usuário editando um artigo na Wikipédia.
+
+<img src="../../../../images/storyboards/storyboard_edicao.jpeg" />
+
+<div style="text-align: center">
+<p>Figura 6: Storyboard da análise de tarefa de editar artigo.(Fonte: Chaydson. 2023).</p>
+</div>
+
+
 
 ## Bibliografia
 
