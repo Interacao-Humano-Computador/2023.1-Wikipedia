@@ -20,11 +20,11 @@ No contexto da atividade de [Perfil do Usuário](../../../analise-de-requisitos/
 
 A seguir, apresentamos a Tabela 1 com o cronograma da avaliação:
 
-|    Data e horário    | Atividade                              | Autor(es)               | Revisor(es)      |
-| :-------------------: | -------------------------------------- | ----------------------- | ---------------- |
-| 23/05/2023 às 21:00 | Executar teste piloto                  | Ana Luiza e Lucas Lopes | Chaydson e Pedro |
-| 24/05/2023 às 20:00 | Entrevistar os usuários               | Chaydson e Pedro        | Lucas Lopes      |
-| 26/05/2023 até 22:00 | Registrar os resultados da entrevista | Chaydson e Pedro        | Chaydson         |
+|    Data e horário    | Atividade                              | Autor(es)               | Revisor(es)             |
+| :-------------------: | -------------------------------------- | ----------------------- | ----------------------- |
+| 23/05/2023 às 21:00 | Executar teste piloto                  | Ana Luiza e Lucas Lopes | Chaydson e Pedro        |
+| 24/05/2023 às 20:00 | Entrevistar os usuários               | Chaydson e Pedro        | Lucas Lopes e Ana Luiza |
+| 26/05/2023 até 22:00 | Registrar os resultados da entrevista | Chaydson e Pedro        | Lucas Lopes e Ana Luiza |
 
 <div style="text-align: center">
     <p> Tabela 1: Cronograma da avaliação. (Fonte: Autores. 2023).</p>
