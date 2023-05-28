@@ -62,7 +62,7 @@ A seguir, encontra-se o Termo de Consentimento que será assinado antes da reali
 
 A seguir, apresentamos os storyboards que serão avaliados:
 
-## Análise de tarefa - Realização de uma pesquisa na Wikipédia
+### Análise de tarefa - Realização de uma pesquisa na Wikipédia
 
 Na figura 2, podemos vê o usuário fazendo uma pesquisa sobre um tema que ele tem curiosidade.
 
