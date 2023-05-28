@@ -115,7 +115,7 @@ A análise GOMS é uma técnica bastante útil para avaliar a usabilidade de um 
 
 ### Informar um erro
 
-<p style="padding-left: 1vw"><b>GOAL 0:</b>Informar um erro na Wikipedia</p>
+<p style="padding-left: 0vw"><b>GOAL 0:</b>Informar um erro na Wikipedia</p>
 
 <p style="padding-left: 1vw"><b>GOAL 1:</b>Acessar a opção de relatar um erro</p>
 
