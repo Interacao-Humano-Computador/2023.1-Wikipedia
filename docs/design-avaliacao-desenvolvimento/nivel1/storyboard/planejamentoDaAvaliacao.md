@@ -93,8 +93,11 @@ Na figura 4, podemos ver o usuário criando um artigo na Wikipédia.
 <p>Figura 4: Storyboard da análise de tarefa de criar artigo.(Fonte: Samuel. 2023).</p>
 </div>
 
-<img src="../../../../images/storyboards/storyboard_contatar_mentor.jpeg" />
+### Análise de tarefa - Contatar um mentor
 
+Na Figura 5, podemos ver um usuário contatando um mentor na Wikipédia, para tirar dúvidas.
+
+<img src="../../../../images/storyboards/storyboard_contatar_mentor.jpeg" />
 
 <div style="text-align: center">
 <p>Figura 5: Storyboard da análise de tarefa de contatar mentor.(Fonte: Gabriel. 2023).</p>
