@@ -8,6 +8,8 @@ Este documento apresenta o relato dos resultados das análises de tarefas realiz
 
 ## Participantes
 
+Na Tabela 1 estão descritos os participantes dessa etapa de entrevistas, sendo um entrevistado e dois entrevistadores, com as entrevistas ocorrendo no Google Meets e Teams, tendo seus horários dispostos nesse mesma página nos tópicos de Relato dos Testes Pilotos e ## Relatos dos Resultados.
+
 | Função       | Nome                         |
 | -------------- | ---------------------------- |
 | Entrevistador  | Gabriel Ferreira da Silva    |
@@ -20,6 +22,15 @@ Este documento apresenta o relato dos resultados das análises de tarefas realiz
 </div>
 
 ## Relato dos Testes Pilotos
+
+| Local       | Entrevistador    | Data e hora         |
+| ----------- | ---------------- | ------------------- |
+| Google Meet | Gabriel e Samuel | 28/05 20:35-20:40   |
+| Teams       | Gabriel e Samuel | 28/05  21:30-21:45 |
+
+<div style="text-align: center">
+    <p> Tabela 2: Realização das Entrevistas(Fonte: Gabriel e Samuel. 2023)</p>
+</div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NrCRswysam4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -34,6 +45,15 @@ Este documento apresenta o relato dos resultados das análises de tarefas realiz
 </div>
 
 ## Relatos dos Resultados
+
+| Local       | Entrevistado | Entrevistador    | Data e hora          |
+| ----------- | ------------ | ---------------- | -------------------- |
+| Google Meet | Vitor F.     | Gabriel e Samuel | 28/05 20:50-21:14    |
+| Teams       | Pedro Vitor  | Gabriel e Samuel | 28/05  21:49 -22:06 |
+
+<div style="text-align: center">
+    <p> Tabela 2: Realização das Entrevistas(Fonte: Gabriel e Samuel. 2023)</p>
+</div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WXTxIU-0_oc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -51,9 +71,14 @@ Este documento apresenta o relato dos resultados das análises de tarefas realiz
 
 ## Possíveis Melhorias
 
+## Termos de Consentimentos
+
+[Termo de Consentimento Entrevistado 1](../../../pdfs/termoDeConsentimentoVitor.pdf)
+
+[Termo de Consentimento Entrevistado 2](../../../pdfs/termoDeConsentimentoPedro.pdf)
+
 ## Referências
 
-<<<<<<< Updated upstream
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021
 
 Relato dos resultados das Análises de Tarefas do projeto Skoob. Disponível em: [Link](https://interacao-humano-computador.github.io/2022.2-Skoob/planejamentoAnalise/nivel2/analise-tarefas/). Acesso em: 28 de maio de 2023.
@@ -65,22 +90,3 @@ Relato dos Resultados Análises de Tarefas do projeto Lichess. Disponível em: [
 | Versão | Data       | Descrição            | Autor(es)        | Revisor(es) |
 | ------- | ---------- | ---------------------- | ---------------- | ----------- |
 | 1.0     | 28/05/2023 | Criação do documento | Gabriel e Samuel | Chaydson    |
-
-=======
-
-- Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021
-- Planejamento dos resultados das Análises de Tarefas do projeto Skoob. Disponível em: [Link](https://interacao-humano-computador.github.io/2022.2-Skoob/planejamentoAnalise/nivel1/planejamento-resultados-analise-tarefas/). Acesso em: 13 de maio de 2023.
-
-## Histórico de Versão
-
-| Versão | Data       | Descrição            | Autor(es) | Revisor(es) |
-| ------- | ---------- | ---------------------- | --------- | ----------- |
-| 1.0     | 20/05/2023 | Criação do documento | Lucas     | Ana         |
-
->>>>>>> Stashed changes
->>>>>>>
->>>>>>
->>>>>
->>>>
->>>
->>
