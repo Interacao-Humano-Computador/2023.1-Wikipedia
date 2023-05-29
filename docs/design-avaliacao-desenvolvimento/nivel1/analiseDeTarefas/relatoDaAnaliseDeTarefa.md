@@ -6,6 +6,8 @@ Este documento apresenta o relato dos resultados das análises de tarefas realiz
 
 ## Metodologia
 
+A metodologia utilizada nessa etapa do projeto, foi através da entrevista, a qual os entrevistados eram apresentados sobre o que era o projeto e o que eles deveriam avaliar, junto também a um termo de consentimento para poder gravar a entrevista e se extrair dados, e partir dessa, junto as perguntas, poder se inferir quais os problemas e sugestões de melhorias nessas tarefas podem ser pensadas.
+
 ## Participantes
 
 Na Tabela 1 estão descritos os participantes dessa etapa de entrevistas, sendo um entrevistado e dois entrevistadores, com as entrevistas ocorrendo no Google Meets e Teams, tendo seus horários dispostos nesse mesma página nos tópicos de Relato dos Testes Pilotos e ## Relatos dos Resultados.
@@ -14,8 +16,8 @@ Na Tabela 1 estão descritos os participantes dessa etapa de entrevistas, sendo 
 | -------------- | ---------------------------- |
 | Entrevistador  | Gabriel Ferreira da Silva    |
 | Entrevistador  | Samuel Gomes de Souza        |
-| Estrevistado 1 | Pedro Vitor Augusto de Jesus |
-| Estrevistado 2 | Vitor F. Silva               |
+| Entrevistado 1 | Pedro Vitor Augusto de Jesus |
+| Entrevistado 2 | Vitor F. Silva               |
 
 <div style="text-align: center">
     <p> Tabela 1: Papéis dos Participantes(Fonte: Gabriel e Samuel. 2023)</p>
@@ -35,13 +37,13 @@ Na Tabela 1 estão descritos os participantes dessa etapa de entrevistas, sendo 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NrCRswysam4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <div style="text-align: center">
-    <p> Tabela 2: Teste Piloto 1 (Fonte:Gabriel e Samuel.2023).</p>
+    <p> Tabela 3: Teste Piloto 1 (Fonte:Gabriel e Samuel.2023).</p>
 </div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kEJJAH61ra4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <div style="text-align: center">
-    <p> Tabela 3: Teste Piloto 2 (Fonte:Gabriel e Samuel.2023).</p>
+    <p> Tabela 4: Teste Piloto 2 (Fonte:Gabriel e Samuel.2023).</p>
 </div>
 
 ## Relatos dos Resultados
@@ -52,19 +54,19 @@ Na Tabela 1 estão descritos os participantes dessa etapa de entrevistas, sendo 
 | Teams       | Pedro Vitor  | Gabriel e Samuel | 28/05  21:49 -22:06 |
 
 <div style="text-align: center">
-    <p> Tabela 2: Realização das Entrevistas(Fonte: Gabriel e Samuel. 2023)</p>
+    <p> Tabela 5: Realização das Entrevistas(Fonte: Gabriel e Samuel. 2023)</p>
 </div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WXTxIU-0_oc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <div style="text-align: center">
-    <p> Tabela 4: Entrevista 1 (Fonte:Gabriel e Samuel.2023).</p>
+    <p> Tabela 6: Entrevista 1 (Fonte:Gabriel e Samuel.2023).</p>
 </div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ytMEjofRbJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <div style="text-align: center">
-    <p> Tabela 5: Entrevista 2 (Fonte:Gabriel e Samuel.2023).</p>
+    <p> Tabela 7: Entrevista 2 (Fonte:Gabriel e Samuel.2023).</p>
 </div>
 
 ## Problemas
@@ -78,6 +80,8 @@ Durante a entrevista, Pedro apresentou algumas sugestões para aprimorar a Wikip
 Ambos os entrevistados destacaram a necessidade de aprimorar a parte de criação de artigos, considerando-a pouco prática.
 
 ## Termos de Consentimentos
+
+Os termos de consentimentos, foram criados e enviados ao participantes da entrevistas antes da própria entrevista, com os entrevistados sabendo que iriam ser gravados e reafirmando no da mesma essa confirmação, forma prezados os direitos do entrevistados para com a a pesquisa. 
 
 [Termo de Consentimento Entrevistado 1](../../../pdfs/termoDeConsentimentoVitor.pdf)
 
