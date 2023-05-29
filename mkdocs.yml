@@ -74,6 +74,9 @@ nav:
         - Análise de tarefas:
           - Planejamento da Avaliação: design-avaliacao-desenvolvimento/nivel1/analiseDeTarefas/planejamentoDaAvaliacaoTarefas.md
           - Planejamento dos Resultados das Análises de Tarefas: design-avaliacao-desenvolvimento/nivel1/analiseDeTarefas/planejamentoResultadosAnalisesTarefas.md
+      - Nível 2:
+        - Protótipo de papel:
+          - Planejamento da Avaliação: design-avaliacao-desenvolvimento/nivel2/prototipoDePapel/planejamentoDaAvaliacaoPrototipoDePapel.md
   - Politicas:
       - Metodologias: politicas/metodologias.md
       - Issues: politicas/issues.md
