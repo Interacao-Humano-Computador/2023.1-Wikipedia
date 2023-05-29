@@ -134,7 +134,7 @@ Os termos de consentimentos, foram criados e enviados ao participantes da entrev
 
 [Termo de Consentimento Entrevistado 2](../../../pdfs/termoDeConsentimentoPedro.pdf)
 
-## Referências
+## Bibliografia
 
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021
 
