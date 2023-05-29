@@ -113,6 +113,8 @@ A análise GOMS é uma técnica bastante útil para avaliar a usabilidade de um 
 
 <p style="padding-left: 6vw"><b>OP. 2.B.4:</b> verificar se o artigo correspondente à sugestão foi exibido</p>
 
+<hr/>
+
 ### Informar um erro
 
 <p style="padding-left: 0vw"><b>GOAL 0:</b>Informar um erro na Wikipedia</p>
@@ -205,6 +207,48 @@ A análise GOMS é uma técnica bastante útil para avaliar a usabilidade de um 
 
 <p style="padding-left: 3vw"><b>OP. 3.B.1:</b>  Mover o cursor para "Adicionar Tópico"</p>
 
+<hr/>
+
+### Criar uma discussão sobre artigo
+
+<p style="padding-left: 0vw"><b>GOAL 0:</b> criar uma discussão sobre artigo</p>
+
+<p style="padding-left: 1vw"><b>GOAL 1:</b> acessar a opção discussão</p>
+
+<p style="padding-left: 2vw"><b>METHOD 1.A:</b> utilizar a opção discussão</p>
+
+<p style="padding-left: 2vw">(SEL. RULE: O usuário sabe onde está localizada a opção disussão)</p>
+
+<p style="padding-left: 3vw"><b>OP. 1.A.1:</b> mover o cursor para a opção discussão que é uma opção clicável no menu superior.</p>
+
+<p style="padding-left: 3vw"><b>OP. 1.A.2:</b> clicar na opção discussão.</p>
+
+<p style="padding-left: 1vw"><b>GOAL 2:</b> escrever uma nova discussão</p>
+
+<p style="padding-left: 2vw"><b>METHOD 2.A:</b> utilizar o botão "Clique aqui para entrar com uma nova mensagem"</p>
+
+<p style="padding-left: 2vw">(SEL. RULE: O usuário já verificou se não há uma discussão com o mesmo assunto)</p>
+
+<p style="padding-left: 3vw"><b>OP. 2.A.1:</b> mover o cursor e clicar na opção "Clique aqui para entrar com uma nova mensagem"</p>
+
+<p style="padding-left: 3vw"><b>OP. 2.A.2:</b> digitar o assunto de acordo com o seu interesse</p>
+
+<p style="padding-left: 3vw"><b>OP. 2.A.3:</b> digitar a descrição</p>
+
+<p style="padding-left: 2vw"><b>METHOD 2.B:</b> utilizar a opção "Clique aqui para começar um novo tópico"</p>
+
+<p style="padding-left: 3vw"><b>OP. 2.B.1:</b> mover o cursor e clicar na opção "Clique aqui para começar um novo tópico"</p>
+
+<p style="padding-left: 3vw"><b>OP. 2.B.2:</b> digitar o assunto de acordo com o seu interesse</p>
+
+<p style="padding-left: 3vw"><b>OP. 2.B.3:</b> digitar a descrição</p>
+
+<p style="padding-left: 1vw"><b>GOAL 3:</b> adicionar a nova discussão</p>
+
+<p style="padding-left: 2vw"><b>METHOD 3.A:</b> adicionar discussão no METHOD 2.A ou no METHOD 2.B</p>
+
+<p style="padding-left: 3vw"><b>OP. 3.A.1:</b> mover o cursor para "Adicionar Tópico" e clicar</p>
+
 
 ## Bibliografia
 
@@ -218,86 +262,4 @@ CARD, Stuart K. The psychology of human-computer interaction. Hillsdale: Lawrenc
 | Versão | Data       | Descrição            | Autor(es) | Revisor(es) |
 | ------ | ---------- | -------------------- | --------- | ----------- |
 | 1.0    | 07/05/2023 | Criação do documento | Samuel    | Lucas       |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| 1.1    | 27/05/2023 | Adição de análise de tarefa | Ana    | -       |

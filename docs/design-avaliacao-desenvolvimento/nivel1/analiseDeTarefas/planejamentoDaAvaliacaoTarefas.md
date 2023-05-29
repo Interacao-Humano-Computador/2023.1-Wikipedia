@@ -34,6 +34,7 @@ As tarefas que serão avaliadas estão contidas na tabela 2
 | 03      | Realização de uma pesquisa na Wikipédia | [GOMS](../../../analise-de-requisitos/goms.md) |
 | 04      | Informar um erro                           | [GOMS](../../../analise-de-requisitos/goms.md) |
 | 05      | Contatar um Mentor                         | [GOMS](../../../analise-de-requisitos/goms.md) |
+| 06      | Criação de discussão sobre artigo          | [GOMS](../../../analise-de-requisitos/goms.md) |
 
 <div style="text-align: center">
     <p> Tabela 2: Perguntas a Serem Respondidas(Fonte: Gabriel e Samuel. 2023).</p>
