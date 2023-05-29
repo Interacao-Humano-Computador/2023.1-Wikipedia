@@ -69,7 +69,13 @@ Na Tabela 1 estão descritos os participantes dessa etapa de entrevistas, sendo 
 
 ## Problemas
 
+Durante a entrevista, ambos os entrevistados identificaram um desafio com o fluxo de criação de artigos, expressando dificuldades no processo. Vitor, em particular, ressaltou que pessoas não familiarizadas com o uso de computadores podem encontrar dificuldades ao redigir um artigo.
+
 ## Possíveis Melhorias
+
+Durante a entrevista, Pedro apresentou algumas sugestões para aprimorar a Wikipédia. Uma delas foi a implementação de uma opção para entrar em contato com os mentores de forma privada, proporcionando uma comunicação mais direta e personalizada. Além disso, ele propôs melhorias na criação de artigos, destacando a utilização de uma inteligência artificial capaz de oferecer recursos de autocompletar mais abrangentes e eficientes. Outra sugestão importante de Pedro foi aprimorar a precisão da pesquisa na plataforma, visando facilitar a localização de informações específicas com maior facilidade e rapidez.
+
+Ambos os entrevistados destacaram a necessidade de aprimorar a parte de criação de artigos, considerando-a pouco prática.
 
 ## Termos de Consentimentos
 
