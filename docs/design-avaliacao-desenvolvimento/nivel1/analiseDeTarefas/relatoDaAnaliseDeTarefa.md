@@ -8,6 +8,10 @@ Este documento apresenta o relato dos resultados das análises de tarefas realiz
 
 A metodologia utilizada nessa etapa do projeto, foi através da entrevista, a qual os entrevistados eram apresentados sobre o que era o projeto e o que eles deveriam avaliar, junto também a um termo de consentimento para poder gravar a entrevista e se extrair dados, e partir dessa, junto as perguntas, poder se inferir quais os problemas e sugestões de melhorias nessas tarefas podem ser pensadas.
 
+## Objetivos
+
+O objetivo da página é reunir as informações e extrair dados a partir do que foi realizado, para definir se a análise de tarefas faz sentido e está completa, todas no nível das tarefas evitando-se pensar na telas, além de interpretar os resultados obtidos.
+
 ## Participantes
 
 Na Tabela 1 estão descritos os participantes dessa etapa de entrevistas, sendo um entrevistado e dois entrevistadores, com as entrevistas ocorrendo no Google Meets e Teams, tendo seus horários dispostos nesse mesma página nos tópicos de Relato dos Testes Pilotos e ## Relatos dos Resultados.
@@ -17,7 +21,7 @@ Na Tabela 1 estão descritos os participantes dessa etapa de entrevistas, sendo 
 | Entrevistador  | Gabriel Ferreira da Silva    |
 | Entrevistador  | Samuel Gomes de Souza        |
 | Entrevistado 1 | Pedro Vitor Augusto de Jesus |
-| Entrevistado 2 | Vitor F. Silva               |
+| Entrevistado 2 | Vitor F. da Silva            |
 
 <div style="text-align: center">
     <p> Tabela 1: Papéis dos Participantes(Fonte: Gabriel e Samuel. 2023)</p>
