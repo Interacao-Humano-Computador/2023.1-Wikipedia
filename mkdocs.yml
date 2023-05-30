@@ -42,13 +42,13 @@ nav:
       - Apresentação 1: apresentacoes/apresentacao1.md
       - Apresentação 2: apresentacoes/apresentacao2.md
       - Apresentação 3: apresentacoes/apresentacao3.md
+      - Apresentacao 4: apresentacoes/apresentacao4.md
   - Politicas:
       - Metodologias: politicas/metodologias.md
       - Issues: politicas/issues.md
       - Pull requests: politicas/pullrequest.md
       - Commit: politicas/commit.md
       - Branch: politicas/branch.md
-      - Apresentacao 4: apresentacoes/apresentacao4.md
   - Planejamento:
       - Cronogramas: 
         - Planejado: planejamento/cronogramaPlanejado.md
