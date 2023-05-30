@@ -20,10 +20,10 @@ No contexto da atividade de [Perfil do Usuário](../../../analise-de-requisitos/
 
 A seguir, apresentamos a Tabela 1 com o cronograma da avaliação:
 
-|    Data e horário    | Atividade                              | Autor(es)               | Revisor(es)             |
-| :-------------------: | -------------------------------------- | ----------------------- | ----------------------- |
-| 23/05/2023 às 21:00 | Executar teste piloto                  | Ana Luiza e Lucas Lopes | Chaydson e Pedro        |
-| 24/05/2023 às 20:00 | Entrevistar os usuários               | Chaydson e Pedro        | Lucas Lopes e Ana Luiza |
+|    Data e horário    | Atividade                             | Autor(es)               | Revisor(es)             |
+| :------------------: | ------------------------------------- | ----------------------- | ----------------------- |
+| 23/05/2023 às 21:00  | Executar teste piloto                 | Ana Luiza e Lucas Lopes | Chaydson e Pedro        |
+| 24/05/2023 às 20:00  | Entrevistar os usuários               | Chaydson e Pedro        | Lucas Lopes e Ana Luiza |
 | 26/05/2023 até 22:00 | Registrar os resultados da entrevista | Chaydson e Pedro        | Lucas Lopes e Ana Luiza |
 
 <div style="text-align: center">
@@ -58,6 +58,71 @@ A seguir, encontra-se o Termo de Consentimento que será assinado antes da reali
 
 [Termo de consentimento](../../../pdfs/termoConsentimentoStoryBoard.pdf)
 
+## Storyboards
+
+A seguir, apresentamos os storyboards que serão avaliados:
+
+### Análise de tarefa - Realização de uma pesquisa na Wikipédia
+
+Na figura 2, podemos ver o usuário fazendo uma pesquisa sobre um tema que ele tem curiosidade.
+
+<img src="../../../../images/storyboards/storyboard_pesquisa.png"/>
+
+<div style="text-align: center">
+<p>Figura 2: Storyboard da análise de tarefa de realizar pesquisa.(Fonte: Lucas. 2023).</p>
+</div>
+
+### Análise de tarefa - Informar um erro na Wikipédia
+
+Na figura 3, podemos ver o usuário identificando um erro em uma página e relatando o erro.
+
+<img src="../../../../images/storyboards/informaErro.png"/>
+
+<div style="text-align: center">
+<p>Figura 3: Storyboard da análise de tarefa de identificando um erro em uma página e relatando o erro.(Fonte: Pedro. 2023).</p>
+</div>
+
+### Análise de tarefa - Criação de um artigo na Wikipédia
+
+Na figura 4, podemos ver o usuário criando um artigo na Wikipédia.
+
+<img src="../../../../images/storyboards/storyboard_criacao_de_artigo.jpg" />
+
+
+<div style="text-align: center">
+<p>Figura 4: Storyboard da análise de tarefa de criar artigo.(Fonte: Samuel. 2023).</p>
+</div>
+
+### Análise de tarefa - Contatar um mentor
+
+Na Figura 5, podemos ver um usuário contatando um mentor na Wikipédia, para tirar dúvidas.
+
+<img src="../../../../images/storyboards/storyboard_contatar_mentor.jpeg" />
+
+<div style="text-align: center">
+<p>Figura 5: Storyboard da análise de tarefa de contatar mentor.(Fonte: Gabriel. 2023).</p>
+</div>
+
+### Análise de tarefa - Editar um artigo
+
+Na Figura 6, podemos ver um usuário editando um artigo na Wikipédia.
+
+<img src="../../../../images/storyboards/storyboard_edicao.jpeg" />
+
+<div style="text-align: center">
+<p>Figura 6: Storyboard da análise de tarefa de editar artigo.(Fonte: Chaydson. 2023).</p>
+</div>
+
+### Análise de tarefa - Adicionar uma discussão
+
+Na Figura 7, podemos ver um usuário adicionando uma nova discussão.
+
+<img src="../../../../images/storyboards/StoryboardAna.jpeg" />
+
+<div style="text-align: center">
+<p>Figura 7: Storyboard da análise de tarefa de adicionar nova discussão.(Fonte: Ana. 2023).</p>
+</div>
+
 ## Bibliografia
 
 BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
@@ -66,6 +131,7 @@ Lichess. Disponível em: [https://interacao-humano-computador.github.io/2022.2-L
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição            | Autor(es)   | Revisor(es)      |
-| ------- | ---------- | ---------------------- | ----------- | ---------------- |
-| 1.0     | 16/05/2023 | Criação do documento | Pedro e Ana | Chaydson e Pedro |
+| Versão | Data       | Descrição                        | Autor(es)   | Revisor(es)      |
+| ------ | ---------- | -------------------------------- | ----------- | ---------------- |
+| 1.0    | 16/05/2023 | Criação do documento             | Pedro e Ana | Chaydson e Pedro |
+| 1.1    | 27/05/2023 | Inserindo storyboard da figura 1 | Lucas       | Samuel           |
