@@ -28,6 +28,7 @@ Na Tabela 1 estão descritos os participantes dessa etapa de entrevistas, sendo 
 </div>
 
 ## Relato dos Testes Pilotos
+Nos Video 1 e Video 2, estão os acontecimentos do teste-piloto feitas pelos componentes Gabriel e Samuel, que ocorreram nos momentos descritos na Tabela 2.  
 
 | Local       | Entrevistador    | Data e hora         |
 | ----------- | ---------------- | ------------------- |
@@ -41,16 +42,18 @@ Na Tabela 1 estão descritos os participantes dessa etapa de entrevistas, sendo 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NrCRswysam4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <div style="text-align: center">
-    <p> Tabela 3: Teste Piloto 1 (Fonte:Gabriel e Samuel.2023).</p>
+    <p> Vídeo 1: Teste Piloto 1 (Fonte:Gabriel e Samuel.2023).</p>
 </div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kEJJAH61ra4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <div style="text-align: center">
-    <p> Tabela 4: Teste Piloto 2 (Fonte:Gabriel e Samuel.2023).</p>
+    <p> Vídeo 2: Teste Piloto 2 (Fonte:Gabriel e Samuel.2023).</p>
 </div>
 
 ## Relatos dos Resultados
+
+Nos video 3 e video 4, estão os acontecimentos da entrevistas feitas pelos componentes Gabriel e Samuel, que ocorreram nos momentos descritos na Tabela 3.  
 
 | Local       | Entrevistado | Entrevistador    | Data e hora          |
 | ----------- | ------------ | ---------------- | -------------------- |
@@ -58,24 +61,24 @@ Na Tabela 1 estão descritos os participantes dessa etapa de entrevistas, sendo 
 | Teams       | Pedro Vitor  | Gabriel e Samuel | 28/05  21:49 -22:06 |
 
 <div style="text-align: center">
-    <p> Tabela 5: Realização das Entrevistas(Fonte: Gabriel e Samuel. 2023)</p>
+    <p> Tabela 3: Realização das Entrevistas(Fonte: Gabriel e Samuel. 2023)</p>
 </div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WXTxIU-0_oc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <div style="text-align: center">
-    <p> Tabela 6: Entrevista 1 (Fonte:Gabriel e Samuel.2023).</p>
+    <p> Video 3: Entrevista 1 (Fonte:Gabriel e Samuel.2023).</p>
 </div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ytMEjofRbJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <div style="text-align: center">
-    <p> Tabela 7: Entrevista 2 (Fonte:Gabriel e Samuel.2023).</p>
+    <p> Video 4: Entrevista 2 (Fonte:Gabriel e Samuel.2023).</p>
 </div>
 
 ## Dados obtidos
 
-Esses são dados obtidos são relacionados a perguntas que foram feitam ao entrevistado, tais perguntas ajudam a entender as tarefas, entretanto, somente com o complemento das gravações, pode-se entender mais por meio da observação do jeito de falar ou se expressar do entrevistado, que percebe-se o quanto a tarefa pode influência-lo ou não, e que tipos de melhorias e problemas essas tarefas tem, o que foi inesperado apesar da entrevista bem-estruturada.
+Esses são dados obtidos são relacionados a perguntas que foram feitam ao entrevistado, tais perguntas ajudam a entender as tarefas, entretanto, somente com o complemento das gravações, pode-se entender mais por meio da observação do jeito de falar ou se expressar do entrevistado, que percebe-se o quanto a tarefa pode influência-lo ou não, e que tipos de melhorias e problemas essas tarefas tem, o que foi inesperado apesar da entrevista bem-estruturada, estando na Tabela 4 e 5, as respostas de cada um dos entrevistados.
 
 ### Entrevista 01 - Vitor F. Silva
 
@@ -92,7 +95,7 @@ Esses são dados obtidos são relacionados a perguntas que foram feitam ao entre
 |        9        | Você acredita que a tarefa de contatar um mentor fez sentido?     | (x) Sim<br />(  ) Não                                                                                                                                                                                                     |     Fechada     |
 
 <div style="text-align: center">
-    <p> Tabela 8: Tabela do Entrevistado 1 - Vitor (Fonte: Gabriel e Samuel. 2023)</p>
+    <p> Tabela 4: Tabela do Entrevistado 1 - Vitor (Fonte: Gabriel e Samuel. 2023)</p>
 </div>
 
 ### Entrevista 02 - Pedro Vitor Augusto de Jesus
@@ -114,7 +117,7 @@ Esses são dados obtidos são relacionados a perguntas que foram feitam ao entre
 
 
 <div style="text-align: center">
-    <p> Tabela 9: Tabela do Entrevistado 2 - Pedro (Fonte: Gabriel e Samuel. 2023)</p>
+    <p> Tabela 5: Tabela do Entrevistado 2 - Pedro (Fonte: Gabriel e Samuel. 2023)</p>
 </div>
 
 ## Problemas
@@ -139,9 +142,9 @@ Os termos de consentimentos, foram criados e enviados ao participantes da entrev
 
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021
 
-Relato dos resultados das Análises de Tarefas do projeto Skoob. Disponível em: [Link](https://interacao-humano-computador.github.io/2022.2-Skoob/planejamentoAnalise/nivel2/analise-tarefas/). Acesso em: 28 de maio de 2023.
+Relato dos resultados das Análises de Tarefas do projeto Skoob. Disponível em: https://interacao-humano-computador.github.io/2022.2-Skoob/planejamentoAnalise/nivel2/analise-tarefas/. Acesso em: 28 de maio de 2023.
 
-Relato dos Resultados Análises de Tarefas do projeto Lichess. Disponível em: [Link](https://interacao-humano-computador.github.io/2022.2-Lichess/design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/relato_resultados_analise/#entrevista-01-pedro). Acesso em 28 de maio de 2023.
+Relato dos Resultados Análises de Tarefas do projeto Lichess. Disponível em: https://interacao-humano-computador.github.io/2022.2-Lichess/design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/relato_resultados_analise/#entrevista-01-pedro. Acesso em 28 de maio de 2023.
 
 ## Histórico de Versão
 
