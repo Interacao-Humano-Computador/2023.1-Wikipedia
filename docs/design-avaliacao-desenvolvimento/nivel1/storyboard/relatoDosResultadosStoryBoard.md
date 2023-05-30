@@ -34,9 +34,17 @@ Na terça-feira, dia 28 de maior de 2023, o teste piloto, encontrado no vídeo 1
 <p>Video 1: Gravação da entrevista com usuário.(Fonte: Autores. 2023).</p>
 </div>
 
+### Termo de Consentimento
+
+A seguir, encontra-se o Termo de Consentimento assinado antes da realização da entrevista, como parte do processo necessário para obter a permissão do participante.
+
+[Termo de consentimento](../../../pdfs/termoConsentimentoStoryBoard%20(1)%20-%20Clicksign.pdf)
+
 ### Sumário dos dados
 
-#### Gravação do vídeo da entrevista
+#### Gravação da entrevista
+
+Na terça-feira, dia 28 de maio de 2023, a entrevista com o usuário, encontrado no vídeo 1, foi conduzido de forma remota no TEAMS com a participação dos entrevistadores Pedro e Chaydson e o entrevistado Yan Werlley.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M0xHdzl_24I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

@@ -111,7 +111,7 @@ Tabela 5 - Cronograma da entrega 4.
 | Entrevistas os usuários da análise de tarefa                              | Gabriel e Samuel                              | 22/05 - 29/05               | Pedro                                         | 29/05                |
 | Realizar o relato da análise de tarefa                                     | Gabriel e Samuel                              | 22/05 - 29/05               | Chaydson                                      | 29/05                |
 | Planejamento da avaliação do protótipo de papel                          | Lucas, Gabriel e Ana                          | 22/05 - 29/05               | Pedro                                         | 29/05                |
-| Planejamento do relato dos resultados da avaliação do protótipo de papel | Chaydson, Ana e Lucas                        | 22/05 - 29/05               | Ana                                           | 29/05                |
+| Planejamento do relato dos resultados da avaliação do protótipo de papel | Chaydson, Ana e Lucas                        | 22/05 - 29/05               | Pedro                                         | 29/05                |
 | Gravação da apresentação                                                | Ana, Lucas, Chaydson, Gabriel, Samuel e Pedro | 29/05                       | Ana, Lucas, Chaydson, Gabriel, Samuel e Pedro | 29/05                |
 | Finalização                                                               | Ana, Lucas, Chaydson, Gabriel, Samuel e Pedro | 29/05 - 02/06               | Ana, Lucas, Chaydson, Gabriel, Samuel e Pedro | 29/05                |
 
