@@ -33,14 +33,14 @@ Pensando-se nas atividades a serem realizadas para a conclusão, um cronograma �
 | 5      | Interpretação dos Dados e Possíveis Melhorias | 07/06 a 09/06 | Teams                       | Gabriel e Samuel                           | Chaydson e Lucas                          |
 
 <div style="text-align: center">
-    <p> Tabela 1: Cronograma da avaliação do proótipo de baixa-fidelidade (Fonte: Autores. 2023).</p>
+    <p> Tabela 1: Cronograma da avaliação do protótipo de baixa-fidelidade (Fonte: Autores. 2023).</p>
 </div>
 
 O passo 5 da tabela 1, está relacionado ao relato do resultados da Etapa 7 a ser realizada, como descrito no [cronograma planejado do projeto](../../../planejamento/cronogramaPlanejado.md) realizado anteriormente. Nas partes descritas 'Sem necessidade', no caso da Tabela 1, o local, se refere que as atividades não serão feitas em alguma plataforma de reuniões, mas sim pelos próprios membros fora de reuniões.
 
 ## Ferramentas Utilizadas
 
-As ferramentas utilizadas para a reunião da entrevista será utlizada o Teams para usuários que possuem conta no mesmo, e o Google Meet, caso o usuário não tenha uma conta com possibilidade de acesso ao Teams. Sendo, os prótotipos, desenvolvidos com desenhso feitos papel e caneta ou lápis e borracha. Em caso do usuário, necessitar expressar uma ideia, será pedido que ele traga de antemão uma folha A e uma caneta, ou que descreva a ideia, para que um dos entrevistadores possa representar sua ideia da melhor maneira possível.
+As ferramentas utilizadas para a reunião da entrevista será utlizada o Teams para usuários que possuem conta no mesmo, e o Google Meet, caso o usuário não tenha uma conta com possibilidade de acesso ao Teams. Sendo, os prótotipos, desenvolvidos com desenhos feitos papel e caneta ou lápis e borracha. Em caso do usuário, necessitar expressar uma ideia, será pedido que ele traga de antemão uma folha A e uma caneta, ou que descreva a ideia, para que um dos entrevistadores possa representar sua ideia da melhor maneira possível.
 
 ## Prótotipo de Papel
 
@@ -59,10 +59,9 @@ O prótotipo de papel está utilizando os fluxos identificados durante a pesquis
     <p> Tabela 2: Fluxos a serem prototipadas (Fonte: Autores. 2023).</p>
 </div>
 
-
 ## Entrevista
 
-Para a entrvista o primeiro passo é definir quem vai participar da avaliação. É de extrema importância  que os participantes tenham o mesmo perfil de usuário dos usuários do site Wikipédia. Esses perfis foram definidos na [página de perfil de usuário](../../../analise-de-requisitos/perfilDeUsuario.md).
+Para a entrvista o primeiro passo é definir quem vai participar da avaliação. É de extrema importância que os participantes tenham o mesmo perfil de usuário dos usuários do site Wikipédia. Esses perfis foram definidos na [página de perfil de usuário](../../../analise-de-requisitos/perfilDeUsuario.md).
 
 ### Termo de consentimento
 
@@ -76,17 +75,21 @@ No termo de consentimento buscamos esclarecer os objetivos da entrevista, solici
 
 ### Roteiro de perguntas
 
-A tabela 1 apresenta o roteiro de perguntas que comporá a entrevista. O roteiro pode ser alterado conforme o andamento da entrevista ou segundo a necessidade do entrevistador. 
+A tabela 3 apresenta o roteiro de perguntas que comporá a entrevista. O roteiro pode ser alterado conforme o andamento da entrevista ou segundo a necessidade do entrevistador.
 
-|              Pergunta           |       Possível resposta            |                        Instrução                          |
-| ------------------------------- | ---------------------------------- | --------------------------------------------------------- |
-| Você já fez `nome do fluxo/atividade` |    Sim<br/>Não        |                -              |
-| Qual a frequência que você executa `nome do fluxo/atividade`?  | Quantidade em relação a determinado intervalo de tempo | Pergunte caso a primeira resposta seja sim|
-| Realize `nome do fluxo/atividade`. Descreva o pensamento atrás de cada ação feita.  |Discursiva | Em caso de usuário com dificuldade, entrevistador deverá ajudá-lo via perguntas |
-| Após simulação da `nome do fluxo/atividade`, você identifica que a sequência das atividades seja coerente? | Sim<br/>Não<br/>Inconclusivo | - |
-| Explique o motivo da sua resposta | Discursiva |                -              |
-| Você imagina outra forma de solução para `nome do fluxo/atividade` |    Sim<br/>Não        |                -              |
-|  Poderia descrever essa solução  |    Discursiva       |Pergunte caso a resposta anterior seja sim|
+| Pergunta                                                                                                          | Possível resposta                                       | Instrução                                                                        |
+| ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Você já fez `nome do fluxo/atividade`                                                                         | Sim``Não                                         | -                                                                                  |
+| Qual a frequência que você executa `nome do fluxo/atividade`?                                                 | Quantidade em relação a determinado intervalo de tempo | Pergunte caso a primeira resposta seja sim                                         |
+| Realize `nome do fluxo/atividade`. Descreva o pensamento atrás de cada ação feita.                           | Discursiva                                               | Em caso de usuário com dificuldade, entrevistador deverá ajudá-lo via perguntas |
+| Após simulação da `nome do fluxo/atividade`, você identifica que a sequência das atividades seja coerente? | Sim``Não``Inconclusivo                    | -                                                                                  |
+| Explique o motivo da sua resposta                                                                                 | Discursiva                                               | -                                                                                  |
+| Você imagina outra forma de solução para `nome do fluxo/atividade`                                           | Sim``Não                                         | -                                                                                  |
+| Poderia descrever essa solução                                                                                  | Discursiva                                               | Pergunte caso a resposta anterior seja sim                                         |
+
+<div style="text-align: center">
+    <p> Tabela 3: Roteiro de perguntas (Fonte: Autores. 2023).</p>
+</div>
 
 ## Conclusão
 
@@ -99,5 +102,5 @@ BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, 
 ## Histórico de Versão
 
 | Versão | Data       | Descrição            | Autor(es)            | Revisor(es) |
-| ------ | ---------- | -------------------- | -------------------- | ----------- |
-| 1.0    | 29/05/2023 | Criação do documento | Lucas, Ana e Gabriel | Pedro       |
+| ------- | ---------- | ---------------------- | -------------------- | ----------- |
+| 1.0     | 29/05/2023 | Criação do documento | Lucas, Ana e Gabriel | Pedro       |

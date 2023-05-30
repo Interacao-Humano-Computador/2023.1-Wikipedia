@@ -38,7 +38,7 @@ No domingo, dia 28 de maio de 2023, o teste piloto, encontrado no vídeo 1, foi 
 
 A seguir, encontra-se o Termo de Consentimento assinado antes da realização da entrevista, como parte do processo necessário para obter a permissão do participante.
 
-[Termo de consentimento](../../../pdfs/termoConsentimentoStoryBoard%20(1)%20-%20Clicksign.pdf)
+[Termo de consentimento](../../../pdfs/termoConsentimentoStoryBoardAssinado.pdf)
 
 ### Sumário dos dados
 
