@@ -113,7 +113,15 @@ Na Figura 6, podemos ver um usuário editando um artigo na Wikipédia.
 <p>Figura 6: Storyboard da análise de tarefa de editar artigo.(Fonte: Chaydson. 2023).</p>
 </div>
 
+### Análise de tarefa - Adicionar uma discussão
 
+Na Figura 7, podemos ver um usuário adicionando uma nova discussão.
+
+<img src="../../../../images/storyboards/StoryboardAna.jpeg" />
+
+<div style="text-align: center">
+<p>Figura 7: Storyboard da análise de tarefa de adicionar nova discussão.(Fonte: Ana. 2023).</p>
+</div>
 
 ## Bibliografia
 
