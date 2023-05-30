@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento apresenta o relato dos resultados das análises de tarefas realizadas e está seguindo como base o [Planejamento dos resultados da Análise de Tarefas](../analiseDeTarefas/planejamentoResultadosAnalisesTarefas.md). Foram conduzidas duas entrevistas, uma por meio do Google Meet e outra utilizando o Microsoft Teams. Os entrevistados responderam a perguntas elaboradas previamente durante o [Planejamento da Avaliação das Análises de Tarefas](../analiseDeTarefas/planejamentoResultadosAnalisesTarefas.md). A seguir, serão apresentados os resultados obtidos nas entrevistas.
+Este documento apresenta o relato dos resultados das análises de tarefas realizadas e está seguindo como base o [Planejamento dos resultados da Análise de Tarefas](../analiseDeTarefas/planejamentoResultadosAnalisesTarefas.md). Foram conduzidas duas entrevistas, uma por meio do Google Meet e outra utilizando o Microsoft Teams. Os entrevistados responderam a perguntas elaboradas previamente durante o [Planejamento da Avaliação das Análises de Tarefas](../analiseDeTarefas/planejamentoDaAvaliacaoTarefas.md). A seguir, serão apresentados os resultados obtidos nas entrevistas.
 
 ## Metodologia
 
