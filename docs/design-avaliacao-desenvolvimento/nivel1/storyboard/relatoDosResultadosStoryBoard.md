@@ -26,7 +26,7 @@ O participante Yan foi selecionado com base em critérios específicos que refle
 
 ### Teste piloto
 
-Na terça-feira, dia 28 de maior de 2023, o teste piloto, encontrado no vídeo 1, foi conduzido de forma remota no TEAMS com a participação de Lucas e Ana. Durante a realização do teste, foram identificadas algumas possíveis melhorias no storyboard como qualidade de imagem ruim. Como resultado, os storyboards tiverem uma melhoria na resolução. No entanto, os demais aspectos do planejamento estavam em conformidade.
+Na terça-feira, dia 28 de maio de 2023, o teste piloto, encontrado no vídeo 1, foi conduzido de forma remota no TEAMS com a participação de Lucas e Ana. Durante a realização do teste, foram identificadas algumas possíveis melhorias no storyboard como qualidade de imagem ruim. Como resultado, os storyboards tiverem uma melhoria na resolução. No entanto, os demais aspectos do planejamento estavam em conformidade.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SM_PAuP2bdg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -44,7 +44,7 @@ A seguir, encontra-se o Termo de Consentimento assinado antes da realização da
 
 #### Gravação da entrevista
 
-Na terça-feira, dia 28 de maio de 2023, a entrevista com o usuário, encontrado no vídeo 1, foi conduzido de forma remota no TEAMS com a participação dos entrevistadores Pedro e Chaydson e o entrevistado Yan Werlley.
+Na terça-feira, dia 28 de maio de 2023, a entrevista com o usuário, encontrado no vídeo 2, foi conduzido de forma remota no TEAMS com a participação dos entrevistadores Pedro e Chaydson e o entrevistado Yan Werlley.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M0xHdzl_24I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -72,7 +72,7 @@ Com base nas respostas fornecidas, parece que os atores apresentados nos storybo
 
 ## Bibliografia
 
-[1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 
 ## Histórico de Versão
 
