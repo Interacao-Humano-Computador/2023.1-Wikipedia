@@ -42,6 +42,12 @@ nav:
       - Apresentação 1: apresentacoes/apresentacao1.md
       - Apresentação 2: apresentacoes/apresentacao2.md
       - Apresentação 3: apresentacoes/apresentacao3.md
+  - Politicas:
+      - Metodologias: politicas/metodologias.md
+      - Issues: politicas/issues.md
+      - Pull requests: politicas/pullrequest.md
+      - Commit: politicas/commit.md
+      - Branch: politicas/branch.md
       - Apresentacao 4: apresentacoes/apresentacao4.md
   - Planejamento:
       - Cronogramas: 
@@ -69,7 +75,7 @@ nav:
       - Nível 1:
         - Storyboard:
           - Planejamento da Avaliação do StoryBoard: design-avaliacao-desenvolvimento/nivel1/storyboard/planejamentoDaAvaliacao.md
-          - Planejamento do Relato dos resultados: design-avaliacao-desenvolvimento/nivel1/storyboard/planejamentoResultadosAvaliacaoStoryboard.md
+          - Planejamento do relato dos resultados: design-avaliacao-desenvolvimento/nivel1/storyboard/planejamentoResultadosAvaliacaoStoryboard.md
           - Relato dos Resultados do StoryBoard: design-avaliacao-desenvolvimento/nivel1/storyboard/relatoDosResultadosStoryBoard.md
         - Análise de tarefas:
           - Planejamento da Avaliação: design-avaliacao-desenvolvimento/nivel1/analiseDeTarefas/planejamentoDaAvaliacaoTarefas.md
@@ -77,9 +83,11 @@ nav:
       - Nível 2:
         - Protótipo de papel:
           - Planejamento da Avaliação: design-avaliacao-desenvolvimento/nivel2/prototipoDePapel/planejamentoDaAvaliacaoPrototipoDePapel.md
+          - Planejamento do relato dos resultados: design-avaliacao-desenvolvimento/nivel2/planejamentoRelatoResultadosAvaliacaoPrototipoPapel.md
   - Politicas:
       - Metodologias: politicas/metodologias.md
       - Issues: politicas/issues.md
       - Pull requests: politicas/pullrequest.md
       - Commit: politicas/commit.md
       - Branch: politicas/branch.md
+
