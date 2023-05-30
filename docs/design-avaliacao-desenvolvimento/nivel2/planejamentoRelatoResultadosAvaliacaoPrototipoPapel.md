@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O relatório de resultado é um elemento que tem como finalidade registrar os resultados alcançados através de uma avaliação. Este texto atual propõe um plano para criar tal relatório, relacionado à avaliação dos elementos produzidos pela equipe. Esse documento é a combinação dos dois textos do relatório de desempenho do storyboard e da análise das tarefas.
+O relatório de resultado é um elemento que tem como finalidade registrar os resultados alcançados através de uma avaliação. Este artefato propõe um plano para criar tal relatório, relacionado à avaliação dos elementos produzidos pela equipe. Esse documento é a combinação dos dois textos do relatório de desempenho do storyboard e da análise das tarefas.
 
 ## Elementos do Relato de Resultados
 
