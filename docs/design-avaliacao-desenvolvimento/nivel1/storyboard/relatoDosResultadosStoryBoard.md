@@ -26,7 +26,7 @@ O participante Yan foi selecionado com base em critérios específicos que refle
 
 ### Teste piloto
 
-Na terça-feira, dia 28 de maio de 2023, o teste piloto, encontrado no vídeo 1, foi conduzido de forma remota no TEAMS com a participação de Lucas e Ana. Durante a realização do teste, foram identificadas algumas possíveis melhorias no storyboard como qualidade de imagem ruim. Como resultado, os storyboards tiverem uma melhoria na resolução. No entanto, os demais aspectos do planejamento estavam em conformidade.
+No domingo, dia 28 de maio de 2023, o teste piloto, encontrado no vídeo 1, foi conduzido de forma remota no TEAMS com a participação de Lucas e Ana. Durante a realização do teste, foram identificadas algumas possíveis melhorias no storyboard como qualidade de imagem ruim. Como resultado, os storyboards tiverem uma melhoria na resolução. No entanto, os demais aspectos do planejamento estavam em conformidade.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SM_PAuP2bdg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -56,7 +56,7 @@ Na terça-feira, dia 28 de maio de 2023, a entrevista com o usuário, encontrado
 
 A imagem apresentada na Figura 1 representa as respostas do usuário entrevistado.
 
-![Respostas da entrevista](/../../../storyboards/resultadoAvaliacaoStoryBoard.jpeg)
+![Respostas da entrevista](../../../storyboards/resultadoAvaliacaoStoryBoard.jpeg)
 
 <div style="text-align: center">
 <p>Figura 1: Perguntas respondidas pelo usuário.(Fonte: Autores. 2023).</p>
