@@ -56,7 +56,7 @@ Na terça-feira, dia 28 de maio de 2023, a entrevista com o usuário, encontrado
 
 A imagem apresentada na Figura 1 representa as respostas do usuário entrevistado.
 
-![Respostas da entrevista](../../../../storyboards/resultadoAvaliacaoStoryBoard.jpeg)
+![Respostas da entrevista](/../../../storyboards/resultadoAvaliacaoStoryBoard.jpeg)
 
 <div style="text-align: center">
 <p>Figura 1: Perguntas respondidas pelo usuário.(Fonte: Autores. 2023).</p>
