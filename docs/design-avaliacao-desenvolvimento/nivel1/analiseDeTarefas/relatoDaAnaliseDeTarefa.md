@@ -144,7 +144,7 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 
 Relato dos resultados das Análises de Tarefas do projeto Skoob. Disponível em: https://interacao-humano-computador.github.io/2022.2-Skoob/planejamentoAnalise/nivel2/analise-tarefas/. Acesso em: 28 de maio de 2023.
 
-Relato dos Resultados Análises de Tarefas do projeto Lichess. Disponível em: https://interacao-humano-computador.github.io/2022.2-Lichess/design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/relato_resultados_analise/#entrevista-01-pedro. Acesso em 28 de maio de 2023.
+Relato dos Resultados Análises de Tarefas do projeto Lichess. Disponível em: https://interacao-humano-computador.github.io/2022.2-Lichess/design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/relato_resultados_analise/. Acesso em 28 de maio de 2023.
 
 ## Histórico de Versão
 
