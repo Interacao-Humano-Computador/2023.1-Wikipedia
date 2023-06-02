@@ -117,13 +117,35 @@ Tabela 5 - Cronograma da entrega 4.
 
 Tabela 6 - Cronograma da entrega 5.
 
-## Entrega 6.1 - Análise dos artefatos
+## Entrega 6.1 - Análise dos artefatos do grupo 3
 
-| Tarefa                                   | Autor(es) | Período de desenvolvimento | Revisor(es) | Período de revisão |
-| ---------------------------------------- | --------- | --------------------------- | ----------- | -------------------- |
-| Verificação dos artefatos – Grupo + 1 | Grupo     | 29/05 - 02/06               | Grupo       | 03/06 - 04/06        |
-| Gravação da apresentação             | Grupo     | 29/05 - 02/06               | Grupo       | 03/06 - 04/06        |
-| Finalização                            | Grupo     | 29/05 - 02/06               | Grupo       | 03/06 - 04/06        |
+| Tarefa                                                                 | Autor(es)         | Período de desenvolvimento |
+| ---------------------------------------------------------------------- | ----------------- | --------------------------- |
+| Cronograma                                                             | Pedro             | 02/06 - 05/06               |
+| Sites avaliados                                                        | Ana               | 02/06 - 05/06               |
+| Site selecionado                                                       | Chaydson          | 02/06 - 05/06               |
+| Metodologia                                                            | Gabriel           | 02/06 - 05/06               |
+| Ferramentas                                                            | Lucas             | 02/06 - 05/06               |
+| Processos de Design                                                    | Samuel            | 02/06 - 05/06               |
+| Criação do perfil do Usuário                                        | Lucas             | 02/06 - 05/06               |
+| Desenvolvimento das personas                                           | Samuel e Chaydson | 02/06 - 05/06               |
+| Análise das tarefas do usuário (técnicas HTA e CTT)                 | Pedro             | 02/06 - 05/06               |
+| Aspectos éticos de pesquisa envolvendo pessoas                        | Gabriel           | 02/06 - 05/06               |
+| Criação dos cenário                                                 | Ana               | 02/06 - 05/06               |
+| Definir os princípios gerais do projeto                               | Lucas             | 02/06 - 05/06               |
+| Determinar as metas de usabilidade                                     | Pedro             | 02/06 - 05/06               |
+| Criar o guia de estilo                                                 | Gabriel e Samuel  | 02/06 - 05/06               |
+| Determinar as características da plataforma para o projeto            | Ana e Chaydson    | 02/06 - 05/06               |
+| Planejar a avaliação do Story Board                                  | Chaydson e Lucas  | 02/06 - 05/06               |
+| Planejar a avaliação da Análise de Tarefas                          | Ana e Pedro       | 02/06 - 05/06               |
+| Planejar o retato da avaliação do Story Board                        | Samuel            | 02/06 - 05/06               |
+| Planejar o retato da avaliação da Análise de Tarefas                | Gabriel           | 02/06 - 05/06               |
+| Relatar os resultados do Story Board                                   | Gabriel e Samuel  | 02/06 - 05/06               |
+| Relatar a análise de tarefas                                          | Ana e Lucas       | 02/06 - 05/06               |
+| Planejar a avaliação do protótipo de papel                          | Chaydson          | 02/06 - 05/06               |
+| Planejar o relato dos resultados da avaliação do protótipo de papel | Pedro             | 02/06 - 05/06               |
+| Gravação da apresentação                                           | Grupo             | 05/06                       |
+| Finalização                                                          | Grupo             | 06/06 - 12/06               |
 
 Tabela 7 - Cronograma da entrega 6.1.
 
