@@ -87,6 +87,10 @@ nav:
         - Protótipo de papel:
           - Planejamento da Avaliação: design-avaliacao-desenvolvimento/nivel2/prototipoDePapel/planejamentoDaAvaliacaoPrototipoDePapel.md
           - Planejamento do relato dos resultados: design-avaliacao-desenvolvimento/nivel2/prototipoDePapel/planejamentoRelatoResultadosAvaliacaoPrototipoPapel.md
+  - Verificação:
+      - Planejamento da Verificação: verificacao/planejamento.md
+      - Ponto de Controle 1:
+          - Cronograma: verificacao/pontoControle1/cronograma.md     
   - Politicas:
       - Metodologias: politicas/metodologias.md
       - Issues: politicas/issues.md
