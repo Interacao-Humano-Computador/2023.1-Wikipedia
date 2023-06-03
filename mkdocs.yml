@@ -90,7 +90,8 @@ nav:
   - Verificação:
       - Planejamento da Verificação: verificacao/planejamento.md
       - Ponto de Controle 1:
-          - Cronograma: verificacao/pontoControle1/cronograma.md     
+          - Cronograma: verificacao/pontoControle1/cronograma.md
+          - Análise das Tarefas do Usuário: verificacao/pontoControle1/analiseDasTarefas.md      
   - Politicas:
       - Metodologias: politicas/metodologias.md
       - Issues: politicas/issues.md

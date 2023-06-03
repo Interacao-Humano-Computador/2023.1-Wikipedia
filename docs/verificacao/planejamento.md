@@ -89,6 +89,9 @@ A realização da insepção será efetuada conforme o [cronograma](../planejame
 
 CASTRO, E. QUAL A DIFERENÇA ENTRE INSPEÇÃO E TESTE DE SOFTWARE? VOCE CONHECE O PROCESSO DE INSPEÇÃO? Disponível em: [http://rederequisitos.com.br/qual-diferenca-entre-inspecao-e-teste-de-software-voce-conhece-o-processo-de-inspecao/#:~:text=A%20t%C3%A9cnica%20de%20Inspe%C3%A7%C3%A3o%20elimina,com%20corre%C3%A7%C3%A3o%20em%20fases%20posteriores.](http://rederequisitos.com.br/qual-diferenca-entre-inspecao-e-teste-de-software-voce-conhece-o-processo-de-inspecao/#:~:text=A%20t%C3%A9cnica%20de%20Inspe%C3%A7%C3%A3o%20elimina,com%20corre%C3%A7%C3%A3o%20em%20fases%20posteriores.). Acesso em: 3 jun. 2023.
 
+Banco Central. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/>. Acesso em: 3 jun. 2023.
+
+‌
 ‌
 
 ## Histórico de versão
