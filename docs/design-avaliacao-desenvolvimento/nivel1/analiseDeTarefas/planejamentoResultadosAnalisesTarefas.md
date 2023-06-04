@@ -103,7 +103,7 @@ Sugestões de melhorias para o sistema. [1]
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                      | Autor(es)        | Revisor(es) |
-| ------ | ---------- | ------------------------------ | ---------------- | ----------- |
-| 1.0    | 20/05/2023 | Criação do documento           | Lucas e Chaydson | Ana         |
-| 1.0    | 03/06/2023 | Refatoração total do documento | Lucas e Chaydson | Ana         |
+| Versão | Data       | Descrição                      | Autor(es) | Revisor(es) |
+| ------ | ---------- | ------------------------------ | --------- | ----------- |
+| 1.0    | 20/05/2023 | Criação do documento           | Lucas     | Ana         |
+| 1.0    | 03/06/2023 | Refatoração total do documento | Lucas     | Ana         |
