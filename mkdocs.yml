@@ -94,6 +94,7 @@ nav:
           - Ferramentas: verificacao/pontoControle1/ferramentas.md   
       - Ponto de Controle 2:
           - Análise das Tarefas do Usuário: verificacao/pontoControle2/analiseDasTarefas.md
+          - Questionário: verificacao/pontoControle2/questionario.md
       - Ponto de Controle 3:
           - Metas de Usabilidade: verificacao/pontoControle3/metasUsabilidade.md    
   - Politicas:

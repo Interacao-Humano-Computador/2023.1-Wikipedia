@@ -19,14 +19,14 @@ A checklist será preenchida com base em diferentes classificações, que inclue
 
 Na tabela 1 a seguir, estão as questões padrões utilizadas em todos os artefatos.
 
-| ID  |                                 Questão                                  | Inspeção |
-| :-: | :----------------------------------------------------------------------: | :------: |
-|  1  |                 As legendas estão no padrão do projeto?                  |    🟢    |
-|  2  |                  Possui links para os outros artefatos?                  |    🟡    |
-|  3  |                    Existe uma introdução no artefato?                    |    🟢    |
-|  4  |          Existe tabela de versionamento padronizado e completo?          |    🟢    |
-|  5  |                Há referências bibliográficas no artefato?                |    🟢    |
-|  6  | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |    🟢    |
+| ID |                                 Questão                                 | Inspeção |
+| :-: | :-----------------------------------------------------------------------: | :--------: |
+| 1 |                 As legendas estão no padrão do projeto?                 |     🟢     |
+| 2 |                  Possui links para os outros artefatos?                  |     🟡     |
+| 3 |                   Existe uma introdução no artefato?                   |     🟢     |
+| 4 |          Existe tabela de versionamento padronizado e completo?          |     🟢     |
+| 5 |               Há referências bibliográficas no artefato?               |     🟢     |
+| 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |     🟢     |
 
 <div style="text-align: center">
     <p> Tabela 1: Verificação padrao (Fonte: Autores. 2023).</p>
@@ -34,10 +34,10 @@ Na tabela 1 a seguir, estão as questões padrões utilizadas em todos os artefa
 
 Na tabela 2 a seguir, estão as questões padrões utilizadas em todos os artefatos.
 
-| ID  |                             Questão                             | Inspeção |
-| :-: | :-------------------------------------------------------------: | :------: |
-|  1  |   O documento explica com clareza as ferramentas utilizadas?    |    🟢    |
-|  2  | O documento apresenta as finalidades das ferramentas utilizadas |    🟢    |
+| ID |                            Questão                            | Inspeção |
+| :-: | :-------------------------------------------------------------: | :--------: |
+| 1 |   O documento explica com clareza as ferramentas utilizadas?   |     🟢     |
+| 2 | O documento apresenta as finalidades das ferramentas utilizadas |     🟢     |
 
 ## Comentários
 
@@ -53,11 +53,11 @@ Através dos checklists realizados no Cronograma podemos observar que:
 
 ## Referência Bibliografica
 
-Banco Central. Disponível em: [https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/). Acesso em: 3 jun. 2023.‌
+Banco Central. Disponível em: [https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/). Acesso em: 4 jun. 2023.‌
 ‌
 
 ## Histórico de versão
 
-|    Data    | Versão |      Descrição       | Autor(es) |
-| :--------: | :----: | :------------------: | :-------: |
-| 04/06/2023 |  1.0   | Criação do documento |   Lucas   |
+|    Data    | Versão |      Descrição      | Autor(es) |
+| :--------: | :-----: | :--------------------: | :-------: |
+| 04/06/2023 |   1.0   | Criação do documento |   Lucas   |
