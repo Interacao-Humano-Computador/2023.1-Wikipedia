@@ -34,6 +34,7 @@ Na tabela 1 a seguir, estão as questões utilizadas e a execução da inspeçã
 | 9 |            As tabelas e imagens são referenciadas no texto?            |     🟢     |
 | 10 |                    Existe introdução no artefato?                    |     🟢     |
 | 11 |                      Possui histórico de versão?                      |     🟢     |
+| 12 |    Possui bibliografia ou referência ou referencia bibliográfica?    |     🟢     |
 
 <div style="text-align: center">
     <p> Tabela 1: Checklist da Análise de Tarefas. (Fonte: Pedro. 2023).</p>
@@ -51,9 +52,9 @@ Na tabela 1 a seguir, estão as questões utilizadas e a execução da inspeçã
 
 Através dos checklists realizados na Análise de Tarefas podemos observar que:
 
-* 9/11 exigências estão satisfatórias;
-* 2/11 exigências estão incompletas;
-* 0/11 exigências estão erradas ou não realizadas.
+* 10/12 exigências estão satisfatórias;
+* 2/12 exigências estão incompletas;
+* 0/12 exigências estão erradas ou não realizadas.
 
 ## Referência Bibliografica
 

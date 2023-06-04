@@ -33,6 +33,7 @@ Na tabela 1 a seguir, estão as questões utilizadas e a execução da inspeçã
 | 8 |                          As tabelas são referenciadas no texto?                          |     🟢     |
 | 9 |                             Existe introdução no artefato?                             |     🟢     |
 | 10 |                               Possui histórico de versão?                               |     🟢     |
+| 11 |             Possui bibliografia ou referência ou referencia bibliográfica?             |     🟢     |
 
 <div style="text-align: center">
     <p> Tabela 1: Checklist do Cronograma. (Fonte: Pedro. 2023).</p>
@@ -56,6 +57,7 @@ Na tabela 2 a seguir, estão as questões utilizadas e a execução da inspeçã
 | 8 |                                 As tabelas são referenciadas no texto?                                 |     🟢     |
 | 9 |                                     Existe introdução no artefato?                                     |     🟢     |
 | 10 |                                      Possui histórico de versão?                                      |     🟢     |
+| 11 |                     Possui bibliografia ou referência ou referencia bibliográfica?                     |     🟢     |
 
 <div style="text-align: center">
     <p> Tabela 2: Checklist do Cronograma Executado. (Fonte: Pedro. 2023).</p>
@@ -74,15 +76,15 @@ Na tabela 2 a seguir, estão as questões utilizadas e a execução da inspeçã
 
 Através dos checklists realizados no Cronograma podemos observar que:
 
-* 10/10 exigências estão satisfatórias;
-* 0/10 exigências estão incompletas;
-* 0/10 exigências estão erradas ou não realizadas.
+* 11/11 exigências estão satisfatórias;
+* 0/11 exigências estão incompletas;
+* 0/11 exigências estão erradas ou não realizadas.
 
 Através dos checklists realizados no Cronograma Executado podemos observar que:
 
-* 7/10 exigências estão satisfatórias;
-* 3/10 exigências estão incompletas;
-* 0/10 exigências estão erradas ou não realizadas.
+* 8/11 exigências estão satisfatórias;
+* 3/11 exigências estão incompletas;
+* 0/11 exigências estão erradas ou não realizadas.
 
 ## Referência Bibliografica
 
