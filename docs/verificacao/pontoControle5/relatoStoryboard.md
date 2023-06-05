@@ -1,6 +1,6 @@
 ## Introdução
 
-O presente documento apresentará a verificação do artefato [Relato de Resultados da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/storyboard/relato_resultados), desenvolvidos pela equipe 3 do [Banco Central do Brasil](https://interacao-humano-computador.github.io/2023.1-BancoCentral/). A versão avaliada é a 1.0. A técnica de inspeção será aplicada para verificar esses artefatos, de acordo com o [planejamento](../planejamento.md) estabelecido.
+O presente documento apresentará a verificação do artefato [Relato de Resultados da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/storyboard/relato_resultados), desenvolvidos pela equipe 3 do [Banco Central do Brasil](https://interacao-humano-computador.github.io/2023.1-BancoCentral/) [1]. A versão avaliada é a 1.0. A técnica de inspeção será aplicada para verificar esses artefatos, de acordo com o [planejamento](../planejamento.md) estabelecido.
 
 ## Metodologia
 
@@ -50,9 +50,19 @@ Na tabela 2, estão as questões referentes ao artefato [Relato de Resultados da
 
 ## Comentários
 
+A Tabela 3 contém algumas observações.
+
 | ID | Comentário                                                                                                                                                      |
 | -- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 04 | Embora o local e a data apareçam no início de cada gravação, é interessante criar uma tabela com o local, data, hora e os participantes de cada entrevista. |
+
+<div style="text-align: center">
+    <p> Tabela 3: Verificação do artefato (Fonte: Samuel e Gabriel 2023).</p>
+</div>
+
+## Referência Bibliografica
+
+[1] Banco Central. Disponível em: [https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/). Acesso em: 5 jun. 2023.‌
 
 ## Histórico de versão
 
