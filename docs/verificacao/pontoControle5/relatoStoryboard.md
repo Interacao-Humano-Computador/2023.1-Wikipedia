@@ -60,6 +60,15 @@ A Tabela 3 contém algumas observações.
     <p> Tabela 3: Verificação do artefato (Fonte: Samuel e Gabriel 2023).</p>
 </div>
 
+## Resultados
+
+Através dos checklists realizados no Cronograma podemos observar que:
+
+- 14/15 exigências estão satisfatórias;
+- 1/15 exigências estão incompletas;
+- 0/13 exigências estão erradas ou não realizadas.
+
+
 ## Referência Bibliografica
 
 [1] Banco Central. Disponível em: [https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/). Acesso em: 5 jun. 2023.‌
