@@ -23,7 +23,7 @@ Na tabela 1, estão as questões referentes ao artefato Processo de Design.
 | 2 |                  Possui links para os outros artefatos?                  |    N/A    |
 | 3 |                   Existe uma introdução no artefato?                   |     🟢     |
 | 4 |          Existe tabela de versionamento padronizado e completo?          |     🟢     |
-| 5 |               Há referências bibliográficas no artefato?               |     🟢     |
+| 5 |      Há referências bibliográficas e/ou bibliografia no artefato?      |     🟢     |
 | 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |     🟢     |
 | 7 |              A escolha do processo de design é justificada?              |     🟢     |
 
