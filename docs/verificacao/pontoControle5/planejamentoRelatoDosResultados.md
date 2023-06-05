@@ -1,8 +1,8 @@
-# Verificação da Análise de Tarefas
+# Verificação do Planejamento do Relato do Protótipo de Papel
 
 ## Introdução
 
-O presente documento apresentará a verificação do artefato [Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/analise_tarefas), desenvolvidos pela equipe 3 do [Banco Central do Brasil](https://interacao-humano-computador.github.io/2023.1-BancoCentral/). A versão avaliada do Cronograma é a 2.0. A técnica de inspeção será aplicada para verificar esses artefatos, de acordo com o [planejamento](../planejamento.md) estabelecido.
+O presente documento apresentará a verificação do artefato [Planejamento do relato do protótipo de papel](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_papel/planejamento_relato), desenvolvidos pela equipe 3 do [Banco Central do Brasil](https://interacao-humano-computador.github.io/2023.1-BancoCentral/). A versão avaliada do Cronograma é a 1.0. A técnica de inspeção será aplicada para verificar esses artefatos, de acordo com o [planejamento](../planejamento.md) estabelecido.
 
 ## Metodologia
 
@@ -22,7 +22,7 @@ Na tabela 1 a seguir, estão as questões padrões utilizadas em todos os artefa
 | ID |                                 Questão                                 | Inspeção |
 | :-: | :-----------------------------------------------------------------------: | :--------: |
 | 1 |                 As legendas estão no padrão do projeto?                 |     🟢     |
-| 2 |                  Possui links para os outros artefatos?                  |    N/A    |
+| 2 |                  Possui links para os outros artefatos?                  |     🔴     |
 | 3 |                   Existe uma introdução no artefato?                   |     🟢     |
 | 4 |          Existe tabela de versionamento padronizado e completo?          |     🟢     |
 | 5 |     Possui bibliografia ou referência ou referência bibliográfica?     |     🟢     |
@@ -32,40 +32,39 @@ Na tabela 1 a seguir, estão as questões padrões utilizadas em todos os artefa
     <p> Tabela 1: Checklist dos padrões utilizados em todos os artefatos. (Fonte: Pedro. 2023).</p>
 </div>
 
-Na tabela 2 a seguir, estão as questões utilizadas e a execução da inspeção para o checklist da Análise de Tarefas.
+Na tabela 2 a seguir, estão as questões utilizadas e a execução da inspeção para o checklist do planejamento do relato do protótipo de papel.
 
 <center>
 
-| ID |                                Questão                                | Inspeção |
-| :-: | :---------------------------------------------------------------------: | :--------: |
-| 1 |       Existe ao menos duas técnias para especificar as tarefas?       |     🟢     |
-| 2 |           As principais tarefas do sistema são apresentadas?           |     🟢     |
-| 3 |            A tarefa a ser analisada é descrita claramente?            |     🟡     |
-| 4 |                 É feita a decomposição das tarefas?                 |     🟢     |
-| 5 | É estabelecida uma sequência de passos para realizar cada sub-tarefa? |     🟢     |
-| 6 |         Foi elaborado um diagrama para representar as tarefas?         |     🟡     |
-| 7 |                   Também foi representado em tabela?                   |     🟢     |
+| ID |                                          Questão                                          | Inspeção |
+| :-: | :-----------------------------------------------------------------------------------------: | :--------: |
+| 1 |                             O planejamento apresenta objetivos?                             |     🟢     |
+| 2 |                       O artefato apresenta como será a metodologia?                       |     🟢     |
+| 3 |                 O artefato apresenta como será definido os participantes?                 |     🟢     |
+| 4 | É informado como será documentado o horario, data local, entrevistados e entrevistadores? |     🟢     |
+| 5 |                 O artefato apresenta como será documentado os envolvidos?                 |     🟢     |
+| 6 |            O artefato apresenta como será documentado os problemas encontrados?            |     🟢     |
+| 7 |              O artefato apresenta como será documentado as questões éticas              |     🟡     |
 
 <div style="text-align: center">
-    <p> Tabela 2: Checklist da Análise de Tarefas. (Fonte: Pedro. 2023).</p>
+    <p> Tabela 2: Checklist do planejamento do relato do protótipo de papel. (Fonte: Pedro. 2023).</p>
 </div>
 
 </center>
 
 ## Comentários
 
-* Algumas imagens não estão sendo renderizadas impossibilitando a visualização de alguns diagramas e figuras;
-* Comentário não apagado "Modelo da tabela a ser feita, apagar isso quando for adicionar sua parte Mizael" e TEXTO DESCREVENDO A TAREFA;
-* "TEXTO DESCREVENDO A TAREFA" onde acredito ser o local para descrever as tarefas;
+* O artefato menciona que deve obter o consentimento dos participantes previamente para a gravação, porém não deixa explicito se os participantes assinarão um termo, por exemplo.
+* O documento menciona o artefato "Protótipo de Papel", mas não o apresenta como um link.
 
 ## Resultados
 
 Através dos checklists realizados na Análise de Tarefas somando as Tabelas 1 e 2, podemos observar que:
 
-* 10/13 exigências estão satisfatórias;
-* 2/13 exigências estão incompletas;
-* 0/13 exigências estão erradas ou não realizadas.
-* 1/13 não se aplica
+* 11/13 exigências estão satisfatórias;
+* 1/13 exigências estão incompletas;
+* 1/13 exigências estão erradas ou não realizadas.
+* 0/13 não se aplica
 
 ## Referência Bibliografica
 
@@ -78,4 +77,4 @@ Banco Central. Disponível em: [https://interacao-humano-computador.github.io/20
 
 |    Data    | Versão |      Descrição      | Autor(es) |
 | :--------: | :-----: | :--------------------: | :-------: |
-| 03/06/2023 |   1.0   | Criação do documento |   Pedro   |
+| 04/06/2023 |   1.0   | Criação do documento |   Pedro   |

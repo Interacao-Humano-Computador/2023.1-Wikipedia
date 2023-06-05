@@ -17,7 +17,22 @@ A checklist será preenchida com base em diferentes classificações, que inclue
 
 ## Inspeção
 
-Na tabela 1 a seguir, estão as questões utilizadas e a execução da inspeção para o checklist do Cronograma.
+Na tabela 1 a seguir, estão as questões padrões utilizadas em todos os artefatos.
+
+| ID |                                 Questão                                 | Inspeção |
+| :-: | :-----------------------------------------------------------------------: | :--------: |
+| 1 |                 As legendas estão no padrão do projeto?                 |     🟢     |
+| 2 |                  Possui links para os outros artefatos?                  |    N/A    |
+| 3 |                   Existe uma introdução no artefato?                   |     🟢     |
+| 4 |          Existe tabela de versionamento padronizado e completo?          |     🟢     |
+| 5 |     Possui bibliografia ou referência ou referência bibliográfica?     |     🟢     |
+| 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |     🟢     |
+
+<div style="text-align: center">
+    <p> Tabela 1: Checklist dos padrões utilizados em todos os artefatos. (Fonte: Pedro. 2023).</p>
+</div>
+
+Na tabela 2 a seguir, estão as questões utilizadas e a execução da inspeção para o checklist do Cronograma.
 
 <center>
 
@@ -29,19 +44,14 @@ Na tabela 1 a seguir, estão as questões utilizadas e a execução da inspeçã
 | 4 |                No cronograma, existe datas de inicio e fim para revisão?                |     🟢     |
 | 5 |     O cronograma apresenta um periodo de gravação da apresentação de cada etapa?     |     🟢     |
 | 6 |             Para as atividades de cada etapa, possui um revisor responsável?             |     🟢     |
-| 7 |                         As legendas estão no padrão do projeto?                         |     🟢     |
-| 8 |                          As tabelas são referenciadas no texto?                          |     🟢     |
-| 9 |                             Existe introdução no artefato?                             |     🟢     |
-| 10 |                               Possui histórico de versão?                               |     🟢     |
-| 11 |             Possui bibliografia ou referência ou referencia bibliográfica?             |     🟢     |
 
 <div style="text-align: center">
-    <p> Tabela 1: Checklist do Cronograma. (Fonte: Pedro. 2023).</p>
+    <p> Tabela 2: Checklist do Cronograma. (Fonte: Pedro. 2023).</p>
 </div>
 
 </center>
 
-Na tabela 2 a seguir, estão as questões utilizadas e a execução da inspeção para o checklist do Cronograma Executado.
+Na tabela 3 a seguir, estão as questões utilizadas e a execução da inspeção para o checklist do Cronograma Executado.
 
 <center>
 
@@ -53,14 +63,9 @@ Na tabela 2 a seguir, estão as questões utilizadas e a execução da inspeçã
 | 4 |                        No cronograma, existe datas de inicio e fim para revisão?                        |     🟡     |
 | 5 |             O cronograma apresenta um periodo de gravação da apresentação de cada etapa?             |     🟢     |
 | 6 |                    Para as atividades de cada etapa, possui um revisor responsável?                    |     🟡     |
-| 7 |                                As legendas estão no padrão do projeto?                                |     🟢     |
-| 8 |                                 As tabelas são referenciadas no texto?                                 |     🟢     |
-| 9 |                                     Existe introdução no artefato?                                     |     🟢     |
-| 10 |                                      Possui histórico de versão?                                      |     🟢     |
-| 11 |                     Possui bibliografia ou referência ou referencia bibliográfica?                     |     🟢     |
 
 <div style="text-align: center">
-    <p> Tabela 2: Checklist do Cronograma Executado. (Fonte: Pedro. 2023).</p>
+    <p> Tabela 3: Checklist do Cronograma Executado. (Fonte: Pedro. 2023).</p>
 </div>
 
 </center>
@@ -74,17 +79,12 @@ Na tabela 2 a seguir, estão as questões utilizadas e a execução da inspeçã
 
 ## Resultados
 
-Através dos checklists realizados no Cronograma podemos observar que:
+Através dos checklists realizados no Cronograma somando as Tabelas 1, 2 e 3 podemos observar que:
 
-* 11/11 exigências estão satisfatórias;
-* 0/11 exigências estão incompletas;
-* 0/11 exigências estão erradas ou não realizadas.
-
-Através dos checklists realizados no Cronograma Executado podemos observar que:
-
-* 8/11 exigências estão satisfatórias;
-* 3/11 exigências estão incompletas;
-* 0/11 exigências estão erradas ou não realizadas.
+* 15/18 exigências estão satisfatórias;
+* 3/18 exigências estão incompletas;
+* 0/18 exigências estão erradas ou não realizadas.
+* 1/18 não se aplica
 
 ## Referência Bibliografica
 

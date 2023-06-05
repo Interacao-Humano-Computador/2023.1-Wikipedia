@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O presente documento apresentará a verificação do artefato [Metas de Usabilidade](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/metas_usabilidade), desenvolvidos pela equipe 3 do [Banco Central do Brasil](https://interacao-humano-computador.github.io/2023.1-BancoCentral/). A versão avaliada do Cronograma é a 2.0. A técnica de inspeção será aplicada para verificar esses artefatos, de acordo com o [planejamento](../planejamento.md) estabelecido.
+O presente documento apresentará a verificação do artefato [Metas de Usabilidade](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/metas_usabilidade), desenvolvidos pela equipe 3 do [Banco Central do Brasil](https://interacao-humano-computador.github.io/2023.1-BancoCentral/). A versão avaliada do Cronograma é a 1.1. A técnica de inspeção será aplicada para verificar esses artefatos, de acordo com o [planejamento](../planejamento.md) estabelecido.
 
 ## Metodologia
 
@@ -17,7 +17,22 @@ A checklist será preenchida com base em diferentes classificações, que inclue
 
 ## Inspeção
 
-Na tabela 1 a seguir, estão as questões utilizadas e a execução da inspeção para o checklist das Metas de Usabilidade.
+Na tabela 1 a seguir, estão as questões padrões utilizadas em todos os artefatos.
+
+| ID |                                 Questão                                 | Inspeção |
+| :-: | :-----------------------------------------------------------------------: | :--------: |
+| 1 |                 As legendas estão no padrão do projeto?                 |     🟢     |
+| 2 |                  Possui links para os outros artefatos?                  |    N/A    |
+| 3 |                   Existe uma introdução no artefato?                   |     🟢     |
+| 4 |          Existe tabela de versionamento padronizado e completo?          |     🟢     |
+| 5 |     Possui bibliografia ou referência ou referência bibliográfica?     |     🟢     |
+| 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |     🟢     |
+
+<div style="text-align: center">
+    <p> Tabela 1: Checklist dos padrões utilizados em todos os artefatos. (Fonte: Pedro. 2023).</p>
+</div>
+
+Na tabela 2 a seguir, estão as questões utilizadas e a execução da inspeção para o checklist das Metas de Usabilidade.
 
 <center>
 
@@ -27,14 +42,9 @@ Na tabela 1 a seguir, estão as questões utilizadas e a execução da inspeçã
 | 2 |                            É descrito as metas a serem alcançadas no projeto?                            |     🟢     |
 | 3 | Com base nas metas estabelecidas, é possível identificar oportunidades de aprimoramento no projeto atual? |     🟢     |
 | 4 |             O documento contém uma breve explicação para cada meta de usabilidade abordada?             |     🟢     |
-| 5 |                                  As legendas estão no padrão do projeto?                                  |     🟢     |
-| 6 |                              As tabelas e imagens são referenciadas no texto?                              |     🟢     |
-| 7 |                                      Existe introdução no artefato?                                      |     🟢     |
-| 8 |                                        Possui histórico de versão?                                        |     🟢     |
-| 9 |                      Possui bibliografia ou referência ou referencia bibliográfica?                      |     🟢     |
 
 <div style="text-align: center">
-    <p> Tabela 1: Checklist das Metas de Usabilidade. (Fonte: Pedro. 2023).</p>
+    <p> Tabela 2: Checklist das Metas de Usabilidade. (Fonte: Pedro. 2023).</p>
 </div>
 
 </center>
@@ -45,11 +55,12 @@ Na tabela 1 a seguir, estão as questões utilizadas e a execução da inspeçã
 
 ## Resultados
 
-Através dos checklists realizados na Análise de Tarefas podemos observar que:
+Através dos checklists realizados na Análise de Tarefas somando as Tabelas 1 e 2, podemos observar que:
 
-* 9/9 exigências estão satisfatórias;
-* 0/9 exigências estão incompletas;
-* 0/9 exigências estão erradas ou não realizadas.
+* 9/10 exigências estão satisfatórias;
+* 0/10 exigências estão incompletas;
+* 0/10 exigências estão erradas ou não realizadas.
+* 1/10 não se aplica
 
 ## Referência Bibliografica
 
