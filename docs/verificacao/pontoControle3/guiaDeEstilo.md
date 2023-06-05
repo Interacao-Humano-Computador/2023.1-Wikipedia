@@ -29,7 +29,7 @@ Na tabela 1 a seguir, estão as questões padrões utilizadas em todos os artefa
 | 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |     🟡     |
 
 <div style="text-align: center">
-    <p> Tabela 1: Verificação padrao (Fonte: Autores. 2023).</p>
+    <p> Tabela 1: Verificação padrao (Fonte: Gabriel Ferreira e Samuel. 2023).</p>
 </div>
 
 Na tabela 2 a seguir, estão as questões padrões utilizadas em todos os artefatos.
@@ -55,7 +55,7 @@ Na tabela 2 a seguir, estão as questões padrões utilizadas em todos os artefa
 | 17 |     O Guia de Estilo apresenta um tópico, seção ou explicação para como os Princípios Gerais do Projeto serão adicionados ao projeto ?     |     🔴     |
 
 <div style="text-align: center">
-    <p> Tabela 2: Verificação de Padrões do Guia de Estilo (Fonte: Autores. 2023).</p>
+    <p> Tabela 2: Verificação de Padrões do Guia de Estilo (Fonte: Gabriel Ferreira e Samuel. 2023).</p>
 </div>
 
 ## Comentários
@@ -102,4 +102,4 @@ Banco Central. Disponível em: [https://interacao-humano-computador.github.io/20
 
 |    Data    | Versão |      Descrição      |    Autor(es)    |
 | :--------: | :-----: | :--------------------: | :--------------: |
-| 05/06/2023 |   1.0   | Criação do documento | Gabriel e Samuel |
+| 05/06/2023 |   1.0   | Criação do documento | Gabriel Ferreira e Samuel |

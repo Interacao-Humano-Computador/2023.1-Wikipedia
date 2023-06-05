@@ -93,6 +93,7 @@ nav:
           - Cronograma: verificacao/pontoControle1/cronograma.md 
           - Ferramentas: verificacao/pontoControle1/ferramentas.md
           - Metodologias: verificacao/pontoControle1/metodologia.md    
+          - Processos de Design: verificacao/pontoControle1/processosDeDesign.md   
       - Ponto de Controle 2:
           - Análise das Tarefas do Usuário: verificacao/pontoControle2/analiseDasTarefas.md
           - Perfil do Usuário: verificacao/pontoControle2/perfilUsuario.md
@@ -102,8 +103,10 @@ nav:
           - Guia de Estilo : vericacao/pontoControle3/guiaDeEstilo.md
       - Ponto de Controle 4:
           - Planejar a avaliação do Story Board: verificacao/pontoControle4/planejamentoAvaliacaoStoryBoard.md
+          - Planejamento da Avaliação do Storyboard: verificacao/pontoControle4/planejarRelatoDaAvaliaçãoDoStoryBoard.md
       - Ponto de Controle 5:
           - Relato da análise de tarefa: verificacao/pontoControle5/relatoAnaliseTarefa.md
+          - Relato do Story Board: verificacao/pontoControle5/relatoStoryboard.md
   - Politicas:
       - Metodologias: politicas/metodologias.md
       - Issues: politicas/issues.md
