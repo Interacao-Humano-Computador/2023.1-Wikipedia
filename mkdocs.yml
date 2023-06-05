@@ -87,16 +87,21 @@ nav:
         - Protótipo de papel:
           - Planejamento da Avaliação: design-avaliacao-desenvolvimento/nivel2/prototipoDePapel/planejamentoDaAvaliacaoPrototipoDePapel.md
           - Planejamento do relato dos resultados: design-avaliacao-desenvolvimento/nivel2/prototipoDePapel/planejamentoRelatoResultadosAvaliacaoPrototipoPapel.md
-  - Verificação:
+  - Verificação grupo + 1:
       - Planejamento da Verificação: verificacao/planejamento.md
       - Ponto de Controle 1:
           - Cronograma: verificacao/pontoControle1/cronograma.md 
           - Ferramentas: verificacao/pontoControle1/ferramentas.md   
       - Ponto de Controle 2:
           - Análise das Tarefas do Usuário: verificacao/pontoControle2/analiseDasTarefas.md
-          - Questionário: verificacao/pontoControle2/questionario.md
+          - Perfil do Usuário: verificacao/pontoControle2/perfilUsuario.md
       - Ponto de Controle 3:
-          - Metas de Usabilidade: verificacao/pontoControle3/metasUsabilidade.md    
+          - Metas de Usabilidade: verificacao/pontoControle3/metasUsabilidade.md
+          - Definir os princípios gerais do projeto: verificacao/pontoControle3/principiosGerais.md
+      - Ponto de Controle 4:
+          - Planejar a avaliação do Story Board: verificacao/pontoControle4/planejamentoAvaliacaoStoryBoard.md
+      - Ponto de Controle 5:
+          - Relato da análise de tarefa: verificacao/pontoControle5/relatoAnaliseTarefa.md
   - Politicas:
       - Metodologias: politicas/metodologias.md
       - Issues: politicas/issues.md
