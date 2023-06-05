@@ -1,6 +1,6 @@
 ## Introdução
 
-O presente documento apresentará a verificação do artefato [Processo de Design](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/processo_de_design) [1], desenvolvido pela equipe 3 do [Banco Central do Brasil](https://interacao-humano-computador.github.io/2023.1-BancoCentral/). A versão avaliada do Processo de Design é a 1.1. A técnica de inspeção será aplicada para verificar esses artefatos, de acordo com o [planejamento](../planejamento.md) estabelecido.
+O presente documento apresentará a verificação do artefato [Processo de Design](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/processo_de_design), desenvolvido pela equipe 3 do [Banco Central do Brasil](https://interacao-humano-computador.github.io/2023.1-BancoCentral/) [1]. A versão avaliada do Processo de Design é a 1.1. A técnica de inspeção será aplicada para verificar esses artefatos, de acordo com o [planejamento](../planejamento.md) estabelecido.
 
 ## Metodologia
 
