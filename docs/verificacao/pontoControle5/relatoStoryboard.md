@@ -57,7 +57,7 @@ A Tabela 3 contém algumas observações.
 | 04 | Embora o local e a data apareçam no início de cada gravação, é interessante criar uma tabela com o local, data, hora e os participantes de cada entrevista. |
 
 <div style="text-align: center">
-    <p> Tabela 3: Verificação do artefato (Fonte: Samuel e Gabriel 2023).</p>
+    <p> Tabela 3: Comentários (Fonte: Samuel e Gabriel 2023).</p>
 </div>
 
 ## Resultados
@@ -67,7 +67,6 @@ Através dos checklists realizados no Cronograma podemos observar que:
 - 14/15 exigências estão satisfatórias;
 - 1/15 exigências estão incompletas;
 - 0/13 exigências estão erradas ou não realizadas.
-
 
 ## Referência Bibliografica
 
