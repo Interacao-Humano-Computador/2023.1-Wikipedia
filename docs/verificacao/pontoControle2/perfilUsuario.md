@@ -32,7 +32,7 @@ Na tabela 1 a seguir, estão as questões padrões utilizadas em todos os artefa
     <p> Tabela 1: Verificação padrao (Fonte: Autores. 2023).</p>
 </div>
 
-Na tabela 2 a seguir, estão as questões padrões utilizadas em todos os artefatos.
+Na tabela 2 a seguir, estão as questões específicas utilizadas neste artefato avaliado.
 
 | ID |                                      Questão                                      | Inspeção |
 | :-: | :---------------------------------------------------------------------------------: | :--------: |
@@ -50,6 +50,10 @@ Na tabela 2 a seguir, estão as questões padrões utilizadas em todos os artefa
 | 11 |       É explicitado a(s) técnicas(s) de elicitação do perfil do usuário?       |     🟢     |
 | 12 |                              O perfil é apresentado?                              |     🟢     |
 | 12 |          É informado com base em quantas respostas o perfil foi traçado?          |     🟢     |
+
+<div style="text-align: center">
+    <p> Tabela 2: Verificação específica (Fonte: Autores. 2023).</p>
+</div>
 
 ## Resultados
 

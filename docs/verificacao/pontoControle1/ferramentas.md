@@ -29,15 +29,20 @@ Na tabela 1 a seguir, estão as questões padrões utilizadas em todos os artefa
 | 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |     🟢     |
 
 <div style="text-align: center">
-    <p> Tabela 1: Verificação padrao (Fonte: Autores. 2023).</p>
+    <p> Tabela 1: Verificação padrão (Fonte: Autores. 2023).</p>
 </div>
 
-Na tabela 2 a seguir, estão as questões padrões utilizadas em todos os artefatos.
+Na tabela 2 a seguir, estão as questões específicas utilizadas neste artefato avaliado.
 
 | ID |                            Questão                            | Inspeção |
 | :-: | :-------------------------------------------------------------: | :--------: |
 | 1 |   O documento explica com clareza as ferramentas utilizadas?   |     🟢     |
 | 2 | O documento apresenta as finalidades das ferramentas utilizadas |     🟢     |
+
+<div style="text-align: center">
+    <p> Tabela 2: Verificação específica (Fonte: Autores. 2023).</p>
+</div>
+
 
 ## Comentários
 
