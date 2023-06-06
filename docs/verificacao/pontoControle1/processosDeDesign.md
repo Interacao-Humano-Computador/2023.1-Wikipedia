@@ -33,6 +33,16 @@ Na tabela 1, estão as questões referentes ao artefato Processo de Design.
 
 Na tabela 2 a seguir, estão as questões referentes ao artefato [Processo de Design](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/processo_de_design)
 
+
+| ID | Questão                                          | Inspeção |
+| -- | ------------------------------------------------- | ---------- |
+| 1  | A justificativa da escolha do Processo de Design? | 🟢         |
+
+<div style="text-align: center">
+    <p> Tabela 2: Verificação do artefato (Fonte: Samuel. 2023).</p>
+</div>
+
+
 ## Comentários
 
 | ID | Comentário                                                                |
@@ -47,9 +57,9 @@ Na tabela 2 a seguir, estão as questões referentes ao artefato [Processo de De
 
 Através dos checklists realizados no Cronograma podemos observar que:
 
-- 07/07 exigências estão satisfatórias;
-- 0/07 exigências estão incompletas;
-- 0/07 exigências estão erradas ou não realizadas.
+- 07/08 exigências estão satisfatórias;
+- 01/08 exigências estão incompletas;
+- 00/08 exigências estão erradas ou não realizadas.
 
 ## Referência Bibliografica
 
