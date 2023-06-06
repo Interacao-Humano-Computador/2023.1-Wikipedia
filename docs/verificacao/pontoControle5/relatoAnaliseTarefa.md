@@ -46,7 +46,7 @@ Na tabela 2 a seguir, estão as questões específicas utilizadas neste artefato
 |  7  |                            A metodologia do relato é apresentado?                             |    🟢    |
 
 <div style="text-align: center">
-    <p> Tabela 2: Verificação específica (Fonte: Autores. 2023).</p>
+    <p> Tabela 2: Verificação específica (Fonte: Lucas e Ana. 2023).</p>
 </div>
 
 ## Comentários

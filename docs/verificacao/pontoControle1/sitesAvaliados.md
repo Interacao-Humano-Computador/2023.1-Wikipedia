@@ -42,7 +42,7 @@ Na tabela 2 a seguir, estão mais questões para a verificação do artefato.
 
 
 <div style="text-align: center">
-    <p> Tabela 2: Verificação do artefato (Fonte: Autores. 2023).</p>
+    <p> Tabela 2: Verificação do artefato (Fonte: Ana. 2023).</p>
 </div>
 
 ## Comentários
