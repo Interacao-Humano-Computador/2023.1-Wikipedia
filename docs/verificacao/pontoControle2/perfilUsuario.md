@@ -60,7 +60,7 @@ Na tabela 2 a seguir, estão as questões específicas utilizadas neste artefato
 Através dos checklists realizados no Cronograma podemos observar que:
 
 - 15/17 exigências estão satisfatórias;
-- 2/17 exigências estão incompletas;
+- 0/17 exigências estão incompletas;
 - 0/17 exigências estão erradas ou não realizadas.
 
 ## Referência Bibliografica
