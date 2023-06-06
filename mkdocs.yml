@@ -86,5 +86,42 @@ nav:
       - Nível 2:
         - Protótipo de papel:
           - Planejamento da Avaliação: design-avaliacao-desenvolvimento/nivel2/prototipoDePapel/planejamentoDaAvaliacaoPrototipoDePapel.md
+          - Planejamento do relato dos resultados: design-avaliacao-desenvolvimento/nivel2/prototipoDePapel/planejamentoRelatoResultadosAvaliacaoPrototipoPapel.md
+  - Verificação do grupo 3:
+      - Planejamento da Verificação: verificacao/planejamento.md
+      - Ponto de Controle 1:
+          - Cronograma: verificacao/pontoControle1/cronograma.md 
+          - Ferramentas: verificacao/pontoControle1/ferramentas.md
+          - Metodologias: verificacao/pontoControle1/metodologia.md    
+          - Processos de Design: verificacao/pontoControle1/processosDeDesign.md   
+          - Site Selecionado: verificacao/pontoControle1/siteEscolhido.md   
+          - Sites avaliados: verificacao/pontoControle1/sitesAvaliados.md
+      - Ponto de Controle 2:
+          - Aspectos éticos: verificacao/pontoControle2/aspectosEticos.md
+          - Análise das Tarefas do Usuário: verificacao/pontoControle2/analiseDasTarefas.md
+          - Perfil do Usuário: verificacao/pontoControle2/perfilUsuario.md
+          - Criação dos cenários: verificacao/pontoControle2/cenarios.md
+          - Personas: verificacao/pontoControle2/personas.md
+      - Ponto de Controle 3:
+          - Metas de Usabilidade: verificacao/pontoControle3/metasUsabilidade.md
+          - Definir os princípios gerais do projeto: verificacao/pontoControle3/principiosGerais.md
+          - Guia de Estilo : verificacao/pontoControle3/guiaDeEstilo.md
+          - Características da Plataforma: verificacao/pontoControle3/caracteristicasDaPlataforma.md
+      - Ponto de Controle 4:
+          - Planejar a avaliação do Story Board: verificacao/pontoControle4/planejamentoAvaliacaoStoryBoard.md
+          - Planejamento da Avaliação do Storyboard: verificacao/pontoControle4/planejamentoRelatoDaAvaliaçãoDoStoryBoard.md
+          - Determinar as características da plataforma: verificacao/pontoControle3/caracteristicasDaPlataforma.md
+          - Planejar a avaliação da Análise de Tarefas: verificacao/pontoControle4/planejamentoAvaliacaoAnaliseDeTarefas.md
+          - Planejamento dos Resultados das Análises de Tarefas: verificacao/pontoControle4/relatoDaAnaliseDeTarefa.md
+      - Ponto de Controle 5:
+          - Relato da análise de tarefa: verificacao/pontoControle5/relatoAnaliseTarefa.md
+          - Relato do Story Board: verificacao/pontoControle5/relatoStoryboard.md
+          - Planejamento do Relato dos Resultados: verificacao/pontoControle5/planejamentoRelatoDosResultados.md
+          - Planejamento da avaliação do protótipo de papel: verificacao/pontoControle5/planejamentoPrototipoDePapel.md
+  - Politicas:
+      - Metodologias: politicas/metodologias.md
+      - Issues: politicas/issues.md
+      - Pull requests: politicas/pullrequest.md
+      - Commit: politicas/commit.md
+      - Branch: politicas/branch.md
           - Planejamento do relato: design-avaliacao-desenvolvimento/nivel2/prototipoDePapel/planejamentoRelatoResultadosAvaliacaoPrototipoPapel.md
-
