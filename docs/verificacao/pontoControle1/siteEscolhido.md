@@ -1,4 +1,4 @@
-# Verificação das ferramentas
+# Site Selecionado
 
 ## Introdução
 O presente documento apresentará a verificação do artefato [Site Selecionado](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/site_selecionado), desenvolvidos pela equipe 3 do [Banco Central do Brasil](https://interacao-humano-computador.github.io/2023.1-BancoCentral/). A versão avaliada da Ferramenta é a 1.3. A técnica de inspeção será aplicada para verificar esses artefatos, de acordo com o [planejamento](../planejamento.md) estabelecido.

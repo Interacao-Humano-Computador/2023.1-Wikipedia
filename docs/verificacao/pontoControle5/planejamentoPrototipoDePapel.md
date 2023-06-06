@@ -1,4 +1,4 @@
-# Verificação das ferramentas
+# Planejamento da avaliação do protótipo de papel
 
 ## Introdução
 O presente documento apresentará a verificação do artefato [Planejamento da avaliação do protótipo de papel](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_papel/planejamento_avaliacao?id=refer%c3%aancia-bibliogr%c3%a1fica), desenvolvidos pela equipe 3 do [Banco Central do Brasil](https://interacao-humano-computador.github.io/2023.1-BancoCentral/). A versão avaliada da Ferramenta é a 1.0. A técnica de inspeção será aplicada para verificar esses artefatos, de acordo com o [planejamento](../planejamento.md) estabelecido.
