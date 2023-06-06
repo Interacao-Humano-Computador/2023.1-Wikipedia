@@ -37,12 +37,12 @@ Na tabela 2 a seguir, estão as questões padrões para realizar a verificação
 | ID |                                                         Questão                                                         | Inspeção |
 | :-: | :-----------------------------------------------------------------------------------------------------------------------: | :--------: |
 | 1 |               A estrutura do relatório do resultado da avaliação apresenta os objetivos da avaliação?               |     🟢     |
-| 2 | A estrutura do relatório do resultado da avaliação apresenta o número e o perfil de avaliadores e dos participantes? |     🔴     |
+| 2 | A estrutura do relatório do resultado da avaliação apresenta o número e o perfil de avaliadores e dos participantes? |     🟢     |
 | 3 |        A estrutura do relatório do resultado da avaliação apresenta as tarefas executadas pelos participantes?        |     🟢     |
 | 4 |              A estrutura do relatório do resultado da avaliação apresenta lista de problemas encontrados?              |     🟢     |
-| 5 |                  A estrutura do relatório do resultado da avaliação apresenta sugestões de melhorias                  |     🔴     |
-| 6 | A estrutura do relatório do resultado da avaliação apresenta as gravações de entrevistas feitas estão disponíveis? |     🔴     |
-| 7 |    A estrutura do relatório do resultado da avaliação apresenta as gravações apresentam termos de consentimento?    |     🔴     |
+| 5 |                  A estrutura do relatório do resultado da avaliação apresenta sugestões de melhorias                  |     🟢     |
+| 6 | A estrutura do relatório do resultado da avaliação apresenta as gravações de entrevistas feitas estão disponíveis? |     🟢     |
+| 7 |    A estrutura do relatório do resultado da avaliação apresenta as gravações apresentam termos de consentimento?    |     🟢     |
 
 <div style="text-align: center">
     <p> Tabela 2: Verificação de Padrões do Guia de Estilo (Fonte: Gabriel. 2023).</p>
@@ -50,18 +50,7 @@ Na tabela 2 a seguir, estão as questões padrões para realizar a verificação
 
 ## Comentários
 
-Comentários referentes a questões mais especificas da Tabela 2, estão localizados na Tabela 4
-
-| Número do ID da Tabela 2 | Comentário                                                                      |
-| ------------------------- | -------------------------------------------------------------------------------- |
-| 2                         | Não foi apresentado o perfil dos avaliadores, participantes e nem o seu número |
-| 5                         | Não foi encontrado perguntas relacionadas a sugestão de melhorias              |
-| 6                         | As gravações não estão disponíveis para visualização                      |
-| 7                         | Não foi encontrado qualquer termo de consentimento                              |
-
-<div style="text-align: center">
-    <p> Tabela 4:Comentários sobre incosistências da Tabela 2 (Fonte: Gabriel. 2023).</p>
-</div>
+Em relação aos elementos avaliados, tudo está correto, aparetemente.
 
 ## Resultados
 
