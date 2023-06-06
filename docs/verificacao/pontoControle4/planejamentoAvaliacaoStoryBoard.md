@@ -38,7 +38,7 @@ Na tabela 2 a seguir, estão as questões específicas utilizadas neste artefato
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: |
 | 1 |                                                              O planejamento apresenta um teste-piloto?                                                              |     🟡     |
 | 2 |                                                  Existe um roteiro da avaliação seguindo a metodologia escolhida?                                                  |     🟢     |
-| 3 |                                                               O termo de consentimento é apresentado?                                                               |     🟡     |
+| 3 |                                                               O termo de consentimento é apresentado?                                                               |     🟢     |
 | 4 |                                                 O documento apresenta definição dos participantes e recrutamento?                                                 |     🟢     |
 | 5 |                                                   O documento descreve de que forma será realizada a avaliação?                                                   |     🟢     |
 | 6 |                          O artefato apresenta e utiliza o framework DECIDE para realização do Planejamento da Avaliação do Storyboard ?                          |     🟢     |
@@ -48,26 +48,28 @@ Na tabela 2 a seguir, estão as questões específicas utilizadas neste artefato
 | 10 |                         O artefato possui um cronograma com data e horário para realização do teste piloto da Avaliação do Storyboard ?                         |     🟢     |
 | 11 |                                          O artefato identifica o orçamento necessário para a Avaliação do Storyboard ?                                          |     🔴     |
 | 12 | O artefato identifica os recursos de mão-de-obra necessários para conduzir a Avaliação do Storyboard, assim como a preparação e os equipamentos necessários ? |     🔴     |
+| 13 |                                               A quantidade de storybords é igual ao número de integrantes do grupo?                                               |     🔴     |
+| 14 |                                  Os storyboards avaliados está relacionado uma especificação do artefato da Análise de Tarefas?                                  |     🔴     |
+| 15 |                                                  O planejamento apresenta os resultados obtidos pelo teste piloto?                                                  |     🔴     |
+| 15 |                          O planejamento apresenta um roteiro de perguntas a serem feitas pelo avaliador durante o processo de avaliação?                          |     🟢     |
 
 <div style="text-align: center">
     <p> Tabela 2: Verificação específica (Fonte: Autores. 2023).</p>
 </div>
 
-
 ## Comentários
 
-- O teste piloto só é descrito, mas não tem a gravação.
-- O termo de consentimento foi apresentado mas apenas na análise de tarefa.
+- O teste piloto só é descrito, mas não tem a gravação e nem os resultados.
 - O orçamento não foi identificado.
-- Os recursos de mão-de-obra não foram identificados.
+- Não foi identificado os storyboards avaliados.
 
 ## Resultados
 
 Através dos checklists realizados no Cronograma podemos observar que:
 
-- 14/18 exigências estão satisfatórias;
-- 2/18 exigências estão incompletas;
-- 2/18 exigências estão erradas ou não realizadas.
+- 15/21 exigências estão satisfatórias;
+- 1/21 exigências estão incompletas;
+- 5/21 exigências estão erradas ou não realizadas.
 
 ## Referência Bibliografica
 

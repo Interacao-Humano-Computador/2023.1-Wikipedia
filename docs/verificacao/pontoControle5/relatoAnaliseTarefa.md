@@ -19,14 +19,14 @@ A checklist será preenchida com base em diferentes classificações, que inclue
 
 Na tabela 1 a seguir, estão as questões padrões utilizadas em todos os artefatos.
 
-| ID |                                 Questão                                 | Inspeção |
-| :-: | :-----------------------------------------------------------------------: | :--------: |
-| 1 |                 As legendas estão no padrão do projeto?                 |     🟢     |
-| 2 |                  Possui links para os outros artefatos?                  |     🟢     |
-| 3 |                   Existe uma introdução no artefato?                   |     🟢     |
-| 4 |          Existe tabela de versionamento padronizado e completo?          |     🟢     |
-| 5 |               Há referências bibliográficas no artefato?               |     🟢     |
-| 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |     🟢     |
+| ID  |                                 Questão                                  | Inspeção |
+| :-: | :----------------------------------------------------------------------: | :------: |
+|  1  |                 As legendas estão no padrão do projeto?                  |    🟢    |
+|  2  |                  Possui links para os outros artefatos?                  |    🟢    |
+|  3  |                    Existe uma introdução no artefato?                    |    🟢    |
+|  4  |          Existe tabela de versionamento padronizado e completo?          |    🟢    |
+|  5  |                Há referências bibliográficas no artefato?                |    🟢    |
+|  6  | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |    🟢    |
 
 <div style="text-align: center">
     <p> Tabela 1: Verificação padrao (Fonte: Autores. 2023).</p>
@@ -34,26 +34,32 @@ Na tabela 1 a seguir, estão as questões padrões utilizadas em todos os artefa
 
 Na tabela 2 a seguir, estão as questões específicas utilizadas neste artefato avaliado.
 
-| ID |                                           Questão                                           | Inspeção |
-| :-: | :-------------------------------------------------------------------------------------------: | :--------: |
-| 1 |                          A entrevista da avaliação está gravada?                          |     🟢     |
-| 2 | O artefato apresenta as resposta dos entrevistados transcritas para facilitar o entendimento? |     🟢     |
-| 3 |           O artefato apresenta as perguntas a serem respondidas com a avaliação?           |     🟢     |
-| 4 |                       O artefato apresenta os resultados para análise?                       |     🟢     |
-| 5 |                      O artefato mostra como foi realizada a entrevista?                      |     🟢     |
-| 6 |                O artefato apresenta como serão tratadas as questões éticas?                |     🟢     |
+| ID  |                                            Questão                                            | Inspeção |
+| :-: | :-------------------------------------------------------------------------------------------: | :------: |
+|  1  |                            A entrevista da avaliação está gravada?                            |    🟡    |
+|  2  | O artefato apresenta as resposta dos entrevistados transcritas para facilitar o entendimento? |    🟢    |
+|  3  |            O artefato apresenta as perguntas a serem respondidas com a avaliação?             |    🟢    |
+|  4  |                       O artefato apresenta os resultados para análise?                        |    🟢    |
+|  5  |                      O artefato mostra como foi realizada a entrevista?                       |    🟢    |
+|  6  |                 O artefato apresenta como serão tratadas as questões éticas?                  |    🟢    |
+|  6  |                           Os objetivos do relato são apresentados?                            |    🟡    |
+|  7  |                            A metodologia do relato é apresentado?                             |    🟢    |
 
 <div style="text-align: center">
     <p> Tabela 2: Verificação específica (Fonte: Autores. 2023).</p>
 </div>
 
+## Comentários
+
+- O link da entrevista está quebrado
+- Não existe citação direta dos objetivos
 
 ## Resultados
 
 Através dos checklists realizados no Cronograma podemos observar que:
 
-- 12/12 exigências estão satisfatórias;
-- 0/12 exigências estão incompletas;
+- 12/14 exigências estão satisfatórias;
+- 2/12 exigências estão incompletas;
 - 0/12 exigências estão erradas ou não realizadas.
 
 ## Referência Bibliografica
@@ -63,6 +69,6 @@ Banco Central. Disponível em: [https://interacao-humano-computador.github.io/20
 
 ## Histórico de versão
 
-|    Data    | Versão |      Descrição      |  Autor(es)  |
-| :--------: | :-----: | :--------------------: | :---------: |
-| 04/06/2023 |   1.0   | Criação do documento | Lucas e Ana |
+|    Data    | Versão |      Descrição       |  Autor(es)  |
+| :--------: | :----: | :------------------: | :---------: |
+| 04/06/2023 |  1.0   | Criação do documento | Lucas e Ana |

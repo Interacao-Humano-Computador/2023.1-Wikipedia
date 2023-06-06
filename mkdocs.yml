@@ -87,7 +87,7 @@ nav:
         - Protótipo de papel:
           - Planejamento da Avaliação: design-avaliacao-desenvolvimento/nivel2/prototipoDePapel/planejamentoDaAvaliacaoPrototipoDePapel.md
           - Planejamento do relato dos resultados: design-avaliacao-desenvolvimento/nivel2/prototipoDePapel/planejamentoRelatoResultadosAvaliacaoPrototipoPapel.md
-  - Verificação grupo + 1:
+  - Verificação do grupo 3:
       - Planejamento da Verificação: verificacao/planejamento.md
       - Ponto de Controle 1:
           - Cronograma: verificacao/pontoControle1/cronograma.md 
@@ -106,6 +106,7 @@ nav:
           - Metas de Usabilidade: verificacao/pontoControle3/metasUsabilidade.md
           - Definir os princípios gerais do projeto: verificacao/pontoControle3/principiosGerais.md
           - Guia de Estilo : verificacao/pontoControle3/guiaDeEstilo.md
+          - Características da Plataforma: verificacao/pontoControle3/caracteristicasDaPlataforma.md
       - Ponto de Controle 4:
           - Planejar a avaliação do Story Board: verificacao/pontoControle4/planejamentoAvaliacaoStoryBoard.md
           - Planejamento da Avaliação do Storyboard: verificacao/pontoControle4/planejamentoRelatoDaAvaliaçãoDoStoryBoard.md
@@ -123,4 +124,3 @@ nav:
       - Pull requests: politicas/pullrequest.md
       - Commit: politicas/commit.md
       - Branch: politicas/branch.md
-
