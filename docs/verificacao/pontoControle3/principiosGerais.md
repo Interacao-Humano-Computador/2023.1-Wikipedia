@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O presente documento apresentará a verificação do artefato [Princípios Gerais do Projeto](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Verificacao/Tarefas/VerificacaoPerfilUsuario/), desenvolvidos pela equipe 3 do [Banco Central do Brasil](https://interacao-humano-computador.github.io/2023.1-BancoCentral/). A versão avaliada é a 1.2. A técnica de inspeção será aplicada para verificar esses artefatos, de acordo com o [planejamento](../planejamento.md) estabelecido.
+O presente documento apresentará a verificação do artefato [Princípios Gerais do Projeto](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/principios_gerais), desenvolvidos pela equipe 3 do [Banco Central do Brasil](https://interacao-humano-computador.github.io/2023.1-BancoCentral/). A versão avaliada é a 1.2. A técnica de inspeção será aplicada para verificar esses artefatos, de acordo com o [planejamento](../planejamento.md) estabelecido.
 
 ## Metodologia
 
