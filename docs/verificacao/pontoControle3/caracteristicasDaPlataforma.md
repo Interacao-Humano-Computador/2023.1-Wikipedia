@@ -50,7 +50,7 @@ Na tabela 2 a seguir, estão mais questões para a verificação do artefato.
 ## Comentários
 
 - A bibliografia não deveria ter numeração.
-- Não foi feito as principais funcionalidades do sistema
+- Não foi feito as principais funcionalidades do sistema.
 - Algumas perguntas sobre a verificação não foram necessárias no projeto, por isso não está errado e nem incompleto
 
 ## Resultados
@@ -60,6 +60,7 @@ Através dos checklists realizados no Cronograma podemos observar que:
 - 6/11 exigências estão satisfatórias;
 - 1/11 exigências estão incompletas;
 - 1/11 exigências estão erradas ou não realizadas.
+- 3/11 exigências não são aplicadas
 
 ## Referência Bibliografica
 

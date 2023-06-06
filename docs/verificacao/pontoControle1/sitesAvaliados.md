@@ -49,6 +49,7 @@ Na tabela 2 a seguir, estão mais questões para a verificação do artefato.
 
 - Os links "Reunião02" e "avaliação heurística" não existem.
 - A bibliografia não deveria ter numeração.
+- Não é informado as razões para a escolha do site.
 
 ## Resultados
 
