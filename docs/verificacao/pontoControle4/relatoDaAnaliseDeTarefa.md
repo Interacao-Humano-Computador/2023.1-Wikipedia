@@ -1,4 +1,4 @@
-# Verificação das Relato dos Resultados da Análise de Tarefas
+# Verificação do Planejamento do Relato dos Resultados da Análise de Tarefas
 
 ## Introdução
 
@@ -56,9 +56,9 @@ Em relação aos elementos avaliados, tudo está correto, aparetemente.
 
 Através dos checklists realizados no Relato dos Resultados da Análise de Tarefas podemos observar que:
 
-- 9/13 exigências estão satisfatórias;
+- 13/13 exigências estão satisfatórias;
 - 0/13 exigências estão incompletas;
-- 4/13 exigências estão erradas ou não realizadas.
+- 0/13 exigências estão erradas ou não realizadas.
 
 ## Referências Bibliográficas
 

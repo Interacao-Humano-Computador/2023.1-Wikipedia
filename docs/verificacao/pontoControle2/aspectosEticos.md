@@ -34,16 +34,15 @@ Na tabela 1 a seguir, estão as questões padrões utilizadas em todos os artefa
 
 Na tabela 2 a seguir, estão as questões padrões para realizar a verificação.
 
-| ID |                                                                                                                               Questão                                                                                                                               | Inspeção |
-| :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: |
-| 1 |                                                                                                Considera aspectos Éticos de Pesquisas Envolvendo Pessoas no projeto?                                                                                                |     🟢     |
-| 2 |                                                                            Os 4 princípios (da autonomia, da beneficência, princípio da não maleficência e da justiça e equidade)?                                                                            |     🟢     |
-| 3 |                                                                             que solicitará a permissão para gravar a voz ou imagem de qualquer pessoa, antes de começar a gravação?                                                                             |     🟡     |
-| 4 |                                                                                                    O termo de consentimento livre e esclarecido dos participantes?                                                                                                    |     🟢     |
-| 5 | Se o grupo utiliza a técnica "Pair Programming" dentro da metodologia, eles explicam como eles utilizarão essa técnica no projeto visto que não há programação no projeto? É possível ver a utilização dessa técnica dentro das atividades do cronograma? |    N/A    |
+| ID |                                                    Questão                                                    | Inspeção |
+| :-: | :------------------------------------------------------------------------------------------------------------: | :--------: |
+| 1 |                     Considera aspectos Éticos de Pesquisas Envolvendo Pessoas no projeto?                     |     🟢     |
+| 2 | Os 4 princípios (da autonomia, da beneficência, princípio da não maleficência e da justiça e equidade)? |     🟢     |
+| 3 | que solicitará a permissão para gravar a voz ou imagem de qualquer pessoa, antes de começar a gravação? |     🟡     |
+| 4 |                        O termo de consentimento livre e esclarecido dos participantes?                        |     🟢     |
 
 <div style="text-align: center">
-    <p> Tabela 2: Verificação de Padrões do Guia de Estilo (Fonte: Gabriel. 2023).</p>
+    <p> Tabela 2: Verificação de Padrões do Aspectos Éticos (Fonte: Gabriel. 2023).</p>
 </div>
 
 ## Comentários
@@ -71,11 +70,12 @@ Comentários referentes a questões mais especificas da Tabela 2, estão localiz
 
 ## Resultados
 
-Através dos checklists realizados nos Aspectos Éticos podemos observar que:
+Através dos checklists realizados nos Aspectos Éticos, tabela 1 e tabela 2 podemos observar que:
 
-- 7/10 exigências estão satisfatórias;
+- 6/10 exigências estão satisfatórias;
 - 2/10 exigências estão incompletas;
 - 1/10 exigências estão erradas ou não realizadas.
+- 1/10 Não se aplica ao artefato.
 
 ## Referências Bibliográficas
 

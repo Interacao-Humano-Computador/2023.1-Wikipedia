@@ -34,14 +34,15 @@ Na tabela 1 a seguir, estão as questões padrões utilizadas em todos os artefa
 
 Na tabela 2 a seguir, estão as questões padrões para realizar a verificação.
 
-| ID |                                     Questão                                     | Inspeção |
-| :-: | :------------------------------------------------------------------------------: | :--------: |
-| 1 |    O documento explica de forma clara as adaptações de métodos utilizados    |     🟢     |
-| 2 | O documento apresenta algum de tipo de política para a organização do projeto |     🟢     |
-| 3 |  Definição de qualquer proposta ou método foi descrita como foi desenvolvida  |     🟡     |
+| ID |                                                                                                                               Questão                                                                                                                               | Inspeção |
+| :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: |
+| 1 |                                                                                               O documento explica de forma clara as adaptações de métodos utilizados                                                                                               |     🟢     |
+| 2 |                                                                                           O documento apresenta algum de tipo de política para a organização do projeto                                                                                           |     🟢     |
+| 3 |                                                                                            Definição de qualquer proposta ou método foi descrita como foi desenvolvida                                                                                            |     🟡     |
+| 4 | Se o grupo utiliza a técnica "Pair Programming" dentro da metodologia, eles explicam como eles utilizarão essa técnica no projeto visto que não há programação no projeto? É possível ver a utilização dessa técnica dentro das atividades do cronograma? |    N/A    |
 
 <div style="text-align: center">
-    <p> Tabela 2: Verificação de Padrões do Guia de Estilo (Fonte: Gabriel Ferreira. 2023).</p>
+    <p> Tabela 2: Verificação de Padrões das Metodologias (Fonte: Gabriel Ferreira. 2023).</p>
 </div>
 
 ## Comentários
@@ -70,11 +71,12 @@ Comentários referentes a questões mais especificas da Tabela 2, estão localiz
 
 ## Resultados
 
-Através dos checklists realizados na tabela 3 e 4 podemos observar que:
+Através dos checklists realizados na tabela 1 e 2 podemos observar que:
 
-- 5/9 exigências estão satisfatórias;
-- 2/9 exigências estão incompletas;
-- 2/9 exigências estão erradas ou não realizadas.
+- 5/10 exigências estão satisfatórias;
+- 2/10 exigências estão incompletas;
+- 2/10 exigências estão erradas ou não realizadas.
+- 1/10 Não se aplica ao artefato.
 
 ## Referências Bibliograficas
 
