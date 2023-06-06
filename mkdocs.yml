@@ -107,6 +107,7 @@ nav:
       - Ponto de Controle 5:
           - Relato da análise de tarefa: verificacao/pontoControle5/relatoAnaliseTarefa.md
           - Relato do Story Board: verificacao/pontoControle5/relatoStoryboard.md
+          - Planejamento do Relato dos Resultados: verificacao/pontoControle5/planejamentoRelatoDosResultados.md
   - Politicas:
       - Metodologias: politicas/metodologias.md
       - Issues: politicas/issues.md
