@@ -23,7 +23,7 @@ Na tabela 1, estão as questões padrões utilizadas em todos os artefatos.
 | 2 |                  Possui links para os outros artefatos?                  |     🔴     |
 | 3 |                   Existe uma introdução no artefato?                   |     🟢     |
 | 4 |          Existe tabela de versionamento padronizado e completo?          |     🟢     |
-| 5 |               Há referências bibliográficas no artefato?               |     🟢     |
+| 5 |      Há referências bibliográficas e/ou bibliografia no artefato?      |     🟡     |
 | 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |     🟢     |
 
 <div style="text-align: center">
@@ -61,6 +61,7 @@ A Tabela 3 contém algumas observações.
 | ID            | Comentário                                                                                         |
 | ------------- | --------------------------------------------------------------------------------------------------- |
 | 02 - Tabela 1 | Não possui links para outros artefatos, como quando se menciona o perfil do usuário, por exemplo. |
+| 05 - Tabela 1 | As referencias possuem números, mas não há citação em nenhum momento.                          |
 
 <div style="text-align: center">
     <p> Tabela 3: Comentários (Fonte: Samuel e Chaydson, 2023).</p>
@@ -80,6 +81,6 @@ Através dos checklists realizados no Cronograma podemos observar que:
 
 ## Histórico de versão
 
-|    Data    | Versão |      Descrição      |    Autor(es)    |
-| :--------: | :-----: | :--------------------: | :--------------: |
+|    Data    | Versão |      Descrição      |     Autor(es)     |
+| :--------: | :-----: | :--------------------: | :---------------: |
 | 05/06/2023 |   1.0   | Criação do documento | Chaydson e Samuel |

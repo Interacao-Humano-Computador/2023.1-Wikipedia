@@ -23,7 +23,7 @@ Na tabela 1 a seguir, estão as questões padrões utilizadas em todos os artefa
 | 2 |                  Possui links para os outros artefatos?                  |     🟢     |
 | 3 |                   Existe uma introdução no artefato?                   |     🟢     |
 | 4 |          Existe tabela de versionamento padronizado e completo?          |     🟢     |
-| 5 |      Há referências bibliográficas e/ou bibliografia no artefato?      |     🟢     |
+| 5 |      Há referências bibliográficas e/ou bibliografia no artefato?      |     🟡     |
 | 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |     🟢     |
 
 <div style="text-align: center">
@@ -55,6 +55,7 @@ A Tabela 3 contém algumas observações.
 | ID | Comentário                                                                                                                                                      |
 | -- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 04 | Embora o local e a data apareçam no início de cada gravação, é interessante criar uma tabela com o local, data, hora e os participantes de cada entrevista. |
+| 05 | As referencias possuem números, mas não há citação em nenhum momento.                                                                                       |
 
 <div style="text-align: center">
     <p> Tabela 3: Comentários (Fonte: Samuel e Gabriel 2023).</p>
