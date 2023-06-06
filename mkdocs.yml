@@ -97,6 +97,7 @@ nav:
           - Site Selecionado: verificacao/pontoControle1/siteEscolhido.md   
           - Sites avaliados: verificacao/pontoControle1/sitesAvaliados.md
       - Ponto de Controle 2:
+          - Aspectos éticos: verificacao/pontoControle2/aspectosEticos.md
           - Análise das Tarefas do Usuário: verificacao/pontoControle2/analiseDasTarefas.md
           - Perfil do Usuário: verificacao/pontoControle2/perfilUsuario.md
           - Criação dos cenários: verificacao/pontoControle2/cenarios.md
@@ -104,12 +105,13 @@ nav:
       - Ponto de Controle 3:
           - Metas de Usabilidade: verificacao/pontoControle3/metasUsabilidade.md
           - Definir os princípios gerais do projeto: verificacao/pontoControle3/principiosGerais.md
-          - Guia de Estilo : vericacao/pontoControle3/guiaDeEstilo.md
+          - Guia de Estilo : verificacao/pontoControle3/guiaDeEstilo.md
       - Ponto de Controle 4:
           - Planejar a avaliação do Story Board: verificacao/pontoControle4/planejamentoAvaliacaoStoryBoard.md
           - Planejamento da Avaliação do Storyboard: verificacao/pontoControle4/planejarRelatoDaAvaliaçãoDoStoryBoard.md
           - Determinar as características da plataforma: verificacao/pontoControle3/caracteristicasDaPlataforma.md
           - Planejar a avaliação da Análise de Tarefas: verificacao/pontoControle4/planejamentoAvaliacaoAnaliseDeTarefas.md
+          - Planejamento dos Resultados das Análises de Tarefas: verificacao/pontoControle4/relatoDaAnaliseDeTarefa.md
       - Ponto de Controle 5:
           - Relato da análise de tarefa: verificacao/pontoControle5/relatoAnaliseTarefa.md
           - Relato do Story Board: verificacao/pontoControle5/relatoStoryboard.md

@@ -29,7 +29,7 @@ Na tabela 1 a seguir, estão as questões padrões utilizadas em todos os artefa
 | 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |     🟡     |
 
 <div style="text-align: center">
-    <p> Tabela 1: Verificação padrao (Fonte: Gabriel Ferreira e Samuel. 2023).</p>
+    <p> Tabela 1: Verificação padrao (Fonte:Autores. 2023).</p>
 </div>
 
 Na tabela 2 a seguir, estão as questões padrões utilizadas em todos os artefatos.
@@ -55,7 +55,7 @@ Na tabela 2 a seguir, estão as questões padrões utilizadas em todos os artefa
 | 17 |     O Guia de Estilo apresenta um tópico, seção ou explicação para como os Princípios Gerais do Projeto serão adicionados ao projeto ?     |     🔴     |
 
 <div style="text-align: center">
-    <p> Tabela 2: Verificação de Padrões do Guia de Estilo (Fonte: Gabriel Ferreira e Samuel. 2023).</p>
+    <p> Tabela 2: Verificação de Padrões do Guia de Estilo (Fonte: Gabriel e Samuel. 2023).</p>
 </div>
 
 ## Comentários
@@ -69,7 +69,7 @@ Referentes a Tabela 1, os comentário que podem ser feitos, que estão contidos 
 | 6                         | Como o link está quebrado em "FIGMA 1", por esse motivo está incompleto, sendo o referente ao "questionário" correto, recomenda-se seguir esse exemplo                                                                       |
 
 <div style="text-align: center">
-    <p> Tabela 3: Comentários sobre incosistências da Tabela 1 (Fonte: Gabriel Ferreira e Samuel Gomes. 2023).</p>
+    <p> Tabela 3: Comentários sobre incosistências da Tabela 1 (Fonte: Gabriel e Samuel. 2023).</p>
 </div>
 
 Comentários referentes a questões mais especificas da Tabela 2, estão localizados na Tabela 4
@@ -82,12 +82,12 @@ Comentários referentes a questões mais especificas da Tabela 2, estão localiz
 | 17                        | Sobre essa questão não foi possível identificar onde os Principios Gerais do Projeto serão adicionado a esse projeto, de maneira que ajude o guia de estilo e o projeto em si a tomar uma direção sem perder seus rumos.                                                                                                                       |
 
 <div style="text-align: center">
-    <p> Tabela 4:Comentários sobre incosistências da Tabela 2 (Fonte: Gabriel Ferreira e Samuel Gomes. 2023).</p>
+    <p> Tabela 4:Comentários sobre incosistências da Tabela 2 (Fonte: Gabriel e Samuel. 2023).</p>
 </div>
 
 ## Resultados
 
-Através dos checklists realizados no Cronograma podemos observar que:
+Através dos checklists realizados na tabela 3 e 4 podemos observar que:
 
 - 16/23 exigências estão satisfatórias;
 - 5/23 exigências estão incompletas;
@@ -100,6 +100,6 @@ Banco Central. Disponível em: [https://interacao-humano-computador.github.io/20
 
 ## Histórico de versão
 
-|    Data    | Versão |      Descrição      |    Autor(es)    |
-| :--------: | :-----: | :--------------------: | :--------------: |
+|    Data    | Versão |      Descrição      |         Autor(es)         |
+| :--------: | :-----: | :--------------------: | :-----------------------: |
 | 05/06/2023 |   1.0   | Criação do documento | Gabriel Ferreira e Samuel |
