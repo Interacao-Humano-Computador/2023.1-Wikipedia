@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O presente documento apresentará a verificação do artefato [Princípios Gerais do Projeto](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/analise_tarefas/relato_resultados), desenvolvidos pela equipe 3 do [Banco Central do Brasil](https://interacao-humano-computador.github.io/2023.1-BancoCentral/). A versão avaliada é a 1.3. A técnica de inspeção será aplicada para verificar esses artefatos, de acordo com o [planejamento](../planejamento.md) estabelecido.
+O presente documento apresentará a verificação do artefato [Relato dos resultados da Análise de tarefas](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/analise_tarefas/relato_resultados), desenvolvido pela equipe 3 do [Banco Central do Brasil](https://interacao-humano-computador.github.io/2023.1-BancoCentral/). A versão avaliada é a 1.3. A técnica de inspeção será aplicada para verificar esses artefatos, de acordo com o [planejamento](../planejamento.md) estabelecido.
 
 ## Metodologia
 
