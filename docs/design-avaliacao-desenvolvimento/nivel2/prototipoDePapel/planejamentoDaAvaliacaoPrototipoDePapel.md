@@ -59,6 +59,14 @@ O prótotipo de papel está utilizando os fluxos identificados durante a pesquis
     <p> Tabela 2: Fluxos a serem prototipadas (Fonte: Autores. 2023).</p>
 </div>
 
+Na Tabela 3 a seguir, apresentamos um protótipo em papel que mostra como informar um erro em artigos da Wikipédia.
+
+<img src="../../../../images/prototipos/prototipo_baixa_fidelidade_informar_erro-1.png"/>
+
+<div style="text-align: center">
+<p>Figura 3: Protótipo de baixa fidelidade do fluxo de informar erro.(Fonte: Pedro. 2023).</p>
+</div>
+
 ## Entrevista
 
 Para a entrvista o primeiro passo é definir quem vai participar da avaliação. É de extrema importância que os participantes tenham o mesmo perfil de usuário dos usuários do site Wikipédia. Esses perfis foram definidos na [página de perfil de usuário](../../../analise-de-requisitos/perfilDeUsuario.md).
