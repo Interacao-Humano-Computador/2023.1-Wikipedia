@@ -77,7 +77,7 @@ Como as outras tarefas se derivam de uma pesquisa a um artigo, esse prototipo se
 
 Na Tabela 3 a seguir, apresentamos um protótipo em papel que mostra como informar um erro em artigos da Wikipédia.
 
-<img src="../../../../images/prototipos/prototipo_baixa_fidelidade_informar_erro-1.png"/>
+<img src="../../../../images/prototipos/baixa_fidelidade_informar_erro.png"/>
 
 <div style="text-align: center">
 <p>Figura 3: Protótipo de baixa fidelidade do fluxo de informar erro.(Fonte: Pedro. 2023).</p>
