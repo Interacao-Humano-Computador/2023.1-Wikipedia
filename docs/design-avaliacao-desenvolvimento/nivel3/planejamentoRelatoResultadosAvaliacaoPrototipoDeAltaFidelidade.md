@@ -1,38 +1,38 @@
-# Planejamento dos resultados das análises de tarefas
+# Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade
 
 ## Introdução
 
-Este documento de planejamento aborda a maneira como os resultados das entrevistas devem ser tratados, com base no método selecionado, que consiste em entrevistas e observação no caso da Análise de Tarefas.
+O seguinte documento de planejamento aborda a maneira como os resultados das entrevistas devem ser tratados, com base no método selecionado, que consiste em entrevistas e observação no caso dos Protótipos de Alta Fidelidade.
 
 ## Metodologia
 
-Com base no documento do planejamento da avaliação da análise de tarefas e nos elementos de avaliação citados por Barbosa [1], iremos construir o relato de resultados.
+Com base no documento do planejamento da avaliação dos protótipos de alta fidelidade e nos elementos de avaliação citados no livro de Barbosa [1], página 279, iremos construir o relato de resultados.
 
 Os elementos de avaliação são:
 
-- A forma como a avaliação foi realizada;
+- Os objetivos e escopo da avaliação
+- Metodo de avaliação empregado;
 - O número e o perfil de usuários e avaliadores que participaram da avaliação;
-- Resumo dos dados coletados;
+- Um sumário dos dados coletados;
 - Análise e interpretação dos dados coletados;
 - Listagem de problemas encontrados;
-- Sugestões de reprojeto do sistema;
+- Sugestões para um possível reprojeto do sistema;
 
 ## Objetivos da avaliação
 
-Na presente fase, é imperativo que o redator do documento exponha as razões pelas quais essa avaliação está sendo realizada, bem como os objetivos que o grupo busca alcançar.
+Nesta etapa, é essencial que o redator do documento explique claramente os motivos pelos quais essa avaliação está sendo conduzida, juntamente com os objetivos que o grupo pretende atingir. É importante estabelecer a razão por trás dessa avaliação e comunicar de maneira concisa e direta os objetivos que orientam o processo.
 
-## Prototipação em papel
+## Método de avaliação empregado
 
-Esse processo ajuda os desenvolvedores a criar software que atenda às expectativas e necessidades do usuário, especialmente para a criação e testes de interfaces de usuário. É uma prototipagem descartável que envolve a criação de desenhos feitos à mão de uma interface para usar como protótipo ou modelo de um projeto.
+Nesta seção, é necessário relembrar ou descrever o método de avaliação utilizado, destacando as necessidades que levaram o grupo a optar por esse método específico.
 
-- Analisar os resultados das entrevistas com o usuário para entender suas necessidades e expectativas.
-- Criar esboços à mão de uma interface que atenda às necessidades e expectativas do usuário.
-- Testar o protótipo em papel com os usuários para obter feedback e identificar possíveis melhorias.
-- Refinar o protótipo em papel com base no feedback dos usuários e repetir o processo de teste até que o protótipo atenda às necessidades e expectativas do usuário.
+## Implementação no sistema real
 
-## Perfil do usuário e do avaliador
+Os protótipos de alta fidelidade têm como principal objetivo serem utilizados nos testes de usabilidade do produto, permitindo que os usuários-alvo validem sua eficácia. O mesmo desempenha um papel crucial na implementação de um sistema, pois oferece benefícios significativos em termos de usabilidade, design e economia de recursos. O protótipo permite que a equipe teste e valide os conceitos e fluxos de trabalho do sistema antes do desenvolvimento completo, o que ajuda a identificar e corrigir problemas precocemente. Isso evita retrabalhos dispendiosos e atrasos na fase de implementação, resultando em economia de tempo e recursos.
 
-Além do cronograma executado, a fim de ter uma ideia geral do público entrevistado, deverá ser feito um resumo identificando esses usuários e o possível perfil de cada usuário. Isso pode ser feito através da análise das respostas dadas pelos usuários durante as entrevistas e da observação de suas características e comportamentos. Com base nessas informações, é possível adicionar o entrevistado em uma persona que foi previamente criada.
+## O número e o perfil do usuário e do avaliador
+
+Com o objetivo de obter uma visão ampla do público entrevistado, é necessário realizar um resumo que identifique os usuários e delineie seus possíveis perfis. Essa análise é conduzida através da avaliação das respostas fornecidas pelos usuários durante as entrevistas, assim como pela observação de suas características e comportamentos. Com base nessas informações, é viável incluir o entrevistado em uma persona previamente elaborada.
 
 ## Tarefas executadas pelo usuário
 
@@ -100,9 +100,12 @@ Sugestões de melhorias para o sistema. [1]
 ## Referências
 
 - Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021
+- TERA. Prototipagem de alta fidelidade: o que é, quando, por que e como usar? Medium. Disponível em: [https://medium.com/somos-tera/prototipagem-de-alta-fidelidade-635d745b662b](https://medium.com/somos-tera/prototipagem-de-alta-fidelidade-635d745b662b). Acesso em: 10 jun. 2023.
+
+‌
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                      | Autor(es) | Revisor(es) |
-| ------ | ---------- | ------------------------------ | --------- | ----------- |
-| 1.0    | 10/05/2023 | Criação do documento           | Pedro e Lucas     | Gabriel e Ana         | 
+| Versão | Data       | Descrição            | Autor(es)     | Revisor(es)   |
+| ------- | ---------- | ---------------------- | ------------- | ------------- |
+| 1.0     | 10/05/2023 | Criação do documento | Pedro e Lucas | Gabriel e Ana |
