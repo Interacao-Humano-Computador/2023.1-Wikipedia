@@ -83,6 +83,16 @@ Na Tabela 3 a seguir, apresentamos um protótipo em papel que mostra como inform
 <p>Figura 3: Protótipo de baixa fidelidade do fluxo de informar erro.(Fonte: Pedro. 2023).</p>
 </div>
 
+### Criar discussão sobre artigo
+
+Na figura 5 apresentamos um protótipo de papel que indica como criar uma discussão sobre artigo na WIkipédia.
+
+<img src="../../../../images/prototipos/prototipoPapelDiscussaoArtigo.jpeg">
+
+<div style="text-align: center">
+<p>Figura 5: Protótipo de baixa fidelidade do fluxo de criar discussão de artigo.(Fonte: Ana. 2023).</p>
+</div>
+
 ## Entrevista
 
 Para a entrvista o primeiro passo é definir quem vai participar da avaliação. É de extrema importância que os participantes tenham o mesmo perfil de usuário dos usuários do site Wikipédia. Esses perfis foram definidos na [página de perfil de usuário](../../../analise-de-requisitos/perfilDeUsuario.md).
