@@ -61,7 +61,7 @@ O prótotipo de papel está utilizando os fluxos identificados durante a pesquis
 
 ### Realizar uma pesquisa
 
-Na tabela 4, apresentamos um protótipo em papel da tarefa de pesquisar um artigo na Wikipédia, existe também dois fluxos, um onde o usuário pesquisa por voz e o outro que digita.
+Na Figura 1, apresentamos um protótipo em papel da tarefa de pesquisar um artigo na Wikipédia, existe também dois fluxos, um onde o usuário pesquisa por voz e o outro que digita.
 
 Com esse novo design, propomos um design mais minimalista e agrádavel ao usuário.
 
@@ -70,27 +70,37 @@ Como as outras tarefas se derivam de uma pesquisa a um artigo, esse prototipo se
 <img src="../../../../images/prototipos/prototipoPapelPesquisa.jpg"/>
 
 <div style="text-align: center">
-<p>Figura 4: Protótipo de baixa fidelidade do fluxo pesquisar um artigo.(Fonte: Lucas. 2023).</p>
+<p>Figura 1: Protótipo de baixa fidelidade do fluxo pesquisar um artigo.(Fonte: Lucas. 2023).</p>
 </div>
 
 ### Informar um erro
 
-Na Tabela 3 a seguir, apresentamos um protótipo em papel que mostra como informar um erro em artigos da Wikipédia.
+Na Figura 2 a seguir, apresentamos um protótipo em papel que mostra como informar um erro em artigos da Wikipédia.
 
 <img src="../../../../images/prototipos/baixa_fidelidade_informar_erro.png"/>
 
 <div style="text-align: center">
-<p>Figura 3: Protótipo de baixa fidelidade do fluxo de informar erro.(Fonte: Pedro. 2023).</p>
+<p>Figura 2: Protótipo de baixa fidelidade do fluxo de informar erro.(Fonte: Pedro. 2023).</p>
 </div>
 
 ### Criar discussão sobre artigo
 
-Na figura 5 apresentamos um protótipo de papel que indica como criar uma discussão sobre artigo na WIkipédia.
+Na Figura 3 apresentamos um protótipo de papel que indica como criar uma discussão sobre artigo na WIkipédia.
 
 <img src="../../../../images/prototipos/prototipoPapelDiscussaoArtigo.jpeg">
 
 <div style="text-align: center">
-<p>Figura 5: Protótipo de baixa fidelidade do fluxo de criar discussão de artigo.(Fonte: Ana. 2023).</p>
+<p>Figura 3: Protótipo de baixa fidelidade do fluxo de criar discussão de artigo.(Fonte: Ana. 2023).</p>
+</div>
+
+### Criar um artigo
+
+Na Figura 4, apresentamos um protótipo de papel que indica como criar um artigo na WIkipédia.
+
+<img src="../../../../images/prototipos/prototipoPapelCriacaoArtigo.jpeg">
+
+<div style="text-align: center">
+<p>Figura 4: Protótipo de baixa fidelidade do fluxo de criar um artigo.(Fonte: Samuel. 2023).</p>
 </div>
 
 ## Entrevista
