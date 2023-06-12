@@ -95,12 +95,22 @@ Na Figura 3 apresentamos um protótipo de papel que indica como criar uma discus
 
 ### Criar um artigo
 
-Na Figura 4, apresentamos um protótipo de papel que indica como criar um artigo na WIkipédia.
+Na Figura 4, apresentamos um protótipo de papel que indica como criar um artigo na Wikipédia.
 
 <img src="../../../../images/prototipos/prototipoPapelCriacaoArtigo.jpeg">
 
 <div style="text-align: center">
 <p>Figura 4: Protótipo de baixa fidelidade do fluxo de criar um artigo.(Fonte: Samuel. 2023).</p>
+</div>
+
+### Editar Artigo
+
+Na Figura 5, está representado o protótipo de papel referente a edição de um artigo na Wikipédia.
+
+<img src="../../../../images/prototipos/prototipoPapelEdicao.jpg">
+
+<div style="text-align: center">
+<p>Figura 5: Protótipo de baixa fidelidade do fluxo de editar um artigo.(Fonte: Chaydson. 2023).</p>
 </div>
 
 ## Entrevista
