@@ -65,15 +65,21 @@ Para a entrvista o primeiro passo é definir quem vai participar da avaliação.
 
 ## Teste piloto
 
-No Video 1, encontra-se a gravação do teste piloto realizado pelos membros Gabriel e Samuel.
+No Video 1, encontra-se a gravação do teste piloto realizado pelos membros Gabriel e Samuel. A tabela 3 descreve os detalhes do teste piloto.
+
+| Local | Participantes    | Data e hora          |
+| ----- | ---------------- | -------------------- |
+| Teams | Gabriel e Samuel | 12/06/2023 às 14:45 |
+
+<div style="text-align: center">
+    <p> Tabela 3: Realização do teste piloto (Fonte: Gabriel e Samuel. 2023).</p>
+</div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Crbco_AppLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 <div style="text-align: center">
     <p> Video 1: Realização do teste piloto (Fonte: Gabriel e Samuel. 2023).</p>
 </div>
-
 
 ### Termo de consentimento
 
@@ -87,7 +93,7 @@ No termo de consentimento buscamos esclarecer os objetivos da entrevista, solici
 
 ### Roteiro de perguntas
 
-A tabela 3 apresenta o roteiro de perguntas que comporá a entrevista. O roteiro pode ser alterado conforme o andamento da entrevista ou segundo a necessidade do entrevistador.
+A tabela 4 apresenta o roteiro de perguntas que comporá a entrevista. O roteiro pode ser alterado conforme o andamento da entrevista ou segundo a necessidade do entrevistador.
 
 | Pergunta                                                                                                          | Possível resposta                                       | Instrução                                                                        |
 | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------------------------------- |
@@ -100,7 +106,7 @@ A tabela 3 apresenta o roteiro de perguntas que comporá a entrevista. O roteiro
 | Poderia descrever essa solução                                                                                  | Discursiva                                               | Pergunte caso a resposta anterior seja sim                                         |
 
 <div style="text-align: center">
-    <p> Tabela 3: Roteiro de perguntas (Fonte: Autores. 2023).</p>
+    <p> Tabela 4: Roteiro de perguntas (Fonte: Autores. 2023).</p>
 </div>
 
 ## Conclusão
