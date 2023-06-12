@@ -113,6 +113,15 @@ Na Figura 5, está representado o protótipo de papel referente a edição de um
 <p>Figura 5: Protótipo de baixa fidelidade do fluxo de editar um artigo.(Fonte: Chaydson. 2023).</p>
 </div>
 
+Na Figura 6, está representado o protótipo de papel referente a contatar um mentor na Wikipédia.
+
+<img src="../../../../images/prototipos/prototipodePapelMentor.png">
+
+<div style="text-align: center">
+<p>Figura 6: Protótipo de baixa fidelidade do fluxo de contatar mentor.(Fonte: Gabriel. 2023).</p>
+</div>
+
+
 ## Entrevista
 
 Para a entrvista o primeiro passo é definir quem vai participar da avaliação. É de extrema importância que os participantes tenham o mesmo perfil de usuário dos usuários do site Wikipédia. Esses perfis foram definidos na [página de perfil de usuário](../../../analise-de-requisitos/perfilDeUsuario.md).
