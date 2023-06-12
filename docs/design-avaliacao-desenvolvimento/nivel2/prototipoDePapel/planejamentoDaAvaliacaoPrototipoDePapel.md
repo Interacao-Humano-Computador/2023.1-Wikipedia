@@ -63,6 +63,18 @@ O prótotipo de papel está utilizando os fluxos identificados durante a pesquis
 
 Para a entrvista o primeiro passo é definir quem vai participar da avaliação. É de extrema importância que os participantes tenham o mesmo perfil de usuário dos usuários do site Wikipédia. Esses perfis foram definidos na [página de perfil de usuário](../../../analise-de-requisitos/perfilDeUsuario.md).
 
+## Teste piloto
+
+No Video 1, encontra-se a gravação do teste piloto realizado pelos membros Gabriel e Samuel.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Crbco_AppLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+<div style="text-align: center">
+    <p> Video 1: Realização do teste piloto (Fonte: Gabriel e Samuel. 2023).</p>
+</div>
+
+
 ### Termo de consentimento
 
 No termo de consentimento buscamos esclarecer os objetivos da entrevista, solicitar explicitamente o consentimento do participante e informar dados sobre a pesquisa. O termo de consentimento, apresentado na figura 1, será aplicado no início da entrevista, antes de qualquer atividade, para que o participante tenha ciência do que será feito e possa decidir se quer ou não participar.
@@ -79,12 +91,12 @@ A tabela 3 apresenta o roteiro de perguntas que comporá a entrevista. O roteiro
 
 | Pergunta                                                                                                          | Possível resposta                                       | Instrução                                                                        |
 | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| Você já fez `nome do fluxo/atividade`                                                                         | Sim/Não                                         | -                                                                                  |
+| Você já fez `nome do fluxo/atividade`                                                                         | Sim/Não                                                 | -                                                                                  |
 | Qual a frequência que você executa `nome do fluxo/atividade`?                                                 | Quantidade em relação a determinado intervalo de tempo | Pergunte caso a primeira resposta seja sim                                         |
 | Realize `nome do fluxo/atividade`. Descreva o pensamento atrás de cada ação feita.                           | Discursiva                                               | Em caso de usuário com dificuldade, entrevistador deverá ajudá-lo via perguntas |
-| Após simulação da `nome do fluxo/atividade`, você identifica que a sequência das atividades seja coerente? | Sim/Não/Inconclusivo                    | -                                                                                  |
+| Após simulação da `nome do fluxo/atividade`, você identifica que a sequência das atividades seja coerente? | Sim/Não/Inconclusivo                                    | -                                                                                  |
 | Explique o motivo da sua resposta                                                                                 | Discursiva                                               | -                                                                                  |
-| Você imagina outra forma de solução para `nome do fluxo/atividade`                                           | Sim/Não                                         | -                                                                                  |
+| Você imagina outra forma de solução para `nome do fluxo/atividade`                                           | Sim/Não                                                 | -                                                                                  |
 | Poderia descrever essa solução                                                                                  | Discursiva                                               | Pergunte caso a resposta anterior seja sim                                         |
 
 <div style="text-align: center">
