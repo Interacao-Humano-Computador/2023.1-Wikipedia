@@ -79,12 +79,12 @@ A tabela 3 apresenta o roteiro de perguntas que comporá a entrevista. O roteiro
 
 | Pergunta                                                                                                          | Possível resposta                                       | Instrução                                                                        |
 | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| Você já fez `nome do fluxo/atividade`                                                                         | Sim``Não                                         | -                                                                                  |
+| Você já fez `nome do fluxo/atividade`                                                                         | Sim/Não                                         | -                                                                                  |
 | Qual a frequência que você executa `nome do fluxo/atividade`?                                                 | Quantidade em relação a determinado intervalo de tempo | Pergunte caso a primeira resposta seja sim                                         |
 | Realize `nome do fluxo/atividade`. Descreva o pensamento atrás de cada ação feita.                           | Discursiva                                               | Em caso de usuário com dificuldade, entrevistador deverá ajudá-lo via perguntas |
-| Após simulação da `nome do fluxo/atividade`, você identifica que a sequência das atividades seja coerente? | Sim``Não``Inconclusivo                    | -                                                                                  |
+| Após simulação da `nome do fluxo/atividade`, você identifica que a sequência das atividades seja coerente? | Sim/Não/Inconclusivo                    | -                                                                                  |
 | Explique o motivo da sua resposta                                                                                 | Discursiva                                               | -                                                                                  |
-| Você imagina outra forma de solução para `nome do fluxo/atividade`                                           | Sim``Não                                         | -                                                                                  |
+| Você imagina outra forma de solução para `nome do fluxo/atividade`                                           | Sim/Não                                         | -                                                                                  |
 | Poderia descrever essa solução                                                                                  | Discursiva                                               | Pergunte caso a resposta anterior seja sim                                         |
 
 <div style="text-align: center">
