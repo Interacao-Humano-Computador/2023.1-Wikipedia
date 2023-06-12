@@ -1,23 +1,21 @@
-## Introdução
+## Introdução(Samuel)
 
-## Elementos do Relato de Resultados
+## Objetivos da Avaliação(Samuel)
 
-## Objetivos da Avaliação
+## Metodologia(Gabriel)
 
-## Metodologia
+## Avaliadores e Participantes(Samuel)
 
-## Avaliadores e Participantes
+## Sumário dos Dados(Gabriel)
 
-## Sumário dos Dados
+## Problemas Identificados(Gabriel)
 
-## Problemas Identificados
+## Sugestões de Correção(Gabriel)
 
-## Sugestões de Correção
+## Bibliografia(Samuel)
 
-## Bibliografia
+## Histórico de Versão(Samuel)
 
-## Histórico de Versão
-
-| Versão | Data       | Descrição            | Autor(es)        | Revisor(es)      |
-| ------- | ---------- | ---------------------- | ---------------- | ---------------- |
-| 1.0     | 12/06/2023 | Criação do documento | Gabriel e Samuel | Chaydson e Lucas |
+| Versão | Data       | Descrição            | Autor(es)        | Revisor(es) |
+| ------- | ---------- | ---------------------- | ---------------- | ----------- |
+| 1.0     | 12/06/2023 | Criação do documento | Gabriel e Samuel | Lucas       |
