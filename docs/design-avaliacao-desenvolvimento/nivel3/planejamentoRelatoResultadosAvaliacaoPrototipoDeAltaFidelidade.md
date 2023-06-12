@@ -34,78 +34,29 @@ Os protótipos de alta fidelidade têm como principal objetivo serem utilizados 
 
 Com o objetivo de obter uma visão ampla do público entrevistado, é necessário realizar um resumo que identifique os usuários e delineie seus possíveis perfis. Essa análise é conduzida através da avaliação das respostas fornecidas pelos usuários durante as entrevistas, assim como pela observação de suas características e comportamentos. Com base nessas informações, é viável incluir o entrevistado em uma persona previamente elaborada.
 
-## Tarefas executadas pelo usuário
+## Um sumário dos dados coletados
 
-Antes de prosseguir, é fundamental estabelecer as tarefas (planejamento) que serão desempenhadas pelos participantes antes de começar efetivamente.
+Com o resultado das entrevistas, é possível obter uma visão geral dos dados coletados, que podem ser apresentados em forma de tabelas e gráficos. Esses dados podem ser utilizados para a justicativa de se o prótotipo de alta fidelidade construído é melhor ou não que a atual implementação do wikipedia, com base na opinião dos entrevistado, que representa alguma persona criada previamente.
 
-### Edição de um artigo
+## Análise e interpretação dos dados coletados
 
-- Entrar na wikipedia
-- Escolher um artigo que queria contribuir
-- Editar o artigo
-- Revisar o artigo
-- Mandar para avaliação
+Após o sumário dos dados coletados, é necessário realizar uma análise e interpretação dos dados coletados, deve-se organizar os dados de maneira clara e objetiva usando tabelas, por exemplo. Depois dessa primeia etapa, deve-se fazer a análise dos dados em si, atráves de medidas que ajudem a distruibuição dos dados, também é importante verificar se há correlações entre diferentes variáveis e identificar possíveis padrões nos dados, por fim, tirar as conclusões dos dados, isso envolve tirar conclusões a partir dos dados e tentar explicar o que eles significam. É importante lembrar que a interpretação dos dados deve ser baseada em evidências e não em suposições ou opiniões pessoais.
 
-### Criação de um artigo
+## Listagem de problemas encontrados
 
-- Entrar na wikipedia
-- Entrar na aba de criação de um artigo
-- Escrever o artigo
-- Revisar o artigo
-- Mandar para avaliação
+Nessa etapa, deve-se listar os problemas encontrados durante a avaliação, esses problemas podem ser de usabilidade, de design, de implementação, etc. É importante que esses problemas sejam listados de maneira clara e objetiva, para que seja possível identificar o problema e a sua causa.
 
-### Realização de uma pesquisa na Wikipedia
+## Sugestões para um possível reprojeto do sistema
 
-- Entrar na wikipedia
-- Entrar na aba de pesquisa
-- Digitar o que deseja pesquisar
-- Escolher o artigo que deseja ler
-
-### Informar um erro
-
-- Entrar na wikipedia
-- Entrar na aba de pesquisa
-- Digitar o que deseja pesquisar
-- Escolher o artigo que deseja ler
-- Encontrar um erro
-- Reportar o erro
-
-### Criar uma discurssão sobre um artigo
-
-- Entrar na wikipedia
-- Entrar na aba de pesquisa
-- Digitar o que deseja pesquisar
-- Escolher o artigo que deseja ler
-- Entrar na aba de discussão
-- Criar uma discussão
-
-## Sugestões de correções
-
-Ao final, serão apresentadas sugestões de correção para cada um dos problemas identificados, destacando a prioridade de cada uma delas.
-
-## Conclusão
-
-Com base neste documento, temos uma espécie de "roteiro" para obter os resultados da avaliação da análise de tarefas, e como e quando utilizá-los da melhor forma possível. Essas características se aplicam tanto ao método da entrevista quanto ao método do percurso cognitivo.
-
-Os avaliadores devem relatar suas descobertas consolidadas por meio de documentação que inclua:
-
-Objetivos e escopo da avaliação;
-Método de avaliação utilizado;
-Número e perfil de usuários e avaliadores envolvidos na avaliação;
-Resumo dos dados coletados, incluindo tabelas e gráficos;
-Análise e interpretação dos dados;
-Lista dos problemas encontrados;
-Sugestões de melhorias para o sistema. [1]
+Por fim, deve-se sugerir possíveis melhorias para o sistema, essas melhorias podem ser baseadas nos problemas encontrados durante a avaliação, ou em outras melhorias que não foram identificadas durante a avaliação, mas que podem ser implementadas no sistema.
 
 ## Referências
 
 - Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021
 - TERA. Prototipagem de alta fidelidade: o que é, quando, por que e como usar? Medium. Disponível em: [https://medium.com/somos-tera/prototipagem-de-alta-fidelidade-635d745b662b](https://medium.com/somos-tera/prototipagem-de-alta-fidelidade-635d745b662b). Acesso em: 10 jun. 2023.
 
-‌
-
 ## Histórico de Versão
 
 | Versão | Data       | Descrição            | Autor(es)     | Revisor(es)   |
-| ------- | ---------- | ---------------------- | ------------- | ------------- |
-| 1.0     | 10/05/2023 | Criação do documento | Pedro e Lucas | Gabriel e Ana |
+| ------ | ---------- | -------------------- | ------------- | ------------- |
+| 1.0    | 10/05/2023 | Criação do documento | Pedro e Lucas | Gabriel e Ana |
