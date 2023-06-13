@@ -45,6 +45,7 @@ nav:
       - Apresentacao 4: apresentacoes/apresentacao4.md
       - Apresentacao 5: apresentacoes/apresentacao5.md
       - Apresentacao 6: apresentacoes/apresentacao6.md
+      - Apresentacao 7: apresentacoes/apresentacao7.md
   - Politicas:
       - Metodologias: politicas/metodologias.md
       - Issues: politicas/issues.md
@@ -83,7 +84,6 @@ nav:
           - Planejamento da avaliação: design-avaliacao-desenvolvimento/nivel1/analiseDeTarefas/planejamentoDaAvaliacaoTarefas.md
           - Planejamento do relato: design-avaliacao-desenvolvimento/nivel1/analiseDeTarefas/planejamentoResultadosAnalisesTarefas.md
           - Relato dos resultados: design-avaliacao-desenvolvimento/nivel1/analiseDeTarefas/relatoDaAnaliseDeTarefa.md
-
       - Nível 2:
         - Protótipo de papel:
           - Planejamento da Avaliação: design-avaliacao-desenvolvimento/nivel2/prototipoDePapel/planejamentoDaAvaliacaoPrototipoDePapel.md
@@ -92,8 +92,6 @@ nav:
       - Nível 3:
         - Protótipo de Alta Fidelidade:
           - Planejamento da Avaliação: design-avaliacao-desenvolvimento/nivel3/prototipoAltaFidelidade/planejamentoAvaliacaoPrototipoAltaFidelidade.md
-      - Nível 3:
-        - Protótipo de Alta Fidelidade:
           - Planejamento do relato: design-avaliacao-desenvolvimento/nivel3/planejamentoRelatoResultadosAvaliacaoPrototipoDeAltaFidelidade.md
   - Verificação do grupo 3:
       - Planejamento da Verificação: verificacao/planejamento.md
