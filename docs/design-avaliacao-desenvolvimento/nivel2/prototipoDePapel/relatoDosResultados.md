@@ -1,3 +1,4 @@
+# Relato dos Resultados do Protótipo de Papel
 ## Introdução
 
 Este documento tem como objetivo relatar os resultados da avaliação planejada no [Planejamento da avaliação](./planejamentoDaAvaliacaoPrototipoDePapel.md) e está seguindo como base o artefato do [Planejamento do relato](./planejamentoDaAvaliacaoPrototipoDePapel.md).
@@ -164,8 +165,6 @@ A partir das eEntrevista 1 e Entrevista 2, foi possível verificar que a protót
 
 Como sugestão para correção dos problemas identificados, o grupo propôe que se adicione mais tarefas que não identificadas, ou que parecem ser um novo fluxo ou tarefa, além de modificar ícones e localizações de botões nas páginas, como mudar a localização do botão da criação de artigo e modificaçaõ de aspectos referentes ao para onde o site deveria levar quando a página chegar em certo ponto. Quanto a questão de ícones, a proposta seria modificar para figuras mais coerentes com a realidade, para tal ícones que não forem possível de se interpretar serão mudados para textos.
 A partir das eEntrevista 1 e Entrevista 2, foi possível verificar que a protótipação possui lados bons, mas tambem possui lados ruins como citado na entrevista 2 pelo entrevistado Pedro Rosa, que apresentava
-
-## Sugestões de Correção(Gabriel)
 
 ## Bibliografia
 
