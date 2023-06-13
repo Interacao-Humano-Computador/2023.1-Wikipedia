@@ -1,10 +1,38 @@
-## Introdução(Samuel)
+## Introdução
 
-## Objetivos da Avaliação(Samuel)
+Este documento tem como objetivo relatar os resultados da avaliação planejada no [Planejamento da avaliação](./planejamentoDaAvaliacaoPrototipoDePapel.md) e está seguindo como base o artefato do [Planejamento do relato](./planejamentoDaAvaliacaoPrototipoDePapel.md).
+
+## Objetivos da Avaliação
+
+O objetivo do documento é reunir as informações e extrair dados a partir das entrevistas realizadas, para definir se os protótipos de papel fazem sentido.
 
 ## Metodologia(Gabriel)
 
-## Avaliadores e Participantes(Samuel)
+## Avaliadores e Participantes
+
+A Tabela 1 contem os participantes da entrevista 1.
+
+| Nome           | Função      |
+| -------------- | ------------- |
+| Ana Luiza      | Entrevistador |
+| Lucas Lopes    | Entrevistador |
+| Henrique Pucci | Entrevistado  |
+
+<div style="text-align: center">
+    <p> Tabela 1: Participantes da entrevista 1</p>
+</div>
+
+A Tabela 2 contem os participantes da entrevista 2.
+
+| Nome              | Função      |
+| ----------------- | ------------- |
+| Pedro Henrique    | Entrevistador |
+| Chaydson Ferreira | Entrevistador |
+| Pedro Rosa        | Entrevistado  |
+
+<div style="text-align: center">
+    <p> Tabela 2: Participantes da entrevista 2</p>
+</div>
 
 ## Sumário dos Dados(Gabriel)
 
@@ -26,7 +54,6 @@ A entrevista 2 realizada com Pedro Rosa, apesar de saber as atividades e consegu
 
 ### Respostas do Entrevistado
 
-
 | Pergunta                                                                                                          | Possível resposta                                       | Instrução                                                                        |
 | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | Você já fez `nome do fluxo/atividade`                                                                         | Sim/Não                                                 | -                                                                                  |
@@ -43,7 +70,6 @@ A entrevista 2 realizada com Pedro Rosa, apesar de saber as atividades e consegu
 
 ### Respostas do Entrevistado
 
-
 | Pergunta                                                                                                          | Possível resposta                                       | Instrução                                                                        |
 | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | Você já fez `nome do fluxo/atividade`                                                                         | Sim/Não                                                 | -                                                                                  |
@@ -58,6 +84,7 @@ A entrevista 2 realizada com Pedro Rosa, apesar de saber as atividades e consegu
     <p> Tabela 4: Perguntas da Entrevista 2 (Fonte: Autores. 2023).</p>
 </div>
 
+A entrevista 2 realizada com Pedro Rosa, apesar de saber as atividades e conseguir realizar o fluxo com certa facilidade, o mesmo apresenta algumas ressalvas quanto há criar artigo e informar erro, os quais essas ressalvas serão melhor desenvolvidas na seção de problemas encontrados.
 
 ### Termos de Consetimento
 
@@ -74,8 +101,15 @@ A partir das eEntrevista 1 e Entrevista 2, foi possível verificar que a protót
 ## Sugestões de Correção
 
 Como sugestão para correção dos problemas identificados, o grupo propôe que se adicione mais tarefas que não identificadas, ou que parecem ser um novo fluxo ou tarefa, além de modificar ícones e localizações de botões nas páginas, como mudar a localização do botão da criação de artigo e modificaçaõ de aspectos referentes ao para onde o site deveria levar quando a página chegar em certo ponto. Quanto a questão de ícones, a proposta seria modificar para figuras mais coerentes com a realidade, para tal ícones que não forem possível de se interpretar serão mudados para textos.
+A partir das eEntrevista 1 e Entrevista 2, foi possível verificar que a protótipação possui lados bons, mas tambem possui lados ruins como citado na entrevista 2 pelo entrevistado Pedro Rosa, que apresentava
 
-## Bibliografia(Samuel)
+## Sugestões de Correção(Gabriel)
+
+## Bibliografia
+
+BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+
+Lichess. Disponível em: https://interacao-humano-computador.github.io/2022.2-Lichess/. Acesso em 12 de junho de 2023.
 
 ## Histórico de Versão(Samuel)
 
