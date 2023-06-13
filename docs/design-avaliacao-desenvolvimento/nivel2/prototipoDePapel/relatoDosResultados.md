@@ -172,7 +172,7 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 
 Lichess. Disponível em: https://interacao-humano-computador.github.io/2022.2-Lichess/. Acesso em 12 de junho de 2023.
 
-## Histórico de Versão(Samuel)
+## Histórico de Versão
 
 | Versão | Data       | Descrição            | Autor(es)        | Revisor(es)       |
 | ------- | ---------- | ---------------------- | ---------------- | ----------------- |
