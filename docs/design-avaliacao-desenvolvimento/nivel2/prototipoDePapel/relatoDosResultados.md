@@ -175,6 +175,6 @@ Lichess. Disponível em: https://interacao-humano-computador.github.io/2022.2-Li
 
 ## Histórico de Versão(Samuel)
 
-| Versão | Data       | Descrição            | Autor(es)        | Revisor(es) |
-| ------- | ---------- | ---------------------- | ---------------- | ----------- |
-| 1.0     | 12/06/2023 | Criação do documento | Gabriel e Samuel | Lucas       |
+| Versão | Data       | Descrição            | Autor(es)        | Revisor(es)       |
+| ------- | ---------- | ---------------------- | ---------------- | ----------------- |
+| 1.0     | 12/06/2023 | Criação do documento | Gabriel e Samuel | Chaydson e Lucas |
