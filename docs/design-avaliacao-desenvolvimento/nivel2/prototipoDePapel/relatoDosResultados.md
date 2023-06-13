@@ -10,6 +10,8 @@ O objetivo do documento é reunir as informações e extrair dados a partir das 
 
 Antes de cada entrevista foi apresentado ao entrevistado o propósito daquela entrevista, e que atividades ele iria ver e verificar se as mesmas fazem sentido, dando sua expressa opinião sobre problemas que o mesmo poderia encontrar durante a realização daquelas atividades, para logo em seguida, citar que um termo foi enviado ao email de preferência do mesmo para confimar que entendeu o objetivo da mesma. Sobre o que foi realizado, primeiro foi pedido para realizar o fluxo de criação de artigo, depois contatar mentor, depois o de editar um artigo, depois de informar um erro e por último de criar uma discussão, todos tentando seguir o fluxo mais natural possível para se dominar o uso do wikipédia. Através dessa observação da exploração do usuário e possíveis comentários sobre ressalvas de fluxos que o mesmo discorda e acha que podem melhorar é esperado concluir com solidez a obtenção e entedimento dos dados.
 
+Os fluxos que serão analisados estão contidos na Tabela 2 do [planejamento da avaliação do protóripo de papel](../prototipoDePapel/planejamentoDaAvaliacaoPrototipoDePapel.md) o que no total somam 6 fluxos a serem representados por completo.
+
 ## Avaliadores e Participantes
 
 A Tabela 1 contém os participantes da entrevista 1, que ocorreu no dia 12 de junho de 2022 às 15:08 no horário de brasília.
@@ -109,7 +111,7 @@ A partir das eEntrevista 1 e Entrevista 2, foi possível verificar que a protót
 
 ## Bibliografia
 
-BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
 Lichess. Disponível em: https://interacao-humano-computador.github.io/2022.2-Lichess/. Acesso em 12 de junho de 2023.
 
