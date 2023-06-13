@@ -1,4 +1,5 @@
 # Relato dos Resultados do Protótipo de Papel
+
 ## Introdução
 
 Este documento tem como objetivo relatar os resultados da avaliação planejada no [Planejamento da avaliação](./planejamentoDaAvaliacaoPrototipoDePapel.md) e está seguindo como base o artefato do [Planejamento do relato](./planejamentoDaAvaliacaoPrototipoDePapel.md).
@@ -11,7 +12,7 @@ O objetivo do documento é reunir as informações e extrair dados a partir das 
 
 Antes de cada entrevista foi apresentado ao entrevistado o propósito daquela entrevista, e que atividades ele iria ver e verificar se as mesmas fazem sentido, dando sua expressa opinião sobre problemas que o mesmo poderia encontrar durante a realização daquelas atividades, para logo em seguida, citar que um termo foi enviado ao email de preferência do mesmo para confimar que entendeu o objetivo da mesma. Sobre o que foi realizado, primeiro foi pedido para realizar o fluxo de criação de artigo, depois contatar mentor, depois o de editar um artigo, depois de informar um erro e por último de criar uma discussão, todos tentando seguir o fluxo mais natural possível para se dominar o uso do wikipédia. Através dessa observação da exploração do usuário e possíveis comentários sobre ressalvas de fluxos que o mesmo discorda e acha que podem melhorar é esperado concluir com solidez a obtenção e entedimento dos dados.
 
-Os fluxos que serão analisados estão contidos na Tabela 2 do [planejamento da avaliação do protóripo de papel](../prototipoDePapel/planejamentoDaAvaliacaoPrototipoDePapel.md) o que no total somam 6 fluxos a serem representados por completo.
+Os fluxos que serão analisados estão contidos na Tabela 2 do [planejamento da avaliação do protótipo de papel](../prototipoDePapel/planejamentoDaAvaliacaoPrototipoDePapel.md) o que no total somam 6 fluxos a serem representados por completo.
 
 ## Avaliadores e Participantes
 
@@ -39,6 +40,16 @@ A Tabela 2 contém os participantes da entrevista 2, que ocorreu no dia 12 de ju
     <p> Tabela 2: Participantes da entrevista 2</p>
 </div>
 
+# Protótipo
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fda5fwgO6puPRNnHawUrk4Y%2FIHC---Prot%25C3%25B3tipo-de-Papel%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D4-3%26viewport%3D-6%252C257%252C0.15%26scaling%3Dmin-zoom%26starting-point-node-id%3D4%253A3" allowfullscreen></iframe>
+
+<div style="text-align: center">
+    <p> Figma 1: Protótipo de Papel Escaneado e Interativo</p>
+</div>
+
+O protótipo de baixa fidelidade localizado no figma 01, apresenta os possíveis fluxos que o usuário irá realizar durante a entrevista
+
 ## Sumário dos Dados
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RK3PEqVyno0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -55,7 +66,7 @@ A entrevista 1 realizada com Henrique Pucci, o usuário gostou das atividades e 
     <p> Entrevista 2: Entrevista com Pedro Rosa (Fonte: Chaydson e Pedro. 2023).</p>
 </div>
 
-A entrevista 2 realizada com Pedro Rosa, apesar de saber as atividades e conseguir realizar o fluxo com certa facilidade, o mesmo apresenta algumas ressalvas quanto há criar artigo e informar erro, os quais essas ressalvas serão melhor desenvolvidas na seção de problemas encontrados.
+A entrevista 2 realizada com Pedro Rosa, apesar de saber as atividades e conseguir realizar o fluxo com certa facilidade, o mesmo apresenta algumas ressalvas quanto há criar artigo e informar erro, os quais, essas ressalvas serão melhor desenvolvidas na seção de problemas encontrados.
 
 ### Respostas do Entrevistado
 
@@ -149,9 +160,13 @@ A entrevista 2 realizada com Pedro Rosa, apesar de saber as atividades e consegu
 
 A entrevista 2 realizada com Pedro Rosa, apesar de saber as atividades e conseguir realizar o fluxo com certa facilidade, o mesmo apresenta algumas ressalvas quanto há criar artigo e informar erro, os quais essas ressalvas serão melhor desenvolvidas na seção de problemas encontrados.
 
-### Termos de Consetimento
+### Termos de Consentimentos
 
 As entrevistas foram realizadas levando em consideração [aspectos éticos](../../../analise-de-requisitos/aspectosEticos.md) pré-definidos anteriormente, sendo utilizadas Entrevista 1 e Entrevista 2, gerando os termos: [Termo da Entrevista 1](../../../pdfs/entrevistaHenriquePrototipoPapel.pdf) e [Termo da Entrevista 2](../../../pdfs/termoEntrevistaPedroRosa.pdf)
+
+## Análise e Intepretação dos Dados
+
+Com o dado exposto nas entrevistas, é possível compreender que existem certas facilidades  quanto ao protótipo de baixa fidelidade, e que os usuários entendem os fluxos apesar de terem realizado pouco algumas atividades, dessa maneira, cabe ressaltar que apesar de existirem problemas que podem ser corrigidos, eles irão ser trabalhados para ser corrigidos e validados da melhor maneira possível.   
 
 ## Problemas Identificados
 
