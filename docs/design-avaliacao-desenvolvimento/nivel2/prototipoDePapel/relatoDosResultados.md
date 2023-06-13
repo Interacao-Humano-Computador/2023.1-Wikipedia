@@ -6,11 +6,13 @@ Este documento tem como objetivo relatar os resultados da avaliação planejada 
 
 O objetivo do documento é reunir as informações e extrair dados a partir das entrevistas realizadas, para definir se os protótipos de papel fazem sentido.
 
-## Metodologia(Gabriel)
+## Metodologia
+
+Antes de cada entrevista foi apresentado ao entrevistado o propósito daquela entrevista, e que atividades ele iria ver e verificar se as mesmas fazem sentido, dando sua expressa opinião sobre problemas que o mesmo poderia encontrar durante a realização daquelas atividades, para logo em seguida, citar que um termo foi enviado ao email de preferência do mesmo para confimar que entendeu o objetivo da mesma. Sobre o que foi realizado, primeiro foi pedido para realizar o fluxo de criação de artigo, depois contatar mentor, depois o de editar um artigo, depois de informar um erro e por último de criar uma discussão, todos tentando seguir o fluxo mais natural possível para se dominar o uso do wikipédia. Através dessa observação da exploração do usuário e possíveis comentários sobre ressalvas de fluxos que o mesmo discorda e acha que podem melhorar é esperado concluir com solidez a obtenção e entedimento dos dados.
 
 ## Avaliadores e Participantes
 
-A Tabela 1 contem os participantes da entrevista 1.
+A Tabela 1 contém os participantes da entrevista 1, que ocorreu no dia 12 de junho de 2022 às 15:08 no horário de brasília.
 
 | Nome           | Função      |
 | -------------- | ------------- |
@@ -22,7 +24,7 @@ A Tabela 1 contem os participantes da entrevista 1.
     <p> Tabela 1: Participantes da entrevista 1</p>
 </div>
 
-A Tabela 2 contem os participantes da entrevista 2.
+A Tabela 2 contém os participantes da entrevista 2, que ocorreu no dia 12 de junho de 2022 às 16:19 no horário de brasília.
 
 | Nome              | Função      |
 | ----------------- | ------------- |
@@ -34,7 +36,7 @@ A Tabela 2 contem os participantes da entrevista 2.
     <p> Tabela 2: Participantes da entrevista 2</p>
 </div>
 
-## Sumário dos Dados(Gabriel)
+## Sumário dos Dados
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RK3PEqVyno0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
