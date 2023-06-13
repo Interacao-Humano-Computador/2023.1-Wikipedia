@@ -2,39 +2,39 @@
 
 No contexto da engenharia de software, o storyboard é uma ferramenta visual fundamental para o planejamento, comunicação e visualização de interfaces de usuário, fluxos de trabalho e interações em sistemas ou aplicativos antes de sua implementação. Sua utilização permite que os profissionais de engenharia de software mapeiem os fluxos de trabalho, identifiquem problemas de usabilidade e tomem decisões embasadas sobre a interface e a experiência do usuário. Além disso, o storyboard serve como base para a criação de protótipos interativos e orienta a definição dos requisitos funcionais do software. Nesse sentido, o presente documento apresenta as avaliações e validações do usuário em relação aos storyboards, a fim de verificar o alinhamento e embasar as decisões do designer.
 
-## Objetivos
-
-O propósito deste documento consiste em estabelecer um planejamento para a avaliação do storyboard desenvolvido, levando em consideração a metodologia adotada e as tarefas realizadas. O objetivo principal é aprimorar as decisões do designer ao longo do projeto, além de obter informações valiosas para aperfeiçoar as funcionalidades presentes no sistema.
-
 ## Metodologia
 
-O planejamento se baseará no uso do framework DECIDE e utilizará o método da entrevista. A combinação do framework DECIDE com o método da entrevista na avaliação oferece uma abordagem estruturada e eficiente. O DECIDE auxilia na definição de objetivos, identificação de questões-chave, seleção de métodos e análise de resultados. Por sua vez, as entrevistas aprofundam a compreensão dos participantes. Juntos, esses elementos fornecem informações valiosas para tomada de decisões informadas e para a busca da melhoria contínua.
+O planejamento se baseará no uso do framework DECIDE e utilizará o método da entrevista. A combinação do framework DECIDE com o método da entrevista e o método de avaliação através de observação. A sinergia entre o framework DECIDE, a metodologia de entrevistas e a observação na avaliação cria uma abordagem poderosa e altamente eficaz. O DECIDE desempenha um papel fundamental ao estabelecer metas claras, identificar questões essenciais, selecionar métodos adequados e analisar resultados de maneira criteriosa. Por outro lado, as entrevistas oferecem uma perspectiva mais profunda dos participantes, enquanto a observação traz à tona as opiniões e os sentimentos dos usuários em relação às funcionalidades do site.
+
+Na Tabela 1 a seguir, são apresentados os componentes do framework DECIDE juntamente com seus respectivos significados. Posteriormente, é explicado como cada componente será aplicado no projeto.
+
+| Componente | Descrição                                                      |
+| :---------: | ---------------------------------------------------------------- |
+| **D** | Determinar os objetivos da avaliação de IHC.                   |
+| **E** | Explorar perguntas a serem respondidas com a avaliação.        |
+| **C** | Escolher (Choose) os métodos de avaliação a serem utilizados. |
+| **I** | Identificar e administrar as questões práticas da avaliação. |
+| **D** | Decidir como lidar com as questões éticas.                     |
+| **E** | Avaliar (Evaluate), interpretar e apresentar os dados.           |
+
+<div style="text-align: center">
+    <p> Tabela 1: Framework DECIDE (Fonte:Barbosa, Silva, Silveira, et al. 2021).</p>
+</div>
 
 ## Planejamento da avaliação
 
-### Recrutamento dos participantes
+### Determinar os objetivos da avaliação
 
-No contexto da atividade de [Perfil do Usuário](../../../analise-de-requisitos/perfilDeUsuario.md) e das [Personas](../../../analise-de-requisitos/personas.md), podemos identificar as qualidades necessárias para conduzir uma entrevista com um utilizador. Assim, iremos procurar por dois tipos de perfis: um menor de idade, com menos de 18 anos, e outro com idades entre 19 e 35 anos. Ambos os perfis utilizam a plataforma Wikipedia como fonte de conhecimento, seja para fins acadêmicos ou profissionais. Para realizar o recrutamento, empregamos grupos como meio de divulgação, visando atrair pessoas que se enquadrem nos perfis mencionados acima. Adicionalmente, convidamos conhecidos que se encaixam no perfil procurado. O nosso objetivo para esta avaliação é obter a participação de dois entrevistados.
+O propósito deste documento consiste em estabelecer um planejamento para a avaliação do storyboard desenvolvido, levando em consideração a metodologia adotada e as tarefas realizadas. O objetivo principal é aprimorar as decisões do designer ao longo do projeto, além de obter informações valiosas para aperfeiçoar as funcionalidades presentes no sistema. Sendo mais especifico:
 
-### Cronograma da avaliação
+* Solicitar feedback dos usuários sobre a sequência de cenas do storyboard que retrata a realização de uma pesquisa no Wikipedia, a fim de verificar se corresponde à experiência real deles.
+* Solicitar feedback dos usuários sobre a sequência de cenas do storyboard que retrata a forma de relatar um erro na Wikipédia, a fim de verificar se corresponde à experiência real deles.
+* Solicitar feedback dos usuários sobre a sequência de cenas do storyboard que representa a criação de um artigo na Wikipédia, a fim de verificar se corresponde à experiência real deles.
+* Solicitar feedback dos usuários sobre a sequência de cenas do storyboard que retrata a forma de entrar em contato com um mentor na Wikipédia, a fim de verificar se corresponde à experiência real deles.
+* Solicitar feedback dos usuários sobre a sequência de cenas do storyboard que retrata a edição de um artigo na Wikipédia, a fim de verificar se corresponde à experiência real deles.
+* Solicitar feedback dos usuários sobre a sequência de cenas do storyboard que representa a adição de uma discussão na Wikipédia, a fim de verificar se corresponde à experiência real deles.
 
-A seguir, apresentamos a Tabela 1 com o cronograma da avaliação:
-
-|    Data e horário    | Atividade                             | Autor(es)               | Revisor(es)             |
-| :------------------: | ------------------------------------- | ----------------------- | ----------------------- |
-| 23/05/2023 às 21:00  | Executar teste piloto                 | Ana Luiza e Lucas Lopes | Chaydson e Pedro        |
-| 24/05/2023 às 20:00  | Entrevistar os usuários               | Chaydson e Pedro        | Lucas Lopes e Ana Luiza |
-| 26/05/2023 até 22:00 | Registrar os resultados da entrevista | Chaydson e Pedro        | Lucas Lopes e Ana Luiza |
-
-<div style="text-align: center">
-    <p> Tabela 1: Cronograma da avaliação. (Fonte: Autores. 2023).</p>
-</div>
-
-### Papéis dos Avaliadores
-
-Durante a entrevista com o usuário, um dos membros do grupo exercerá o papel de avaliador. Ele ficará responsável por observar os comportamentos, comunicação não verbal e respostas do entrevistado, enquanto conduz a entrevista. Terá mais um membro do grupo presente na avaliação que observará e, se necessário, auxiliará na entrevista. Esse segundo membro também será responsável por registrar as respostas do entrevistado.
-
-### Roteiro de Perguntas
+### Explorar perguntas a serem respondidas com a avaliação
 
 As perguntas apresentadas na Figura 1 comporão a entrevista com o usuário.
 
@@ -44,11 +44,13 @@ As perguntas apresentadas na Figura 1 comporão a entrevista com o usuário.
 <p>Figura 1: Roteiro de perguntas, versão 1.(Fonte: Autores. 2023).</p>
 </div>
 
-### Teste Piloto
+### Escolher (Choose) os métodos de avaliação a serem utilizados.
 
-Antes de realizar a entrevista com o usuário será realizado um teste piloto. O teste piloto consiste em simular a entrevista com um membro do grupo. A partir desse teste será possível verificar se as perguntas abrangem o que é necessário para a avaliação e o tempo previsto para a entrevista. Qualquer mudança necessária será feita antes de realizar a entrevista.
+Para realizar essa avaliação, será adotada uma abordagem de entrevista semiestruturada, na qual um conjunto de perguntas adaptadas será seguido, levando em consideração o conhecimento prévio do usuário sobre os seis storyboards desenvolvidos pela equipe da disciplina de Interação Humano-Computador. Essa abordagem visa promover uma interação mais fluida durante a entrevista.
 
-## Questões Éticas
+No que diz respeito à exposição dos storyboards ao entrevistado, eles serão apresentados na sequência em que são apresentados no tópico "Storyboards" deste mesmo documento, sendo lidos pelos dois entrevistadores (um storyboard para cada entrevistador). Após essa etapa, um dos entrevistadores conduzirá as perguntas ao usuário (entrevistado), enquanto o outro entrevistador registrará cuidadosamente as respostas fornecidas.
+
+## Decidir como lidar com as questões éticas.
 
 Ao realizar avaliações que envolvem a participação de indivíduos, é imprescindível obter o consentimento dos mesmos por meio de um Termo de Consentimento Livre e Esclarecido, em conformidade com os princípios éticos estabelecidos para o projeto.
 
@@ -57,6 +59,50 @@ Ao realizar avaliações que envolvem a participação de indivíduos, é impres
 A seguir, encontra-se o Termo de Consentimento que será assinado antes da realização da entrevista, como parte do processo necessário para obter a permissão do participante.
 
 [Termo de consentimento](../../../pdfs/termoConsentimentoStoryBoard.pdf)
+
+
+## Identificar e administrar as questões práticas da avaliação.
+
+Nos sub tópicos a seguir, serão abordadas as questões práticas da avaliação.
+
+### Recrutamento dos participantes
+
+No contexto da atividade de [Perfil do Usuário](../../../analise-de-requisitos/perfilDeUsuario.md) e das [Personas](../../../analise-de-requisitos/personas.md), podemos identificar as qualidades necessárias para conduzir uma entrevista com um utilizador. Assim, iremos procurar por dois tipos de perfis: um menor de idade, com menos de 18 anos, e outro com idades entre 19 e 35 anos. Ambos os perfis utilizam a plataforma Wikipedia como fonte de conhecimento, seja para fins acadêmicos ou profissionais. Para realizar o recrutamento, empregamos grupos como meio de divulgação, visando atrair pessoas que se enquadrem nos perfis mencionados acima. Adicionalmente, convidamos conhecidos que se encaixam no perfil procurado. O nosso objetivo para esta avaliação é obter a participação de dois entrevistados, tendo em vista o tempo para a entrega e a necessidade de maior feedback possivel.
+
+### Equipamentos necessários
+
+Para a entrevista, é necessário que tanto os entrevistadores quanto os entrevistados tenham um computador (desktop ou laptop), conexão à internet, microfone e software Teams instalado no computador.
+
+### Orçamento e Recursos
+
+O orçamento será composto pelos gastos pessoais de cada participante da entrevista relacionados à energia elétrica e à internet. Quanto aos recursos de mão de obra, será considerada apenas a disponibilidade de tempo para a realização da entrevista.
+
+### Teste Piloto
+
+Antes de realizar a entrevista com o usuário será realizado um teste piloto. O teste piloto consiste em simular a entrevista com um membro do grupo. A partir desse teste será possível verificar se as perguntas abrangem o que é necessário para a avaliação e o tempo previsto para a entrevista. Qualquer mudança necessária será feita antes de realizar a entrevista.
+
+### Papéis dos Avaliadores
+
+Durante a entrevista com o usuário, um dos membros do grupo exercerá o papel de avaliador. Ele ficará responsável por observar os comportamentos, comunicação não verbal e respostas do entrevistado, enquanto conduz a entrevista. Terá mais um membro do grupo presente na avaliação que observará e, se necessário, auxiliará na entrevista. Esse segundo membro também será responsável por registrar as respostas do entrevistado.
+
+### Cronograma da avaliação
+
+A seguir, apresentamos a Tabela 1 com o cronograma da avaliação:
+
+|    Data e horário    | Local | Atividade                              | Autor(es)               | Revisor(es)             |
+| :-------------------: | ----- | -------------------------------------- | ----------------------- | ----------------------- |
+| 23/05/2023 às 21:00 | TEAMS | Executar teste piloto                  | Ana Luiza e Lucas Lopes | Chaydson e Pedro        |
+| 24/05/2023 às 20:00 | TEAMS | Entrevistar os usuários               | Chaydson e Pedro        | Lucas Lopes e Ana Luiza |
+| 26/05/2023 até 22:00 | TEAMS | Registrar os resultados da entrevista | Chaydson e Pedro        | Lucas Lopes e Ana Luiza |
+
+<div style="text-align: center">
+    <p> Tabela 1: Cronograma da avaliação. (Fonte: Autores. 2023).</p>
+</div>
+
+## Avaliar(Evaluate), interpretar e apresentar os dados
+
+Após a entrevista, os dados coletados serão analisados tanto pelos entrevistadores quanto pela equipe responsável pelo [Relato dos Resultados](./relatoDosResultadosStoryBoard.md) do Storyboard. Será realizada uma avaliação do grau de confiabilidade dos dados obtidos, verificando sua possibilidade de replicação no contexto esperado. Por fim, os resultados da avaliação serão relatados de forma adequada.
+
 
 ## Storyboards
 
@@ -87,7 +133,6 @@ Na figura 3, podemos ver o usuário identificando um erro em uma página e relat
 Na figura 4, podemos ver o usuário criando um artigo na Wikipédia.
 
 <img src="../../../../images/storyboards/storyboard_criacao_de_artigo.jpg" />
-
 
 <div style="text-align: center">
 <p>Figura 4: Storyboard da análise de tarefa de criar artigo.(Fonte: Samuel. 2023).</p>
@@ -131,7 +176,8 @@ Lichess. Disponível em: [https://interacao-humano-computador.github.io/2022.2-L
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                        | Autor(es)   | Revisor(es)      |
-| ------ | ---------- | -------------------------------- | ----------- | ---------------- |
-| 1.0    | 16/05/2023 | Criação do documento             | Pedro e Ana | Chaydson e Pedro |
-| 1.1    | 27/05/2023 | Inserindo storyboard da figura 1 | Lucas       | Samuel           |
+| Versão | Data       | Descrição                      | Autor(es)   | Revisor(es)      |
+| ------- | ---------- | -------------------------------- | ----------- | ---------------- |
+| 1.0     | 16/05/2023 | Criação do documento           | Pedro e Ana | Chaydson e Pedro |
+| 1.1     | 27/05/2023 | Inserindo storyboard da figura 1 | Lucas       | Samuel           |
+| 1.2     | 08/06/2023 | Aplicando correções apontadas pelo monitor | Pedro       | Ana           |

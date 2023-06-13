@@ -115,12 +115,11 @@ Na Figura 5, está representado o protótipo de papel referente a edição de um
 
 Na Figura 6, está representado o protótipo de papel referente a contatar um mentor na Wikipédia.
 
-<img src="../../../../images/prototipos/prototipodePapelMentor.png">
+<img src="../../../../images/prototipos/PrototipodePapelMentor.png">
 
 <div style="text-align: center">
 <p>Figura 6: Protótipo de baixa fidelidade do fluxo de contatar mentor.(Fonte: Gabriel. 2023).</p>
 </div>
-
 
 ## Entrevista
 
@@ -142,12 +141,12 @@ A tabela 3 apresenta o roteiro de perguntas que comporá a entrevista. O roteiro
 
 | Pergunta                                                                                                   | Possível resposta                                      | Instrução                                                                       |
 | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------- |
-| Você já fez `nome do fluxo/atividade`                                                                      | Sim``Não                                               | -                                                                               |
+| Você já fez `nome do fluxo/atividade`                                                                      | Sim/Não                                                | -                                                                               |
 | Qual a frequência que você executa `nome do fluxo/atividade`?                                              | Quantidade em relação a determinado intervalo de tempo | Pergunte caso a primeira resposta seja sim                                      |
 | Realize `nome do fluxo/atividade`. Descreva o pensamento atrás de cada ação feita.                         | Discursiva                                             | Em caso de usuário com dificuldade, entrevistador deverá ajudá-lo via perguntas |
-| Após simulação da `nome do fluxo/atividade`, você identifica que a sequência das atividades seja coerente? | Sim `Não`Inconclusivo                                  | -                                                                               |
+| Após simulação da `nome do fluxo/atividade`, você identifica que a sequência das atividades seja coerente? | Sim/Não/Inconclusivo                                   | -                                                                               |
 | Explique o motivo da sua resposta                                                                          | Discursiva                                             | -                                                                               |
-| Você imagina outra forma de solução para `nome do fluxo/atividade`                                         | Sim``Não                                               | -                                                                               |
+| Você imagina outra forma de solução para `nome do fluxo/atividade`                                         | Sim/Não                                                | -                                                                               |
 | Poderia descrever essa solução                                                                             | Discursiva                                             | Pergunte caso a resposta anterior seja sim                                      |
 
 <div style="text-align: center">
