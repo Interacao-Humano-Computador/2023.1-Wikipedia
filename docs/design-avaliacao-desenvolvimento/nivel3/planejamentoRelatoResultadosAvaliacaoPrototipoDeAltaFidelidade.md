@@ -59,4 +59,4 @@ Por fim, deve-se sugerir possíveis melhorias para o sistema, essas melhorias po
 
 | Versão | Data       | Descrição            | Autor(es)     | Revisor(es)   |
 | ------ | ---------- | -------------------- | ------------- | ------------- |
-| 1.0    | 10/05/2023 | Criação do documento | Pedro e Lucas | Gabriel e Ana |
+| 1.0    | 10/06/2023 | Criação do documento | Pedro e Lucas | Gabriel e Ana |
