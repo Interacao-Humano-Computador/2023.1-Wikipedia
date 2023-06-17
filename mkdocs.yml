@@ -124,9 +124,7 @@ nav:
           - Planejamento do Relato dos Resultados: verificacao/pontoControle5/planejamentoRelatoDosResultados.md
           - Planejamento da avaliação do protótipo de papel: verificacao/pontoControle5/planejamentoPrototipoDePapel.md
   - Verificação:
-    - Planejamento:
-        - Planejamento da Verificação: verificacao2/planejamento.md
-        - Resultado da Verificação: verificacao2/resultado.md
+    - Planejamento: verificacao2/planejamento.md
     - Ponto de Controle 1:
           - Cronograma: verificacao2/pontoControle1/cronograma.md
           - Ferramentas: verificacao2/pontoControle1/ferramentas.md
@@ -155,6 +153,10 @@ nav:
           - Relato do Story Board: verificacao2/pontoControle5/relatoStoryboard.md
           - Planejamento do Relato dos Resultados: verificacao2/pontoControle5/planejamentoRelatoDosResultados.md
           - Planejamento da avaliação do protótipo de papel: verificacao2/pontoControle5/planejamentoPrototipoDePapel.md
+    - Ponto de Controle 7:
+          - Relato do prótipo de papel: verificacao2/pontoControle7/relatoPrototipoDePapel.md
+          - Planejamento do protótipo de alta fidelidade: verificacao2/pontoControle7/planejamentoPrototipoDeAltaFidelidade.md
+          - Planejamento da avaliação do protótipo de alta fidelidade: verificacao2/pontoControle7/planejamentoAvaliacaoPrototipoDeAltaFidelidade.md
   - Politicas:
       - Metodologias: politicas/metodologias.md
       - Issues: politicas/issues.md
