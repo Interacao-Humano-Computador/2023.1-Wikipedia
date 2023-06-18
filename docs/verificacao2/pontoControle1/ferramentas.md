@@ -31,13 +31,13 @@ O presente documento apresentará a verificação do artefato ferramenta, desenv
 <p> Tabela 2: Tabela de avaliação com as gerais para todos os artefatos (Fonte: Lucas Frazão, 2023). </p>
 </div>
 
-| ID  |                             Questão                             | Inspeção |
-| :-: | :-------------------------------------------------------------: | :------: |
-|  9  | O documento apresenta as finalidades das ferramentas utilizadas |    🟡    |
-| 10  |        As ferramentas utilizadas estão na bibliografia?         |    🟡    |
-| 11  |        As ferramentas utilizadas possuem sua descrição?         |    🟢    |
-| 12  |            Todas as ferramentas citadas no artefato?            |    🟡    |
-| 13  |                  As ferramentas possuem nome?                   |    🟡    |
+| ID  |                             Questão                              | Inspeção |
+| :-: | :--------------------------------------------------------------: | :------: |
+|  9  | O documento apresenta as finalidades das ferramentas utilizadas? |    🟡    |
+| 10  |         As ferramentas utilizadas estão na bibliografia?         |    🟡    |
+| 11  |           As ferramentas utilizadas possuem descrição?           |    🟢    |
+| 12  |    Todas as ferramentas citadas no artefato estão no projeto?    |    🟡    |
+| 13  |                   As ferramentas possuem nome?                   |    🟡    |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela de avaliação com as questões específicas do artefato (Fonte: Lucas Frazão, 2023). </p>
