@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O presente documento apresentará a verificação do artefato [Sites avaliados](http://127.0.0.1:8000/planejamento/sitesAnalisados/), desenvolvido pela equipe. A técnica de inspeção será aplicada para verificar esse artefato, de acordo com o planejamento estabelecido. Na tabela 1, se encontra os metadados desse artefato, nas tabelas 2 e 3 se encontram as questões a serem avaliadas.
+O presente documento apresentará a verificação do artefato [Sites avaliados](https://interacao-humano-computador.github.io/2023.1-Wikipedia/planejamento/sitesAnalisados/), desenvolvido pela equipe. A técnica de inspeção será aplicada para verificar esse artefato, de acordo com o planejamento estabelecido. Na tabela 1, se encontra os metadados desse artefato, nas tabelas 2 e 3 se encontram as questões a serem avaliadas.
 
 <center>
 
@@ -36,7 +36,7 @@ O presente documento apresentará a verificação do artefato [Sites avaliados](
 |  9  |   Foi apresentado o resultado das avaliações de cada site?       |    🟡    |
 | 10  |                   Apresenta os sites avaliados?                  |    🟢    |
 | 11  | É informado qual o site escolhido e as razões para a escolha?    |    🟡    |
-| 12  |    Os sítios avaliados foram apresentados de maneira clara?      |    🟢    |
+| 12  |    Os sites avaliados foram apresentados de maneira clara?      |    🟢    |
 | 13  |        Foi apresentado os problemas de cada site?                |    🟢    |
 | 14  |           Possui link para os sites apresentados?                |    🟢    |
 
@@ -50,7 +50,7 @@ O presente documento apresentará a verificação do artefato [Sites avaliados](
 | ----------- | ---------------------------------------------------------------------------- |
 | IDC2        | Incluir a avaliação do site DDS                                              |
 | IDC2        | Incluir link para o artefato site escolhido                                  |
-| IDC4        | Expicificar o site escolhido e razões para a escolha                         |
+| IDC4        | Especificar o site escolhido e razões para a escolha                         |
 
 <div style="text-align: center">
 <p> Tabela 4: Tabela do que precisa ser ajustado no artefato (Fonte: Ana, 2023). </p>
