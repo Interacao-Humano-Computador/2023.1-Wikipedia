@@ -41,7 +41,7 @@ O presente documento apresentará a verificação do artefato [Características 
 | 14  |                 O objetivo está bem descrito?                    |    🟢    |
 
 <div style="text-align: center">
-<p> Tabela 3: Tabela de avaliação com as questões específicas do artefato (Fonte: Ana, 2023). </p>
+<p> Tabela 3: Tabela de avaliação com as questões específicas do artefato (Fonte: Ana e Chaydson, 2023). </p>
 </div>
 
 ## Planejamento do ajuste
@@ -111,4 +111,4 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 
 |    Data    | Versão |      Descrição       | Autor(es) |
 | :--------: | :----: | :------------------: | :-------: |
-| 17/06/2023 |  1.0   | Criação do documento |    Ana    |
+| 17/06/2023 |  1.0   | Criação do documento |    Ana e Chaydson    |
