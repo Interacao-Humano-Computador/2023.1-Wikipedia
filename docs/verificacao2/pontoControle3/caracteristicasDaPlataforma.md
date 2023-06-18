@@ -8,7 +8,7 @@ O presente documento apresentará a verificação do artefato [Características 
 
 | Versão avaliada | Autor | Revisor        |
 | --------------- | ----- | -------------- |
-| 1.0             | Ana e Chaydson   |       -        |
+| 1.0             | Samuel e Pedro  |   Ana  |
 
 </center>
 
@@ -48,7 +48,7 @@ O presente documento apresentará a verificação do artefato [Características 
 
 | ID Correção | Tarefa                                                                       |
 | ----------- | ---------------------------------------------------------------------------- |
-| IDC1        | Ajustar limitações e características negativas                               |
+| IDC1        | Especificar limitações e características negativas                           |
 
 <div style="text-align: center">
 <p> Tabela 4: Tabela do que precisa ser ajustado no artefato (Fonte: Ana e Chaydson, 2023). </p>

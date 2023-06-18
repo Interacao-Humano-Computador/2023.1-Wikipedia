@@ -8,7 +8,7 @@ O presente documento apresentará a verificação do artefato [Sites avaliados](
 
 | Versão avaliada | Autor | Revisor        |
 | --------------- | ----- | -------------- |
-| 1.1             | Ana   |       -        |
+| 1.1             | Chaydson   |  Pedro    |
 
 </center>
 
@@ -48,9 +48,9 @@ O presente documento apresentará a verificação do artefato [Sites avaliados](
 
 | ID Correção | Tarefa                                                                       |
 | ----------- | ---------------------------------------------------------------------------- |
-| IDC2        | Incluir a avaliação do site DDS                                              |
+| IDC1        | Incluir a avaliação do site DDS                                              |
 | IDC2        | Incluir link para o artefato site escolhido                                  |
-| IDC4        | Especificar o site escolhido e razões para a escolha                         |
+| IDC3        | Especificar o site escolhido e razões para a escolha                         |
 
 <div style="text-align: center">
 <p> Tabela 4: Tabela do que precisa ser ajustado no artefato (Fonte: Ana, 2023). </p>
