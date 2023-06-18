@@ -1,74 +1,122 @@
-# Verificação dos princípios gerais do projeto
+# Verificação dos principios gerais do projeto
 
 ## Introdução
 
-O presente documento apresentará a verificação do artefato [Princípios Gerais do Projeto](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/principios_gerais), desenvolvidos pela equipe 3 do [Banco Central do Brasil](https://interacao-humano-computador.github.io/2023.1-BancoCentral/). A versão avaliada é a 1.2. A técnica de inspeção será aplicada para verificar esses artefatos, de acordo com o [planejamento](../planejamento.md) estabelecido.
+O presente documento apresentará a verificação do artefato dos pricipios gerais do projeto, desenvolvido pela equipe. A técnica de inspeção será aplicada para verificar esse artefato, de acordo com o planejamento estabelecido. Na tabela 1, se encontra os metadados desse artefato, nas tabelas 2 e 3 se encontram as questões a serem avaliadas.
 
-## Metodologia
+<center>
 
-Para a verificação, será adotada a técnica de inspeção, a qual será realizada por meio de uma checklist. Essa checklist consiste em uma série de perguntas que têm como objetivo avaliar se o artefato foi desenvolvido de acordo com as exigências da disciplina.
+| Versão avaliada | Autor     | Revisor |
+| ---------------- | --------- | ------- |
+| 1.0              | Ana Luiza | Pedro   |
 
-A checklist será preenchida com base em diferentes classificações, que incluem:
-
-- 🟢: Completamente Satisfatório;
-- 🟡: Incompleto;
-- 🔴: Não realizado ou Errado;
-- N/A: Não se aplica.
-
-## Inspeção
-
-Na tabela 1 a seguir, estão as questões padrões utilizadas em todos os artefatos.
-
-| ID  |                                 Questão                                  | Inspeção |
-| :-: | :----------------------------------------------------------------------: | :------: |
-|  1  |                 As legendas estão no padrão do projeto?                  |    🟢    |
-|  2  |                  Possui links para os outros artefatos?                  |    🟢    |
-|  3  |                    Existe uma introdução no artefato?                    |    🟢    |
-|  4  |          Existe tabela de versionamento padronizado e completo?          |    🟢    |
-|  5  |                Há referências bibliográficas no artefato?                |    🟢    |
-|  6  | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |    🟢    |
+</center>
 
 <div style="text-align: center">
-    <p> Tabela 1: Verificação padrao (Fonte: Autores. 2023).</p>
+<p> Tabela 1: Metadados do artefato (Fonte: Lucas Frazão, 2023). </p>
 </div>
 
-Na tabela 2 a seguir, estão as questões específicas utilizadas neste artefato avaliado.
-
-| ID  |                                  Questão                                  | Inspeção |
-| :-: | :-----------------------------------------------------------------------: | :------: |
-|  2  |  O documento apresenta os princípios gerais que serão usados no projeto?  |    🟢    |
-|  3  | O documento apresenta a correspondência com as expectativas dos usuários? |    🟢    |
-|  4  |     O documento apresenta a simplicidade nas estruturas das tarefas?      |    🟢    |
-|  5  | O documento apresenta o equilíbrio entre controle e liberdade do usuário? |    🟢    |
-|  7  |           O documento apresenta a consistência e padronização?            |    🟢    |
-|  8  |        O documento apresenta a promoção da eficiência do usuário?         |    🟢    |
-|  9  |      O documento apresenta antecipação das necessidades do usuário?       |    🟢    |
-| 10  |          O documento apresenta a visibilidade e reconhecimento?           |    🟢    |
-| 10  |      O documento apresenta conteúdo relevante e expressão adequada?       |    🟢    |
-| 10  |                 O documento apresenta projeto para erros?                 |    🟢    |
-| 10  |                 Há descrição para cada um dos princípios?                 |    🟢    |
-| 11  |       O documento demonstra como aplicar os princípios na prática?        |    🟢    |
-| 12  |     O documento deixa claro porquê os princípios devem ser aplicados?     |    🟢    |
+| ID |                                 Questão                                 | Inspeção |
+| :-: | :-----------------------------------------------------------------------: | :--------: |
+| 1 |                 As legendas estão no padrão do projeto?                 |    N/A    |
+| 2 |                  Possui links para os outros artefatos?                  |    N/A    |
+| 3 |                   Existe uma introdução no artefato?                   |     🟢     |
+| 4 |                Existe tabela de versionamento padronizado?                |     🟢     |
+| 5 |      Há referências bibliográficas ou referências no artefato?      |    N/A    |
+| 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |    N/A    |
+| 7 |                         O artefato possui autor?                         |     🟢     |
+| 8 |                        O artefato possui revisor?                        |     🟢     |
 
 <div style="text-align: center">
-    <p> Tabela 2: Verificação específica (Fonte: Autores. 2023).</p>
+<p> Tabela 2: Tabela de avaliação com as gerais para todos os artefatos (Fonte: Lucas Frazão, 2023). </p>
 </div>
 
-## Resultados
+| ID |                                  Questão                                  | Inspeção |
+| :-: | :-------------------------------------------------------------------------: | :--------: |
+| 9 |  O artefato apresenta os princípios gerais que serão usados no projeto?  |     🟢     |
+| 10 | O artefato apresenta a correspondência com as expectativas dos usuários? |     🟢     |
+| 11 |      O artefato apresenta a simplicidade nas estruturas das tarefas?      |     🟢     |
+| 12 | O artefato apresenta o equilíbrio entre controle e liberdade do usuário? |     🟢     |
+| 13 |           O artefato apresenta a consistência e padronização?           |     🟢     |
+| 14 |       O artefato apresenta a promoção da eficiência do usuário?       |     🟢     |
+| 15 |      O artefato apresenta antecipação das necessidades do usuário?      |     🟢     |
+| 16 |           O artefato apresenta a visibilidade e reconhecimento?           |     🟢     |
+| 17 |      O artefato apresenta conteúdo relevante e expressão adequada?      |     🟢     |
+| 18 |                  O artefato apresenta projeto para erros?                  |     🟢     |
+| 19 |                Há descrição para cada um dos princípios?                |     🟢     |
+| 20 |       O artefato demonstra como aplicar os princípios na prática?       |     🟢     |
+| 21 |     O artefato deixa claro porquê os princípios devem ser aplicados?     |     🟡     |
 
-Através dos checklists realizados no Cronograma podemos observar que:
+<div style="text-align: center">
+<p> Tabela 3: Tabela de avaliação com as questões específicas do artefato (Fonte: Lucas Frazão, 2023). </p>
+</div>
 
-- 19/19 exigências estão satisfatórias;
-- 0/19 exigências estão incompletas;
-- 0/19 exigências estão erradas ou não realizadas.
+## Planejamento do ajuste
 
-## Referência Bibliografica
+| ID Correção | Tarefa                                                                                                                                                                                                                                                                                |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| IDC1          | Adicionar os motivos do porquê os princípios devem ser aplicados                                                                                                                                                                                                                    |
+| IDC2          | O contéudo escrito está um pouco genérico, é melhor refatorar alguns pontos do artefato, em alguns projetos, exemplo do skoob e o da bilheteria digital, colocam fotos do site escolhido com o principio indicado, fazendo assim, um artefato mais direcionado ao site escolhido |
+| IDC3          | Adicionar na conclusão como esse artefato irá contribuir para futuras entregas                                                                                                                                                                                                      |
 
-Banco Central. Disponível em: [https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/). Acesso em: 4 jun. 2023.‌
-‌
+<div style="text-align: center">
+<p> Tabela 4: Tabela do que precisa ser ajustado no artefato (Fonte: Lucas, 2023). </p>
+</div>
+
+## Aproveitamento
+
+Para saber a porcentagem de aproveitamento do artefato, será utilizado a expressão da Figura 1, no qual a Tabela 5 apresenta o significado dessa legendas.
+
+<img src="../../../images/formulaCalculoAproveitamento.png"  alt="legenda da fórmula da figura 1"/>
+<div style="text-align: center">
+
+<p> Figura 1: Fórmula para calcular aproveitamento (Fonte: Gabriel, 2023). </p>
+</div>
+
+| Acrônimo | Descrição                     |
+| --------- | ------------------------------- |
+| QTDE      | Quantidade Total de Exigências |
+| EC        | Exigências Completas           |
+
+<div style="text-align: center">
+<p> Tabela 5: Legenda da Figura 1 (Fonte: Gabriel, 2023). </p>
+</div>
+
+Nos checklists realizados e que serão descritos, podemos observar que:
+
+- 16/17 exigências são atendidas;
+- 1/17 exigências estão incompletas;
+- 0/17 exigências estão erradas ou não foram realizadas.
+
+onde x é a quantidade de exigências.
+
+Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento deste artefato está em 94,12% correto.
+
+## Correção
+
+Depois da verificação, o autor do artefato, indicado na tabela 2, deverá fazer as correções indicadas no planejamento dos ajustes e calcular a nova porcentagem.
+
+| ID Correção | Tarefa | Ajuste |
+| ------------- | ------ | ------ |
+| IDC1          |        |        |
+| IDC2          |        |        |
+| IDC3          |        |        |
+| IDC4          |        |        |
+
+<!-- Atualizar histórico de versão, após corrigir. -->
+
+<div style="text-align: center">
+<p> Tabela 6: Tabela dos ajustes realizados no artefato (Fonte: Lucas, 2023). </p>
+</div>
+
+Após as correções, a nova porcentagem de aproveitamento é de: p% correto.
+
+## Bibiliografia
+
+Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
 ## Histórico de versão
 
-|    Data    | Versão |      Descrição       | Autor(es) |
-| :--------: | :----: | :------------------: | :-------: |
-| 04/06/2023 |  1.0   | Criação do documento |   Lucas   |
+|    Data    | Versão |      Descrição      | Autor(es) |
+| :--------: | :-----: | :--------------------: | :-------: |
+| 17/06/2023 |   1.0   | Criação do documento |   Lucas   |
