@@ -1,81 +1,153 @@
-# Verificação da Análise de Tarefas
+# Verificação da Análise das tarefas do usuário (técnicas AHT e GOMS)
 
 ## Introdução
 
-O presente documento apresentará a verificação do artefato [Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/analise_tarefas), desenvolvidos pela equipe 3 do [Banco Central do Brasil](https://interacao-humano-computador.github.io/2023.1-BancoCentral/). A versão avaliada do Cronograma é a 2.0. A técnica de inspeção será aplicada para verificar esses artefatos, de acordo com o [planejamento](../planejamento.md) estabelecido.
-
-## Metodologia
-
-Para a verificação, será adotada a técnica de inspeção, a qual será realizada por meio de uma checklist. Essa checklist consiste em uma série de perguntas que têm como objetivo avaliar se o artefato foi desenvolvido de acordo com as exigências da disciplina.
-
-A checklist será preenchida com base em diferentes classificações, que incluem:
-
-* 🟢: Completamente Satisfatório;
-* 🟡: Incompleto;
-* 🔴: Não realizado ou Errado;
-* N/A: Não se aplica.
-
-## Inspeção
-
-Na tabela 1 a seguir, estão as questões padrões utilizadas em todos os artefatos.
-
-| ID |                                 Questão                                 | Inspeção |
-| :-: | :-----------------------------------------------------------------------: | :--------: |
-| 1 |                 As legendas estão no padrão do projeto?                 |     🟢     |
-| 2 |                  Possui links para os outros artefatos?                  |    N/A    |
-| 3 |                   Existe uma introdução no artefato?                   |     🟢     |
-| 4 |          Existe tabela de versionamento padronizado e completo?          |     🟢     |
-| 5 |     Possui bibliografia ou referência ou referência bibliográfica?     |     🟢     |
-| 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |     🟢     |
-
-<div style="text-align: center">
-    <p> Tabela 1: Checklist dos padrões utilizados em todos os artefatos. (Fonte: Pedro. 2023).</p>
-</div>
-
-Na tabela 2 a seguir, estão as questões utilizadas e a execução da inspeção para o checklist da Análise de Tarefas.
+O presente documento apresentará a verificação do artefato técnica [AHT](../../analise-de-requisitos/aht.md) e [GOMS](../../analise-de-requisitos/goms.md), desenvolvidos pela equipe. A técnica de inspeção será aplicada para verificar esses artefatos, de acordo com o planejamento estabelecido. Na tabela 1 e 2, se encontra os metadados desses artefatos, nas tabelas 3, 4 e 5 se encontram as questões a serem avaliadas.
 
 <center>
 
-| ID |                                Questão                                | Inspeção |
-| :-: | :---------------------------------------------------------------------: | :--------: |
-| 1 |       Existe ao menos duas técnias para especificar as tarefas?       |     🟢     |
-| 2 |           As principais tarefas do sistema são apresentadas?           |     🟢     |
-| 3 |            A tarefa a ser analisada é descrita claramente?            |     🟡     |
-| 4 |                 É feita a decomposição das tarefas?                 |     🟢     |
-| 5 | É estabelecida uma sequência de passos para realizar cada sub-tarefa? |     🟢     |
-| 6 |         Foi elaborado um diagrama para representar as tarefas?         |     🟡     |
-| 7 |                   Também foi representado em tabela?                   |     🟢     |
+| Versão avaliada | Autor   | Revisor |
+| ---------------- | ------- | ------- |
+| 1.0              | Chadson | Lucas   |
+
+</center>
 
 <div style="text-align: center">
-    <p> Tabela 2: Checklist da Análise de Tarefas. (Fonte: Pedro. 2023).</p>
+<p> Tabela 1: Metadados do artefato AHT (Fonte: Pedro, 2023). </p>
+</div>
+
+<center>
+
+| Versão avaliada | Autor | Revisor |
+| ---------------- | ----- | ------- |
+| 1.1              | Ana   | -       |
+
+</center>
+
+<div style="text-align: center">
+<p> Tabela 2: Metadados do artefato GOMS (Fonte: Pedro, 2023). </p>
+</div>
+
+| ID |                                 Questão                                 | Inspeção |
+| :-: | :-----------------------------------------------------------------------: | :--------: |
+| 1 |                 As legendas estão no padrão do projeto?                 |     🔴     |
+| 2 |                  Possui links para os outros artefatos?                  |     🟢     |
+| 3 |                   Existe uma introdução no artefato?                   |     🟡     |
+| 4 |                Existe tabela de versionamento padronizado?                |     🟢     |
+| 5 |      Há referências bibliográficas ou referências no artefato?      |     🟢     |
+| 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |     🟢     |
+| 7 |                         O artefato possui autor?                         |     🟢     |
+| 8 |                        O artefato possui revisor?                        |     🟡     |
+
+<div style="text-align: center">
+<p> Tabela 3: Tabela de avaliação com as gerais para todos os artefatos (Fonte: Pedro, 2023). </p>
+</div>
+
+| ID |                                                      Questão                                                      | Inspeção |
+| :-: | :----------------------------------------------------------------------------------------------------------------: | :--------: |
+| 9 |                                As principais tarefas do sistema são apresentadas?                                |     🟡     |
+| 10 |                     Para cada tarefa é descrito seus objetivos e (se existir) subobjetivos?                     |     🟢     |
+| 11 |            Para os objetivos / operações, quando necessario existe input, empregado de forma correta?            |     🟢     |
+| 12 |          Para os objetivos / operações, quando necessario existe feedback, empregado de forma correta?          |     🟢     |
+| 13 |            Para os objetivos / operações, quando necessario existe plano, empregado de forma correta?            |     🟢     |
+| 14 |       Para os objetivos / operações, quando necessario existe recomendação, empregado de forma correta?       |     🟢     |
+| 15 | Para os objetivos / operações, quando necessario existe especificação do problema, empregado de forma correta? |     🟢     |
+| 16 |                             Existe ao menos duas técnias para especificar as tarefas?                             |     🟢     |
+
+<div style="text-align: center">
+<p> Tabela 4: Tabela de avaliação com as questões específicas do artefato HTA (Fonte: Pedro, 2023). </p>
+</div>
+
+| ID |                                  Questão                                  | Inspeção |
+| :-: | :-------------------------------------------------------------------------: | :--------: |
+| 17 |             As principais tarefas do sistema são apresentadas?             |     🟡     |
+| 18 |                    Para cada tarefa existe um objetivo?                    |     🟢     |
+| 19 | Estão presentes os operadores de cada tarefa, empregados de forma correta? |     🟢     |
+| 20 | Estão presentes os métodos de cada tarefa, empregados de forma correta? |     🟢     |
+| 21 |         Quando é necessario, são utilizadas regras de seleção?         |     🟢     |
+
+<div style="text-align: center">
+<p> Tabela 5: Tabela de avaliação com as questões específicas do artefato GOMS (Fonte: Pedro, 2023). </p>
+</div>
+
+## Planejamento do ajuste
+
+| ID Correção | Tarefa                                                                                                                                                                                            |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| IDC1          | Na Tabela 1 do HTA, substituir "Autores" pelo proprio nome do autor, assim como na Figura 1.                                                                                                      |
+| IDC3          | Mudar a introdução do GOMS para ter mais de duas linhas.                                                                                                                                        |
+| IDC8          | O revisor do artefato GOMS não existe, mudar isso.                                                                                                                                               |
+| IDC9          | No HTA só é modelado a tarefa de Edição de artigo. Deve-se modelar tambem a Criação de um artigo, Realizar pesquisa, Informar um erro, Contatar um mentor e Criar uma discussão no artigo. |
+| IDC17         | No GOMS, deve-se apresentar um texto antes de  modelar as tarefas.                                                                                                                               |
+
+<div style="text-align: center">
+<p> Tabela 5: Tabela do que precisa ser ajustado no artefato (Fonte: Pedro, 2023). </p>
+</div>
+
+## Aproveitamento
+
+Para saber a porcentagem de aproveitamento do artefato, será utilizado a expressão da Figura 1, no qual a Tabela 6 apresenta o significado dessa legendas.
+
+<center>
+
+<img src="../../../images/formulaCalculoAproveitamento.png"  alt="legenda da fórmula da figura 1"/>
+<div style="text-align: center">
+
+<p> Figura 1: Fórmula para calcular aproveitamento (Fonte: Gabriel, 2023). </p>
+</div>
+
+| Acrônimo | Descrição                     |
+| --------- | ------------------------------- |
+| QTDE      | Quantidade Total de Exigências |
+| EC        | Exigências Completas           |
+
+<div style="text-align: center">
+<p> Tabela 6: Legenda da Figura 1 (Fonte: Gabriel, 2023). </p>
 </div>
 
 </center>
 
-## Comentários
+Nos checklists realizados e que serão descritos, podemos observar que:
 
-* Algumas imagens não estão sendo renderizadas impossibilitando a visualização de alguns diagramas e figuras;
-* Comentário não apagado "Modelo da tabela a ser feita, apagar isso quando for adicionar sua parte Mizael" e TEXTO DESCREVENDO A TAREFA;
-* "TEXTO DESCREVENDO A TAREFA" onde acredito ser o local para descrever as tarefas;
+- 17/21 exigências são atendidas;
+- 3/21 exigências estão incompletas;
+- 1/21 exigências estão erradas ou não foram realizadas.
+- 0/21 não se aplica.
 
-## Resultados
+onde 21 é a quantidade de exigências.
 
-Através dos checklists realizados na Análise de Tarefas somando as Tabelas 1 e 2, podemos observar que:
+Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento deste artefato está em 80,95% correto.
 
-* 10/13 exigências estão satisfatórias;
-* 2/13 exigências estão incompletas;
-* 0/13 exigências estão erradas ou não realizadas.
-* 1/13 não se aplica
+## Correção
 
-## Referência Bibliografica
+Depois da verificação, o autor do artefato, indicado na tabela 2, deverá fazer as correções indicadas no planejamento dos ajustes e calcular a nova porcentagem.
 
-CASTRO, E. QUAL A DIFERENÇA ENTRE INSPEÇÃO E TESTE DE SOFTWARE? VOCE CONHECE O PROCESSO DE INSPEÇÃO? Disponível em: [http://rederequisitos.com.br/qual-diferenca-entre-inspecao-e-teste-de-software-voce-conhece-o-processo-de-inspecao/#:~:text=A%20t%C3%A9cnica%20de%20Inspe%C3%A7%C3%A3o%20elimina,com%20corre%C3%A7%C3%A3o%20em%20fases%20posteriores.](http://rederequisitos.com.br/qual-diferenca-entre-inspecao-e-teste-de-software-voce-conhece-o-processo-de-inspecao/#:~:text=A%20t%C3%A9cnica%20de%20Inspe%C3%A7%C3%A3o%20elimina,com%20corre%C3%A7%C3%A3o%20em%20fases%20posteriores.). Acesso em: 3 jun. 2023.
+<center>
 
-Banco Central. Disponível em: [https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/). Acesso em: 3 jun. 2023.‌
-‌
+| ID Correção | Tarefa | Ajuste |
+| ------------- | ------ | ------ |
+| IDC1          |        |        |
+| IDC2          |        |        |
+| IDC3          |        |        |
+| IDC4          |        |        |
+
+</center>
+<!-- Atualizar histórico de versão, após corrigir. -->
+
+<div style="text-align: center">
+<p> Tabela 7: Tabela dos ajustes realizados no artefato (Fonte: Lucas, 2023). </p>
+</div>
+
+Após as correções, a nova porcentagem de aproveitamento é de: p% correto.
+
+## Bibiliografia
+
+Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
+
+TÁSSIO AUAD. Análise de Tarefas com GOMS, KLM e CMN-GOMS. Tássio Auad. Disponível em: [https://tassioauad.com/2017/04/10/analise-de-tarefas-com-goms-klm-e-cmn-goms/](https://tassioauad.com/2017/04/10/analise-de-tarefas-com-goms-klm-e-cmn-goms/). Acesso em: 18 jun. 2023.
 
 ## Histórico de versão
 
 |    Data    | Versão |      Descrição      | Autor(es) |
 | :--------: | :-----: | :--------------------: | :-------: |
-| 03/06/2023 |   1.0   | Criação do documento |   Pedro   |
+| 17/06/2023 |   1.0   | Criação do documento |   Pedro   |
