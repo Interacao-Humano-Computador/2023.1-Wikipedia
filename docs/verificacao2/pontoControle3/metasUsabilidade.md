@@ -51,9 +51,9 @@ O presente documento apresentará a verificação do artefato [Metas de Usabilid
 | ------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | IDC1          | substituir "Autor" da Tabela 4 para o nome do autor da tabela.                                                           |
 | IDC2          | No artefato é mencionado o Perfil do usuario e os Principios gerais do projeto, porém não é feito o link dos mesmos. |
-| IDC12         | Acredito que a M01 pode ser dividida em mais metas de usabilidade.                                                       |
-| IDC11         | Na M05 ta escrito "pela primeira entendam" em vez de "pela primeira vez entendam".                                       |
-| IDC12         | A M02 e M04 não são quase a mesma coisa?                                                                               |
+| IDC3          | Acredito que a M01 pode ser dividida em mais metas de usabilidade.                                                       |
+| IDC4          | Na M05 ta escrito "pela primeira entendam" em vez de "pela primeira vez entendam".                                       |
+| IDC5          | A M02 e M04 não são quase a mesma coisa?                                                                               |
 
 <div style="text-align: center">
 <p> Tabela 4: Tabela do que precisa ser ajustado no artefato (Fonte: Pedro, 2023). </p>
@@ -119,9 +119,9 @@ Após as correções, a nova porcentagem de aproveitamento é de: p% correto.
 
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
-Usability 101: Introduction to Usability. Nielsen Norman Group. Disponível em: <https://www.nngroup.com/articles/usability-101-introduction-to-usability/>. Acesso em: 17 jun. 2023.
+Usability 101: Introduction to Usability. Nielsen Norman Group. Disponível em: [https://www.nngroup.com/articles/usability-101-introduction-to-usability/](https://www.nngroup.com/articles/usability-101-introduction-to-usability/). Acesso em: 17 jun. 2023.
 
-‌Usability | CS4760 & CS5760: Human-Computer Interactions & Usability. Mtu.edu. Disponível em: <http://cs4760.csl.mtu.edu/2017/lectures/usability/>. Acesso em: 17 jun. 2023.
+‌Usability | CS4760 & CS5760: Human-Computer Interactions & Usability. Mtu.edu. Disponível em: [http://cs4760.csl.mtu.edu/2017/lectures/usability/](http://cs4760.csl.mtu.edu/2017/lectures/usability/). Acesso em: 17 jun. 2023.
 
 ## Histórico de versão
 

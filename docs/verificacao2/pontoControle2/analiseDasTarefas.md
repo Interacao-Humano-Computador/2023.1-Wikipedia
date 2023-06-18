@@ -45,7 +45,7 @@ O presente documento apresentará a verificação do artefato técnica [AHT](../
 
 | ID |                                                      Questão                                                      | Inspeção |
 | :-: | :----------------------------------------------------------------------------------------------------------------: | :--------: |
-| 9 |                                As principais tarefas do sistema são apresentadas?                                |     🟡     |
+| 9 |                                As principais tarefas do sistema são apresentadas?                                |     🟢     |
 | 10 |                     Para cada tarefa é descrito seus objetivos e (se existir) subobjetivos?                     |     🟢     |
 | 11 |            Para os objetivos / operações, quando necessario existe input, empregado de forma correta?            |     🟢     |
 | 12 |          Para os objetivos / operações, quando necessario existe feedback, empregado de forma correta?          |     🟢     |
@@ -72,13 +72,12 @@ O presente documento apresentará a verificação do artefato técnica [AHT](../
 
 ## Planejamento do ajuste
 
-| ID Correção | Tarefa                                                                                                                                                                                            |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| IDC1          | Na Tabela 1 do HTA, substituir "Autores" pelo proprio nome do autor, assim como na Figura 1.                                                                                                      |
-| IDC3          | Mudar a introdução do GOMS para ter mais de duas linhas.                                                                                                                                        |
-| IDC8          | O revisor do artefato GOMS não existe, mudar isso.                                                                                                                                               |
-| IDC9          | No HTA só é modelado a tarefa de Edição de artigo. Deve-se modelar tambem a Criação de um artigo, Realizar pesquisa, Informar um erro, Contatar um mentor e Criar uma discussão no artigo. |
-| IDC17         | No GOMS, deve-se apresentar um texto antes de  modelar as tarefas.                                                                                                                               |
+| ID Correção | Tarefa                                                                                       |
+| ------------- | -------------------------------------------------------------------------------------------- |
+| IDC1          | Na Tabela 1 do HTA, substituir "Autores" pelo proprio nome do autor, assim como na Figura 1. |
+| IDC2          | Mudar a introdução do GOMS para ter mais de duas linhas.                                   |
+| IDC3          | O revisor do artefato GOMS não existe, mudar isso.                                          |
+| IDC4          | No GOMS, deve-se apresentar um texto antes de  modelar as tarefas.                          |
 
 <div style="text-align: center">
 <p> Tabela 5: Tabela do que precisa ser ajustado no artefato (Fonte: Pedro, 2023). </p>
@@ -109,14 +108,14 @@ Para saber a porcentagem de aproveitamento do artefato, será utilizado a expres
 
 Nos checklists realizados e que serão descritos, podemos observar que:
 
-- 17/21 exigências são atendidas;
+- 18/21 exigências são atendidas;
 - 3/21 exigências estão incompletas;
 - 1/21 exigências estão erradas ou não foram realizadas.
 - 0/21 não se aplica.
 
 onde 21 é a quantidade de exigências.
 
-Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento deste artefato está em 80,95% correto.
+Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento deste artefato está em 85,71% correto.
 
 ## Correção
 

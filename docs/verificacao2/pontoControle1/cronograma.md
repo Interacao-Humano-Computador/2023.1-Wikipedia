@@ -62,11 +62,11 @@ O presente documento apresentará a verificação do artefato [Cronograma](../..
 | ID Correção | Tarefa                                                                                                                                                         |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | IDC1          | Substituir as legendas das tabelas de 1-11 para o padrão do projeto "Tabela X: Consistência e padrões. (Fonte: Autores. 2023)"                              |
-| IDC4          | Na tabela de versionamento esta duplicado a versão 1.1. Mudar a ultima para 1.2                                                                               |
-| IDC5          | Como se trata de bibliografia, retirar [1], [2] e [3] antes dos textos de bibliografia                                                                         |
-| IDC12         | A tabela 7 não possui a coluna de revisores, deve-se adicionar.                                                                                               |
-| IDC11         | O professor afirmou em sala que os autores e revisores das tarefas não pode ser "Grupo", no lugar deve adicionar o nome de todos os participantes do projeto. |
-| IDC15         | Até o momento atual da verificação, o cronograma executado da entrega 6 não foi adicionado.                                                                |
+| IDC2          | Na tabela de versionamento esta duplicado a versão 1.1. Mudar a ultima para 1.2                                                                               |
+| IDC3          | Como se trata de bibliografia, retirar [1], [2] e [3] antes dos textos de bibliografia                                                                         |
+| IDC4          | A tabela 7 não possui a coluna de revisores, deve-se adicionar.                                                                                               |
+| IDC5          | O professor afirmou em sala que os autores e revisores das tarefas não pode ser "Grupo", no lugar deve adicionar o nome de todos os participantes do projeto. |
+| IDC6          | Até o momento atual da verificação, o cronograma executado da entrega 6 não foi adicionado.                                                                |
 
 <div style="text-align: center">
 <p> Tabela 5: Tabela do que precisa ser ajustado no artefato (Fonte: Pedro, 2023). </p>
