@@ -1,6 +1,7 @@
 # Site Selecionado
 
 ## Introdução
+
 O presente documento apresentará a verificação do artefato [Site Selecionado](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/site_selecionado), desenvolvidos pela equipe 3 do [Banco Central do Brasil](https://interacao-humano-computador.github.io/2023.1-BancoCentral/). A versão avaliada da Ferramenta é a 1.3. A técnica de inspeção será aplicada para verificar esses artefatos, de acordo com o [planejamento](../planejamento.md) estabelecido.
 
 ## Metodologia
@@ -59,12 +60,11 @@ Através dos checklists realizados no Cronograma podemos observar que:
 - 2/11 exigências não foram encontradas no documento.
 
 ## Referência Bibliografica‌
-Banco Central. Disponível em: [https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/). Acesso em: 5 jun. 2023.‌
 
-Plano de ensino. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/34/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/34/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf). Acesso em: 5 jun. 2023.‌
+Banco Central. Disponível em: [https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/). Acesso em: 5 jun. 2023.‌
 
 ## Histórico de versão
 
 |    Data    | Versão |      Descrição      | Autor(es) |
 | :--------: | :-----: | :--------------------: | :-------: |
-| 05/06/2023 |   1.0   | Criação do documento |   Chaydson   |
+| 05/06/2023 |   1.0   | Criação do documento | Chaydson |

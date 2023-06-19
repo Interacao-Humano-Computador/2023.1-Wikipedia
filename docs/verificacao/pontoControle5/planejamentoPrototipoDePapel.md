@@ -72,8 +72,6 @@ Através dos checklists realizados no Cronograma podemos observar que:
 ## Referência Bibliografica‌
 Banco Central. Disponível em: [https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/). Acesso em: 5 jun. 2023.‌
 
-Plano de ensino. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/34/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/34/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf). Acesso em: 5 jun. 2023.‌
-
 BARBOSA, Simone D. J. Interação humano-computador. Rio de Janeiro: Elsevier, 2010.
 
 ## Histórico de versão
