@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O presente documento apresentará a verificação do artefato [Planjamento do Relato da Avaliação do Storyboard](../../design-avaliacao-desenvolvimento/nivel1/storyboard/planejamentoResultadosAvaliacaoStoryboard.md), desenvolvido pela equipe. A técnica de inspeção será aplicada para verificar esse artefato, de acordo com o planejamento estabelecido. Na tabela 1, se encontra os metadados desse artefato, nas tabelas 2 e 3 se encontram as questões a serem avaliadas.
+O presente documento apresentará a verificação do artefato [Planejamento do Relato da Avaliação da Análise de Tarefas](../../design-avaliacao-desenvolvimento/nivel1/analiseDeTarefas/planejamentoResultadosAnalisesTarefas.md), desenvolvido pela equipe. A técnica de inspeção será aplicada para verificar esse artefato, de acordo com o planejamento estabelecido. Na tabela 1, se encontra os metadados desse artefato, nas tabelas 2 e 3 se encontram as questões a serem avaliadas.
 
 <center>
 
@@ -69,7 +69,6 @@ Na tabela 3 a seguir, estão as questões especifícas do artefato para realizar
 
 Para saber a porcentagem de aproveitamento do artefato, será utilizado a expressão da Figura 1, no qual a Tabela 5 apresenta o significado dessa legendas.
 
-<center>
 
 <img src="../../../images/formulaCalculoAproveitamento.png"  alt="legenda da fórmula da figura 1"/>
 <div style="text-align: center">
@@ -86,8 +85,6 @@ Para saber a porcentagem de aproveitamento do artefato, será utilizado a expres
 <p> Tabela 5: Legenda da Figura 1 (Fonte: Gabriel, 2023). </p>
 </div>
 
-</center>
-
 Nos checklists realizados e que serão descritos, podemos observar que:
 
 - 9/15 exigências são atendidas;
@@ -103,7 +100,6 @@ Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento de
 
 Depois da verificação, o autor do artefato, indicado na tabela 2, deverá fazer as correções indicadas no planejamento dos ajustes e calcular a nova porcentagem.
 
-<center>
 
 | ID Correção | Tarefa | Ajuste |
 | ------------- | ------ | ------ |
@@ -115,13 +111,12 @@ Depois da verificação, o autor do artefato, indicado na tabela 2, deverá faze
 | IDC6          |        |        |
 | IDC7          |        |        |
 
+
 <div style="text-align: center">
-    <p> Tabela 6: Tabela de Correção do Artefato
- (Fonte: Lucas e Ana. 2023).</p>
+<p> Tabela 6: Ajustes e Correções (Fonte: Lucas e Ana, 2023). </p>
+</div>
 
-<!-- Atualizar histórico de versão, após corrigir. -->
-
-Após as correções, a nova porcentagem de aproveitamento é de: p% correto.
+Após as correções, a nova porcentagem de aproveitamento é de: p% correto
 
 ## Bibiliografia
 
@@ -129,6 +124,6 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 
 ## Histórico de versão
 
-|    Data    | Versão |      Descrição      | Autor(es) |
-| :--------: | :-----: | :--------------------: | :-------: |
-| 19/06/2023 |   1.0   | Criação do documento |  Gabriel  |
+|    Data    | Versão |      Descrição      |  Autor(es)  |
+| :--------: | :-----: | :--------------------: | :---------: |
+| 19/06/2023 |   1.0   | Criação do documento | Gabriel |

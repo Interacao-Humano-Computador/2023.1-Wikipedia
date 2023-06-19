@@ -52,7 +52,7 @@ Não há ajustes a serem feitos
 
 Para saber a porcentagem de aproveitamento do artefato, será utilizado a expressão da Figura 1, no qual a Tabela 5 apresenta o significado dessa legendas.
 
-<img src="../../images/formulaCalculoAproveitamento.png"  alt="legenda da fórmula da figura 1"/>
+<img src="../../../images/formulaCalculoAproveitamento.png"  alt="legenda da fórmula da figura 1"/>
 <div style="text-align: center">
 
 <p> Figura 1: Fórmula para calcular aproveitamento (Fonte: Gabriel, 2023). </p>
