@@ -6,9 +6,9 @@ O presente documento apresentará a verificação do artefato [Características 
 
 <center>
 
-| Versão avaliada | Autor | Revisor        |
-| --------------- | ----- | -------------- |
-| 1.0             | Samuel e Pedro  |   Ana  |
+| Versão avaliada | Autor          | Revisor |
+| ---------------- | -------------- | ------- |
+| 1.0              | Samuel e Pedro | Ana     |
 
 </center>
 
@@ -16,29 +16,29 @@ O presente documento apresentará a verificação do artefato [Características 
 <p> Tabela 1: Metadados do artefato (Fonte: Ana e Chaydson, 2023). </p>
 </div>
 
-| ID  |                                 Questão                                  | Inspeção |
-| :-: | :----------------------------------------------------------------------: | :------: |
-|  1  |                 As legendas estão no padrão do projeto?                  |   N/A    |
-|  2  |                  Possui links para os outros artefatos?                  |   N/A    |
-|  3  |                    Existe uma introdução no artefato?                    |    🟢    |
-|  4  |               Existe tabela de versionamento padronizado?                |    🟢    |
-|  5  |        Há referências bibliográficas ou referências no artefato?         |    🟢    |
-|  6  | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |   N/A    |
-|  7  |                         O artefato possui autor?                         |    🟢    |
-|  8  |                        O artefato possui revisor?                        |    🟢    |
+| ID |                                 Questão                                 | Inspeção |
+| :-: | :-----------------------------------------------------------------------: | :--------: |
+| 1 |                 As legendas estão no padrão do projeto?                 |    N/A    |
+| 2 |                  Possui links para os outros artefatos?                  |    N/A    |
+| 3 |                   Existe uma introdução no artefato?                   |     🟢     |
+| 4 |                Existe tabela de versionamento padronizado?                |     🟢     |
+| 5 |      Há referências bibliográficas ou referências no artefato?      |     🟢     |
+| 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |    N/A    |
+| 7 |                         O artefato possui autor?                         |     🟢     |
+| 8 |                        O artefato possui revisor?                        |     🟢     |
 
 <div style="text-align: center">
 <p> Tabela 2: Tabela de avaliação com as gerais para todos os artefatos (Fonte: Ana e Chaydson, 2023). </p>
 </div>
 
-| ID  |                             Questão                              | Inspeção |
-| :-: | :--------------------------------------------------------------: | :------: |
-|  9  |      Existe a identificação das limitações da plataforma?        |    🟡    |
-| 10  |       Existe a descrição de tecnologias utilizadas no site?      |    🟢    |
-| 11  | Existe a identificação das principais funcionalidades do sistema?    |    🟢    |
-| 12  |    Existe a identificação de pontos negativos do sistema?        |    🟡    |
-| 13  |      Existe uma descrição sobre a portabilidade do site?         |    🟢    |
-| 14  |                 O objetivo está bem descrito?                    |    🟢    |
+| ID |                              Questão                              | Inspeção |
+| :-: | :-----------------------------------------------------------------: | :--------: |
+| 9 |      Existe a identificação das limitações da plataforma?      |     🟡     |
+| 10 |       Existe a descrição de tecnologias utilizadas no site?       |     🟢     |
+| 11 | Existe a identificação das principais funcionalidades do sistema? |     🟢     |
+| 12 |      Existe a identificação de pontos negativos do sistema?      |     🟡     |
+| 13 |        Existe uma descrição sobre a portabilidade do site?        |     🟢     |
+| 14 |                   O objetivo está bem descrito?                   |     🟢     |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela de avaliação com as questões específicas do artefato (Fonte: Ana e Chaydson, 2023). </p>
@@ -46,9 +46,9 @@ O presente documento apresentará a verificação do artefato [Características 
 
 ## Planejamento do ajuste
 
-| ID Correção | Tarefa                                                                       |
-| ----------- | ---------------------------------------------------------------------------- |
-| IDC1        | Especificar limitações e características negativas                           |
+| ID Correção | Tarefa                                                |
+| ------------- | ----------------------------------------------------- |
+| IDC1          | Especificar limitações e características negativas |
 
 <div style="text-align: center">
 <p> Tabela 4: Tabela do que precisa ser ajustado no artefato (Fonte: Ana e Chaydson, 2023). </p>
@@ -64,10 +64,10 @@ Para saber a porcentagem de aproveitamento do artefato, será utilizado a expres
 <p> Figura 1: Fórmula para calcular aproveitamento (Fonte: Gabriel, 2023). </p>
 </div>
 
-| Acrônimo | Descrição                      |
-| -------- | ------------------------------ |
-| QTDE     | Quantidade Total de Exigências |
-| EC       | Exigências Completas           |
+| Acrônimo | Descrição                     |
+| --------- | ------------------------------- |
+| QTDE      | Quantidade Total de Exigências |
+| EC        | Exigências Completas           |
 
 <div style="text-align: center">
 <p> Tabela 5: Legenda da Figura 1 (Fonte: Gabriel, 2023). </p>
@@ -80,7 +80,7 @@ Nos checklists realizados e que serão descritos, podemos observar que:
 - 0/14 exigências estão erradas ou não foram realizadas.
 - 3/14 exigências não se aplica.
 
-onde x é a quantidade de exigências.
+onde 14 é a quantidade de exigências.
 
 Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento deste artefato está em 64,28% correto.
 
@@ -88,12 +88,9 @@ Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento de
 
 Depois da verificação, o autor do artefato, indicado na tabela 2, deverá fazer as correções indicadas no planejamento dos ajustes e calcular a nova porcentagem.
 
-| ID Correção | Tarefa | Ajuste |
-| ----------- | ------ | ------ |
-| IDC1        |        |        |
-| IDC2        |        |        |
-| IDC3        |        |        |
-| IDC4        |        |        |
+| ID Correção | Tarefa                                                | Ajuste                                                                                                                                                                                                                                                   |
+| ------------- | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| IDC1          | Especificar limitações e características negativas | O texto do tópico "Limitações e Características Negativas" foi alterado  para atender as exigencias requeridas, especificando melhor cada caracteristica negativa e dividido em parágrafos cada caracteristica negativa para uma melhor leitura. |
 
 <!-- Atualizar histórico de versão, após corrigir. -->
 
@@ -101,7 +98,7 @@ Depois da verificação, o autor do artefato, indicado na tabela 2, deverá faze
 <p> Tabela 6: Tabela dos ajustes realizados no artefato (Fonte: Lucas, 2023). </p>
 </div>
 
-Após as correções, a nova porcentagem de aproveitamento é de: p% correto.
+Após as correções, a nova porcentagem de aproveitamento é de: 78,57% correto.
 
 ## Bibiliografia
 
@@ -109,6 +106,7 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 
 ## Histórico de versão
 
-|    Data    | Versão |      Descrição       | Autor(es) |
-| :--------: | :----: | :------------------: | :-------: |
-| 17/06/2023 |  1.0   | Criação do documento |    Ana e Chaydson    |
+|    Data    | Versão |      Descrição      |   Autor(es)   |
+| :--------: | :-----: | :--------------------: | :------------: |
+| 17/06/2023 |   1.0   | Criação do documento | Ana e Chaydson |
+| 19/06/2023 |   1.1   | correção do artefato | Pedro e Samuel |
