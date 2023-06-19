@@ -98,11 +98,9 @@ Depois da verificação, o autor do artefato, indicado na tabela 2, deverá faze
 
 | ID Correção | Tarefa | Ajuste |
 | ------------- | ------ | ------ |
-| IDC1          |        |        |
-| IDC2          |        |        |
-| IDC3          |        |        |
-| IDC4          |        |        |
-
+| IDC1          | Adicionar os motivos do porquê os princípios devem ser aplicados |Foi adicionado na introdução |
+| IDC2          | O contéudo escrito está um pouco genérico, é melhor refatorar alguns pontos do artefato, em alguns projetos, exemplo do skoob e o da bilheteria digital, colocam fotos do site escolhido com o principio indicado, fazendo assim, um artefato mais direcionado ao site escolhido | Os textos foram mais especificados e foi adicionado imagens |
+| IDC3          |  Adicionar na conclusão como esse artefato irá contribuir para futuras entregas  |    Adicionado na conclusão    |
 <!-- Atualizar histórico de versão, após corrigir. -->
 
 <div style="text-align: center">
@@ -120,3 +118,4 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 |    Data    | Versão |      Descrição      | Autor(es) |
 | :--------: | :-----: | :--------------------: | :-------: |
 | 17/06/2023 |   1.0   | Criação do documento |   Lucas   |
+| 19/06/2023 |   1.1   | Realizando as correções |   Ana   |
