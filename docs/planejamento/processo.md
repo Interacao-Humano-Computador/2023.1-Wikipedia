@@ -19,7 +19,7 @@ O Ciclo de Vida Simples é a construção de uma sequência genérica de ativida
 ![Modelo Simples de Ciclo de Vida](../images/cicloSimples.png)
 
 <div style="text-align: center">
-    <p> Figura 1: Modelo simples do processo de design</p>
+    <p> Figura 1: Modelo simples do processo de design(Fonte: Barbosa, S. D. J. 2021)</p>
 </div>
 
 ### Ciclo de Vida em Estrela
@@ -29,7 +29,7 @@ No Ciclo de Vida em Estrela, cabe ao designer definir em qual parte iniciar, com
 ![Ciclo de Vida em Estrela](../images/cicloEstrela.png)
 
 <div style="text-align: center">
-    <p> Figura 2 : Modelo de Ciclo de Vida em Estrela</p>
+    <p> Figura 2 : Modelo de Ciclo de Vida em Estrela(Fonte: Barbosa, S. D. J. 2021)</p>
 </div>
 
 ### Engenharia de Usabilidade de Mayhew
