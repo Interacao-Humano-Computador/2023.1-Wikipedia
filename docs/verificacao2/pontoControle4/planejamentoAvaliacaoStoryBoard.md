@@ -114,9 +114,19 @@ Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento de
 
 Depois da verificação, o autor do artefato, indicado na tabela 2, deverá fazer as correções indicadas no planejamento dos ajustes e calcular a nova porcentagem.
 
-| ID Correção | Tarefa | Ajuste |
-| ------------- | ------ | ------ |
-| IDC1          |        |        |
+| ID Correção | Tarefa                                                                                                                                                | Ajuste                                                                                                                                                        |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| IDC1          | A introdução só está falando o que é um storyboard. Precisa entrar nos detalhes da construção do artefato                                      | A introdução foi ajustada com o acrescimo de um texto explicando em detalhes o envolvimento dos storyboards com o planejamento da avaliação               |
+| IDC2          | Só está explicando a teoria do DECIDE e não como ele foi aplicado no projeto                                                                       | Foi adicionado um texto após a Tabela 1 explicando como será usado cada componente do DECIDE para o planejamento da avaliação.                            |
+| IDC3          | Está faltando como será feita a interpretação dos dados                                                                                           | O tópico "Avaliar(Evaluate), interpretar e apresentar os dados" foi melhor desenvolvido para descrever como será interpretado os dados.                     |
+| IDC4          | O resultado do teste-piloto não está no documento                                                                                                   | Foi retirado do relato dos resultados o video do teste piloto junto do texto que contextualiza o mesmo para ser realocado para o planejamento da avaliação. |
+| IDC5          | Não foi elaborado um questionário para saber a opinião do participante sobre a entrevista?                                                         | Não                                                                                                                                                          |
+| IDC6          | Não foi elaborado instruções para orientar o participante                                                                                          | A orientação dos participantes é descrita no tópico "Escolher (Choose) os métodos de avaliação a serem utilizados.".                                   |
+| IDC7          | Não está definido como ocorrerá o registro dos dados coletados                                                                                     | A definição de como ocorrerá os registros está no tópico "Escolher (Choose) os métodos de avaliação a serem utilizados.".                            |
+| IDC8          | Não está definido qual será o tipo de dados coletados                                                                                              | Foi adicionado um texto definindo os tipos de dados que serão coletados no tópico "Explorar perguntas a serem respondidas com a avaliação".               |
+| IDC9          | Não está definido como os dados serão analisados                                                                                                   | Como os dados serão análisados está no tópico "Avaliar(Evaluate), interpretar e apresentar os dados".                                                     |
+| IDC10         | Não está definido como os recursos necessários para a realização da atividade serão utilizados e preparados?                                    | Foi adicionado um tópico chamado "Equipamentos necessários" para descrever isso.                                                                            |
+| IDC11         | Apesar de os storyboards foram criados a partir de uma tarefa previamente analisada, as tarefas correspondentes não estão referenciadas no artefato | A introdução foi modificada para referenciar as tarefas previamente analisadas para posteriormente elaborar cada storyboard.                                |
 
 <!-- Atualizar histórico de versão, após corrigir. -->
 
@@ -124,7 +134,7 @@ Depois da verificação, o autor do artefato, indicado na tabela 2, deverá faze
 <p> Tabela 6: Tabela dos ajustes realizados no artefato (Fonte: Chaydson, 2023). </p>
 </div>
 
-Após as correções, a nova porcentagem de aproveitamento é de: p% correto.
+Após as correções, a nova porcentagem de aproveitamento é de: 96,66% correto.
 
 ## Bibliografia
 
@@ -135,3 +145,4 @@ BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, 1a. Edição, Edit
 |    Data    | Versão |      Descrição      | Autor(es) |
 | :--------: | :-----: | :--------------------: | :-------: |
 | 18/06/2023 |   1.0   | Criação do documento | Chaydson |
+| 19/06/2023 |   1.1   | Realizando as correções | Pedro e Ana |
