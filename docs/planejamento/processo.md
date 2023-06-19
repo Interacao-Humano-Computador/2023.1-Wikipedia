@@ -86,7 +86,8 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                          | Autor(es) | Revisor(es) |
-| ------- | ---------- | ------------------------------------ | --------- | ----------- |
-| 1.0     | 23/04/2023 | Documentação do Processo de Design | Gabriel   | Ana Luiza   |
-| 1.1     | 29/04/2023 | Correção de erros de digitação   | Chaydson  | Pedro       |
+| Versão | Data       | Descrição                           | Autor(es) | Revisor(es) |
+| ------- | ---------- | ------------------------------------- | --------- | ----------- |
+| 1.0     | 23/04/2023 | Documentação do Processo de Design  | Gabriel   | Ana Luiza   |
+| 1.1     | 29/04/2023 | Correção de erros de digitação    | Chaydson  | Pedro       |
+| 1.2     | 19/06/2023 | Ajustes de acordo com a verificação | Gabriel   | Pedro       |

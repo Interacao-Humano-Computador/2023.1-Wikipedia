@@ -5,8 +5,8 @@ O presente documento apresentará a verificação do artefato [Processo de Desig
 <center>
 
 | Versão avaliada | Autor    | Revisor |
-| --------------- | -------- | ------- |
-| 1.1             | Chaydson | Pedro   |
+| ---------------- | -------- | ------- |
+| 1.1              | Chaydson | Pedro   |
 
 <div style="text-align: center">
 <p> Tabela 1: Metadados do artefato (Fonte: Samuel, 2023). </p>
@@ -18,14 +18,14 @@ O presente documento apresentará a verificação do artefato [Processo de Desig
 
 Na tabela 2, estão as questões referentes ao artefato Processo de Design.
 
-| ID  |                                 Questão                                  | Inspeção |
-| :-: | :----------------------------------------------------------------------: | :------: |
-|  1  |                 As legendas estão no padrão do projeto?                  |    🟢    |
-|  2  |                  Possui links para os outros artefatos?                  |   N/A    |
-|  3  |                    Existe uma introdução no artefato?                    |    🟢    |
-|  4  |          Existe tabela de versionamento padronizado e completo?          |    🟢    |
-|  5  |       Há referências bibliográficas e/ou bibliografia no artefato?       |    🟢    |
-|  6  | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |    🟡    |
+| ID |                                 Questão                                 | Inspeção |
+| :-: | :-----------------------------------------------------------------------: | :--------: |
+| 1 |                 As legendas estão no padrão do projeto?                 |     🟢     |
+| 2 |                  Possui links para os outros artefatos?                  |    N/A    |
+| 3 |                   Existe uma introdução no artefato?                   |     🟢     |
+| 4 |          Existe tabela de versionamento padronizado e completo?          |     🟢     |
+| 5 |      Há referências bibliográficas e/ou bibliografia no artefato?      |     🟢     |
+| 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |     🟡     |
 
 <div style="text-align: center">
     <p> Tabela 2: Verificação padrao (Fonte: Samuel. 2023).</p>
@@ -33,11 +33,11 @@ Na tabela 2, estão as questões referentes ao artefato Processo de Design.
 
 Na tabela 3 a seguir, estão as questões referentes ao artefato.
 
-| ID  | Questão                                               | Inspeção |
-| --- | ----------------------------------------------------- | -------- |
-| 7   | A escolha do processo de design? é justificada?       | 🟢       |
-| 8   | São apresentados modelos de clico de vida?            | 🟢       |
-| 9   | O clico de vida selecionado foi descrito em detalhes? | 🟢       |
+| ID | Questão                                              | Inspeção |
+| -- | ----------------------------------------------------- | ---------- |
+| 7  | A escolha do processo de design? é justificada?      | 🟢         |
+| 8  | São apresentados modelos de clico de vida?           | 🟢         |
+| 9  | O clico de vida selecionado foi descrito em detalhes? | 🟢         |
 
 <div style="text-align: center">
     <p> Tabela 3: Verificação do artefato (Fonte: Samuel. 2023).</p>
@@ -46,9 +46,9 @@ Na tabela 3 a seguir, estão as questões referentes ao artefato.
 ## Planejamento do ajuste
 
 | ID Correção | Tarefa                                        |
-| ----------- | --------------------------------------------- |
-| IDC1        | Chamar a Figura 1 no texto.                   |
-| IDC2        | Colocar fonte nas imagens retiradas do livro. |
+| ------------- | --------------------------------------------- |
+| IDC1          | Chamar a Figura 1 no texto.                   |
+| IDC2          | Colocar fonte nas imagens retiradas do livro. |
 
 <div style="text-align: center">
 <p> Tabela 4: Tabela do que precisa ser ajustado no artefato (Fonte: Samuel, 2023). </p>
@@ -64,10 +64,10 @@ Para saber a porcentagem de aproveitamento do artefato, será utilizado a expres
 <p> Figura 1: Fórmula para calcular aproveitamento (Fonte: Gabriel, 2023). </p>
 </div>
 
-| Acrônimo | Descrição                      |
-| -------- | ------------------------------ |
-| QTDE     | Quantidade Total de Exigências |
-| EC       | Exigências Completas           |
+| Acrônimo | Descrição                     |
+| --------- | ------------------------------- |
+| QTDE      | Quantidade Total de Exigências |
+| EC        | Exigências Completas           |
 
 <div style="text-align: center">
 <p> Tabela 5: Legenda da Figura 1 (Fonte: Gabriel, 2023). </p>
@@ -84,12 +84,32 @@ Através dos checklists realizados no Cronograma podemos observar que:
 
 Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento deste artefato está em 77,77% correto.
 
-## Referência Bibliografica
+## Correção
+
+Depois da verificação, o autor do artefato, indicado na tabela 2, deverá fazer as correções indicadas no planejamento dos ajustes e calcular a nova porcentagem, adicionada na versão 1.2 do artefato.
+
+<center>
+
+| ID Correção | Tarefa                                        | Ajuste                                 |
+| ------------- | --------------------------------------------- | -------------------------------------- |
+| IDC1          | Chamar a Figura 1 no texto.                   | Foi colocada a chamada no texto        |
+| IDC2          | Colocar fonte nas imagens retiradas do livro. | Foram adicionadas a fontes das imagens |
+
+</center>
+<!-- Atualizar histórico de versão, após corrigir. -->
+
+<div style="text-align: center">
+<p> Tabela 7: Tabela dos ajustes realizados no artefato (Fonte: Lucas, 2023). </p>
+</div>
+
+Após as correções, a nova porcentagem de aproveitamento é de: 100% correto.
+
+## Bibliografia
 
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em 23 de Abril de 2023.
 
 ## Histórico de versão
 
-|    Data    | Versão |      Descrição       | Autor(es) |
-| :--------: | :----: | :------------------: | :-------: |
-| 19/06/2023 |  1.0   | Criação do documento |  Samuel   |
+|    Data    | Versão |      Descrição      | Autor(es) |
+| :--------: | :-----: | :--------------------: | :-------: |
+| 19/06/2023 |   1.0   | Criação do documento |  Samuel  |
