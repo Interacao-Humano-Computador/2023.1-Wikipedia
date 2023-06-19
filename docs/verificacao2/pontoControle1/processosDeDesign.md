@@ -99,7 +99,7 @@ Depois da verificação, o autor do artefato, indicado na tabela 2, deverá faze
 <!-- Atualizar histórico de versão, após corrigir. -->
 
 <div style="text-align: center">
-<p> Tabela 7: Tabela dos ajustes realizados no artefato (Fonte: Lucas, 2023). </p>
+<p> Tabela 6: Tabela dos ajustes realizados no artefato (Fonte: Gabriel, 2023). </p>
 </div>
 
 Após as correções, a nova porcentagem de aproveitamento é de: 100% correto.
