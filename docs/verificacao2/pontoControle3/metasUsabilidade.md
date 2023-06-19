@@ -99,12 +99,17 @@ Depois da verificação, o autor do artefato, indicado na tabela 2, deverá faze
 
 <center>
 
-| ID Correção | Tarefa | Ajuste |
-| ------------- | ------ | ------ |
-| IDC1          |        |        |
-| IDC2          |        |        |
-| IDC3          |        |        |
-| IDC4          |        |        |
+| ID Correção | Tarefa                                                                                                                   | Ajuste                                                                       |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
+| IDC1          | substituir "Autor" da Tabela 4 para o nome do autor da tabela.                                                           | Substituído para o nome do autor da tabela                                  |
+| IDC2          | No artefato é mencionado o Perfil do usuario e os Principios gerais do projeto, porém não é feito o link dos mesmos. | Criado o link para tais artefatos                                            |
+| IDC3          | Acredito que a M01 pode ser dividida em mais metas de usabilidade.                                                       | Na realidade não é possível modificar isso para mais metas de usabilidade |
+| IDC4          | A M02 e M04 não são quase a mesma coisa                                                                                | Apesar de serem parecidas, o seu propósito é diferente                     |
+
+<div style="text-align: center">
+<p> Tabela 4: Tabela do que precisa ser ajustado no artefato (Fonte: Pedro, 2023). </p>
+</div>
+
 
 </center>
 <!-- Atualizar histórico de versão, após corrigir. -->
@@ -113,7 +118,7 @@ Depois da verificação, o autor do artefato, indicado na tabela 2, deverá faze
 <p> Tabela 6: Tabela dos ajustes realizados no artefato (Fonte: Lucas, 2023). </p>
 </div>
 
-Após as correções, a nova porcentagem de aproveitamento é de: p% correto.
+Após as correções, a nova porcentagem de aproveitamento é de: 100	% correto.
 
 ## Bibiliografia
 
@@ -125,6 +130,7 @@ Usability 101: Introduction to Usability. Nielsen Norman Group. Disponível em: 
 
 ## Histórico de versão
 
-|    Data    | Versão |      Descrição      | Autor(es) |
-| :--------: | :-----: | :--------------------: | :-------: |
-| 17/06/2023 |   1.0   | Criação do documento |   Pedro   |
+|    Data    | Versão |            Descrição            | Autor(es) |
+| :--------: | :-----: | :-------------------------------: | :-------: |
+| 17/06/2023 |   1.0   |      Criação do documento      |   Pedro   |
+| 19/06/2023 |   1.1   | Ajustes e Correções do Artefato |  Gabriel  |
