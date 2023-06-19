@@ -16,7 +16,7 @@ O presente documento apresentará a verificação do artefato [Processo de Desig
 
 ## Inspeção
 
-Na tabela 1, estão as questões referentes ao artefato Processo de Design.
+Na tabela 2, estão as questões referentes ao artefato Processo de Design.
 
 | ID  |                                 Questão                                  | Inspeção |
 | :-: | :----------------------------------------------------------------------: | :------: |
@@ -31,7 +31,7 @@ Na tabela 1, estão as questões referentes ao artefato Processo de Design.
     <p> Tabela 2: Verificação padrao (Fonte: Samuel. 2023).</p>
 </div>
 
-Na tabela 2 a seguir, estão as questões referentes ao artefato [Processo de Design](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/processo_de_design)
+Na tabela 3 a seguir, estão as questões referentes ao artefato.
 
 | ID  | Questão                                               | Inspeção |
 | --- | ----------------------------------------------------- | -------- |

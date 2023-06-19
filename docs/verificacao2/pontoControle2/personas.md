@@ -16,7 +16,7 @@ O presente documento apresentará a verificação do artefato [Personas](../../a
 
 ## Inspeção
 
-Na tabela 1, estão as questões padrões utilizadas em todos os artefatos.
+Na tabela 2, estão as questões padrões utilizadas em todos os artefatos.
 
 | ID  |                                 Questão                                  | Inspeção |
 | :-: | :----------------------------------------------------------------------: | :------: |
@@ -30,10 +30,10 @@ Na tabela 1, estão as questões padrões utilizadas em todos os artefatos.
 |  8  |                        O artefato possui revisor?                        |    🟢    |
 
 <div style="text-align: center">
-    <p> Tabela 2: Verificação padrao (Fonte: Samuel e Chaydson, 2023).</p>
+    <p> Tabela 2: Verificação padrao (Fonte: Samuel, 2023).</p>
 </div>
 
-Na Tabela 2, estão as questões referentes ao artefato Personas.
+Na Tabela 3, estão as questões referentes ao artefato Personas.
 
 | ID  | Questão                                                                       | Inspeção |
 | --- | ----------------------------------------------------------------------------- | -------- |
