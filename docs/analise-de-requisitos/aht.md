@@ -37,14 +37,14 @@ Realizar uma contribução/edição a algum artigo é uma das principais ativida
 | 3. Ver histórico de contribuições             | problema: as alterações são perdidas quando o usuário acessa a tela de histórico<br />recomendação: salvar as alterações feitas pelo usuário                                                                                                                                                    |
 
 <div style="text-align: center">
-    <p> Tabela 1: HTA em tabela (Fonte: Autores. 2023).</p>
+    <p> Tabela 1: HTA em tabela (Fonte: Chaydson. 2023).</p>
 </div>
 
-<br><br>
-<img src="../../images/aht.png"/>
+`<br><br>`
+`<img src="../../images/aht.png"/>`
 
 <div style="text-align: center">
-    <p> Figura 1: Diagrama HTA (Fonte: Autores. 2023).</p>
+    <p> Figura 1: Diagrama HTA (Fonte: Chaydson. 2023).</p>
 </div>
 
 ## Bibliografia
@@ -55,6 +55,7 @@ CARD, Stuart K. The psychology of human-computer interaction. Hillsdale: Lawrenc
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição            | Autor(es) | Revisor(es) |
-| ------- | ---------- | ---------------------- | --------- | ----------- |
-| 1.0     | 07/05/2023 | Criação do documento | Chaydson  | Lucas       |
+| Versão | Data       | Descrição                                     | Autor(es) | Revisor(es) |
+| ------- | ---------- | ----------------------------------------------- | --------- | ----------- |
+| 1.0     | 07/05/2023 | Criação do documento                          | Chaydson  | Lucas       |
+| 1.1     | 19/06/2023 | Aplicando correções apontadas na verificaçã | Samuel    | Pedro       |

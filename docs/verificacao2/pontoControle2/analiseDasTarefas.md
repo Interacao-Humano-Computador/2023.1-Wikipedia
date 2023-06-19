@@ -123,12 +123,12 @@ Depois da verificação, o autor do artefato, indicado na tabela 2, deverá faze
 
 <center>
 
-| ID Correção | Tarefa | Ajuste |
-| ------------- | ------ | ------ |
-| IDC1          |        |        |
-| IDC2          |        |        |
-| IDC3          |        |        |
-| IDC4          |        |        |
+| ID Correção | Tarefa                                                                                       | Ajuste                                         |
+| ------------- | -------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| IDC1          | Na Tabela 1 do HTA, substituir "Autores" pelo proprio nome do autor, assim como na Figura 1. | "Autores" foi substituído pelo nome do autor. |
+| IDC2          | Mudar a introdução do GOMS para ter mais de duas linhas.                                   | Introdução foi melhorada.                    |
+| IDC3          | O revisor do artefato GOMS não existe, mudar isso.                                          | Revisor adicionado.                            |
+| IDC4          | No GOMS, deve-se apresentar um texto antes de  modelar as tarefas.                           | Texto adicionado.                              |
 
 </center>
 <!-- Atualizar histórico de versão, após corrigir. -->
@@ -137,7 +137,7 @@ Depois da verificação, o autor do artefato, indicado na tabela 2, deverá faze
 <p> Tabela 7: Tabela dos ajustes realizados no artefato (Fonte: Lucas, 2023). </p>
 </div>
 
-Após as correções, a nova porcentagem de aproveitamento é de: p% correto.
+Após as correções, a nova porcentagem de aproveitamento é de: 100% correto.
 
 ## Bibiliografia
 

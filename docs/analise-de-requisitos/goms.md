@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Bem-vindo à página de análise de tarefas utilizando a técnica GOMS! Aqui você encontrará uma análise da Wikipédia feita por meio do método CMN-GOMS.
+Bem-vindo à página de análise de tarefas utilizando a técnica GOMS! Nesta página, você encontrará uma análise detalhada da Wikipédia realizada por meio do método CMN-GOMS. A técnica GOMS é um método de análise de tarefas que ajuda a entender como os usuários interagem com um sistema.
 
 ## Sobre o GOMS (Goals, Operators, Methods, and Selection Rules)
 
@@ -10,14 +10,16 @@ A análise GOMS é uma técnica bastante útil para avaliar a usabilidade de um 
 
 ## Análise utilizando CMN-GOMS
 
-| Componentes                   | Significado                                                                                |
-| ----------------------------- | ------------------------------------------------------------------------------------------ |
-| Goal (Meta)                   | o que o usuário deseja alcançar na tarefa em questão                                       |
-| OP (Operador)                 | as ações mentais ou físicas que o usuário executa para atingir as metas                    |
-| Method (Método)               | as sequências de operadores que o usuário usa para alcançar as metas                       |
+| Componentes                      | Significado                                                                                   |
+| -------------------------------- | --------------------------------------------------------------------------------------------- |
+| Goal (Meta)                      | o que o usuário deseja alcançar na tarefa em questão                                       |
+| OP (Operador)                    | as ações mentais ou físicas que o usuário executa para atingir as metas                   |
+| Method (Método)                 | as sequências de operadores que o usuário usa para alcançar as metas                       |
 | Sel. rule (Regras de Seleção) | as heurísticas que o usuário usa para decidir qual método ou operador usar em cada momento |
 
 ### Criação de um artigo no Wikipédia
+
+Esta é a tarefa de criação de um artigo utilizando CMN-GOMS.
 
 **GOAL 0:** Criar um artigo na Wikipédia
 
@@ -60,6 +62,8 @@ A análise GOMS é uma técnica bastante útil para avaliar a usabilidade de um 
 <hr/>
 
 ### Realização de uma pesquisa na Wikipédia
+
+Esta é a tarefa de realização de uma pesquisa utilizando CMN-GOMS.
 
 <p style="padding-left: 0vw"><b>GOAL 0:</b> pesquisar um artigo na Wikipédia</p>
 
@@ -117,6 +121,8 @@ A análise GOMS é uma técnica bastante útil para avaliar a usabilidade de um 
 
 ### Informar um erro
 
+Esta é a tarefa de informar um erro utilizando CMN-GOMS.
+
 <p style="padding-left: 0vw"><b>GOAL 0:</b>Informar um erro na Wikipedia</p>
 
 <p style="padding-left: 1vw"><b>GOAL 1:</b>Acessar a opção de relatar um erro</p>
@@ -154,6 +160,8 @@ A análise GOMS é uma técnica bastante útil para avaliar a usabilidade de um 
 <hr/>
 
 ### Contatar um Mentor
+
+Esta é a tarefa de contatar um metor utilizando CMN-GOMS.
 
 <p style="padding-left: 0vw"><b>GOAL 0:</b> contatar o mentor do seu perfil</p>
 
@@ -211,6 +219,8 @@ A análise GOMS é uma técnica bastante útil para avaliar a usabilidade de um 
 
 ### Criar uma discussão sobre artigo
 
+Esta é a tarefa de criação de discussão sobre artigo utilizando CMN-GOMS.
+
 <p style="padding-left: 0vw"><b>GOAL 0:</b> criar uma discussão sobre artigo</p>
 
 <p style="padding-left: 1vw"><b>GOAL 1:</b> acessar a opção discussão</p>
@@ -249,17 +259,16 @@ A análise GOMS é uma técnica bastante útil para avaliar a usabilidade de um 
 
 <p style="padding-left: 3vw"><b>OP. 3.A.1:</b> mover o cursor para "Adicionar Tópico" e clicar</p>
 
-
 ## Bibliografia
 
 BARBOSA, Simone D. J. Interação humano-computador. Rio de Janeiro: Elsevier, 2010.
 
 CARD, Stuart K. The psychology of human-computer interaction. Hillsdale: Lawrence Erlbaum Associates, 1983.
 
-
 ## Histórico de Versão
 
-| Versão | Data       | Descrição            | Autor(es) | Revisor(es) |
-| ------ | ---------- | -------------------- | --------- | ----------- |
-| 1.0    | 07/05/2023 | Criação do documento | Samuel    | Lucas       |
-| 1.1    | 27/05/2023 | Adição de análise de tarefa | Ana    | -       |
+| Versão | Data       | Descrição                                      | Autor(es) | Revisor(es) |
+| ------- | ---------- | ------------------------------------------------ | --------- | ----------- |
+| 1.0     | 07/05/2023 | Criação do documento                           | Samuel    | Lucas       |
+| 1.1     | 27/05/2023 | Adição de análise de tarefa                   | Ana       | Lucas       |
+| 1.2     | 10/06/2023 | Aplicando correções apontadas na verificação | Samuel    | Pedro       |
