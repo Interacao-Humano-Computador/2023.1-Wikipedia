@@ -113,3 +113,4 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 |    Data    | Versão |      Descrição      | Autor(es) |
 | :--------: | :-----: | :--------------------: | :-------: |
 | 19/06/2023 |   1.0   | Criação do documento |  Samuel  |
+| 19/06/2023 |   1.1   | Adicionando correção |  Gabriel  |
