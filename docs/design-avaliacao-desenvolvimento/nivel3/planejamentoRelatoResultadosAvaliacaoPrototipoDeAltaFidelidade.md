@@ -30,6 +30,10 @@ Nesta seção, é necessário relembrar ou descrever o método de avaliação ut
 
 Os protótipos de alta fidelidade têm como principal objetivo serem utilizados nos testes de usabilidade do produto, permitindo que os usuários-alvo validem sua eficácia. O mesmo desempenha um papel crucial na implementação de um sistema, pois oferece benefícios significativos em termos de usabilidade, design e economia de recursos. O protótipo permite que a equipe teste e valide os conceitos e fluxos de trabalho do sistema antes do desenvolvimento completo, o que ajuda a identificar e corrigir problemas precocemente. Isso evita retrabalhos dispendiosos e atrasos na fase de implementação, resultando em economia de tempo e recursos.
 
+## Tarefas e Orientações para o entrevistado
+
+Neste tópico, devem ser registradas todas as tarefas realizadas pelo usuário, juntamente com as orientações necessárias para que ele as execute de forma correta, minimizando ao máximo quaisquer dúvidas que possam surgir.
+
 ## O número e o perfil do usuário e do avaliador
 
 Com o objetivo de obter uma visão ampla do público entrevistado, é necessário realizar um resumo que identifique os usuários e delineie seus possíveis perfis. Essa análise é conduzida através da avaliação das respostas fornecidas pelos usuários durante as entrevistas, assim como pela observação de suas características e comportamentos. Com base nessas informações, é viável incluir o entrevistado em uma persona previamente elaborada.
@@ -50,6 +54,11 @@ Nessa etapa, deve-se listar os problemas encontrados durante a avaliação, esse
 
 Por fim, deve-se sugerir possíveis melhorias para o sistema, essas melhorias podem ser baseadas nos problemas encontrados durante a avaliação, ou em outras melhorias que não foram identificadas durante a avaliação, mas que podem ser implementadas no sistema.
 
+## Problemas corrigidos
+
+Esta seção tem como objetivo fornecer uma descrição abrangente e detalhada de todos os problemas identificados a partir da avaliação e as respectivas soluções implementadas para corrigi-los.
+
+
 ## Referências
 
 - Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021
@@ -60,3 +69,4 @@ Por fim, deve-se sugerir possíveis melhorias para o sistema, essas melhorias po
 | Versão | Data       | Descrição            | Autor(es)     | Revisor(es)   |
 | ------ | ---------- | -------------------- | ------------- | ------------- |
 | 1.0    | 10/06/2023 | Criação do documento | Pedro e Lucas | Gabriel e Ana |
+| 1.1    | 19/06/2023 | Aplicando correções apontadas pela verificação | Pedro e Lucas | Gabriel e Ana |
