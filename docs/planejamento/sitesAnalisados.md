@@ -1,6 +1,6 @@
 ## Introdução
 
-Bem-vindo à página de sites analisados! Aqui você encontrará uma lista de todos os sites analisados pelo grupo. Após a análise de cada site, realizamos uma reunião e uma votação para selecionar o melhor site a ser estudado na disciplina.
+Bem-vindo à página de sites analisados! Aqui você encontrará uma lista de todos os sites analisados pelo grupo. Após a análise de cada site, realizamos uma reunião e uma votação para selecionar o melhor site a ser estudado na disciplina. Mais detalhes sobre o site selecionado está no artefato [Site Escolhido](./siteEscolhido.md). 
 
 ## Central Expresso
 
@@ -38,7 +38,7 @@ O site [Pichau](https://www.pichau.com.br/) é uma loja online de computadores e
 
 ## Wikipedia
 
-A [Wikipedia](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal) é uma enciclopédia online gratuita e colaborativa que contém milhões de artigos escritos em diferentes idiomas sobre uma ampla variedade de tópicos. Os artigos são escritos por voluntários de todo o mundo e são editáveis por qualquer pessoa que tenha acesso à internet. No entanto, a wikipédia apresenta alguns problemas de interface que podem dificultar a navegação e a compreensão de certos conteúdos, como excesso de informações, dificuldades em encontrar o caminho em meio a uma grande quantidade de dados e problemas de usabilidade em algumas funcionalidades.
+A [Wikipedia](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal) é uma enciclopédia online gratuita e colaborativa que contém milhões de artigos escritos em diferentes idiomas sobre uma ampla variedade de tópicos. Os artigos são escritos por voluntários de todo o mundo e são editáveis por qualquer pessoa que tenha acesso à internet. No entanto, a wikipédia apresenta alguns problemas de interface que podem dificultar a navegação e a compreensão de certos conteúdos, como excesso de informações, dificuldades em encontrar o caminho em meio a uma grande quantidade de dados e problemas de usabilidade em algumas funcionalidades. O Wikipédia foi o [site escolhido](./siteEscolhido.md) pelos seguintes motivos: não foi estudado na disciplina, grande quatidade de usuários, muitas interações, interface pouco amigável.
 
 ## Referência Bibliográfica
 
@@ -62,3 +62,5 @@ WIKIPÉDIA. Sobre a Wikipédia. Disponível em: [https://pt.wikipedia.org/wiki/W
 | ------- | ---------- | ---------------------- | --------- | ----------- |
 | 1.0     | 20/04/2023 | Criação do documento | Samuel    | Chaydson    |
 | 1.1     | 29/04/2023 | Aplicando feedbacks    | Chaydson  | Pedro       |
+| 1.2     | 19/06/2023 | Aplicando correções apontadas na verificação    | Samuel  | Pedro       |
+
