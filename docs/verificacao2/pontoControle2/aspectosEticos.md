@@ -31,7 +31,7 @@ O presente documento apresentará a verificação do artefato [Aspectos Éticos]
     <p> Tabela 2: Verificação padrão (Fonte: Autores. 2023).</p>
 </div>
 
-Na tabela 2 a seguir, estão as questões padrões para realizar a verificação.
+Na tabela 3 a seguir, estão as questões padrões para realizar a verificação.
 
 | ID |                                                    Questão                                                    | Inspeção |
 | :-: | :------------------------------------------------------------------------------------------------------------: | :--------: |

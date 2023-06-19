@@ -106,7 +106,7 @@ Depois da verificação, o autor do artefato, indicado na tabela 2, deverá faze
 | IDC4          | Especificar x | X foi especificaod melhor... |
 
 <div style="text-align: center">
-<p> Tabela 7: Tabela de ajustes feitos (Fonte: Lucas, 2023). </p>
+<p> Tabela 6: Tabela de ajustes feitos (Fonte: Lucas, 2023). </p>
 </div>
 
 Após as correções, a nova porcentagem de aproveitamento é de: p% correto.
