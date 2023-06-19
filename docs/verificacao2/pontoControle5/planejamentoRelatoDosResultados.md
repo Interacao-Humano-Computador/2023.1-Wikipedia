@@ -51,12 +51,12 @@ O presente documento apresentará a verificação do artefato [Planejamento do R
 
 | ID Correção | Tarefa                                                                                                                                                                                              |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| IDC2          | O artefato cita os artefatos storyboard e análise de tarefas, porém não faz o link desses artefatos.                                                                                             |
-| IDC3          | Na introdução, é citado a avaliação do protótipo de forma indireta, sendo possivel gerar duvida no leitor. Deve-se citar a avaliação do protótipo de forma direta e linkar com o artefato. |
-| IDC5          | Retirar [1] da bibliografia sendo que a mesma não é uma referência.                                                                                                                              |
-| IDC11         | O tópico requisita apenas o registro dos avaliadores e participantes, porém deve ser registrado também o perfil desses usuários.                                                               |
-| IDC12         | Não é explicitado no documento como será documentado o horario, data local.                                                                                                                     |
-| IDC14         | O documento não possui um tópico de como será a análise dos dados.                                                                                                                              |
+| IDC1          | O artefato cita os artefatos storyboard e análise de tarefas, porém não faz o link desses artefatos.                                                                                             |
+| IDC2          | Na introdução, é citado a avaliação do protótipo de forma indireta, sendo possivel gerar duvida no leitor. Deve-se citar a avaliação do protótipo de forma direta e linkar com o artefato. |
+| IDC3          | Retirar [1] da bibliografia sendo que a mesma não é uma referência.                                                                                                                              |
+| IDC4          | O tópico requisita apenas o registro dos avaliadores e participantes, porém deve ser registrado também o perfil desses usuários.                                                               |
+| IDC5          | Não é explicitado no documento como será documentado o horario, data local.                                                                                                                     |
+| IDC6          | O documento não possui um tópico de como será a análise dos dados.                                                                                                                              |
 
 <div style="text-align: center">
 <p> Tabela 4: Tabela do que precisa ser ajustado no artefato (Fonte: Pedro, 2023). </p>
@@ -102,12 +102,9 @@ Depois da verificação, o autor do artefato, indicado na tabela 2, deverá faze
 
 <center>
 
-| ID Correção | Tarefa | Ajuste |
-| ------------- | ------ | ------ |
-| IDC1          |        |        |
-| IDC2          |        |        |
-| IDC3          |        |        |
-| IDC4          |        |        |
+| ID Correção | Tarefa                      | Ajuste                           |
+| ------------- | --------------------------- | -------------------------------- |
+| IDC2          | Vários erros identificados | Refatoração total do documento |
 
 </center>
 <!-- Atualizar histórico de versão, após corrigir. -->
@@ -116,7 +113,7 @@ Depois da verificação, o autor do artefato, indicado na tabela 2, deverá faze
 <p> Tabela 6: Tabela dos ajustes realizados no artefato (Fonte: Lucas, 2023). </p>
 </div>
 
-Após as correções, a nova porcentagem de aproveitamento é de: p% correto.
+Após as correções, a nova porcentagem de aproveitamento é de: 100% correto.
 
 ## Bibiliografia
 
@@ -128,6 +125,7 @@ Usability 101: Introduction to Usability. Nielsen Norman Group. Disponível em: 
 
 ## Histórico de versão
 
-|    Data    | Versão |      Descrição      | Autor(es) |
-| :--------: | :-----: | :--------------------: | :-------: |
-| 17/06/2023 |   1.0   | Criação do documento |   Pedro   |
+|    Data    | Versão |             Descrição             | Autor(es) |
+| :--------: | :-----: | :----------------------------------: | :-------: |
+| 17/06/2023 |   1.0   |        Criação do documento        |   Pedro   |
+| 19/06/2023 |   1.1   | Aplicando correção da verifcação |   Lucas   |
