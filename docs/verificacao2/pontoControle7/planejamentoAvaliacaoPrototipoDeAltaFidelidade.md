@@ -55,6 +55,7 @@ O presente documento apresentará a verificação do artefato [Avaliação do Pr
 | 28 |                                  Está definido o orçamento necessário para realizar a avaliação?                                  |     🔴     |
 | 29 |                          Foi planejada a comparação entre a alternativa de design prosta com o design atual?                          |     🔴     |
 | 30 |                                 Existe um protótipo de alta fidelidade para cada integrante do grupo?                                 |     🟢     |
+| 31 |                               A ferramenta usada para construir o protótipo está definida no artefato?                               |     🟢     |
 
 <div style="text-align: center">
     <p> Tabela 3: Verificação específica do artefato (Fonte: Autores. 2023).</p>
@@ -100,14 +101,14 @@ Para saber a porcentagem de aproveitamento do artefato, será utilizado a expres
 
 Nos checklists realizados e que serão descritos, podemos observar que:
 
-- 14/30 exigências estão satisfatórias;
-- 3/30 exigências estão incompletas;
-- 13/30 exigências estão erradas ou não realizadas.
-- 0/30 exigências não foram encontradas no documento.
+- 15/31 exigências estão satisfatórias;
+- 3/31 exigências estão incompletas;
+- 13/31 exigências estão erradas ou não realizadas.
+- 0/31 exigências não foram encontradas no documento.
 
 onde x é a quantidade de exigências.
 
-Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento deste artefato está em 46,67% correto.
+Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento deste artefato está em 48,38% correto.
 
 ## Correção
 
