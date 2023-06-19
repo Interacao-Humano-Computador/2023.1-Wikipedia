@@ -111,7 +111,7 @@ Depois da verificação, o autor do artefato, indicado na tabela 2, deverá faze
 <p> Tabela 6: Tabela dos ajustes realizados no artefato (Fonte: Lucas, 2023). </p>
 </div>
 
-Após as correções, a nova porcentagem de aproveitamento é de: p% correto.
+Após as correções, a nova porcentagem de aproveitamento é de: 100% correto.
 
 ## Bibiliografia
 
@@ -119,7 +119,7 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 
 ## Histórico de versão
 
-|    Data    | Versão |             Descrição             |  Autor(es)  |
-| :--------: | :-----: | :----------------------------------: | :---------: |
-| 17/06/2023 |   1.0   |        Criação do documento        |    Lucas    |
-| 19/06/2023 |   1.1   | Aplicando correção da verifcação | Pedro Lucas |
+|    Data    | Versão |             Descrição             |   Autor(es)   |
+| :--------: | :-----: | :----------------------------------: | :-----------: |
+| 17/06/2023 |   1.0   |        Criação do documento        |     Lucas     |
+| 19/06/2023 |   1.1   | Aplicando correção da verifcação | Pedro e Lucas |

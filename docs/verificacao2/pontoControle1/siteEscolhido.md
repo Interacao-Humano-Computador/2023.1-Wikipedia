@@ -87,9 +87,9 @@ Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento de
 
 Depois da verificação, o autor do artefato, indicado na tabela 2, deverá fazer as correções indicadas no planejamento dos ajustes e calcular a nova porcentagem.
 
-| ID Correção | Tarefa | Ajuste |
-| ------------- | ------ | ------ |
-| IDC1          |        |        |
+| ID Correção | Tarefa                   | Ajuste          |
+| ------------- | ------------------------ | --------------- |
+| IDC1          | Chamar Figura 3 no texto | Figura chamada. |
 
 <!-- Atualizar histórico de versão, após corrigir. -->
 

@@ -5,8 +5,8 @@ O presente documento apresentará a verificação do artefato [Planejamento do R
 <center>
 
 | Versão avaliada | Autor    | Revisor |
-| --------------- | -------- | ------- |
-| 1.0             | Chaydson | Gabriel |
+| ---------------- | -------- | ------- |
+| 1.0              | Chaydson | Gabriel |
 
 <div style="text-align: center">
 <p> Tabela 1: Metadados do artefato (Fonte: Samuel, 2023). </p>
@@ -18,16 +18,16 @@ O presente documento apresentará a verificação do artefato [Planejamento do R
 
 Na tabela 2, estão as questões padrões utilizadas em todos os artefatos.
 
-| ID  |                                 Questão                                  | Inspeção |
-| :-: | :----------------------------------------------------------------------: | :------: |
-|  1  |                 As legendas estão no padrão do projeto?                  |   N/A    |
-|  2  |                  Possui links para os outros artefatos?                  |    🟢    |
-|  3  |                    Existe uma introdução no artefato?                    |    🟢    |
-|  4  |               Existe tabela de versionamento padronizado?                |    🟢    |
-|  5  |        Há referências bibliográficas ou referências no artefato?         |    🟢    |
-|  6  | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |   N/A    |
-|  7  |                         O artefato possui autor?                         |    🟢    |
-|  8  |                        O artefato possui revisor?                        |    🟢    |
+| ID |                                 Questão                                 | Inspeção |
+| :-: | :-----------------------------------------------------------------------: | :--------: |
+| 1 |                 As legendas estão no padrão do projeto?                 |    N/A    |
+| 2 |                  Possui links para os outros artefatos?                  |     🟢     |
+| 3 |                   Existe uma introdução no artefato?                   |     🟢     |
+| 4 |                Existe tabela de versionamento padronizado?                |     🟢     |
+| 5 |      Há referências bibliográficas ou referências no artefato?      |     🟢     |
+| 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |    N/A    |
+| 7 |                         O artefato possui autor?                         |     🟢     |
+| 8 |                        O artefato possui revisor?                        |     🟢     |
 
 <div style="text-align: center">
     <p> Tabela 2: Verificação padrao (Fonte: Samuel, 2023).</p>
@@ -35,16 +35,16 @@ Na tabela 2, estão as questões padrões utilizadas em todos os artefatos.
 
 Na tabela 3, estão as questões referentes ao artefato.
 
-| ID  | Questão                                                               | Inspeção |
-| --- | --------------------------------------------------------------------- | -------- |
-| 9   | O artefato possui objetivo?                                           | 🟢       |
-| 10  | O planejamento define a metodologia?                                  | 🟢       |
-| 11  | O planejamento possui o perfil dos participantes?                     | 🟢       |
-| 12  | O planejamento possui as tarefas?                                     | 🟢       |
-| 13  | O planejamento possui problemas encontrados?                          | 🟢       |
-| 14  | O planejamento possui interpretação e análise dos dados?              | 🟡       |
-| 15  | O planejamento possui sugestões de correções?                         | 🟢       |
-| 16  | O planejamento possui um parte para resumir os principais resultados? | 🔴       |
+| ID | Questão                                                              | Inspeção |
+| -- | --------------------------------------------------------------------- | ---------- |
+| 9  | O artefato possui objetivo?                                           | 🟢         |
+| 10 | O planejamento define a metodologia?                                  | 🟢         |
+| 11 | O planejamento possui o perfil dos participantes?                     | 🟢         |
+| 12 | O planejamento possui as tarefas?                                     | 🟢         |
+| 13 | O planejamento possui problemas encontrados?                          | 🟢         |
+| 14 | O planejamento possui interpretação e análise dos dados?           | 🟡         |
+| 15 | O planejamento possui sugestões de correções?                      | 🟢         |
+| 16 | O planejamento possui um parte para resumir os principais resultados? | 🔴         |
 
 <div style="text-align: center">
     <p> Tabela 3: Verificação do artefato
@@ -53,10 +53,10 @@ Na tabela 3, estão as questões referentes ao artefato.
 
 ## Planejamento do ajuste
 
-| ID Correção | Tarefa                                                                                     |
-| ----------- | ------------------------------------------------------------------------------------------ |
-| IDC1        | Detalhar como sera feita a análise dos dados                                               |
-| IDC2        | Criar um tópico onde é para planejar a apresentação dos principais resultados da avaliação |
+| ID Correção | Tarefa                                                                                           |
+| ------------- | ------------------------------------------------------------------------------------------------ |
+| IDC1          | Detalhar como sera feita a análise dos dados                                                    |
+| IDC2          | Criar um tópico onde é para planejar a apresentação dos principais resultados da avaliação |
 
 <div style="text-align: center">
 <p> Tabela 4: Tabela do que precisa ser ajustado no artefato (Fonte: Samuel, 2023). </p>
@@ -72,10 +72,10 @@ Para saber a porcentagem de aproveitamento do artefato, será utilizado a expres
 <p> Figura 1: Fórmula para calcular aproveitamento (Fonte: Gabriel, 2023). </p>
 </div>
 
-| Acrônimo | Descrição                      |
-| -------- | ------------------------------ |
-| QTDE     | Quantidade Total de Exigências |
-| EC       | Exigências Completas           |
+| Acrônimo | Descrição                     |
+| --------- | ------------------------------- |
+| QTDE      | Quantidade Total de Exigências |
+| EC        | Exigências Completas           |
 
 <div style="text-align: center">
 <p> Tabela 5: Legenda da Figura 1 (Fonte: Gabriel, 2023). </p>
@@ -92,12 +92,27 @@ Através dos checklists realizados no Cronograma podemos observar que:
 
 Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento deste artefato está em 75% correto.
 
+## Correção
+
+Depois da verificação, o autor do artefato, indicado na tabela 2, deverá fazer as correções indicadas no planejamento dos ajustes e calcular a nova porcentagem.
+
+| ID Correção | Tarefa                      | Ajuste                           |
+| ------------- | --------------------------- | -------------------------------- |
+| IDC1          | Vários erros identificados | Refatoração total do documento |
+
+<div style="text-align: center">
+<p> Tabela 6: Ajustes e Correções (Fonte: Lucas e Ana, 2023). </p>
+</div>
+
+Após as correções, a nova porcentagem de aproveitamento é de: 100% correto
+
 ## Referência Bibliografica
 
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em 23 de Abril de 2023.
 
 ## Histórico de versão
 
-|    Data    | Versão |      Descrição       | Autor(es) |
-| :--------: | :----: | :------------------: | :-------: |
-| 19/06/2023 |  1.0   | Criação do documento |  Samuel   |
+|    Data    | Versão |             Descrição             | Autor(es) |
+| :--------: | :-----: | :---------------------------------: | :-------: |
+| 19/06/2023 |   1.0   |       Criação do documento       |  Samuel  |
+| 19/06/2023 |   1.1   | Aplicando correção da verifcaçã |   Lucas   |

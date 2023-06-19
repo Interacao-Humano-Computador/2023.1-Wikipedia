@@ -69,7 +69,6 @@ Na tabela 3 a seguir, estão as questões especifícas do artefato para realizar
 
 Para saber a porcentagem de aproveitamento do artefato, será utilizado a expressão da Figura 1, no qual a Tabela 5 apresenta o significado dessa legendas.
 
-
 <img src="../../../images/formulaCalculoAproveitamento.png"  alt="legenda da fórmula da figura 1"/>
 <div style="text-align: center">
 
@@ -100,23 +99,15 @@ Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento de
 
 Depois da verificação, o autor do artefato, indicado na tabela 2, deverá fazer as correções indicadas no planejamento dos ajustes e calcular a nova porcentagem.
 
-
-| ID Correção | Tarefa | Ajuste |
-| ------------- | ------ | ------ |
-| IDC1          |        |        |
-| IDC2          |        |        |
-| IDC3          |        |        |
-| IDC4          |        |        |
-| IDC5          |        |        |
-| IDC6          |        |        |
-| IDC7          |        |        |
-
+| ID Correção | Tarefa                      | Ajuste                           |
+| ------------- | --------------------------- | -------------------------------- |
+| IDC1          | Vários erros identificados | Refatoração total do documento |
 
 <div style="text-align: center">
 <p> Tabela 6: Ajustes e Correções (Fonte: Lucas e Ana, 2023). </p>
 </div>
 
-Após as correções, a nova porcentagem de aproveitamento é de: p% correto
+Após as correções, a nova porcentagem de aproveitamento é de: 100% correto
 
 ## Bibiliografia
 
@@ -124,6 +115,7 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 
 ## Histórico de versão
 
-|    Data    | Versão |      Descrição      |  Autor(es)  |
-| :--------: | :-----: | :--------------------: | :---------: |
-| 19/06/2023 |   1.0   | Criação do documento | Gabriel |
+|    Data    | Versão |             Descrição             | Autor(es) |
+| :--------: | :-----: | :----------------------------------: | :-------: |
+| 19/06/2023 |   1.0   |        Criação do documento        |  Gabriel  |
+| 19/06/2023 |   1.1   | Aplicando correção da verifcação |   Lucas   |
