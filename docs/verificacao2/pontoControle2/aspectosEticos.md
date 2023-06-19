@@ -2,22 +2,19 @@
 
 ## Introdução
 
-O presente documento apresentará a verificação do artefato [Aspectos Éticos](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/aspectos_eticos), desenvolvidos pela equipe 3 do [Banco Central do Brasil](https://interacao-humano-computador.github.io/2023.1-BancoCentral/)[1]. A versão avaliada da página Aspectos Éticos é a 1.0. A técnica de inspeção será aplicada para verificar esses artefatos, de acordo com o [planejamento](../planejamento.md) estabelecido.
+O presente documento apresentará a verificação do artefato [Aspectos Éticos](../../analise-de-requisitos/aspectosEticos.md), desenvolvido pela equipe. A técnica de inspeção será aplicada para verificar esse artefato, de acordo com o planejamento estabelecido. Na tabela 1, se encontra os metadados desse artefato, nas tabelas 2 e 3 se encontram as questões a serem avaliadas.
 
-## Metodologia
+<center>
 
-Para a verificação, será adotada a técnica de inspeção, a qual será realizada por meio de uma checklist. Essa checklist consiste em uma série de perguntas que têm como objetivo avaliar se o artefato foi desenvolvido de acordo com as exigências da disciplina.
+| Versão avaliada | Autor     | Revisor |
+| ---------------- | --------- | ------- |
+| 1.0              | Ana Luiza | Pedro   |
 
-A checklist será preenchida com base em diferentes classificações, que incluem:
+<div style="text-align: center">
+<p> Tabela 1: Metadados do artefato (Fonte: Gabriel, 2023). </p>
+</div>
 
-- 🟢: Completamente Satisfatório;
-- 🟡: Incompleto;
-- 🔴: Não realizado ou Errado;
-- N/A: Não se aplica.
-
-## Inspeção
-
-Na tabela 1 a seguir, estão as questões padrões utilizadas em todos os artefatos.
+</center>
 
 | ID |                                 Questão                                 | Inspeção |
 | :-: | :-----------------------------------------------------------------------: | :--------: |
@@ -25,65 +22,72 @@ Na tabela 1 a seguir, estão as questões padrões utilizadas em todos os artefa
 | 2 |                  Possui links para os outros artefatos?                  |    N/A    |
 | 3 |                   Existe uma introdução no artefato?                   |     🟢     |
 | 4 |          Existe tabela de versionamento padronizado e completo?          |     🟢     |
-| 5 |      Há referências bibliográficas e/ou bibliografia no artefato?      |     🔴     |
-| 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |     🟡     |
+| 5 |      Há referências bibliográficas ou referências no artefato?      |     🟢     |
+| 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |     🟢     |
+| 7 |                         O artefato possui autor?                         |     🟢     |
+| 8 |                        O artefato possui revisor?                        |     🟢     |
 
 <div style="text-align: center">
-    <p> Tabela 1: Verificação padrao (Fonte: Autores. 2023).</p>
+    <p> Tabela 2: Verificação padrão (Fonte: Autores. 2023).</p>
 </div>
 
 Na tabela 2 a seguir, estão as questões padrões para realizar a verificação.
 
 | ID |                                                    Questão                                                    | Inspeção |
 | :-: | :------------------------------------------------------------------------------------------------------------: | :--------: |
-| 1 |                     Considera aspectos Éticos de Pesquisas Envolvendo Pessoas no projeto?                     |     🟢     |
-| 2 | Os 4 princípios (da autonomia, da beneficência, princípio da não maleficência e da justiça e equidade)? |     🟢     |
-| 3 | que solicitará a permissão para gravar a voz ou imagem de qualquer pessoa, antes de começar a gravação? |     🟡     |
-| 4 |                        O termo de consentimento livre e esclarecido dos participantes?                        |     🟢     |
+| 9 |                     Considera aspectos Éticos de Pesquisas Envolvendo Pessoas no projeto?                     |     🟢     |
+| 10 | Os 4 princípios (da autonomia, da beneficência, princípio da não maleficência e da justiça e equidade)? |     🟢     |
+| 11 | que solicitará a permissão para gravar a voz ou imagem de qualquer pessoa, antes de começar a gravação? |     🟢     |
+| 12 |                        O termo de consentimento livre e esclarecido dos participantes?                        |     🟢     |
 
 <div style="text-align: center">
-    <p> Tabela 2: Verificação de Padrões do Aspectos Éticos (Fonte: Gabriel. 2023).</p>
+    <p> Tabela 3: Verificação de Padrões do Aspectos Éticos (Fonte: Gabriel. 2023).</p>
 </div>
 
-## Comentários
+## Planejamento dos ajustes
 
-Referentes a Tabela 1, os comentário que podem ser feitos, que estão contidos Tabela 3
+Não há ajustes a serem feitos
 
-| Número do ID da Tabela 1 | Comentário                                                                                                                                                 |
-| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 5                         | A bibliografia leva a um link, que para usuários externos, os mesmo não possuem acesso ao aprender, por isso recomenda-se colocar a bibliografia do livro |
-| 6                         | Recomenda-se colocar o texto em uma figura ou tabela, para facilitar sua utilização, citação e entedimento                                              |
+## Aproveitamento
+
+Para saber a porcentagem de aproveitamento do artefato, será utilizado a expressão da Figura 1, no qual a Tabela 5 apresenta o significado dessa legendas.
+
+<img src="../../images/formulaCalculoAproveitamento.png"  alt="legenda da fórmula da figura 1"/>
+<div style="text-align: center">
+
+<p> Figura 1: Fórmula para calcular aproveitamento (Fonte: Gabriel, 2023). </p>
+</div>
+
+| Acrônimo | Descrição                     |
+| --------- | ------------------------------- |
+| QTDE      | Quantidade Total de Exigências |
+| EC        | Exigências Completas           |
 
 <div style="text-align: center">
-    <p> Tabela 3: Comentários sobre incosistências da Tabela 1 (Fonte: Gabriel. 2023).</p>
+<p> Tabela 5: Legenda da Figura 1 (Fonte: Gabriel, 2023). </p>
 </div>
 
-Comentários referentes a questões mais especificas da Tabela 2, estão localizados na Tabela 4
+Nos checklists realizados e que serão descritos, podemos observar que:
 
-| Número do ID da Tabela 2 | Comentário                                                                                                                                                                                                                                             |
-| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3                         | O termo somente leva em consideração questionário e não cenários em que se queira gravar a reunião, sendo uma falha caso existam gravações que necessitem de termos de consentimento para garantir os 4 princípios ou proteger o entrevistador |
+- 11/11 exigências são atendidas;
+- 0/11 exigências estão incompletas;
+- 0/11 exigências estão erradas ou não foram realizadas.
+- 1/1 exigências não se aplica
 
-<div style="text-align: center">
-    <p> Tabela 4:Comentários sobre incosistências da Tabela 2 (Fonte: Gabriel. 2023).</p>
-</div>
+onde x é a quantidade de exigências.
 
-## Resultados
+Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento deste artefato está em 100% correto.
 
-Através dos checklists realizados nos Aspectos Éticos, tabela 1 e tabela 2 podemos observar que:
+## Correção
 
-- 6/10 exigências estão satisfatórias;
-- 2/10 exigências estão incompletas;
-- 1/10 exigências estão erradas ou não realizadas.
-- 1/10 Não se aplica ao artefato.
+Depois da verificação, o autor do artefato, indicado na tabela 2, não tem ajustes a fazer já que de acordo com o checklist o artefato está 100%.
 
-## Referências Bibliográficas
+## Bibliografia
 
-[1] Banco Central. Disponível em: [https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/). Acesso em: 5 jun. 2023.‌
-‌
+Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
 ## Histórico de versão
 
 |    Data    | Versão |      Descrição      | Autor(es) |
 | :--------: | :-----: | :--------------------: | :-------: |
-| 05/06/2023 |   1.0   | Criação do documento |  Gabriel  |
+| 19/06/2023 |   1.0   | Criação do documento |  Gabriel  |

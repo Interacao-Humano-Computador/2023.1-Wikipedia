@@ -2,89 +2,125 @@
 
 ## Introdução
 
-O presente documento apresentará a verificação do artefato [Metodologias](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/metodologias), desenvolvidos pela equipe 3 do [Banco Central do Brasil](https://interacao-humano-computador.github.io/2023.1-BancoCentral/)[1]. A versão avaliada da página Metodologias é a 1.2. A técnica de inspeção será aplicada para verificar esses artefatos, de acordo com o [planejamento](../planejamento.md) estabelecido.
+O presente documento apresentará a verificação do artefato [Metodologias](https://interacao-humano-computador.github.io/2023.1-Wikipedia/politicas/metodologias/), desenvolvidos pela a [equipe](https://interacao-humano-computador.github.io/2023.1-Wikipedia/)[1]. A versão avaliada da página Metodologias é a 1.2. A técnica de inspeção será aplicada para verificar esse artefato, de acordo com o planejamento estabelecido. Na tabela 1, se encontra os metadados desse artefato, nas tabelas 2 e 3 se encontram as questões a serem avaliadas.
 
-## Metodologia
+<center>
 
-Para a verificação, será adotada a técnica de inspeção, a qual será realizada por meio de uma checklist. Essa checklist consiste em uma série de perguntas que têm como objetivo avaliar se o artefato foi desenvolvido de acordo com as exigências da disciplina.
+| Versão avaliada | Autor    | Revisor |
+| ---------------- | -------- | ------- |
+| 1.2              | Chaydson | Pedro   |
 
-A checklist será preenchida com base em diferentes classificações, que incluem:
+</center>
 
-- 🟢: Completamente Satisfatório;
-- 🟡: Incompleto;
-- 🔴: Não realizado ou Errado;
-- N/A: Não se aplica.
+<div style="text-align: center">
+<p> Tabela 1: Metadados do artefato (Fonte: Gabriel, 2023). </p>
+</div>
 
 ## Inspeção
 
-Na tabela 1 a seguir, estão as questões padrões utilizadas em todos os artefatos.
+Na tabela 2 a seguir, estão as questões padrões utilizadas em todos os artefatos.
 
 | ID |                                 Questão                                 | Inspeção |
 | :-: | :-----------------------------------------------------------------------: | :--------: |
 | 1 |                 As legendas estão no padrão do projeto?                 |     🟢     |
-| 2 |                  Possui links para os outros artefatos?                  |     🔴     |
+| 2 |                  Possui links para os outros artefatos?                  |     🟡     |
 | 3 |                   Existe uma introdução no artefato?                   |     🟢     |
-| 4 |          Existe tabela de versionamento padronizado e completo?          |     🟡     |
-| 5 |      Há referências bibliográficas e/ou bibliografia no artefato?      |     🔴     |
-| 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |     🟢     |
+| 4 |          Existe tabela de versionamento padronizado e completo?          |     🟢     |
+| 5 |      Há referências bibliográficas e/ou bibliografia no artefato?      |     🟢     |
+| 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |    N/A    |
+| 7 |                         O artefato possui autor?                         |     🟢     |
+| 8 |                        O artefato possui revisor?                        |     🟢     |
 
 <div style="text-align: center">
-    <p> Tabela 1: Verificação padrao (Fonte: Autores. 2023).</p>
+    <p> Tabela 2: Verificação padrao (Fonte: Gabriel. 2023).</p>
 </div>
 
-Na tabela 2 a seguir, estão as questões padrões para realizar a verificação.
+Na tabela 3 a seguir, estão as questões padrões para realizar a verificação.
 
-| ID |                                                                                                                               Questão                                                                                                                               | Inspeção |
-| :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: |
-| 1 |                                                                                               O documento explica de forma clara as adaptações de métodos utilizados                                                                                               |     🟢     |
-| 2 |                                                                                           O documento apresenta algum de tipo de política para a organização do projeto                                                                                           |     🟢     |
-| 3 |                                                                                            Definição de qualquer proposta ou método foi descrita como foi desenvolvida                                                                                            |     🟡     |
-| 4 | Se o grupo utiliza a técnica "Pair Programming" dentro da metodologia, eles explicam como eles utilizarão essa técnica no projeto visto que não há programação no projeto? É possível ver a utilização dessa técnica dentro das atividades do cronograma? |    N/A    |
+| ID |                                                                                     Questão                                                                                     | Inspeção |
+| :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: |
+| 9 |                                                     O documento explica de forma clara as adaptações de métodos utilizados                                                     |     🟡     |
+| 10 |                                                 O documento apresenta algum de tipo de política para a organização do projeto                                                 |     🟢     |
+| 11 |                                                  Definição de qualquer proposta ou método foi descrita como foi desenvolvida                                                  |     🟢     |
+| 12 | Se o grupo utiliza a técnica "Pair Programming" dentro da metodologia, eles explicam como eles utilizarão essa técnica no projeto visto que não há programação no projeto? |     🟡     |
 
 <div style="text-align: center">
-    <p> Tabela 2: Verificação de Padrões das Metodologias (Fonte: Gabriel Ferreira. 2023).</p>
+    <p> Tabela 3: Verificação de Padrões das Metodologias (Fonte: Gabriel Ferreira. 2023).</p>
 </div>
 
-## Comentários
+## Planejamento dos ajustes
 
-Referentes a Tabela 1, os comentário que podem ser feitos, que estão contidos Tabela 3
+Na tabela 4, estão contidos as sugestões de ajustes e inclusões a serem feitas
 
-| Número do ID da Tabela 1 | Comentário                                                                                                                     |
-| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| 2                         | Todos os links que enviam para outros artefatos não estão funcionando e não encontram a página a qual linkam               |
-| 4                         | O histórico de versão é apresentado, entretanto a tabela está quebrada, o que dificulta o entendimento do que está escrito |
-| 5                         | Está descrito como referência bibliográfica, mas é biblografia, pois a "referência não é chamada no texto"               |
+### Tarefas
+
+| ID Correção | Tarefa                                                                                                                                                 |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| IDC1          | Incluir o link para o artefato de politicas da branch                                                                                                  |
+| IDC2          | Ajustar e incluir que o pair programming aplicado no projeto é uma adaptação dessa metodologia aplicada no projeto e não o pair programming em si |
+| IDC3          | Ajustar e incluir que a metodologia 'Scrum' é uma adaptação do modelo esperado                                                                     |
 
 <div style="text-align: center">
-    <p> Tabela 3: Comentários sobre incosistências da Tabela 1 (Fonte: Gabriel. 2023).</p>
+<p> Tabela 4: Tabela do que precisa ser ajustado (Fonte: Lucas, 2023). </p>
 </div>
 
-Comentários referentes a questões mais especificas da Tabela 2, estão localizados na Tabela 4
+## Aproveitamento
 
-| Número do ID da Tabela 2 | Comentário                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 3                         | Apesar ao maior parte dos elementos estarem definindo de forma boa, como irá ser utilizado ou foi pensado para utlizado, as reuniões semanais não apresentam como foi definido tal horário, se por meio de votação, conversa ou qualquer outra forma. Assim como a parte do domínio geral, que pelo texto dá a entender que somente terá um  desenvolvedor e um revisor em cada atividade,  o que está errado visto pelo próprio Histórico de Versão da Página de Metodologias, no qual apesar do dificil entedimento, apresenta dois revisores, por exemplo. |
+Para saber a porcentagem de aproveitamento do artefato, será utilizado a expressão da Figura 1, no qual a Tabela 5 apresenta o significado dessa legendas.
+
+<img src="../../../images/formulaCalculoAproveitamento.png"  alt="legenda da fórmula da figura 1"/>
+<div style="text-align: center">
+
+<p> Figura 1: Fórmula para calcular aproveitamento (Fonte: Gabriel, 2023). </p>
+</div>
+
+| Acrônimo | Descrição                     |
+| --------- | ------------------------------- |
+| QTDE      | Quantidade Total de Exigências |
+| EC        | Exigências Completas           |
 
 <div style="text-align: center">
-    <p> Tabela 4:Comentários sobre incosistências da Tabela 2 (Fonte: Gabriel. 2023).</p>
+<p> Tabela 5: Legenda da Figura 1 (Fonte: Gabriel, 2023). </p>
 </div>
 
-## Resultados
+Nos checklists realizados e que serão descritos, podemos observar que:
 
-Através dos checklists realizados na tabela 1 e 2 podemos observar que:
+- 8/11 exigências são atendidas;
+- 3/11 exigências estão incompletas;
+- 0/11 exigências estão erradas ou não foram realizadas.
+- 1/1 exigência não se aplica
 
-- 5/10 exigências estão satisfatórias;
-- 2/10 exigências estão incompletas;
-- 2/10 exigências estão erradas ou não realizadas.
-- 1/10 Não se aplica ao artefato.
+onde x é a quantidade de exigências.
 
-## Referências Bibliograficas
+Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento deste artefato está em 72,73% correto.
 
-[1] Banco Central. Disponível em: [https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/). Acesso em: 5 jun. 2023.‌
-‌
+## Correção
+
+Depois da verificação, o autor do artefato, indicado na tabela 2, deverá fazer as correções indicadas no planejamento dos ajustes e calcular a nova porcentagem.
+
+| ID Correção | Tarefa         | Ajuste                       |
+| ------------- | -------------- | ---------------------------- |
+| IDC1          | Ajustar x      | Foi ajustado x realizando... |
+| IDC2          | Incluir X      | Foi incluido x em ...        |
+| IDC3          | Remover x      | Foi removido x ...           |
+| IDC4          | Especificar x | X foi especificaod melhor... |
+
+<div style="text-align: center">
+<p> Tabela 7: Tabela de ajustes feitos (Fonte: Lucas, 2023). </p>
+</div>
+
+Após as correções, a nova porcentagem de aproveitamento é de: p% correto.
+
+## Bibliografia
+
+ATLASSIAN. Scrum — o que é, como funciona e por que é incrível. Disponível em: [https://www.atlassian.com/br/agile/scrum](https://www.atlassian.com/br/agile/scrum). Acesso em: 19 de julho de 2023.
+
+Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
+
+Objective.Como elevar a qualidade do seu trabalho com o Pair Programming .Disponível em: [https://www.objective.com.br/insights/como-elevar-a-qualidade-do-seu-trabalho-com-o-pair-programming/](https://www.objective.com.br/insights/como-elevar-a-qualidade-do-seu-trabalho-com-o-pair-programming/). Acesso em: 19 de junho de 2023.
 
 ## Histórico de versão
 
 |    Data    | Versão |      Descrição      | Autor(es) |
 | :--------: | :-----: | :--------------------: | :-------: |
-| 05/06/2023 |   1.0   | Criação do documento |  Gabriel  |
+| 19/06/2023 |   1.0   | Criação do documento |  Gabriel  |
