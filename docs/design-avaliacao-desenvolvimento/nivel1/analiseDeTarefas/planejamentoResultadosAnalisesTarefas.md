@@ -1,101 +1,95 @@
-# Planejamento dos resultados das análises de tarefas
+# Planejamento do Relato dos Resultados da Avaliação da análise de tarefa
 
 ## Introdução
 
-Este documento de planejamento aborda a maneira como os resultados das entrevistas devem ser tratados, com base no método selecionado, que consiste em entrevistas e observação no caso da Análise de Tarefas.
+Um relato bem planejado é um documento que apresenta os resultados e conclusões de uma avaliação de forma clara e ordenada. Ele ajuda a entender os dados coletados e o resultado da avaliação, incluindo todas as informações relevantes.
 
 ## Metodologia
 
-Com base no documento do planejamento da avaliação da análise de tarefas e nos elementos de avaliação citados por Barbosa [1], iremos construir o relato de resultados.
+O relato de resultados será construído seguindo o documento do planejamento da avaliação da análise de tarefa e os elementos de avaliação do livro de Barbosa e Silva [1].
 
-Os elementos de avaliação são:
+Esses elementos são:
 
-- A forma como a avaliação foi realizada;
-- O número e o perfil de usuários e avaliadores que participaram da avaliação;
-- Resumo dos dados coletados;
+- Os objetivos e escopo da avaliação.
+- Método de avaliação empregado.
+- Um sumário dos dados coletados.
 - Análise e interpretação dos dados coletados;
-- Listagem de problemas encontrados;
-- Sugestões de reprojeto do sistema;
+- Listagem de problemas encontrados e refatoração do artefato.
 
-## Objetivos da avaliação
+## Organização do artefato do relato da análise de tarefa
 
-Na presente fase, é imperativo que o redator do documento exponha as razões pelas quais essa avaliação está sendo realizada, bem como os objetivos que o grupo busca alcançar.
+O artefato do relato da análise de tarefa deverá ter a seguinte estrutura, seguindo o que foi dito por Barbosa e Silva [1]
 
-## Prototipação em papel
+### Introdução
 
-Esse processo ajuda os desenvolvedores a criar software que atenda às expectativas e necessidades do usuário, especialmente para a criação e testes de interfaces de usuário. É uma prototipagem descartável que envolve a criação de desenhos feitos à mão de uma interface para usar como protótipo ou modelo de um projeto.
+Neste item, deverá ser escrita uma introdução sobre a avaliação realizada, destacando os principais aspectos dos resultados obtidos. Esses aspectos serão analisados com mais profundidade nas seções seguintes.
 
-- Analisar os resultados das entrevistas com o usuário para entender suas necessidades e expectativas.
-- Criar esboços à mão de uma interface que atenda às necessidades e expectativas do usuário.
-- Testar o protótipo em papel com os usuários para obter feedback e identificar possíveis melhorias.
-- Refinar o protótipo em papel com base no feedback dos usuários e repetir o processo de teste até que o protótipo atenda às necessidades e expectativas do usuário.
+### Os objetivos e escopo da avaliação
 
-## Perfil do usuário e do avaliador
+Neste item, deverá ser escrito os objetivos da avaliação realizada, explicitando as expectativas e os propósitos que nortearam o processo. Também indicamos se esses objetivos foram atingidos, parcial ou totalmente, e em que medida.
 
-Além do cronograma executado, a fim de ter uma ideia geral do público entrevistado, deverá ser feito um resumo identificando esses usuários e o possível perfil de cada usuário. Isso pode ser feito através da análise das respostas dadas pelos usuários durante as entrevistas e da observação de suas características e comportamentos. Com base nessas informações, é possível adicionar o entrevistado em uma persona que foi previamente criada.
+### Método de avaliação empregado
 
-## Tarefas executadas pelo usuário
+Neste item, deverá ser escrita a metodologia adotada para a avaliação, justificando a sua adequação ao propósito e ao escopo do estudo.
 
-Antes de prosseguir, é fundamental estabelecer as tarefas (planejamento) que serão desempenhadas pelos participantes antes de começar efetivamente.
+Deverá também ser escrita as tarefas propostas para os entrevistados executarem, demonstrando como elas se relacionam com os objetivos da avaliação.
 
-### Edição de um artigo
+Deverá também ser escrito sobre o termo de consetimento assinado juntamente com seus aspectos éticos.
 
-- Entrar na wikipedia
-- Escolher um artigo que queria contribuir
-- Editar o artigo
-- Revisar o artigo
-- Mandar para avaliação
+Por fim, deverá ter escrita em forma de tabela o cronograma da avaliação, especificando a data, o horário, o local, entrevistador e entrevistado.
 
-### Criação de um artigo
+| Data              | Horário              | Local              | Entrevistador              | Entrevistado              | Termo de consetimento           |
+| ----------------- | -------------------- | ------------------ | -------------------------- | ------------------------- | ------------------------------- |
+| Data da reunião 1 | Horário da reunião 1 | Local da reunião 1 | Entrevistador da reunião 1 | Entrevistado da reunião 1 | Link do termo de consetimento 1 |
+| ...               | ...                  | ...                | ...                        | ...                       | ...                             |
+| Data da reunião N | Horário da reunião N | Local da reunião N | Entrevistador da reunião N | Entrevistado da reunião N | Link do termo de consetimento N |
 
-- Entrar na wikipedia
-- Entrar na aba de criação de um artigo
-- Escrever o artigo
-- Revisar o artigo
-- Mandar para avaliação
+<div style="text-align: center">
+    <p> Tabela 1: Metadados das entrevistas (Fonte: Autores. 2023).</p>
+</div>
 
-### Realização de uma pesquisa na Wikipedia
+### Sumário dos dados coletados
 
-- Entrar na wikipedia
-- Entrar na aba de pesquisa
-- Digitar o que deseja pesquisar
-- Escolher o artigo que deseja ler
+Neste item, deverá ser escrito os dados coletados com a avaliação de cada tarefa, sintetizando de forma clara e objetiva se os participantes conseguiram realizá-la com sucesso ou não.
 
-### Informar um erro
+Além disso, será dispobilizada a gravação de cada sessão de avaliação antes da tabela.
 
-- Entrar na wikipedia
-- Entrar na aba de pesquisa
-- Digitar o que deseja pesquisar
-- Escolher o artigo que deseja ler
-- Encontrar um erro
-- Reportar o erro
+A apresentação dos dados deverá ser feita por meio de uma tabela padrão, encontrada na tabela 1.
 
-### Criar uma discurssão sobre um artigo
+| Pergunta   | Entrevistado conseguiu realizar? | Comentário do entrevistado   | Sugestão de melhoria informada |
+| ---------- | -------------------------------- | ---------------------------- | ------------------------------ |
+| Pergunta 1 | Sim                              | Comentário do entrevistado 1 | Sugestão do entrevistado 1     |
+| Pergunta 2 | Não                              | Comentário do entrevistado 2 | Sugestão do entrevistado 2     |
+| Pergunta 3 | Sim                              |                              |                                |
+| Pergunta 4 | Não                              |                              |                                |
+| ...        | ....                             | ...                          | ...                            |
+| Pergunta N | Resposta N                       | Comentário N                 | Sugestão do entrevistado N     |
 
-- Entrar na wikipedia
-- Entrar na aba de pesquisa
-- Digitar o que deseja pesquisar
-- Escolher o artigo que deseja ler
-- Entrar na aba de discussão
-- Criar uma discussão
+<div style="text-align: center">
+    <p> Tabela 2: Respostas do entrevistado [NomeDoEntrevistado] (Fonte: Autores. 2023).</p>
+</div>
 
-## Sugestões de correções
+### Análise e interpretação dos dados coletados
 
-Ao final, serão apresentadas sugestões de correção para cada um dos problemas identificados, destacando a prioridade de cada uma delas.
+Aqui, o objetivo é fazer uma análise e interpretação dos dados. Isso envolve examinar os dados com cuidado, encontrar padrões e tendências importantes, e extrair conclusões relevantes a partir desses dados.
 
-## Conclusão
+Os dados devem ser relacionados com o propósito da avaliação e os problemas encontrados devem ser analisados quanto ao seu efeito na usabilidade, na experiência do usuário e nas metas definidas.
 
-Com base neste documento, temos uma espécie de "roteiro" para obter os resultados da avaliação da análise de tarefas, e como e quando utilizá-los da melhor forma possível. Essas características se aplicam tanto ao método da entrevista quanto ao método do percurso cognitivo.
+### Listagem dos problemas de usabilidade encontrados e refatoração do artefato
 
-Os avaliadores devem relatar suas descobertas consolidadas por meio de documentação que inclua:
+Neste item, deverá ser escrita uma análise dos dados coletados e identificar os problemas encontrados em cada tarefa, explicando brevemente como o problema se manifestou.
 
-Objetivos e escopo da avaliação;
-Método de avaliação utilizado;
-Número e perfil de usuários e avaliadores envolvidos na avaliação;
-Resumo dos dados coletados, incluindo tabelas e gráficos;
-Análise e interpretação dos dados;
-Lista dos problemas encontrados;
-Sugestões de melhorias para o sistema. [1]
+Os problemas encontrados devem ser listados em uma tabela, seguindo os critérios de classificação e priorização.
+
+| Problema   | Onde se manifestou   | Problema de usabilidade afetado   | Sugestão de melhoria | Quem irá executar a refatoração |
+| ---------- | -------------------- | --------------------------------- | -------------------- | ------------------------------- |
+| Problema 1 | Onde se manifestou 1 | Problema de usabilidade afetado 1 | Sugestão 1           | Pessoa 1                        |
+| ...        | ...                  | ...                               | ...                  | ...                             |
+| Problema N | Onde se manifestou N | Problema de usabilidade afetado N | Sugestão N           | Pessoa N                        |
+
+<div style="text-align: center">
+    <p> Tabela 3: Problemas encontrados, sugestão de melhoria e quem irá realizar essa sugestão (Fonte: Autores. 2023).</p>
+</div>
 
 ## Referências
 
@@ -103,7 +97,8 @@ Sugestões de melhorias para o sistema. [1]
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                      | Autor(es) | Revisor(es) |
-| ------ | ---------- | ------------------------------ | --------- | ----------- |
-| 1.0    | 20/05/2023 | Criação do documento           | Lucas     | Ana         |
-| 1.0    | 03/06/2023 | Refatoração total do documento | Lucas     | Ana         |
+| Versão | Data       | Descrição                                    | Autor(es) | Revisor(es) |
+| ------ | ---------- | -------------------------------------------- | --------- | ----------- |
+| 1.0    | 20/05/2023 | Criação do documento                         | Lucas     | Ana         |
+| 1.1    | 03/06/2023 | Refatoração total do documento               | Lucas     | Ana         |
+| 1.2    | 19/06/2023 | Refatoração do artefato conforme verificação | Lucas     | Gabriel     |
