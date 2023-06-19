@@ -24,7 +24,9 @@ Na tabela 1 encontra-se o cronograma realizado da entrega 1
 |            Gravação da Apresentação             |            Grupo             |       01/04 - 21/04        |    Grupo    |   22/04 - 23/04    |
 |                   Finalização                   |            Grupo             |       01/04 - 21/04        |    Grupo    |   22/04 - 23/04    |
 
-Tabela 1 - Cronograma da entrega 1.
+<div style="text-align: center">
+    <p> Tabela 1: Cronograma da entrega 1 (Fonte: Lucas Frazão. 2023).</p>
+</div>
 
 ## Entrega 2 - Perfil do usuário
 
@@ -39,7 +41,9 @@ Tabela 1 - Cronograma da entrega 1.
 |                   Finalização                   |         Grupo          |  09/05/2023 - 15/05/2023   |     Grupo     |     15/05/2023     |
 |                Ata da reunião 4                 |         Pedro          |       05/05 - 06/05        |    Samuel     |   06/05 - 07/05    |
 
-Tabela 2 - Cronograma da entrega 2.
+<div style="text-align: center">
+    <p> Tabela 2: Cronograma da entrega 2 (Fonte: Lucas Frazão. 2023).</p>
+</div>
 
 ## Entrega 3 - Princípios gerais do projeto
 
@@ -52,7 +56,9 @@ Tabela 2 - Cronograma da entrega 2.
 |           Gravação da apresentação           |      Grupo       |         15/05/2023         |      Grupo       |     15/05/2023     |
 |                 Finalização                  |      Grupo       |       16/05 - 18/05        |      Grupo       |     19/05/2023     |
 
-Tabela 3 - Cronograma da entrega 3.
+<div style="text-align: center">
+    <p> Tabela 3: Cronograma da entrega 3 (Fonte: Lucas Frazão. 2023).</p>
+</div>
 
 ## Entrega 4 - Planejamento da avaliação do storyboard
 
@@ -66,7 +72,9 @@ Tabela 3 - Cronograma da entrega 3.
 | Gravação da apresentação                                                 | Grupo            | 22/05/2023                 | Grupo            | 22/05/2023              |
 | Finalização                                                              | Grupo            | 22/05/2023 - 26/05/2023    | Grupo            | 26/05/2023 - 29/05/2023 |
 
-Tabela 4 - Cronograma da entrega 4.
+<div style="text-align: center">
+    <p> Tabela 4: Cronograma da entrega 4 (Fonte: Lucas Frazão. 2023).</p>
+</div>
 
 ## Entrega 5 - Resultados
 
@@ -85,13 +93,64 @@ Tabela 4 - Cronograma da entrega 4.
 | Gravação da apresentação                                                 | Ana, Lucas, Chaydson, Gabriel, Samuel e Pedro | 29/05                      | Ana, Lucas, Chaydson, Gabriel, Samuel e Pedro | 29/05              |
 | Finalização                                                              | Ana, Lucas, Chaydson, Gabriel, Samuel e Pedro | 29/05 - 02/06              | Ana, Lucas, Chaydson, Gabriel, Samuel e Pedro | 29/05              |
 
-Tabela 5 - Cronograma da entrega 5.
+<div style="text-align: center">
+    <p> Tabela 5: Cronograma da entrega 5 (Fonte: Lucas Frazão. 2023).</p>
+</div>
+
+## Entrega 6.1 - Verificação dos artefatos do grupo 3
+
+| Tarefa                                                              | Autor(es)         | Período de desenvolvimento | Revisor               | Período de revisão |
+| ------------------------------------------------------------------- | ----------------- | -------------------------- | --------------------- | ------------------ |
+| Cronograma                                                          | Pedro             | 02/06 - 05/06              | Lucas                 | 05/06              |
+| Sites avaliados                                                     | Ana               | 02/06 - 05/06              | Samuel                | 05/06              |
+| Site selecionado                                                    | Chaydson          | 02/06 - 05/06              | Samuel                | 05/06              |
+| Metodologia                                                         | Gabriel           | 02/06 - 05/06              | Gabriel               | 05/06              |
+| Ferramentas                                                         | Lucas             | 02/06 - 05/06              | Pedro                 | 05/06              |
+| Processos de Design                                                 | Samuel            | 02/06 - 05/06              | Gabriel               | 05/06              |
+| Criação do perfil do Usuário                                        | Lucas             | 02/06 - 05/06              | Gabriel               | 05/06              |
+| Desenvolvimento das personas                                        | Samuel e Chaydson | 02/06 - 05/06              | Lucas e Pedro         | 05/06              |
+| Análise das tarefas do usuário (técnicas HTA e CTT)                 | Pedro             | 02/06 - 05/06              | Chaydson e Samuel     | 05/06              |
+| Aspectos éticos de pesquisa envolvendo pessoas                      | Gabriel           | 02/06 - 05/06              | Ana                   | 05/06              |
+| Criação dos cenário                                                 | Ana               | 02/06 - 05/06              | Ana                   | 05/06              |
+| Definir os princípios gerais do projeto                             | Lucas             | 02/06 - 05/06              | Ana                   | 05/06              |
+| Determinar as metas de usabilidade                                  | Pedro             | 02/06 - 05/06              | Gabriel               | 05/06              |
+| Criar o guia de estilo                                              | Gabriel e Samuel  | 02/06 - 05/06              | Lucas e Chaydson      | 05/06              |
+| Determinar as características da plataforma para o projeto          | Ana e Chaydson    | 02/06 - 05/06              | Samuel e Pedro        | 05/06              |
+| Planejar a avaliação do Story Board                                 | Chaydson e Lucas  | 02/06 - 05/06              | Pedro e Ana           | 05/06              |
+| Planejar a avaliação da Análise de Tarefas                          | Ana e Pedro       | 02/06 - 05/06              | Gabriel e Samuel      | 05/06              |
+| Planejar o retato da avaliação do Story Board                       | Samuel            | 02/06 - 05/06              | Chaydson              | 05/06              |
+| Planejar o retato da avaliação da Análise de Tarefas                | Gabriel           | 02/06 - 05/06              | Lucas                 | 05/06              |
+| Relatar os resultados do Story Board                                | Gabriel e Samuel  | 02/06 - 05/06              | Chaydson e Pedro      | 05/06              |
+| Relatar a análise de tarefas                                        | Ana e Lucas       | 02/06 - 05/06              | Gabriel e Samuel      | 05/06              |
+| Planejar a avaliação do protótipo de papel                          | Chaydson          | 02/06 - 05/06              | Lucas, Ana e Gabriel  | 05/06              |
+| Planejar o relato dos resultados da avaliação do protótipo de papel | Pedro             | 02/06 - 05/06              | Chaydson, Ana e Lucas | 05/06              |
+| Gravação da apresentação                                            | Lucas, Chaydson, Pedro, Gabriel, Ana, Samuel | 05/06                      | Lucas, Chaydson, Pedro, Gabriel, Ana, Samuel     | 05/06              |
+| Finalização                                                         | Lucas, Chaydson, Pedro, Gabriel, Ana, Samuel | 06/06 - 12/06              | Lucas, Chaydson, Pedro, Gabriel, Ana, Samuel     | 13/06              |
+
+<div style="text-align: center">
+    <p> Tabela 6: Cronograma da entrega 6.1 (Fonte: Lucas Frazão. 2023).</p>
+</div>
+
+## Entrega 7 - Relato dos resultados do protótipo de papel
+
+| Tarefa                                                                             | Autor(es)        | Período de desenvolvimento | Revisor(es)      | Período de revisão |
+| ---------------------------------------------------------------------------------- | ---------------- | -------------------------- | ---------------- | ------------------ |
+| Relato dos resultados do protótipo de papel                                        | Gabriel / Samuel | 29/05 - 09/06              | Chaydson / Lucas | 10/06 - 11/06      |
+| Planejamento da avaliação do protótipo de alta fidelidade                          | Ana / Chaydson   | 29/05 - 09/06              | Pedro / Samuel   | 10/06 - 11/06      |
+| planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Lucas / Pedro    | 29/05 - 09/06              | Gabriel / Ana    | 10/06 - 11/06      |
+| Gravação da apresentação                                                           | Grupo            | 29/05 - 09/06              | Grupo            | 10/06 - 11/06      |
+| Finalização                                                                        | Grupo            | 29/05 - 09/06              | Grupo            | 10/06 - 11/06      |
+
+<div style="text-align: center">
+    <p> Tabela 8: Cronograma da entrega 7 (Fonte: Lucas Frazão. 2023).</p>
+</div>
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição            | Autor(es) | Revisor(es) |
-| ------ | ---------- | -------------------- | --------- | ----------- |
-| 1.0    | 21/04/2023 | Criação do documento | Lucas     | Gabriel     |
-| 1.1    | 07/05/2023 | Entrega 2            | Lucas     | Pedro       |
-| 1.2    | 15/05/2023 | Entrega 3            | Lucas     | Samuel      |
-| 1.3    | 22/05/2023 | Entrega 4            | Lucas     | Chaydson    |
+| Versão | Data       | Descrição                                 | Autor(es) | Revisor(es) |
+| ------ | ---------- | ----------------------------------------- | --------- | ----------- |
+| 1.0    | 21/04/2023 | Criação do documento                      | Lucas     | Gabriel     |
+| 1.1    | 07/05/2023 | Entrega 2                                 | Lucas     | Pedro       |
+| 1.2    | 15/05/2023 | Entrega 3                                 | Lucas     | Samuel      |
+| 1.3    | 22/05/2023 | Entrega 4                                 | Lucas     | Chaydson    |
+| 1.4    | 19/06/2023 | Ajeitando o que foi pedido na verificação | Lucas     | Pedro       |

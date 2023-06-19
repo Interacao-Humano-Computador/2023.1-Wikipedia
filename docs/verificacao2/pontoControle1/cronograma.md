@@ -112,12 +112,14 @@ Depois da verificação, o autor do artefato, indicado na tabela 2, deverá faze
 
 <center>
 
-| ID Correção | Tarefa | Ajuste |
-| ------------- | ------ | ------ |
-| IDC1          |        |        |
-| IDC2          |        |        |
-| IDC3          |        |        |
-| IDC4          |        |        |
+| ID Correção | Tarefa                                                                                                                                                         | Ajuste                          |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| IDC1          | Substituir as legendas das tabelas de 1-11 para o padrão do projeto "Tabela X: Consistência e padrões. (Fonte: Autores. 2023)"                              | Foi colocado na versão padrão |
+| IDC2          | Na tabela de versionamento esta duplicado a versão 1.1. Mudar a ultima para 1.2                                                                               | Foi arrumado                    |
+| IDC3          | Como se trata de bibliografia, retirar [1], [2] e [3] antes dos textos de bibliografia                                                                         | Foi retirado                    |
+| IDC4          | A tabela 7 não possui a coluna de revisores, deve-se adicionar.                                                                                               | Foi adicionado, na 8 também    |
+| IDC5          | O professor afirmou em sala que os autores e revisores das tarefas não pode ser "Grupo", no lugar deve adicionar o nome de todos os participantes do projeto. | Foi modificado                  |
+| IDC6          | Até o momento atual da verificação, o cronograma executado da entrega 6 não foi adicionado.                                                                | Foi adicionado                  |
 
 </center>
 <!-- Atualizar histórico de versão, após corrigir. -->
@@ -126,7 +128,7 @@ Depois da verificação, o autor do artefato, indicado na tabela 2, deverá faze
 <p> Tabela 7: Tabela dos ajustes realizados no artefato (Fonte: Lucas, 2023). </p>
 </div>
 
-Após as correções, a nova porcentagem de aproveitamento é de: p% correto.
+Após as correções, a nova porcentagem de aproveitamento é de: 100% correto.
 
 ## Bibiliografia
 
@@ -139,3 +141,4 @@ Os 7 passos de como montar um cronograma de projeto. Siteware. Disponível em: [
 |    Data    | Versão |      Descrição      | Autor(es) |
 | :--------: | :-----: | :--------------------: | :-------: |
 | 17/06/2023 |   1.0   | Criação do documento |   Pedro   |
+| 19/06/2023 |   1.1   | Adicionando correção |   Lucas   |
