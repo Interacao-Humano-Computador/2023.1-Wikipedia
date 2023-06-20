@@ -14,12 +14,12 @@ Essas atividades irão ser repetidas em iterações que refinarão o projeto, at
 
 ### Ciclo de Vida Simples
 
-O Ciclo de Vida Simples é a construção de uma sequência genérica de atividades de design, na qual inicia-se o projeto identificando as necessidades e definindo os requisitos do produto para numa etapa seguinte o designer analisar e criar um esboço de como funcionará o sistema, caso seja satisfatório, o mesmo avança para a fase de gerar um protótipo interativo do esboço ou voltar a etapa anterior para adicionar a intervenção, pensando em caracteristicas que o designer não havia pensado anteriormente. Para a fase de construção de uma versão interativa, caso a intervenção esteja completada com sucesso ela vai para a etapa de avaliação, caso não, ela retorna a etapa anterior que é a de (re-)design. Após a avaliação, se a solução desenvolvida atende a necessidades e os requisitos identificados anteriormente o processo é finalizado e é dado um passo posterior ao processo de design para se desenvolver o sistema interativo. Caso não atenda, ele vai para  etapa de identificar necessidades e requisitos novamente ou a para a parte de (re-)design. Por ser muito simples, esse processo não é muito amigável com pessoas que estão aprendendo a realizar processos de design, por pular partes essenciais do desenvolvimento de design de IHC, fazendo com que pessoas que não conheçam o processo acabem por gerar artefatos essenciais ao processo de design. Abaixo está uma figura do modelo simples:
+O Ciclo de Vida Simples é a construção de uma sequência genérica de atividades de design, na qual inicia-se o projeto identificando as necessidades e definindo os requisitos do produto para numa etapa seguinte o designer analisar e criar um esboço de como funcionará o sistema, caso seja satisfatório, o mesmo avança para a fase de gerar um protótipo interativo do esboço ou voltar a etapa anterior para adicionar a intervenção, pensando em caracteristicas que o designer não havia pensado anteriormente. Para a fase de construção de uma versão interativa, caso a intervenção esteja completada com sucesso ela vai para a etapa de avaliação, caso não, ela retorna a etapa anterior que é a de (re-)design. Após a avaliação, se a solução desenvolvida atende a necessidades e os requisitos identificados anteriormente o processo é finalizado e é dado um passo posterior ao processo de design para se desenvolver o sistema interativo. Caso não atenda, ele vai para  etapa de identificar necessidades e requisitos novamente ou a para a parte de (re-)design. Por ser muito simples, esse processo não é muito amigável com pessoas que estão aprendendo a realizar processos de design, por pular partes essenciais do desenvolvimento de design de IHC, fazendo com que pessoas que não conheçam o processo acabem por gerar artefatos essenciais ao processo de design. Na Figura 1 é apresentado o modelo simples.
 
 ![Modelo Simples de Ciclo de Vida](../images/cicloSimples.png)
 
 <div style="text-align: center">
-    <p> Figura 1: Modelo simples do processo de design</p>
+    <p> Figura 1: Modelo simples do processo de design(Fonte: Barbosa, S. D. J. 2021)</p>
 </div>
 
 ### Ciclo de Vida em Estrela
@@ -29,7 +29,7 @@ No Ciclo de Vida em Estrela, cabe ao designer definir em qual parte iniciar, com
 ![Ciclo de Vida em Estrela](../images/cicloEstrela.png)
 
 <div style="text-align: center">
-    <p> Figura 2 : Modelo de Ciclo de Vida em Estrela</p>
+    <p> Figura 2 : Modelo de Ciclo de Vida em Estrela(Fonte: Barbosa, S. D. J. 2021)</p>
 </div>
 
 ### Engenharia de Usabilidade de Mayhew
@@ -86,7 +86,8 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                          | Autor(es) | Revisor(es) |
-| ------- | ---------- | ------------------------------------ | --------- | ----------- |
-| 1.0     | 23/04/2023 | Documentação do Processo de Design | Gabriel   | Ana Luiza   |
-| 1.1     | 29/04/2023 | Correção de erros de digitação   | Chaydson  | Pedro       |
+| Versão | Data       | Descrição                           | Autor(es) | Revisor(es) |
+| ------- | ---------- | ------------------------------------- | --------- | ----------- |
+| 1.0     | 23/04/2023 | Documentação do Processo de Design  | Gabriel   | Ana Luiza   |
+| 1.1     | 29/04/2023 | Correção de erros de digitação    | Chaydson  | Pedro       |
+| 1.2     | 19/06/2023 | Ajustes de acordo com a verificação | Gabriel   | Pedro       |

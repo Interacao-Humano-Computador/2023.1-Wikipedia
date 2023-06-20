@@ -67,7 +67,13 @@ Listas e resumos: Além de artigos completos, a Wikipedia também possui listas,
 
 ## Limitações e Características Negativas
 
-A Wikipédia apresenta algumas limitações e características negativas que podem ser aprimoradas. Por exemplo, a plataforma pode ser melhorada no que diz respeito à facilidade de encontrar e editar artigos. Atualmente, o processo envolve uma quantidade considerável de cliques e opções, dificultando o aprendizado e exigindo que o usuário memorize os passos necessários para realizar uma edição, que é uma das principais funcionalidades do sistema. Além disso, seria benéfico implementar um sistema de feedback mais claro, proporcionando ao usuário informações sobre o que está ocorrendo durante suas interações. Por fim, é importante destacar a ausência de mecanismos de prevenção de erros, uma vez que o sistema muitas vezes executa ações importantes sem solicitar confirmação do usuário.
+A Wikipédia apresenta algumas limitações e características negativas que podem ser aprimoradas.
+
+Dificuldade em encontrar as principais funcionalidades da plataforma: A plataforma apresenta dificuldades na localização das principais funcionalidades, por exemplo edição de artigo e informar um erro no artigo. Atualmente, esses processos requerem uma quantidade significativa de cliques e opções, tornando-o complexo para os usuários e exigindo que eles memorizem os passos necessários para realizar uma edição. Essa abordagem dificulta o aprendizado e pode ser aprimorada para proporcionar uma experiência mais intuitiva e acessível aos usuários.
+
+Feedback: A plataforma precisa oferecer um feedback mais claro, permitindo que os usuários obtenham informações precisas sobre o que está ocorrendo durante suas interações. Por exemplo, ao editar ou publicar um artigo, entre outras funcionalidades, seria altamente benéfico implementar uma caixa de texto que apareça sempre que o usuário realizar alterações importantes. Dessa forma, eles terão um acompanhamento claro e imediato de suas ações.
+
+Prevenção de Erros: É crucial ressaltar a falta de mecanismos de prevenção de erros neste sistema, já que muitas vezes ele realiza ações importantes sem solicitar confirmação do usuário. Por exemplo, ao publicar ou editar um artigo, é essencial que uma caixa de confirmação seja exibida para o usuário, garantindo assim sua intenção antes de prosseguir.
 
 ## Bibliografia
 

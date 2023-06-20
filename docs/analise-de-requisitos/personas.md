@@ -1,20 +1,20 @@
 ## Introdução
 
-Bem-vindo à página de personas do projeto! Aqui você encontrará uma lista de personas e antipersona que serão utilizados para projeto. Essas personas são pessoas ficticias, para definir nosso público-alvo, o qual foram selecionadas e baseadas no perfil de usuário, assim tendo base para definir as personas.
+Bem-vindo à página de personas do projeto! Aqui você encontrará uma lista de personas e antipersona que serão utilizados para projeto. Essas personas são pessoas ficticias, para definir nosso público-alvo, o qual foram selecionadas e baseadas no [perfil de usuário](../analise-de-requisitos/perfilDeUsuario.md), assim tendo base para definir as personas, Uma persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais, criada para descrever um usuário típico [1].
 
-### Definição
+### Metodologia
 
 Foi escolhido 3 personas, encontradas na tabela 1, 2 e 3, e também foi escolhida 1 antipersona, encontrada na tabela 4. As personas são baseadas em usuários reais, e a antipersona é baseada em um usuário que não é o público-alvo do projeto. Foram escolhidos esses números pois no livro da Simone Diniz Junqueira Barbosa, "Interação Humano-Computador", é recomendado que sejam escolhidas de 3 a 12 personas (página 183 do livro da Simone), incluindo antipersona.
 
 ### Como as personas serão utilizadas no projeto
 
-Utilizaremos as personas criadas para temos uma base de como será o usuário do projeto, assim facilitando a criação de um projeto que atenda as necessidades do usuário. As personas serão utilizadas para definir o público-alvo do projeto, e a antipersona será utilizada para definir o que não será feito no projeto.
+Utilizaremos as personas criadas para temos uma base de como será o usuário do projeto, assim facilitando a criação de um projeto que atenda as necessidades do usuário. As personas serão utilizadas para definir o público-alvo do projeto, e as antipersonas serão utilizadas para definir o que não será feito no projeto, vale ressaltar que não foi possível identificar uma persona secundária, dado o baixo nível de complexidade do site.
 
 ## Personas
 
 ### Luís Silva
 
-|                                                                                                                                                                                                          ![Lude Persona](../images/personas/luis.jpeg)                                                                                                                                                                                                          |
+|                                                                                                                                                                                                  <img width='50%' src="../../images/personas/luis.jpeg">                                                                                                                                                                                                  |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                                                                                                                                                  **Nome:** Luís Silva                                                                                                                                                                                                                  |
 |                                                                                                                                                                                                                  **Gênero:** Masculino                                                                                                                                                                                                                  |
@@ -27,40 +27,17 @@ Utilizaremos as personas criadas para temos uma base de como será o usuário do
 |                                                                                                                           **Habilidades:** Luís possui habilidades avançadas de pesquisa na internet e navegação em sites. Ele também tem uma boa compreensão da língua portuguesa e habilidades de leitura e escrita.                                                                                                                           |
 | **Tarefas:** Luís utiliza o Wikipedia diariamente para explorar tópicos diversos e aprender coisas novas. Ele geralmente começa suas pesquisas com um tópico de seu interesse e acaba navegando por vários outros artigos relacionados. Luís também dedica tempo para revisar as informações encontradas e absorver novos conhecimentos. Ele utiliza o que aprendeu em suas conversas do dia-a-dia e para melhorar seu desempenho no trabalho. |
 |                                                                                         **Requisitos:** Para satisfazer sua curiosidade, Luís precisa de acesso a uma ampla variedade de informações precisas e confiáveis, que possam ser facilmente compreendidas por ele. Ele também precisa de uma plataforma de pesquisa fácil de usar e acessível.                                                                                         |
-|                                                                   **Expectativas:** Luís espera que o Wikipedia seja uma fonte confiável e acessível de informações para satisfazer sua curiosidade e ajudá-lo a descobrir novas informações e ideias. Ele espera que a plataforma ajude a expandir seu conhecimento e contribua para seu crescimento pessoal e profissional.                                                                   |
+|                                                             **Expectativas:** Luís espera que o Wikipedia seja uma fonte confiável e acessível de informações para satisfazer sua curiosidade e ajudá-lo a descobrir novas informações e ideias. Além disso, ele também espera conseguir fazer pesquisas gerais no site para poder utilizar as informações em sua vida pessoal.                                                             |
 |                                                                                                                                                                                            **Endereço:** Luís mora com seu cachorro em Caxias do Sul - RS.                                                                                                                                                                                            |
 |                                                                                                                                                                                                 **Locomoção:** Luís se locomove em sua motocicleta.                                                                                                                                                                                                 |
 
 <div style="text-align: center">
-<p> Tabela 1: Persona Primária 1, versão 1. (Fonte: Autores. 2023).</p>
-</div>
-
-### Maria Luíza Oliveira
-
-|                                                                                                                       ![Antonia da Silva Davila](../images/personas/maria.jpeg)                                                                                                                       |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                                                                **Nome:** Maria Luíza Oliveira                                                                                                                                |
-|                                                                                                                                     **Gênero:** Feminino                                                                                                                                     |
-|                                                                                                                                         **Idade:** 16                                                                                                                                         |
-|                                                                                                                                **Escolaridade:** Ensino médio                                                                                                                                |
-|                                                                                                                                   **Profissão:** Estudante                                                                                                                                   |
-|                                                                                                                           **Relacionamentos:** Solteira, sem filhos                                                                                                                           |
-|                                                                                                                                 **Status:** Persona primária                                                                                                                                 |
-|                   **Objetivos:** Maria Luíza é uma estudante do ensino médio e utiliza o Wikipedia para realizar pesquisas e trabalhos escolares. Seu objetivo é encontrar informações precisas e confiáveis para utilizar em seus estudos e ter sucesso acadêmico.                   |
-|                                    **Habilidades:** Maria Luíza possui habilidades básicas de pesquisa na internet e navegação em sites. Ela também tem uma boa compreensão da língua portuguesa, o que a ajuda a entender os artigos do Wikipedia.                                    |
-|                      **Tarefas:** Maria Luíza utiliza o Wikipedia diariamente para auxiliar em seus estudos e trabalhos escolares. Ela geralmente inicia suas pesquisas logo após as aulas, buscando informações precisas e confiáveis para completar suas tarefas                      |
-|                    **Requisitos:** Para ter sucesso em seus estudos, Maria Luíza precisa de acesso a informações precisas e confiáveis que possam ser facilmente compreendidas por ela. Ela também precisa de uma plataforma de pesquisa fácil de usar e acessível.                    |
-| **Expectativas:** Maria Luíza espera que o Wikipedia seja uma fonte confiável e acessível de informações para suas pesquisas escolares e para aprender sobre diferentes assuntos. Ela espera que a plataforma ajude a expandir seu conhecimento e contribua para seu sucesso acadêmico. |
-|                                                                                                             **Endereço:** Maria mora com seus pais em Planalto Itaperuna - RJ                                                                                                             |
-|                                                                                               **Locomoção:** Maria Luíza utiliza seu passe escolar e assim, utiliza os onibús da prefeitura                                                                                               |
-
-<div style="text-align: center">
-<p> Tabela 2: Persona Primária 2, versão 1. (Fonte: Autores. 2023).</p>
+<p> Tabela 1: Primeira persona primária (Fonte: Autores. 2023).</p>
 </div>
 
 ### Rodrigo Lucas da Cunha
 
-|                                                                                                                 ![Rodrigo Lucas da Cunha](../images/personas/rodrigo.jpeg)                                                                                                                 |
+|                                                                                                              <img width='50%' src="../../images/personas/rodrigo.jpeg">                                                                                                              |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                                                          **Nome:** Rodrigo Lucas da Cunha                                                                                                                          |
 |                                                                                                                               **Gênero:** Masculino                                                                                                                               |
@@ -78,12 +55,14 @@ Utilizaremos as personas criadas para temos uma base de como será o usuário do
 |                                                                                                                **Locomoção:** Rodrigo anda em seu carro próprio.                                                                                                                |
 
 <div style="text-align: center">
-<p> Tabela 3: Persona Primária 3, versão 1. (Fonte: Autores. 2023).</p>
+<p> Tabela 3: Terceira persona Primária (Fonte: Autores. 2023).</p>
 </div>
+
+## Antipersonas
 
 ### Nelson Ricardo Jesus
 
-|                                                                                                                                                                                                                              ![Welligton Ferreira Delacruz](../images/personas/nelson.jpeg)                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                             <img width='50%' src="../../images/personas/nelson.jpeg">                                                                                                                                                                                                                             |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                                                                                                                                                                         **Nome:** Nelson Ricardo Jesus                                                                                                                                                                                                                                         |
 |                                                                                                                                                                                                                                             **Gênero:** Masculino                                                                                                                                                                                                                                             |
@@ -100,8 +79,34 @@ Utilizaremos as personas criadas para temos uma base de como será o usuário do
 |                                                                                                                                                                                                                             **Locomoção:** Nelson se locomove em sua bicicleta.                                                                                                                                                                                                                             |
 
 <div style="text-align: center">
-<p> Tabela 4: Antipersona, versão 1. (Fonte: Autores. 2023).</p>
+<p> Tabela 4: Primeira Antipersona (Fonte: Autores. 2023).</p>
 </div>
+
+### Francisco Davi Ramos
+
+|                                                                           <img width='50%' src="../../images/personas/francisco.jpeg">                                                                           |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                         **Nome:** Francisco Davi Ramos                                                                                         |
+|                                                                                             **Gênero:** Masculino                                                                                             |
+|                                                                                                 **Idade:** 25                                                                                                 |
+|                                                                                    **Escolaridade:** Ensino médio completo                                                                                    |
+|                                                                                          **Profissão:** Desempregado                                                                                          |
+|                                                                                        **Relacionamentos:** Não possui                                                                                        |
+|                                                                                             **Status:** Antipersona                                                                                             |
+|                       **Objetivos:** Perturbar e desestabilizar a comunidade da Wikipedia, introduzindo informações falsas, removendo conteúdo relevante e gerando um ambiente hostil                       |
+|                                                                    **Habilidades:**  Francisco possui bastante habilidades de informatica.                                                                    |
+| **Tarefas:** Acorda tarde, toma seu café da manhã, uma coca-cola do dia anterior com um pão de queijo, após isso, ele joga vídeo game até de noite, após isso, ele gosta de espalhar notícias falsas  |
+|                                            **Expectativas:** Conseguir influenciar negativamente diversas pessoas, se divertir com a desinformação sendo passada.                                            |
+|                                                                        **Endereço:** Francisco mora com seus pais em Taguantiga - DF.                                                                        |
+|                                                                                **Locomoção:** Francisco se locomove à pé.                                                                                |
+
+<div style="text-align: center">
+<p> Tabela 5: Segunda Antipersona (Fonte: Autores. 2023).</p>
+</div>
+
+## Referência Bibliográfica
+
+[1] NIELSEN, Lene. Design personas-new ways, new contexts. Persona Studies, v. 4, n. 2, p. 1-4, 2018.
 
 ## Bibliografia
 
@@ -111,11 +116,10 @@ UNIVESP. Engenharia de Computação - 16º Bimestre - Interfaces Humano-Computad
 
 ‌This Person Does not exist. Disponível em: https://this-person-does-not-exist.com/en. Acesso em 15 de maio de 2023.
 
-
-
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                      | Autor(es)             | Revisor(es)   |
-| ------- | ---------- | -------------------------------- | --------------------- | ------------- |
-| 1.0     | 30/04/2023 | Criação da página de personas | Pedro, Lucas e Samuel | Gabriel e Ana |
-| 1.1     | 04/05/2023 | Variando as personas             | Lucas e Pedro         | Gabriel e Ana |
+| Versão | Data       | Descrição                                | Autor(es)             | Revisor(es)   |
+| ------- | ---------- | ------------------------------------------ | --------------------- | ------------- |
+| 1.0     | 30/04/2023 | Criação da página de personas           | Pedro, Lucas e Samuel | Gabriel e Ana |
+| 1.1     | 04/05/2023 | Variando as personas                       | Lucas e Pedro         | Gabriel e Ana |
+| 1.2     | 19/06/2023 | Aplicando ajustes pedidos na verificação | Lucas e Pedro         | Gabriel       |

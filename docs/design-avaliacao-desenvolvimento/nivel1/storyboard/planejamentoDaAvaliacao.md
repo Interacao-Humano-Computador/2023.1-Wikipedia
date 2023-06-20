@@ -1,6 +1,6 @@
 ## Introdução
 
-No contexto da engenharia de software, o storyboard é uma ferramenta visual fundamental para o planejamento, comunicação e visualização de interfaces de usuário, fluxos de trabalho e interações em sistemas ou aplicativos antes de sua implementação. Sua utilização permite que os profissionais de engenharia de software mapeiem os fluxos de trabalho, identifiquem problemas de usabilidade e tomem decisões embasadas sobre a interface e a experiência do usuário. Além disso, o storyboard serve como base para a criação de protótipos interativos e orienta a definição dos requisitos funcionais do software. Nesse sentido, o presente documento apresenta as avaliações e validações do usuário em relação aos storyboards, a fim de verificar o alinhamento e embasar as decisões do designer.
+No contexto da engenharia de software, o storyboard desempenha um papel fundamental como ferramenta visual no planejamento, comunicação e visualização de interfaces de usuário, fluxos de trabalho e interações em sistemas ou aplicativos antes de sua implementação. Sua utilização permite que os profissionais de engenharia de software mapeiem os fluxos de trabalho, identifiquem problemas de usabilidade e tomem decisões embasadas sobre a interface e a experiência do usuário. Além disso, o storyboard serve como base para a criação de protótipos interativos e orienta a definição dos requisitos funcionais do software. Considerando esse contexto, este documento tem como objetivo realizar um planejamento para avaliar os storyboards desenvolvidos por cada membro do grupo (totalizando 6 storyboards). Esses storyboards foram elaborados tomando como base a análise de tarefas onde foi utilizado o método [AHT](../../../analise-de-requisitos/aht.md) e [GOMS](../../../analise-de-requisitos/goms.md). O objetivo desse planejamento é criar uma direção a ser seguida desde preparação da avaliação até analise dos resultados a fim de obter melhorias para o projeto.
 
 ## Metodologia
 
@@ -21,6 +21,8 @@ Na Tabela 1 a seguir, são apresentados os componentes do framework DECIDE junta
     <p> Tabela 1: Framework DECIDE (Fonte:Barbosa, Silva, Silveira, et al. 2021).</p>
 </div>
 
+Após a contextualização de cada componente do DECIDE, a seguir são apresentados os tópicos que descrevem como cada um deles será utilizado no planejamento da avaliação dos storyboards.
+
 ## Planejamento da avaliação
 
 ### Determinar os objetivos da avaliação
@@ -36,7 +38,7 @@ O propósito deste documento consiste em estabelecer um planejamento para a aval
 
 ### Explorar perguntas a serem respondidas com a avaliação
 
-As perguntas apresentadas na Figura 1 comporão a entrevista com o usuário.
+As perguntas apresentadas na Figura 1 comporão a entrevista com o usuário, as perguntas 1, 2 e 3 são um misto entre perguntas fechadas e abertas dependendo da resposta do usuario, enquanto a 4 e 5 são perguntas abertas.
 
 ![Perguntas para entrevista ](../../../images/roteiroPerguntas.png)
 
@@ -81,6 +83,14 @@ O orçamento será composto pelos gastos pessoais de cada participante da entrev
 
 Antes de realizar a entrevista com o usuário será realizado um teste piloto. O teste piloto consiste em simular a entrevista com um membro do grupo. A partir desse teste será possível verificar se as perguntas abrangem o que é necessário para a avaliação e o tempo previsto para a entrevista. Qualquer mudança necessária será feita antes de realizar a entrevista.
 
+No domingo, dia 28 de maio de 2023, o teste piloto, encontrado no vídeo 1, foi conduzido de forma remota no TEAMS com a participação de Lucas e Ana. Durante a realização do teste, foram identificadas algumas possíveis melhorias no storyboard como qualidade de imagem ruim. Como resultado, os storyboards tiverem uma melhoria na resolução. No entanto, os demais aspectos do planejamento estavam em conformidade.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SM_PAuP2bdg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<div style="text-align: center">
+<p>Video 1: Gravação da entrevista com usuário.(Fonte: Autores. 2023).</p>
+</div>
+
 ### Papéis dos Avaliadores
 
 Durante a entrevista com o usuário, um dos membros do grupo exercerá o papel de avaliador. Ele ficará responsável por observar os comportamentos, comunicação não verbal e respostas do entrevistado, enquanto conduz a entrevista. Terá mais um membro do grupo presente na avaliação que observará e, se necessário, auxiliará na entrevista. Esse segundo membro também será responsável por registrar as respostas do entrevistado.
@@ -101,7 +111,7 @@ A seguir, apresentamos a Tabela 1 com o cronograma da avaliação:
 
 ## Avaliar(Evaluate), interpretar e apresentar os dados
 
-Após a entrevista, os dados coletados serão analisados tanto pelos entrevistadores quanto pela equipe responsável pelo [Relato dos Resultados](./relatoDosResultadosStoryBoard.md) do Storyboard. Será realizada uma avaliação do grau de confiabilidade dos dados obtidos, verificando sua possibilidade de replicação no contexto esperado. Por fim, os resultados da avaliação serão relatados de forma adequada.
+Após a entrevista, os dados coletados serão analisados tanto pelos entrevistadores quanto pela equipe responsável pelo [Relato dos Resultados](./relatoDosResultadosStoryBoard.md) do Storyboard. Será realizada uma avaliação do grau de confiabilidade dos dados obtidos, verificando sua possibilidade de replicação no contexto esperado. Por fim, os problemas encontrados serão documentados junto com as sugestões de melhoria, em formato de texto.
 
 
 ## Storyboards
@@ -181,3 +191,4 @@ Lichess. Disponível em: [https://interacao-humano-computador.github.io/2022.2-L
 | 1.0     | 16/05/2023 | Criação do documento           | Pedro e Ana | Chaydson e Pedro |
 | 1.1     | 27/05/2023 | Inserindo storyboard da figura 1 | Lucas       | Samuel           |
 | 1.2     | 08/06/2023 | Aplicando correções apontadas pelo monitor | Pedro       | Ana           |
+| 1.3     | 19/06/2023 | Aplicando correções apontadas pelo verificação | Pedro e Ana       | Samuel           |

@@ -2,53 +2,94 @@
 
 ## Introdução
 
-O seguinte documento de planejamento aborda a maneira como os resultados das entrevistas devem ser tratados, com base no método selecionado, que consiste em entrevistas e observação no caso dos Protótipos de Alta Fidelidade.
+Um relato bem planejado é um documento que apresenta os resultados e conclusões de uma avaliação de forma clara e ordenada. Ele ajuda a entender os dados coletados e o resultado da avaliação, incluindo todas as informações relevantes.
 
 ## Metodologia
 
-Com base no documento do planejamento da avaliação dos protótipos de alta fidelidade e nos elementos de avaliação citados no livro de Barbosa [1], página 279, iremos construir o relato de resultados.
+O relato de resultados será construído seguindo o documento do planejamento da avaliação dos protótipos de alta fidelidade e os elementos de avaliação do livro de Barbosa e Silva [1].
 
-Os elementos de avaliação são:
+Esses elementos são:
 
-- Os objetivos e escopo da avaliação
-- Metodo de avaliação empregado;
-- O número e o perfil de usuários e avaliadores que participaram da avaliação;
-- Um sumário dos dados coletados;
+- Os objetivos e escopo da avaliação.
+- Método de avaliação empregado.
+- Um sumário dos dados coletados.
 - Análise e interpretação dos dados coletados;
-- Listagem de problemas encontrados;
-- Sugestões para um possível reprojeto do sistema;
+- Listagem de problemas encontrados e refatoração do artefato.
 
-## Objetivos da avaliação
+## Organização do artefato do relato do protótipo de alta fidelidade
 
-Nesta etapa, é essencial que o redator do documento explique claramente os motivos pelos quais essa avaliação está sendo conduzida, juntamente com os objetivos que o grupo pretende atingir. É importante estabelecer a razão por trás dessa avaliação e comunicar de maneira concisa e direta os objetivos que orientam o processo.
+O artefato do relato do prótotipo de alta fidelidade deverá ter a seguinte estrutura, seguindo o que foi dito por Barbosa e Silva [1]
 
-## Método de avaliação empregado
+### Introdução
 
-Nesta seção, é necessário relembrar ou descrever o método de avaliação utilizado, destacando as necessidades que levaram o grupo a optar por esse método específico.
+Neste item, deverá ser escrita uma introdução sobre a avaliação realizada, destacando os principais aspectos dos resultados obtidos. Esses aspectos serão analisados com mais profundidade nas seções seguintes.
 
-## Implementação no sistema real
+### Os objetivos e escopo da avaliação
 
-Os protótipos de alta fidelidade têm como principal objetivo serem utilizados nos testes de usabilidade do produto, permitindo que os usuários-alvo validem sua eficácia. O mesmo desempenha um papel crucial na implementação de um sistema, pois oferece benefícios significativos em termos de usabilidade, design e economia de recursos. O protótipo permite que a equipe teste e valide os conceitos e fluxos de trabalho do sistema antes do desenvolvimento completo, o que ajuda a identificar e corrigir problemas precocemente. Isso evita retrabalhos dispendiosos e atrasos na fase de implementação, resultando em economia de tempo e recursos.
+Neste item, deverá ser escrito os objetivos da avaliação realizada, explicitando as expectativas e os propósitos que nortearam o processo. Também indicamos se esses objetivos foram atingidos, parcial ou totalmente, e em que medida.
 
-## O número e o perfil do usuário e do avaliador
+### Método de avaliação empregado
 
-Com o objetivo de obter uma visão ampla do público entrevistado, é necessário realizar um resumo que identifique os usuários e delineie seus possíveis perfis. Essa análise é conduzida através da avaliação das respostas fornecidas pelos usuários durante as entrevistas, assim como pela observação de suas características e comportamentos. Com base nessas informações, é viável incluir o entrevistado em uma persona previamente elaborada.
+Neste item, deverá ser escrita a metodologia adotada para a avaliação, justificando a sua adequação ao propósito e ao escopo do estudo.
 
-## Um sumário dos dados coletados
+Deverá também ser escrita as tarefas propostas para os entrevistados executarem, demonstrando como elas se relacionam com os objetivos da avaliação.
 
-Com o resultado das entrevistas, é possível obter uma visão geral dos dados coletados, que podem ser apresentados em forma de tabelas e gráficos. Esses dados podem ser utilizados para a justicativa de se o prótotipo de alta fidelidade construído é melhor ou não que a atual implementação do wikipedia, com base na opinião dos entrevistado, que representa alguma persona criada previamente.
+Deverá também ser escrito sobre o termo de consetimento assinado juntamente com seus aspectos éticos.
 
-## Análise e interpretação dos dados coletados
+Por fim, deverá ter escrita em forma de tabela o cronograma da avaliação, especificando a data, o horário, o local, entrevistador e entrevistado.
 
-Após o sumário dos dados coletados, é necessário realizar uma análise e interpretação dos dados coletados, deve-se organizar os dados de maneira clara e objetiva usando tabelas, por exemplo. Depois dessa primeia etapa, deve-se fazer a análise dos dados em si, atráves de medidas que ajudem a distruibuição dos dados, também é importante verificar se há correlações entre diferentes variáveis e identificar possíveis padrões nos dados, por fim, tirar as conclusões dos dados, isso envolve tirar conclusões a partir dos dados e tentar explicar o que eles significam. É importante lembrar que a interpretação dos dados deve ser baseada em evidências e não em suposições ou opiniões pessoais.
+| Data              | Horário              | Local              | Entrevistador              | Entrevistado              | Termo de consetimento           |
+| ----------------- | -------------------- | ------------------ | -------------------------- | ------------------------- | ------------------------------- |
+| Data da reunião 1 | Horário da reunião 1 | Local da reunião 1 | Entrevistador da reunião 1 | Entrevistado da reunião 1 | Link do termo de consetimento 1 |
+| ...               | ...                  | ...                | ...                        | ...                       | ...                             |
+| Data da reunião N | Horário da reunião N | Local da reunião N | Entrevistador da reunião N | Entrevistado da reunião N | Link do termo de consetimento N |
 
-## Listagem de problemas encontrados
+<div style="text-align: center">
+    <p> Tabela 1: Metadados das entrevistas (Fonte: Autores. 2023).</p>
+</div>
 
-Nessa etapa, deve-se listar os problemas encontrados durante a avaliação, esses problemas podem ser de usabilidade, de design, de implementação, etc. É importante que esses problemas sejam listados de maneira clara e objetiva, para que seja possível identificar o problema e a sua causa.
+### Sumário dos dados coletados
 
-## Sugestões para um possível reprojeto do sistema
+Neste item, deverá ser escrito os dados coletados com a avaliação de cada tarefa, sintetizando de forma clara e objetiva se os participantes conseguiram realizá-la com sucesso ou não.
 
-Por fim, deve-se sugerir possíveis melhorias para o sistema, essas melhorias podem ser baseadas nos problemas encontrados durante a avaliação, ou em outras melhorias que não foram identificadas durante a avaliação, mas que podem ser implementadas no sistema.
+Além disso, será dispobilizada a gravação de cada sessão de avaliação antes da tabela.
+
+A apresentação dos dados deverá ser feita por meio de uma tabela padrão, encontrada na tabela 1.
+
+| Pergunta   | Entrevistado conseguiu realizar? | Comentário do entrevistado   | Sugestão de melhoria informada |
+| ---------- | -------------------------------- | ---------------------------- | ------------------------------ |
+| Pergunta 1 | Sim                              | Comentário do entrevistado 1 | Sugestão do entrevistado 1     |
+| Pergunta 2 | Não                              | Comentário do entrevistado 2 | Sugestão do entrevistado 2     |
+| Pergunta 3 | Sim                              |                              |                                |
+| Pergunta 4 | Não                              |                              |                                |
+| ...        | ....                             | ...                          | ...                            |
+| Pergunta N | Resposta N                       | Comentário N                 | Sugestão do entrevistado N     |
+
+<div style="text-align: center">
+    <p> Tabela 2: Respostas do entrevistado [NomeDoEntrevistado] (Fonte: Autores. 2023).</p>
+</div>
+
+### Análise e interpretação dos dados coletados
+
+Aqui, o objetivo é fazer uma análise e interpretação dos dados. Isso envolve examinar os dados com cuidado, encontrar padrões e tendências importantes, e extrair conclusões relevantes a partir desses dados.
+
+Os dados devem ser relacionados com o propósito da avaliação e os problemas encontrados devem ser analisados quanto ao seu efeito na usabilidade, na experiência do usuário e nas metas definidas.
+
+### Listagem dos problemas de usabilidade encontrados e refatoração do artefato
+
+Neste item, deverá ser escrita uma análise dos dados coletados e identificar os problemas encontrados em cada tarefa, explicando brevemente como o problema se manifestou.
+
+Os problemas encontrados devem ser listados em uma tabela, seguindo os critérios de classificação e priorização.
+
+| Problema   | Onde se manifestou   | Problema de usabilidade afetado   | Sugestão de melhoria | Quem irá executar a refatoração |
+| ---------- | -------------------- | --------------------------------- | -------------------- | ------------------------------- |
+| Problema 1 | Onde se manifestou 1 | Problema de usabilidade afetado 1 | Sugestão 1           | Pessoa 1                        |
+| ...        | ...                  | ...                               | ...                  | ...                             |
+| Problema N | Onde se manifestou N | Problema de usabilidade afetado N | Sugestão N           | Pessoa N                        |
+
+<div style="text-align: center">
+    <p> Tabela 3: Problemas encontrados, sugestão de melhoria e quem irá realizar essa sugestão (Fonte: Autores. 2023).</p>
+</div>
 
 ## Referências
 
@@ -57,6 +98,7 @@ Por fim, deve-se sugerir possíveis melhorias para o sistema, essas melhorias po
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição            | Autor(es)     | Revisor(es)   |
-| ------ | ---------- | -------------------- | ------------- | ------------- |
-| 1.0    | 10/06/2023 | Criação do documento | Pedro e Lucas | Gabriel e Ana |
+| Versão | Data       | Descrição                                    | Autor(es)     | Revisor(es)   |
+| ------ | ---------- | -------------------------------------------- | ------------- | ------------- |
+| 1.0    | 10/06/2023 | Criação do documento                         | Pedro e Lucas | Gabriel e Ana |
+| 1.1    | 19/06/2023 | Refatoração do artefato conforme verificação | Pedro e Lucas | Gabriel       |

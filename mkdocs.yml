@@ -24,16 +24,16 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Trocar para o modo claro
-  
+
   icon:
     repo: fontawesome/brands/github
-    
+
   logo: images/wikipedia.png
 
 nav:
   - Home: index.md
   - Atas:
-      - 01/04/2023: atas/ata_01_04.md  
+      - 01/04/2023: atas/ata_01_04.md
       - 07/04/2023: atas/ata_07_04.md
       - 21/04/2023: atas/ata_21_04.md
       - 05/05/2023: atas/ata_05_05.md
@@ -53,54 +53,54 @@ nav:
       - Commit: politicas/commit.md
       - Branch: politicas/branch.md
   - Planejamento:
-      - Cronogramas: 
-        - Planejado: planejamento/cronogramaPlanejado.md
-        - Realizado: planejamento/cronogramaRealizado.md
+      - Cronogramas:
+          - Planejado: planejamento/cronogramaPlanejado.md
+          - Realizado: planejamento/cronogramaRealizado.md
       - Sites analisados: planejamento/sitesAnalisados.md
       - Site selecionado:
-        - Sobre a Wikipedia: planejamento/siteEscolhido.md    
-        - Avaliação Heurística: planejamento/avaliacaoHeuristica.md  
+          - Sobre a Wikipedia: planejamento/siteEscolhido.md
+          - Avaliação Heurística: planejamento/avaliacaoHeuristica.md
       - Ferramentas: planejamento/ferramentas.md
-      - Disponibildade dos Membros: planejamento/disponibilidade.md   
+      - Disponibildade dos Membros: planejamento/disponibilidade.md
       - Processo de Design: planejamento/processo.md
   - Análise de Requisitos:
-      - Perfil de Usuário: analise-de-requisitos/perfilDeUsuario.md 
+      - Perfil de Usuário: analise-de-requisitos/perfilDeUsuario.md
       - Personas: analise-de-requisitos/personas.md
       - Aspectos éticos: analise-de-requisitos/aspectosEticos.md
       - Análise de Tarefas:
-        - AHT: analise-de-requisitos/aht.md
-        - GOMS: analise-de-requisitos/goms.md
+          - AHT: analise-de-requisitos/aht.md
+          - GOMS: analise-de-requisitos/goms.md
       - Princípios Gerais do Projeto: analise-de-requisitos/principiosGerais.md
       - Características da Plataforma: analise-de-requisitos/caracteristicaDaPlataforma.md
       - Guia de estilo: analise-de-requisitos/guiaDeEstilo.md
       - Metas de Usabilidade: analise-de-requisitos/metasUsabilidade.md
   - Design, Avaliação e Desenvolvimento:
       - Nível 1:
-        - Storyboard:
-          - Planejamento da avaliação: design-avaliacao-desenvolvimento/nivel1/storyboard/planejamentoDaAvaliacao.md
-          - Planejamento do relato: design-avaliacao-desenvolvimento/nivel1/storyboard/planejamentoResultadosAvaliacaoStoryboard.md
-          - Relato dos resultados: design-avaliacao-desenvolvimento/nivel1/storyboard/relatoDosResultadosStoryBoard.md
-        - Análise de tarefas:
-          - Planejamento da avaliação: design-avaliacao-desenvolvimento/nivel1/analiseDeTarefas/planejamentoDaAvaliacaoTarefas.md
-          - Planejamento do relato: design-avaliacao-desenvolvimento/nivel1/analiseDeTarefas/planejamentoResultadosAnalisesTarefas.md
-          - Relato dos resultados: design-avaliacao-desenvolvimento/nivel1/analiseDeTarefas/relatoDaAnaliseDeTarefa.md
+          - Storyboard:
+              - Planejamento da avaliação: design-avaliacao-desenvolvimento/nivel1/storyboard/planejamentoDaAvaliacao.md
+              - Planejamento do relato: design-avaliacao-desenvolvimento/nivel1/storyboard/planejamentoResultadosAvaliacaoStoryboard.md
+              - Relato dos resultados: design-avaliacao-desenvolvimento/nivel1/storyboard/relatoDosResultadosStoryBoard.md
+          - Análise de tarefas:
+              - Planejamento da avaliação: design-avaliacao-desenvolvimento/nivel1/analiseDeTarefas/planejamentoDaAvaliacaoTarefas.md
+              - Planejamento do relato: design-avaliacao-desenvolvimento/nivel1/analiseDeTarefas/planejamentoResultadosAnalisesTarefas.md
+              - Relato dos resultados: design-avaliacao-desenvolvimento/nivel1/analiseDeTarefas/relatoDaAnaliseDeTarefa.md
       - Nível 2:
-        - Protótipo de papel:
-          - Planejamento da Avaliação: design-avaliacao-desenvolvimento/nivel2/prototipoDePapel/planejamentoDaAvaliacaoPrototipoDePapel.md
-          - Planejamento do relato: design-avaliacao-desenvolvimento/nivel2/prototipoDePapel/planejamentoRelatoResultadosAvaliacaoPrototipoPapel.md
-          - Relato dos resultados: design-avaliacao-desenvolvimento/nivel2/prototipoDePapel/relatoDosResultados.md
+          - Protótipo de papel:
+              - Planejamento da Avaliação: design-avaliacao-desenvolvimento/nivel2/prototipoDePapel/planejamentoDaAvaliacaoPrototipoDePapel.md
+              - Planejamento do relato: design-avaliacao-desenvolvimento/nivel2/prototipoDePapel/planejamentoRelatoResultadosAvaliacaoPrototipoPapel.md
+              - Relato dos resultados: design-avaliacao-desenvolvimento/nivel2/prototipoDePapel/relatoDosResultados.md
       - Nível 3:
-        - Protótipo de Alta Fidelidade:
-          - Planejamento da Avaliação: design-avaliacao-desenvolvimento/nivel3/prototipoAltaFidelidade/planejamentoAvaliacaoPrototipoAltaFidelidade.md
-          - Planejamento do relato: design-avaliacao-desenvolvimento/nivel3/planejamentoRelatoResultadosAvaliacaoPrototipoDeAltaFidelidade.md
+          - Protótipo de Alta Fidelidade:
+              - Planejamento da Avaliação: design-avaliacao-desenvolvimento/nivel3/prototipoAltaFidelidade/planejamentoAvaliacaoPrototipoAltaFidelidade.md
+              - Planejamento do relato: design-avaliacao-desenvolvimento/nivel3/planejamentoRelatoResultadosAvaliacaoPrototipoDeAltaFidelidade.md
   - Verificação do grupo 3:
       - Planejamento da Verificação: verificacao/planejamento.md
       - Ponto de Controle 1:
-          - Cronograma: verificacao/pontoControle1/cronograma.md 
+          - Cronograma: verificacao/pontoControle1/cronograma.md
           - Ferramentas: verificacao/pontoControle1/ferramentas.md
-          - Metodologias: verificacao/pontoControle1/metodologia.md    
-          - Processos de Design: verificacao/pontoControle1/processosDeDesign.md   
-          - Site Selecionado: verificacao/pontoControle1/siteEscolhido.md   
+          - Metodologias: verificacao/pontoControle1/metodologia.md
+          - Processos de Design: verificacao/pontoControle1/processosDeDesign.md
+          - Site Selecionado: verificacao/pontoControle1/siteEscolhido.md
           - Sites avaliados: verificacao/pontoControle1/sitesAvaliados.md
       - Ponto de Controle 2:
           - Aspectos éticos: verificacao/pontoControle2/aspectosEticos.md
@@ -111,7 +111,7 @@ nav:
       - Ponto de Controle 3:
           - Metas de Usabilidade: verificacao/pontoControle3/metasUsabilidade.md
           - Definir os princípios gerais do projeto: verificacao/pontoControle3/principiosGerais.md
-          - Guia de Estilo : verificacao/pontoControle3/guiaDeEstilo.md
+          - Guia de Estilo: verificacao/pontoControle3/guiaDeEstilo.md
           - Características da Plataforma: verificacao/pontoControle3/caracteristicasDaPlataforma.md
       - Ponto de Controle 4:
           - Planejar a avaliação do Story Board: verificacao/pontoControle4/planejamentoAvaliacaoStoryBoard.md
@@ -123,10 +123,42 @@ nav:
           - Relato do Story Board: verificacao/pontoControle5/relatoStoryboard.md
           - Planejamento do Relato dos Resultados: verificacao/pontoControle5/planejamentoRelatoDosResultados.md
           - Planejamento da avaliação do protótipo de papel: verificacao/pontoControle5/planejamentoPrototipoDePapel.md
+  - Verificação:
+    - Planejamento: verificacao2/planejamento.md
+    - Ponto de Controle 1:
+          - Cronograma: verificacao2/pontoControle1/cronograma.md
+          - Ferramentas: verificacao2/pontoControle1/ferramentas.md
+          - Metodologias: verificacao2/pontoControle1/metodologia.md
+          - Processos de Design: verificacao2/pontoControle1/processosDeDesign.md
+          - Site Selecionado: verificacao2/pontoControle1/siteEscolhido.md
+          - Sites avaliados: verificacao2/pontoControle1/sitesAvaliados.md
+    - Ponto de Controle 2:
+          - Aspectos éticos: verificacao2/pontoControle2/aspectosEticos.md
+          - Análise das Tarefas do Usuário: verificacao2/pontoControle2/analiseDasTarefas.md
+          - Perfil do Usuário: verificacao2/pontoControle2/perfilUsuario.md
+          - Personas: verificacao2/pontoControle2/personas.md
+    - Ponto de Controle 3:
+          - Metas de Usabilidade: verificacao2/pontoControle3/metasUsabilidade.md
+          - Definir os princípios gerais do projeto: verificacao2/pontoControle3/principiosGerais.md
+          - Guia de Estilo: verificacao2/pontoControle3/guiaDeEstilo.md
+          - Características da Plataforma: verificacao2/pontoControle3/caracteristicasDaPlataforma.md
+    - Ponto de Controle 4:
+          - Planejar a avaliação do Story Board: verificacao2/pontoControle4/planejamentoAvaliacaoStoryBoard.md
+          - Planejamento do relato da Avaliação do Storyboard: verificacao2/pontoControle4/planejamentoRelatoDaAvaliaçãoDoStoryBoard.md
+          - Planejar a avaliação da Análise de Tarefas: verificacao2/pontoControle4/planejamentoAvaliacaoAnaliseDeTarefas.md
+          - Planejamento do Relato dos Resultados das Análises de Tarefas: verificacao2/pontoControle4/planejamentoRelatoDaAnaliseDeTarefas.md
+    - Ponto de Controle 5:
+          - Relato da análise de tarefa: verificacao2/pontoControle5/relatoAnaliseTarefa.md
+          - Relato do Story Board: verificacao2/pontoControle5/relatoStoryboard.md
+          - Planejamento do Relato dos Resultados: verificacao2/pontoControle5/planejamentoRelatoDosResultados.md
+          - Planejamento da avaliação do protótipo de papel: verificacao2/pontoControle5/planejamentoPrototipoDePapel.md
+    - Ponto de Controle 7:
+          - Relato do prótipo de papel: verificacao2/pontoControle7/relatoPrototipoDePapel.md
+          - Planejamento da avaliação do protótipo de alta fidelidade: verificacao2/pontoControle7/planejamentoAvaliacaoPrototipoDeAltaFidelidade.md
+          - Planejamento do relato dos resultados do protótipo de alta fidelidade: verificacao2/pontoControle7/planejamentoRelatoPrototipoDeAltaFidelidade.md
   - Politicas:
       - Metodologias: politicas/metodologias.md
       - Issues: politicas/issues.md
       - Pull requests: politicas/pullrequest.md
       - Commit: politicas/commit.md
       - Branch: politicas/branch.md
-          
