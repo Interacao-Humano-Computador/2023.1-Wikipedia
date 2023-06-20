@@ -103,18 +103,18 @@ Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento de
 
 Depois da verificação, o autor do artefato, indicado na tabela 2, deverá fazer as correções indicadas no planejamento dos ajustes e calcular a nova porcentagem.
 
-| ID Correção | Tarefa         | Ajuste                       |
-| ------------- | -------------- | ---------------------------- |
-| IDC1          | Ajustar x      | Foi ajustado x realizando... |
-| IDC2          | Incluir X      | Foi incluido x em ...        |
-| IDC3          | Remover x      | Foi removido x ...           |
-| IDC4          | Especificar x | X foi especificaod melhor... |
+| ID Correção | Tarefa         | Ajuste                        |
+| ------------- | -------------- | ----------------------------- |
+| IDC1          | Ajustar x      | Foi ajustado x realizando...  |
+| IDC2          | Incluir X      | Foi incluido x em ...         |
+| IDC3          | Remover x      | Foi removido x ...            |
+| IDC4          | Especificar x | X foi especificado melhor... |
 
 <div style="text-align: center">
 <p> Tabela 6: Tabela de ajustes feitos (Fonte: Lucas, 2023). </p>
 </div>
 
-Após as correções, a nova porcentagem de aproveitamento é de: p% correto.
+Após as correções, a nova porcentagem de aproveitamento é de: 100% correto.
 
 ## Bibliografia
 
@@ -122,6 +122,7 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 
 ## Histórico de versão
 
-|    Data    | Versão |      Descrição      |     Autor(es)     |
-| :--------: | :-----: | :--------------------: | :---------------: |
-| 19/06/2023 |   1.0   | Criação do documento | Gabriel e Samuel |
+|    Data    | Versão |         Descrição         |     Autor(es)     |
+| :--------: | :-----: | :--------------------------: | :---------------: |
+| 19/06/2023 |   1.0   |    Criação do documento    | Gabriel e Samuel |
+| 19/06/2023 |   1.1   | Aplicação do verificação |       Lucas       |
