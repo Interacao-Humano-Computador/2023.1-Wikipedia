@@ -41,19 +41,19 @@ Após a contextualização de cada componente do DECIDE, a seguir são apresenta
 
 ## Participantes e Entrevistadores
 
-Os entrevistados serão convidados a partir grupos de discord, whatsapp ou então possivelmente pessoas que participaram de entrevistas em outros artefatos, assim os mesmos tem mais familiaridade com a equipe e facilidade de entender o que irá se obter da entrevista. Sobre os entrevistadores, um dos entrevistadores conduzirá a entrevista enquanto outro realizará anotações sobre os dados coletados, além de garantir que caso o entrevistado se sinta desconfortável haja a interrupção da entrevista, ou então, esse mesmo pode auxiliar o primeiro entrevistador para a realização de perguntas que o mesmo tenha deixado passar e problemas inesperados.  
+Os entrevistados serão convidados a partir grupos de discord, whatsapp ou então possivelmente pessoas que participaram de entrevistas em outros artefatos, assim os mesmos tem mais familiaridade com a equipe e facilidade de entender o que irá se obter da entrevista. Sobre os entrevistadores, um dos entrevistadores conduzirá a entrevista enquanto outro realizará anotações sobre os dados coletados, além de garantir que caso o entrevistado se sinta desconfortável haja a interrupção da entrevista, ou então, esse mesmo pode auxiliar o primeiro entrevistador para a realização de perguntas que o mesmo tenha deixado passar e problemas inesperados.
 
 ## Cronograma
 
 Pensando-se nas atividades a serem realizadas para a conclusão, um cronograma é necessário para se cumprir essa atividade de avaliação, tal cronograma está contido na Tabela 1
 
-| Passos | Descrição                                       | Data          | Local( em caso de reunião) | Realizador(es)                             | Revisor(es)                               |
-| ------ | ----------------------------------------------- | ------------- | -------------------------- | ------------------------------------------ | ----------------------------------------- |
-| 1      | Desenvolvimento do Prótipos de Baixa Fidelidade | 29/05 a 02/06 | Sem necessidade            | Ana,Chaydson,Gabriel,Lucas, Samuel e Pedro | Ana,Chaydson,Gabriel,Lucas, Samuel e Pedr |
-| 2      | Teste Piloto                                    | 03/06         | Teams ou Google Meet       | Gabriel e Samuel                           | Lucas                                     |
-| 3      | Entrevista 1                                    | 05/06         | Teams ou Google Meet       | Ana e Lucas                                | Pedro                                     |
-| 4      | Entrevista 2                                    | 06/06         | Teams ou Google Meet       | Pedro e Chaydson                           | Gabriel                                   |
-| 5      | Interpretação dos Dados e Possíveis Melhorias   | 07/06 a 09/06 | Teams                      | Gabriel e Samuel                           | Chaydson e Lucas                          |
+| Passos | Descrição                                      | Data          | Local( em caso de reunião) | Realizador(es)                             | Revisor(es)                               |
+| ------ | ------------------------------------------------ | ------------- | --------------------------- | ------------------------------------------ | ----------------------------------------- |
+| 1      | Desenvolvimento do Prótipos de Baixa Fidelidade | 29/05 a 02/06 | Sem necessidade             | Ana,Chaydson,Gabriel,Lucas, Samuel e Pedro | Ana,Chaydson,Gabriel,Lucas, Samuel e Pedr |
+| 2      | Teste Piloto                                     | 03/06         | Teams ou Google Meet        | Gabriel e Samuel                           | Lucas                                     |
+| 3      | Entrevista 1                                     | 05/06         | Teams ou Google Meet        | Ana e Lucas                                | Pedro                                     |
+| 4      | Entrevista 2                                     | 06/06         | Teams ou Google Meet        | Pedro e Chaydson                           | Gabriel                                   |
+| 5      | Interpretação dos Dados e Possíveis Melhorias | 07/06 a 09/06 | Teams                       | Gabriel e Samuel                           | Chaydson e Lucas                          |
 
 <div style="text-align: center">
     <p> Tabela 1: Cronograma da avaliação do protótipo de baixa-fidelidade (Fonte: Autores. 2023).</p>
@@ -69,14 +69,14 @@ As ferramentas utilizadas para a reunião da entrevista será utlizada o Teams p
 
 O prótotipo de papel está utilizando os fluxos identificados durante a pesquisa documental e questionário no [perfil de usuário](../../../analise-de-requisitos/perfilDeUsuario.md) e seu posterior refinamento nas Análises de Tarefas [AHT](../../../analise-de-requisitos/aht.md) e [GOMS](../../../analise-de-requisitos/goms.md) e posteriormente refinadas dessa análise. Os fluxos que serão prototipados para se realizar a avaliação são 6, baseando na atividades contidas na Análise de Tarefas de [AHT](../../../analise-de-requisitos/aht.md) e [GOMS](../../../analise-de-requisitos/goms.md), contidos na Tabela 2
 
-| Número | Tarefa                                  | Rastro                                         |
-| ------ | --------------------------------------- | ---------------------------------------------- |
-| 1      | Edição de um artigo                     | [AHT](../../../analise-de-requisitos/aht.md)   |
-| 2      | Criação de um artigo no Wikipédia       | [GOMS](../../../analise-de-requisitos/goms.md) |
-| 3      | Realização de uma pesquisa na Wikipédia | [GOMS](../../../analise-de-requisitos/goms.md) |
-| 4      | Informar um erro                        | [GOMS](../../../analise-de-requisitos/goms.md) |
-| 5      | Contatar um Mentor                      | [GOMS](../../../analise-de-requisitos/goms.md) |
-| 6      | Criar uma discussão sobre artigo        | [GOMS](../../../analise-de-requisitos/goms.md) |
+| Número | Tarefa                                     | Rastro                                      |
+| ------- | ------------------------------------------ | ------------------------------------------- |
+| 1       | Edição de um artigo                      | [AHT](../../../analise-de-requisitos/aht.md)   |
+| 2       | Criação de um artigo no Wikipédia       | [GOMS](../../../analise-de-requisitos/goms.md) |
+| 3       | Realização de uma pesquisa na Wikipédia | [GOMS](../../../analise-de-requisitos/goms.md) |
+| 4       | Informar um erro                           | [GOMS](../../../analise-de-requisitos/goms.md) |
+| 5       | Contatar um Mentor                         | [GOMS](../../../analise-de-requisitos/goms.md) |
+| 6       | Criar uma discussão sobre artigo          | [GOMS](../../../analise-de-requisitos/goms.md) |
 
 <div style="text-align: center">
     <p> Tabela 2: Fluxos a serem prototipadas (Fonte: Autores. 2023).</p>
@@ -184,15 +184,15 @@ No termo de consentimento buscamos esclarecer os objetivos da entrevista, solici
 
 A tabela 4 apresenta o roteiro de perguntas que comporá a entrevista. O roteiro pode ser alterado conforme o andamento da entrevista ou segundo a necessidade do entrevistador.
 
-| Pergunta                                                                                                   | Possível resposta                                      | Instrução                                                                       |
-| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------- |
-| Você já fez `nome do fluxo/atividade`                                                                      | Sim/Não                                                | -                                                                               |
-| Qual a frequência que você executa `nome do fluxo/atividade`?                                              | Quantidade em relação a determinado intervalo de tempo | Pergunte caso a primeira resposta seja sim                                      |
-| Realize `nome do fluxo/atividade`. Descreva o pensamento atrás de cada ação feita.                         | Discursiva                                             | Em caso de usuário com dificuldade, entrevistador deverá ajudá-lo via perguntas |
-| Após simulação da `nome do fluxo/atividade`, você identifica que a sequência das atividades seja coerente? | Sim/Não/Inconclusivo                                   | -                                                                               |
-| Explique o motivo da sua resposta                                                                          | Discursiva                                             | -                                                                               |
-| Você imagina outra forma de solução para `nome do fluxo/atividade`                                         | Sim/Não                                                | -                                                                               |
-| Poderia descrever essa solução                                                                             | Discursiva                                             | Pergunte caso a resposta anterior seja sim                                      |
+| Pergunta                                                                                                          | Possível resposta                                       | Instrução                                                                        |
+| ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Você já fez `nome do fluxo/atividade`                                                                         | Sim/Não                                                 | -                                                                                  |
+| Qual a frequência que você executa `nome do fluxo/atividade`?                                                 | Quantidade em relação a determinado intervalo de tempo | Pergunte caso a primeira resposta seja sim                                         |
+| Realize `nome do fluxo/atividade`. Descreva o pensamento atrás de cada ação feita.                           | Discursiva                                               | Em caso de usuário com dificuldade, entrevistador deverá ajudá-lo via perguntas |
+| Após simulação da `nome do fluxo/atividade`, você identifica que a sequência das atividades seja coerente? | Sim/Não/Inconclusivo                                    | -                                                                                  |
+| Explique o motivo da sua resposta                                                                                 | Discursiva                                               | -                                                                                  |
+| Você imagina outra forma de solução para `nome do fluxo/atividade`                                           | Sim/Não                                                 | -                                                                                  |
+| Poderia descrever essa solução                                                                                  | Discursiva                                               | Pergunte caso a resposta anterior seja sim                                         |
 
 <div style="text-align: center">
     <p> Tabela 4: Roteiro de perguntas (Fonte: Autores. 2023).</p>
@@ -208,6 +208,7 @@ BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, 
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição            | Autor(es)            | Revisor(es) |
-| ------ | ---------- | -------------------- | -------------------- | ----------- |
-| 1.0    | 29/05/2023 | Criação do documento | Lucas, Ana e Gabriel | Pedro       |
+| Versão | Data       | Descrição                       | Autor(es)            | Revisor(es) |
+| ------- | ---------- | --------------------------------- | -------------------- | ----------- |
+| 1.0     | 29/05/2023 | Criação do documento            | Lucas, Ana e Gabriel | Pedro       |
+| 1.1     | 19/06/2023 | Ajustes e Correções do artefato | Gabriel, Lucas e Ana | Chaydson    |
