@@ -90,10 +90,9 @@ Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento de
 
 Depois da verificação, o autor do artefato, indicado na tabela 2, deverá fazer as correções indicadas no planejamento dos ajustes e calcular a nova porcentagem.
 
-| ID Correção | Tarefa                                      | Ajuste                |
-| ------------- | ------------------------------------------- | --------------------- |
-| IDC1          | Incluir a avaliação do site DDS           | Avaliação incluída |
-| IDC2          | Incluir link para o artefato site escolhido | Link adicionado       |
+| ID Correção | Tarefa                                      | Ajuste          |
+| ------------- | ------------------------------------------- | --------------- |
+| IDC1          | Incluir link para o artefato site escolhido | Link adicionado |
 
 <!-- Atualizar histórico de versão, após corrigir. -->
 
@@ -101,7 +100,7 @@ Depois da verificação, o autor do artefato, indicado na tabela 2, deverá faze
 <p> Tabela 6: Tabela dos ajustes realizados no artefato (Fonte: Lucas, 2023). </p>
 </div>
 
-Após as correções, a nova porcentagem de aproveitamento é de: p% correto.
+Após as correções, a nova porcentagem de aproveitamento é de: 92.85% correto.
 
 ## Bibiliografia
 
@@ -112,3 +111,4 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 |    Data    | Versão |      Descrição      | Autor(es) |
 | :--------: | :-----: | :--------------------: | :-------: |
 | 17/06/2023 |   1.0   | Criação do documento |    Ana    |
+| 19/06/2023 |   1.1   | Adicionando correção |  Samuel  |
