@@ -24,9 +24,21 @@ Os avaliadores, Chaydson e Pedro, foram responsáveis por conduzir a entrevista,
 
 O participante Yan foi selecionado com base em critérios específicos que refletiam o público-alvo do sistema em avaliação. Isso incluiu fatores como faixa etária, experiência prévia com tecnologia e conhecimento do domínio relevante. A seleção buscou garantir uma representação adequada dos usuários reais do sistema. Durante a entrevista, o participante foi encorajado a expressar suas opiniões, críticas e sugestões. A interação com o participante foi conduzida de forma respeitosa e empática, visando criar um ambiente confortável para que compartilhasse suas percepções de maneira aberta e honesta.
 
+<center>
+
+| Entrevistador(es)         | Entrevistados |
+| ------------------------- | ------------- |
+| Chaydson e Pedro Henrique | Yan           |
+
+<div style="text-align: center">
+<p>Tabela 1: Dados dos entrevistadores e entrevistados.(Fonte: Autores. 2023).</p>
+</div>
+
+</center>
+
 ### Termo de Consentimento
 
-A seguir, encontra-se o Termo de Consentimento assinado antes da realização da entrevista, como parte do processo necessário para obter a permissão do participante.
+A seguir, encontra-se o Termo de Consentimento assinado antes da realização da entrevista, como parte do processo necessário para obter a permissão do participante. É importante destacar que a entrevista respeitou os [Aspectos Éticos](../../../analise-de-requisitos/aspectosEticos.md).
 
 [Termo de consentimento](../../../pdfs/termoConsentimentoStoryBoardAssinado.pdf)
 
@@ -35,6 +47,18 @@ A seguir, encontra-se o Termo de Consentimento assinado antes da realização da
 #### Gravação da entrevista
 
 Na terça-feira, dia 28 de maio de 2023, a entrevista com o usuário, encontrado no vídeo 2, foi conduzido de forma remota no TEAMS com a participação dos entrevistadores Pedro e Chaydson e o entrevistado Yan Werlley.
+
+<center>
+
+| Data       | Local | Horário |
+| ---------- | ----- | -------- |
+| 28/05/2023 | TEAMS | 19:41    |
+
+<div style="text-align: center">
+<p>Tabela 2: Informações sobre a entrevista. (Fonte: Autores. 2023).</p>
+</div>
+
+</center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M0xHdzl_24I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -67,6 +91,7 @@ BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, 
 ## Histórico de Versão
 
 | Versão | Data       | Descrição            | Autor(es)        | Revisor(es)      |
-| ------ | ---------- | -------------------- | ---------------- | ---------------- |
-| 1.0    | 28/05/2023 | Teste piloto         | Lucas e Ana      | Chaydson e Pedro |
-| 1.1    | 28/05/2023 | Criação do documento | Chaydson e Pedro | Lucas e Ana      |
+| ------- | ---------- | ---------------------- | ---------------- | ---------------- |
+| 1.0     | 28/05/2023 | Teste piloto           | Lucas e Ana      | Chaydson e Pedro |
+| 1.1     | 28/05/2023 | Criação do documento | Chaydson e Pedro | Lucas e Ana      |
+| 1.2     | 19/06/2023 | Aplicando correções da verificação | Chaydson e Pedro | Lucas e Ana      |

@@ -87,7 +87,7 @@ Nos checklists realizados e que serão descritos, podemos observar que:
 - 3/19 exigências estão incompletas;
 - 1/19 exigências estão erradas ou não foram realizadas.
 
-onde x é a quantidade de exigências.
+onde 19 é a quantidade de exigências.
 
 Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento deste artefato está em 78,95% correto.
 
@@ -95,12 +95,12 @@ Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento de
 
 Depois da verificação, o autor do artefato, indicado na tabela 2, deverá fazer as correções indicadas no planejamento dos ajustes e calcular a nova porcentagem.
 
-| ID Correção | Tarefa | Ajuste |
-| ------------- | ------ | ------ |
-| IDC1          |        |        |
-| IDC2          |        |        |
-| IDC3          |        |        |
-| IDC4          |        |        |
+| ID Correção | Tarefa                                                                                          | Ajuste                                                                                                             |
+| ------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| IDC1          | Citar que a entrevista respeitou os aspectos éticos na parte do termo de consetimento         | Foi adicionado no final do texto o apontamento que a entrevista respeitou os aspectos éticos linkando o artefato. |
+| IDC2          | Remover o teste piloto desse artefato e passar para o planejamento da avaliação do storyboard | O teste piloto foi deslocado para o artefato indicado.                                                             |
+| IDC3          | Criar uma tabela para agrupar as informações no texto sobre os papéis                        | A tabela foi criada                                                                                                |
+| IDC3          | Criar uma tabela para agrupar as informações sobre data,local e horário da entrevista        | A tabela foi adicionada                                                                                            |
 
 <!-- Atualizar histórico de versão, após corrigir. -->
 
@@ -108,7 +108,7 @@ Depois da verificação, o autor do artefato, indicado na tabela 2, deverá faze
 <p> Tabela 6: Tabela dos ajustes realizados no artefato (Fonte: Lucas, 2023). </p>
 </div>
 
-Após as correções, a nova porcentagem de aproveitamento é de: p% correto.
+Após as correções, a nova porcentagem de aproveitamento é de: 100% correto.
 
 ## Bibiliografia
 
@@ -119,3 +119,5 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 |    Data    | Versão |      Descrição      |    Autor(es)    |
 | :--------: | :-----: | :--------------------: | :--------------: |
 | 17/06/2023 |   1.0   | Criação do documento | Gabriel e Samuel |
+| 19/06/2023 |   1.1   | Aplicando correção da verificação | Pedro e Chaydson |
+
