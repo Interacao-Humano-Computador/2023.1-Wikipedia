@@ -80,6 +80,10 @@ O presente documento apresentará a verificação do artefato [Avaliação do Pr
 | IDC14         | Não está definido o orçamento necessário para realizar a avaliação                                                                      |
 | IDC15         | Não foi planejada a comparação entre a alternativa de design prosta com o design atual                                                     |
 
+<div style="text-align: center">
+    <p> Tabela 4: Ajustes para o artefato (Fonte: Autores. 2023).</p>
+</div>
+
 Para saber a porcentagem de aproveitamento do artefato, será utilizado a expressão da Figura 1, no qual a Tabela 5 apresenta o significado dessa legendas.
 
 <img src="../../../images/formulaCalculoAproveitamento.png"  alt="legenda da fórmula da figura 1"/>
@@ -112,24 +116,39 @@ Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento de
 
 Depois da verificação, o autor do artefato, indicado na tabela 2, deverá fazer as correções indicadas no planejamento dos ajustes e calcular a nova porcentagem.
 
-| ID Correção | Tarefa | Ajuste |
-| ------------- | ------ | ------ |
-| IDC1          |        |        |
+| ID Correção | Tarefa                                                                                                                                        | Ajuste                                                                                                                                                                                                                                                                 |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| IDC1          | A introdução só está falando o que é um protótipo em papel. Precisa entrar nos detalhes da construção do artefato                     |                                                                                                                                                                                                                                                                        |
+| IDC2          | Só está explicando a teoria do DECIDE e não como ele foi aplicado no projeto                                                               |                                                                                                                                                                                                                                                                        |
+| IDC3          | Está faltando como será feita a interpretação dos dados                                                                                  |                                                                                                                                                                                                                                                                        |
+| IDC4          | Não está definido como ocorrerá o recrutamento dos participantes                                                                           |                                                                                                                                                                                                                                                                        |
+| IDC5          | Apesar de o vídeo do teste-piloto se encontrar no documento, os dados coletados durante ele não estão                                      |                                                                                                                                                                                                                                                                        |
+| IDC6          | Não foi elaborado um questionário para saber a opinião do participante sobre a entrevista                                                 | A opinião do usuário, ao longo da entrevista sobre os protótipos analisados, e caso, o mesmo não se sinta satisfeito um dos entrevistadores pode interromper a entrevista, dessa maneira pode-se ter uma pequena ideia indiretamente sobre a opinião do usuário. |
+| IDC7          | Não foi elaborado instruções para orientar o participante                                                                                  |                                                                                                                                                                                                                                                                        |
+| IDC8          | Não foi citado o papel dos avaliadores durante a entrevista                                                                                  |                                                                                                                                                                                                                                                                        |
+| IDC9          | Não está definido como ocorrerá o registro dos dados coletados                                                                            |                                                                                                                                                                                                                                                                        |
+| IDC10         | Não está definido qual será o tipo de dados coletados                                                                                     |                                                                                                                                                                                                                                                                        |
+| IDC11         | Por não existir nada definido sobre a coleta dos dados, não é possível afirmar que se eles estão coerentes com o objetivo da avaliação |                                                                                                                                                                                                                                                                        |
+| IDC12         | Não está definido como os dados serão analisados                                                                                           |                                                                                                                                                                                                                                                                        |
+| IDC13         | Os recursos necessários para a realização da atividade foram citados, porém não foi explicado como eles serão utilizados e preparados   |                                                                                                                                                                                                                                                                        |
+| IDC14         | Não está definido o orçamento necessário para realizar a avaliação                                                                      |                                                                                                                                                                                                                                                                        |
+| IDC15         | Não foi planejada a comparação entre a alternativa de design prosta com o design atual                                                     |                                                                                                                                                                                                                                                                        |
 
 <!-- Atualizar histórico de versão, após corrigir. -->
 
 <div style="text-align: center">
-<p> Tabela 6: Tabela dos ajustes realizados no artefato (Fonte: Chaydson, 2023). </p>
+<p> Tabela 6: Tabela dos ajustes realizados no artefato (Fonte: Gabriel,Lucas e Ana, 2023). </p>
 </div>
 
 Após as correções, a nova porcentagem de aproveitamento é de: p% correto.
 
-## Referência Bibliografica‌
+## Bibliografia‌
 
-BARBOSA, Simone D. J. Interação humano-computador. Rio de Janeiro: Elsevier, 2010.
+Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
 ## Histórico de versão
 
-|    Data    | Versão |      Descrição      | Autor(es) |
-| :--------: | :-----: | :--------------------: | :-------: |
-| 18/06/2023 |   1.0   | Criação do documento | Chaydson |
+|    Data    | Versão |            Descrição            | Autor(es) |
+| :--------: | :-----: | :-------------------------------: | :-------: |
+| 18/06/2023 |   1.0   |      Criação do documento      | Chaydson |
+| 19/06/2023 |   1.1   | Ajustes e Correções do Artefato |  Gabriel  |
