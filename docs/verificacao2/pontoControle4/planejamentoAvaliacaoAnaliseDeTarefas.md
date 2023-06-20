@@ -107,12 +107,15 @@ Depois da verificação, o autor do artefato, indicado na tabela 2, deverá faze
 
 <center>
 
-| ID Correção | Tarefa | Ajuste |
-| ------------- | ------ | ------ |
-| IDC1          |        |        |
-| IDC2          |        |        |
-| IDC3          |        |        |
-| IDC4          |        |        |
+| ID Correção | Tarefa                                                                                                                                                             | Ajuste                                        |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------- |
+| IDC1          | As tabela 3-8 não estão no padrão do projeto, mudar "Autores" para o nome das pessoas que fizeram a tabela.                                                     | As legendas foram padronizadas.               |
+| IDC2          | O documento não apresenta quem serão as pessoas entrevistadas nas tabelas 4-8.                                                                                   | Não se aplica no planejamento.               |
+| IDC3          | Criar um campo para especificar quais dados devem ser coletados com a entrevista.                                                                                  | As perguntas serão os dados coletados.       |
+| IDC4          | Refatorar o texto do "Avaliar(Evaluate), interpretar e apresentar os dados", especificar melhor como será interpretado os dados.                                  | O texto foi refatorado                        |
+| IDC5          | Incluir como será realizado o teste piloto porque só existe conceito.                                                                                            | Foi incluído o teste piloto.                 |
+| IDC6          | Incluir um cronograma com data, horário e local para realização do teste piloto.                                                                                | Foi adicionado o cronograma do teste piloto.  |
+| IDC7          | Incluir no tópico "Identificar e administrar as questões práticas da avaliação" quais equipamentos serão usados para avaliação e o arçamento necessário. | Foi adicionado os equipamentos e orçamento. |
 
 </center>
 <!-- Atualizar histórico de versão, após corrigir. -->
@@ -121,7 +124,7 @@ Depois da verificação, o autor do artefato, indicado na tabela 2, deverá faze
 <p> Tabela 6: Tabela dos ajustes realizados no artefato (Fonte: Lucas, 2023). </p>
 </div>
 
-Após as correções, a nova porcentagem de aproveitamento é de: p% correto.
+Após as correções, a nova porcentagem de aproveitamento é de: 100% correto.
 
 ## Bibiliografia
 
@@ -132,3 +135,4 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 |    Data    | Versão |      Descrição      |  Autor(es)  |
 | :--------: | :-----: | :--------------------: | :---------: |
 | 18/06/2023 |   1.0   | Criação do documento | Pedro e Ana |
+| 19/06/2023 |   1.1   | Adicionando correção |   Samuel   |

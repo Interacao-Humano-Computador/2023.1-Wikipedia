@@ -14,7 +14,7 @@ O objetivo da página é reunir as informações e extrair dados a partir do que
 
 ## Participantes
 
-Na Tabela 1 estão descritos os participantes dessa etapa de entrevistas, sendo um entrevistado e dois entrevistadores, com as entrevistas ocorrendo no Google Meets e Teams, tendo seus horários dispostos nesse mesma página nos tópicos de Relato dos Testes Pilotos e ## Relatos dos Resultados.
+Na Tabela 1 estão descritos os participantes dessa etapa de entrevistas, sendo um entrevistado e dois entrevistadores, com as entrevistas ocorrendo no Google Meets e Teams.
 
 | Função       | Nome                         |
 | -------------- | ---------------------------- |
@@ -25,30 +25,6 @@ Na Tabela 1 estão descritos os participantes dessa etapa de entrevistas, sendo 
 
 <div style="text-align: center">
     <p> Tabela 1: Papéis dos Participantes(Fonte: Gabriel e Samuel. 2023)</p>
-</div>
-
-## Relato dos Testes Pilotos
-Nos Video 1 e Video 2, estão os acontecimentos do teste-piloto feitas pelos componentes Gabriel e Samuel, que ocorreram nos momentos descritos na Tabela 2.  
-
-| Local       | Entrevistador    | Data e hora         |
-| ----------- | ---------------- | ------------------- |
-| Google Meet | Gabriel e Samuel | 28/05 20:35-20:40   |
-| Teams       | Gabriel e Samuel | 28/05  21:30-21:45 |
-
-<div style="text-align: center">
-    <p> Tabela 2: Realização das Entrevistas(Fonte: Gabriel e Samuel. 2023)</p>
-</div>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NrCRswysam4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<div style="text-align: center">
-    <p> Vídeo 1: Teste Piloto 1 (Fonte:Gabriel e Samuel.2023).</p>
-</div>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kEJJAH61ra4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<div style="text-align: center">
-    <p> Vídeo 2: Teste Piloto 2 (Fonte:Gabriel e Samuel.2023).</p>
 </div>
 
 ## Relatos dos Resultados
