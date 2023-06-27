@@ -6,7 +6,7 @@ Este documento tem como objetivo relatar os resultados da avaliação planejada 
 
 ## Objetivos da Avaliação
 
-O objetivo do documento é reunir as informações e extrair dados a partir das entrevistas realizadas, para definir se os protótipos de de alta fidelidade fazem sentido.
+O objetivo do documento é reunir as informações e extrair dados a partir das entrevistas realizadas, para definir se os protótipos de de alta fidelidade fazem sentido e com o teste de usabilidade feito com usuários atendem necessidades desses mesmos.
 
 ## Metodologia
 
