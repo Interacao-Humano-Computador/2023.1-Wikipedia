@@ -16,7 +16,7 @@ Os fluxos que serão analisados estão contidos na Tabela 2 do [planejamento da 
 
 ## Avaliadores e Participantes
 
-A Tabela 1 contém os participantes da entrevista 1, que ocorreu no dia 12 de junho de 2022 às 15:08 no horário de brasília.
+A Tabela 1 contém os participantes da entrevista 1, que ocorreu no dia 12 de junho de 2023 às 15:08 no horário de brasília.
 
 | Nome           | Função      |
 | -------------- | ------------- |
@@ -28,7 +28,7 @@ A Tabela 1 contém os participantes da entrevista 1, que ocorreu no dia 12 de ju
     <p> Tabela 1: Participantes da entrevista 1</p>
 </div>
 
-A Tabela 2 contém os participantes da entrevista 2, que ocorreu no dia 12 de junho de 2022 às 16:19 no horário de brasília.
+A Tabela 2 contém os participantes da entrevista 2, que ocorreu no dia 12 de junho de 2023 às 16:19 no horário de brasília.
 
 | Nome              | Função      |
 | ----------------- | ------------- |
