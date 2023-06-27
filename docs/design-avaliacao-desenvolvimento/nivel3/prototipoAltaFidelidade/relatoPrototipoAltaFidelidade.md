@@ -78,9 +78,7 @@ A entrevista 2 realizada com Henrique, apesar de saber as atividades e conseguir
 
 ### Respostas do Entrevistado 2
 
-
 <img src="../../../../images/prototipoAltaYan.jpeg"/>
-
 
 <div style="text-align: center">
     <p> Tabela 4: Perguntas da Entrevista 2 (Fonte: Autores. 2023).</p>
@@ -94,11 +92,21 @@ As entrevistas foram realizadas levando em consideração [aspectos éticos](../
 
 ## Análise e Intepretação dos Dados
 
-Com o dado exposto nas entrevistas, é possível compreender que existem certas facilidades  quanto ao protótipo de baixa fidelidade,
+O protótipo de alta fidelidade foi facilmente entendido pelos usuários, fornecendo uma experiência fácil de entender ao longo dos fluxos de interação, de acordo com as análise dos dados coletados das entrevistas. A conclusão de todas as tarefas propostas foi significativamente facilitada como resultado disso. Os participantes da pesquisa disseram que o protótipo demonstrou claramente sua funcionalidade e propósito, permitindo que eles usassem o sistema rapidamente e sem problemas. O protótipo deu aos usuários uma sensação de segurança e confiança durante as interação, o que tornou o processo mais simples e eficaz. Essas descobertas mostram que o desenvolvimento do protótipo de alta fidelidade foi bem-sucedido ao garantir uma experiência de usuário fácil de entender e acessível, promovendo uma conclusão eficaz de todos
 
 ## Problemas Identificados
 
+A partir das entrevistas 1 e 2, foi possível verificar que a protótipação possui alguns pontos a serem melhorados, sendo eles:
+
+- O menu drop-down não fechar ao tirar o mouse de cima.
+- A cor de um botão está fora de sintonia com o resto do site.
+
 ## Sugestões de Correção
+
+As sugestões de correção são: 
+
+- Fechar o menu drop-down ao tirar o cursor do mouse de cima.
+- Achar uma cor apropriada para o botão que está fora de sintonia.
 
 ## Bibliografia
 
