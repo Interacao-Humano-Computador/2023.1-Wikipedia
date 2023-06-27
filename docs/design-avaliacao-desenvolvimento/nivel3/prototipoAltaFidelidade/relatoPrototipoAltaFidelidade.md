@@ -107,6 +107,8 @@ As sugestões de correção são:
 
 - Fechar o menu drop-down ao tirar o cursor do mouse de cima.
 - Achar uma cor apropriada para o botão que está fora de sintonia.
+- Diminuir tamanho do menu
+- Adicionar botão de X nos popups
 
 ## Bibliografia
 
