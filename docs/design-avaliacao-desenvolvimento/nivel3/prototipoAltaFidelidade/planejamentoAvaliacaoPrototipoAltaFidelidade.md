@@ -97,6 +97,18 @@ Um protótipo de alta fidelidade apresenta elementos e materiais que serão enco
 
 Durante o teste, um membro do grupo exercerá o papel de avaliador. Ele ficará responsável por observar os comportamentos, comunicação não verbal e respostas do entrevistado, enquanto conduz a entrevista. Outro membro será responsável por explicar como será conduzido o teste de usabilidade e ajudar o participante no que precisar.
 
+## Teste piloto
+
+No Video 1, encontra-se a gravação do teste piloto realizado pelos membros Gabriel e Samuel. A tabela 3 descreve os detalhes do teste piloto. No qual, após realizado não foi identificado nada que possa alterar os resultados.
+
+| Local | Participantes    | Data e hora          |
+| ----- | ---------------- | -------------------- |
+| Teams | Gabriel e Samuel | 24/06/2023 às 22:51 |
+
+<div style="text-align: center">
+    <p> Tabela 3: Realização do teste piloto (Fonte: Gabriel e Samuel. 2023).</p>
+</div>
+
 ## Conclusão
 
 Essa página apresenta o planejamento da avaliação do protótipo de papel. O avaliador pode seguir o que está descrito e fazer alterações caso haja necessário.
