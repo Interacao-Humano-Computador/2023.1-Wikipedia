@@ -45,10 +45,10 @@ A Tabela 2 contém os participantes da entrevista 2, que ocorreu no dia 25 de ju
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FppVu27Rf6XW6Fxe32t4Hhp%2FIHC---Prototipos-team-library%3Ftype%3Ddesign%26node-id%3D2015-135%26scaling%3Dmin-zoom%26page-id%3D2015%253A134%26starting-point-node-id%3D2015%253A135%26show-proto-sidebar%3D1%26mode%3Ddesign" allowfullscreen></iframe>
 
 <div style="text-align: center">
-    <p> Figma 1: Protótipo de Papel de Alta de Protótipo de </p>
+    <p> Figma 1: Protótipo de Alta Fidelidade </p>
 </div>
 
-O protótipo de baixa fidelidade localizado no figma 01, apresenta os possíveis fluxos que o usuário irá realizar durante a entrevista
+O protótipo de alta fidelidade localizado no figma 01, apresenta os possíveis fluxos que o usuário irá realizar durante a entrevista
 
 ## Sumário dos Dados
 
