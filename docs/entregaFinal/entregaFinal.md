@@ -24,6 +24,533 @@ A tabela a seguir, Tabela 1, apresenta todas as ferramentas utilizadas no projet
 <p> Tabela 1: Ferramentas utilizadas durante o projeto (Fonte: Pedro, 2023). </p>
 </div>
 
+## Artefatos criados no projeto
+
+A tabela a seguir, Tabela 2, apresenta todos os artefatos criados no projeto, organizados por etapa, juntamente com seus respectivos autores e revisores.
+
+<table>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Etapa do Projeto</th>
+      <th>Artefatos</th>
+      <th>Autor(es)</th>
+      <th>Revisor(es)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Etapa 1</td>
+      <td><a href="/planejamento/sitesAnalisados">Sites analisados</a></td>
+      <td>Samuel</td>
+      <td>Chaydson</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/planejamento/siteEscolhido">Site selecionado</a></td>
+      <td>Samuel</td>
+      <td>Chaydson</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/planejamento/cronogramaPlanejado">Cronograma planejado</a></td>
+      <td>Lucas</td>
+      <td>Gabriel</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/planejamento/cronogramaRealizado">Cronograma executado</a></td>
+      <td>Lucas</td>
+      <td>Gabriel</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/planejamento/avaliacaoHeuristica">Aplicação do Framework DECIDE no site escolhido</a></td>
+      <td>Lucas, Pedro, Ana, Chaydson, Samuel, Gabriel</td>
+      <td>Samuel e Gabriel</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/planejamento/disponibilidade">Quadro de Disponibilidade de Membros</a></td>
+      <td>Gabriel</td>
+      <td>Chaydson</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/politicas/metodologias">Metodologias</a></td>
+      <td>Lucas</td>
+      <td>Chaydson</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/politicas/issues">Issues</a></td>
+      <td>Lucas</td>
+      <td>Chaydson</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/politicas/pullrequest">Pull Requests</a></td>
+      <td>Lucas</td>
+      <td>Chaydson</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/politicas/commit">Commit</a></td>
+      <td>Lucas</td>
+      <td>Chaydson</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/planejamento/ferramentas">Ferramentas</a></td>
+      <td>Pedro</td>
+      <td>Lucas</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/planejamento/processo">Processo de Design</a></td>
+      <td>Gabriel</td>
+      <td>Ana</td>
+    </tr>
+    <tr>
+      <td>Etapa 2</td>
+      <td><a href="/analise-de-requisitos/perfilDeUsuario">Perfil dos usuários</a></td>
+      <td>Gabriel</td>
+      <td>Chaydson</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/analise-de-requisitos/personas">Personas</a></td>
+      <td>Pedro, Lucas</td>
+      <td>Gabriel e Ana</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/analise-de-requisitos/aspectosEticos">Aspectos Éticos</a></td>
+      <td>Ana Luiza</td>
+      <td>Pedro</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/analise-de-requisitos/aht">Análise de tarefas - HTA</a></td>
+      <td>Chaydson</td>
+      <td>Lucas</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/analise-de-requisitos/goms">Análise de tarefas - GOMS</a></td>
+      <td>Samuel</td>
+      <td>Lucas e Pedro</td>
+    </tr>
+    <tr>
+      <td>Etapa 3</td>
+      <td><a href="/analise-de-requisitos/principiosGerais">Princípios gerais de projeto</a></td>
+      <td>Ana Luiza</td>
+      <td>Pedro</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/analise-de-requisitos/metasUsabilidade">Metas de usabilidade</a></td>
+      <td>Gabriel</td>
+      <td>Chaydson</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/analise-de-requisitos/guiaDeEstilo">Guia de estilo</a></td>
+      <td>Chaydson e Lucas</td>
+      <td>Gabriel e Samuel</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/analise-de-requisitos/caracteristicaDaPlataforma">Características da plataforma</a></td>
+      <td>Samuel e Pedro</td>
+      <td>Ana</td>
+    </tr>
+    <tr>
+      <td>Etapa 4</td>
+      <td><a href="/design-avaliacao-desenvolvimento/nivel1/storyboard/planejamentoDaAvaliacao">Planejamento da avaliação do storyboard</a></td>
+      <td>Pedro e Ana</td>
+      <td>Chaydson e Samuel</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/design-avaliacao-desenvolvimento/nivel1/storyboard/planejamentoResultadosAvaliacaoStoryboard">Planejamento do relato dos resultados da avaliação do Storyboard</a></td>
+      <td>Chaydson</td>
+      <td>Gabriel</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/design-avaliacao-desenvolvimento/nivel1/analiseDeTarefas/planejamentoResultadosAnalisesTarefas">Planejamento do relato dos resultados da avaliação da Análise de tarefas</a></td>
+      <td>Lucas</td>
+      <td>Ana</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/design-avaliacao-desenvolvimento/nivel1/analiseDeTarefas/planejamentoDaAvaliacaoTarefas">Planejamento da Avaliação da Análise de tarefas</a></td>
+      <td>Gabriel, Samuel</td>
+      <td>Lucas</td>
+    </tr>
+    <tr>
+      <td>Entrega 5</td>
+      <td><a href="/design-avaliacao-desenvolvimento/nivel1/storyboard/relatoDosResultadosStoryBoard">relato dos resultados do Story Board</a></td>
+      <td>Chaydson, Pedro</td>
+      <td>Lucas e Ana</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/design-avaliacao-desenvolvimento/nivel1/analiseDeTarefas/relatoDaAnaliseDeTarefa">Relato da análise de tarefa</a></td>
+      <td>Gabriel e Samuel</td>
+      <td>Chaydson</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/design-avaliacao-desenvolvimento/nivel2/prototipoDePapel/planejamentoDaAvaliacaoPrototipoDePapel">Planejamento da avaliação do protótipo de baixa fidelidade </a></td>
+      <td>Lucas, Ana e Gabriel</td>
+      <td>Pedro</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/design-avaliacao-desenvolvimento/nivel2/prototipoDePapel/planejamentoRelatoResultadosAvaliacaoPrototipoPapel">Planejamento do relato dos resultados da avaliação do protótipo de baixa fidelidade</a></td>
+      <td>Chaydson, Ana e Lucas</td>
+      <td>Pedro</td>
+    </tr>
+    <tr>
+      <td>Entrega 6.1</td>
+      <td><a href="/verificacao/planejamento">Planejamento da verificação</a></td>
+      <td>Pedro e Lucas</td>
+      <td>Chaydson</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao/pontoControle1/cronograma">Cronogramas</a></td>
+      <td>Pedro</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao/pontoControle1/sitesAvaliados">Sites avaliados</a></td>
+      <td>Ana</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao/pontoControle1/siteEscolhido">Site selecionado</a></td>
+      <td>Chaydson</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao/pontoControle1/metodologia">Metodologia</a></td>
+      <td>Gabriel</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao/pontoControle1/processosDeDesign">Processo de Design</a></td>
+      <td>Samuel</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao/pontoControle1/ferramentas">Ferramentas</a></td>
+      <td>Lucas</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao/pontoControle2/perfilUsuario">Perfil do Usuário</a></td>
+      <td>Lucas</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao/pontoControle2/personas">Personas</a></td>
+      <td>Chaydson e Samuel</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao/pontoControle2/analiseDasTarefas">Análise das tarefas do usuário</a></td>
+      <td>Pedro</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao/pontoControle2/aspectosEticos">Aspectos éticos</a></td>
+      <td>Gabriel</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao/pontoControle2/cenarios">Cenário</a></td>
+      <td>Ana</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao/pontoControle3/principiosGerais">Princípios gerais</a></td>
+      <td>Lucas</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao/pontoControle3/metasUsabilidade">Metas de usabilidade</a></td>
+      <td>Pedro</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao/pontoControle3/guiaDeEstilo">Guia de estilo</a></td>
+      <td>Gabriel Ferreira e Samuel</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao/pontoControle3/caracteristicasDaPlataforma">Caracteristicas da plataforma</a></td>
+      <td>Ana e Chaydson</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao/pontoControle4/planejamentoAvaliacaoStoryBoard">Planejamento da Avaliação do StoryBoard</a></td>
+      <td>Lucas e Chaydson</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao/pontoControle4/planejamentoAvaliacaoAnaliseDeTarefas">Planejamento da Avaliação da Análise de Tarefas</a></td>
+      <td>Ana e Pedro</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao/pontoControle4/planejamentoRelatoDaAvalia%C3%A7%C3%A3oDoStoryBoard">Planejar o Relato dos Resultados do StoryBoard</a></td>
+      <td>Samuel</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao/pontoControle4/relatoDaAnaliseDeTarefa">Planejar o Relato dos Resultados da Análise de Tarefas</a></td>
+      <td>Gabriel</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao/pontoControle5/relatoStoryboard">Relato dos Resultados do StoryBoard</a></td>
+      <td>Gabriel e Samuel</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao/pontoControle5/relatoAnaliseTarefa">Relato dos Resultados da Análise de tarefas</a></td>
+      <td>Lucas e Ana</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao/pontoControle5/planejamentoPrototipoDePapel">Planejamento da avaliação do protótipo de baixa fidelidade</a></td>
+      <td>Chaydson</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao/pontoControle5/planejamentoRelatoDosResultados">Planejamento do relato dos resultados do protótipo de baixa fidelidade</a></td>
+      <td>Pedro</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Entrega 6.2</td>
+      <td><a href="/verificacao2/planejamento">Planejamento da verificação</a></td>
+      <td>Lucas, Gabriel</td>
+      <td>Lucas, Gabriel</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao2/pontoControle1/cronograma">Cronogramas</a></td>
+      <td>Pedro</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao2/pontoControle1/sitesAvaliados">Sites avaliados</a></td>
+      <td>Ana</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao2/pontoControle1/siteEscolhido">Site selecionado</a></td>
+      <td>Chaydson</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao2/pontoControle1/metodologia">Metodologia</a></td>
+      <td>Gabriel</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao2/pontoControle1/processosDeDesign">Processo de Design</a></td>
+      <td>Samuel</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao2/pontoControle1/ferramentas">Ferramentas</a></td>
+      <td>Lucas</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao2/pontoControle2/perfilUsuario">Perfil do Usuário</a></td>
+      <td>Lucas</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao2/pontoControle2/personas">Personas</a></td>
+      <td>Samuel</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao2/pontoControle2/analiseDasTarefas">Análise das tarefas do usuário</a></td>
+      <td>Pedro</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao2/pontoControle2/aspectosEticos">Aspectos éticos</a></td>
+      <td>Gabriel</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao/pontoControle2/cenarios">Cenário</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao2/pontoControle3/principiosGerais">Princípios gerais</a></td>
+      <td>Lucas</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao2/pontoControle3/metasUsabilidade">Metas de usabilidade</a></td>
+      <td>Pedro</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao2/pontoControle3/guiaDeEstilo">Guia de estilo</a></td>
+      <td>Gabriel e Samuel</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao2/pontoControle3/caracteristicasDaPlataforma">Caracteristicas da plataforma</a></td>
+      <td>Ana e Chaydson</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao2/pontoControle4/planejamentoAvaliacaoStoryBoard">Planejamento da Avaliação do StoryBoard</a></td>
+      <td>Chaydson</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao2/pontoControle4/planejamentoAvaliacaoAnaliseDeTarefas">Planejamento da Avaliação da Análise de Tarefas</a></td>
+      <td>Pedro e Ana</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao2/pontoControle4/planejamentoRelatoDaAvalia%C3%A7%C3%A3oDoStoryBoard">Planejar o Relato dos Resultados do StoryBoard</a></td>
+      <td>Samuel</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao2/pontoControle4/planejamentoRelatoDaAnaliseDeTarefas">Planejar o Relato dos Resultados da Análise de Tarefas</a></td>
+      <td>Gabriel</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao2/pontoControle5/relatoStoryboard">Relato dos Resultados do StoryBoard</a></td>
+      <td>Gabriel e Samuel</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao2/pontoControle5/relatoAnaliseTarefa">Relato dos Resultados da Análise de tarefas</a></td>
+      <td>Lucas</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao2/pontoControle5/planejamentoPrototipoDePapel">Planejamento da avaliação do protótipo de baixa fidelidade</a></td>
+      <td>Chaydson</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao2/pontoControle5/planejamentoRelatoDosResultados">Planejamento do relato dos resultados do protótipo de baixa fidelidade</a></td>
+      <td>Pedro</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao2/pontoControle7/relatoPrototipoDePapel">Relato dos resultados do protótipo de baixa fidelidade</a></td>
+      <td>Ana</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao2/pontoControle7/planejamentoAvaliacaoPrototipoDeAltaFidelidade">Planejamento da avaliação do protótipo de alta fidelidade</a></td>
+      <td>Chaydson</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/verificacao2/pontoControle7/planejamentoRelatoPrototipoDeAltaFidelidade">Planejamento do relato do protótipo de alta fidelidade</a></td>
+      <td>Lucas</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Entrega 7</td>
+      <td><a href="/design-avaliacao-desenvolvimento/nivel2/prototipoDePapel/relatoDosResultados">Relato dos resultados do protótipo de baixa fidelidade</a></td>
+      <td>Gabriel e Samuel</td>
+      <td>Chaydson e Lucas</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/design-avaliacao-desenvolvimento/nivel3/prototipoAltaFidelidade/planejamentoAvaliacaoPrototipoAltaFidelidade">Planejamento da Avaliação do protótipo de alta fidelidade </a></td>
+      <td>Ana e Chaydson</td>
+      <td>Pedro e Samuel</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="/design-avaliacao-desenvolvimento/nivel3/planejamentoRelatoResultadosAvaliacaoPrototipoDeAltaFidelidade">Planejamento do relato dos resultados da avaliação protótipo de alta fidelidade</a></td>
+      <td>Pedro e Lucas</td>
+      <td>Gabriel e Ana</td>
+    </tr>
+    <tr>
+      <td>Entrega 8</td>
+      <td><a href="/design-avaliacao-desenvolvimento/nivel3/prototipoAltaFidelidade/relatoPrototipoAltaFidelidade">Relato dos resultados do protótipo de alta fidelidade.</a></td>
+      <td>Gabriel e Samuel</td>
+      <td>Chaydson e Lucas</td>
+    </tr>
+    <tr>
+      <td>Entrega 9</td>
+      <td><a href="/entregaFinal/entregaFinal">Entrega Final</a></td>
+      <td>Pedro, Ana, Lucas, Gabriel, Chaydson e Samuel</td>
+      <td>Pedro, Ana, Lucas, Gabriel, Chaydson e Samuel</td>
+    </tr>
+  </tbody>
+</table>
+
 ## Histórico de Versão
 
 | Versão | Data  | Descrição                                                              | Autor(es) | Revisor(es) |
