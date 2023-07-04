@@ -6,6 +6,17 @@
 
 ## Ciclo de Vida
 
+Dentre todos os ciclos de vida explicados e pesquisados durante o projeto que podem ser encontrados no artefato [Processo de Design](../planejamento/processo.md), o grupo escolheu o Ciclo de Vida de Mayhew, pois, esse mesmo detalha bem os processos a serem executados,  para pessoas que estão aprendendo, isso é muito importante, características que os outros não apresentaram de forma explcíta, o que poderia prejudicar o grupo caso não conhecesse bem quais artefatos deveriam ser entregues para gerar uma solução de IHC bem entregue, o perfil do grupo início da jornada era de iniciantes que não conheciam quais artefatos deveriam ser entregues e conceitos a serem descritos e entendidos. Com o ciclo de vida Escolhida, a Figura 1, deixa de forma clara, o que projeto deveria seguia e se organizar, para que uma entrega bem feita ocorresse.
+
+<img src="../../images/cicloMayhew.png"/>
+![Ciclo de Vida Mayhew](../images/cicloMayhew.png)
+
+<div style="text-align: center">
+<p>Figura 1: Modelo de Ciclo de Vida com uso engenharia da usabilidade(adaptado de Mayhew,1999)</p>
+</div>
+
+Apesar de tal Ciclo de Vida escolhido, o grupo ainda poderia utilizar características de outros ciclos de vida, para melhor se adaptar ao que seria entregue.
+
 ## Resultado Alcançados
 
 ## Ferramentas
