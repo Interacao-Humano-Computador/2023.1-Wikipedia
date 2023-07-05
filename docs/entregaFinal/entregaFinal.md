@@ -999,9 +999,9 @@ A tabela a seguir, Tabela 2, apresenta todos os artefatos criados no projeto, or
 
 ## Síntese dos métodos de Verificação
 
-Foi utilizado a metodologia definida por Fagan e utilizada a verificação por inspenção, utilizamos o livro da Simone como base para a verificação do contéudo e construção dos artefatos.
+Foi utilizado a [metodologia](../verificacao2/planejamento.md) definida por Fagan e utilizada a verificação por inspenção, utilizamos o livro da Simone como base para a construção do que seria verificado nos artefatos analisados.
 
-Não foi definido revisores para o cronograma da verificação dos artefatos, pois na metodologia, foi definido que o revisor da verificação seria o autor do artefato verificado.
+Não foi definido revisores para o cronograma da tabela 3, referente à verificação dos artefatos, pois na [metodologia](../verificacao2/planejamento.md) utilizada pelo grupo, foi definido que o revisor da verificação seria o autor do artefato verificado.
 
 | Artefato                                                                                                                                                                                  | Avaliador(es)    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
