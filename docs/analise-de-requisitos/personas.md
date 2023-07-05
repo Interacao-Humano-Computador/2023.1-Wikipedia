@@ -14,7 +14,7 @@ Utilizaremos as personas criadas para temos uma base de como será o usuário do
 
 ### Luís Silva
 
-|                                                                                                                                                                                                  <img width='50%' src="../../images/personas/luis.jpeg">                                                                                                                                                                                                  |
+|                                                                                                                                                                                                  `<img width='50%' src="../../images/personas/luis.jpeg">`                                                                                                                                                                                                  |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                                                                                                                                                  **Nome:** Luís Silva                                                                                                                                                                                                                  |
 |                                                                                                                                                                                                                  **Gênero:** Masculino                                                                                                                                                                                                                  |
@@ -37,7 +37,7 @@ Utilizaremos as personas criadas para temos uma base de como será o usuário do
 
 ### Rodrigo Lucas da Cunha
 
-|                                                                                                              <img width='50%' src="../../images/personas/rodrigo.jpeg">                                                                                                              |
+|                                                                                                              `<img width='50%' src="../../images/personas/rodrigo.jpeg">`                                                                                                              |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                                                          **Nome:** Rodrigo Lucas da Cunha                                                                                                                          |
 |                                                                                                                               **Gênero:** Masculino                                                                                                                               |
@@ -62,7 +62,7 @@ Utilizaremos as personas criadas para temos uma base de como será o usuário do
 
 ### Nelson Ricardo Jesus
 
-|                                                                                                                                                                                                                             <img width='50%' src="../../images/personas/nelson.jpeg">                                                                                                                                                                                                                             |
+|                                                                                                                                                                                                                             `<img width='50%' src="../../images/personas/nelson.jpeg">`                                                                                                                                                                                                                             |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                                                                                                                                                                         **Nome:** Nelson Ricardo Jesus                                                                                                                                                                                                                                         |
 |                                                                                                                                                                                                                                             **Gênero:** Masculino                                                                                                                                                                                                                                             |
@@ -84,7 +84,7 @@ Utilizaremos as personas criadas para temos uma base de como será o usuário do
 
 ### Francisco Davi Ramos
 
-|                                                                           <img width='50%' src="../../images/personas/francisco.jpeg">                                                                           |
+|                                                                           `<img width='50%' src="../../images/personas/francisco.jpeg">`                                                                           |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                         **Nome:** Francisco Davi Ramos                                                                                         |
 |                                                                                             **Gênero:** Masculino                                                                                             |
@@ -118,8 +118,8 @@ UNIVESP. Engenharia de Computação - 16º Bimestre - Interfaces Humano-Computad
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                                | Autor(es)             | Revisor(es)   |
-| ------- | ---------- | ------------------------------------------ | --------------------- | ------------- |
-| 1.0     | 30/04/2023 | Criação da página de personas           | Pedro, Lucas e Samuel | Gabriel e Ana |
-| 1.1     | 04/05/2023 | Variando as personas                       | Lucas e Pedro         | Gabriel e Ana |
-| 1.2     | 19/06/2023 | Aplicando ajustes pedidos na verificação | Lucas e Pedro         | Gabriel       |
+| Versão | Data       | Descrição                                | Autor(es)     | Revisor(es)   |
+| ------- | ---------- | ------------------------------------------ | ------------- | ------------- |
+| 1.0     | 30/04/2023 | Criação da página de personas           | Lucas e Pedro | Gabriel e Ana |
+| 1.1     | 04/05/2023 | Variando as personas                       | Lucas e Pedro | Gabriel e Ana |
+| 1.2     | 19/06/2023 | Aplicando ajustes pedidos na verificação | Lucas e Pedro | Gabriel       |

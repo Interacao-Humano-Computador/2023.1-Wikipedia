@@ -8,14 +8,14 @@ O planejamento se baseará no uso do framework DECIDE e utilizará o método da 
 
 Na Tabela 1 a seguir, são apresentados os componentes do framework DECIDE juntamente com seus respectivos significados. Posteriormente, é explicado como cada componente será aplicado no projeto.
 
-| Componente | Descrição                                                      |
-| :---------: | ---------------------------------------------------------------- |
-| **D** | Determinar os objetivos da avaliação de IHC.                   |
-| **E** | Explorar perguntas a serem respondidas com a avaliação.        |
-| **C** | Escolher (Choose) os métodos de avaliação a serem utilizados. |
-| **I** | Identificar e administrar as questões práticas da avaliação. |
-| **D** | Decidir como lidar com as questões éticas.                     |
-| **E** | Avaliar (Evaluate), interpretar e apresentar os dados.           |
+| Componente | Descrição                                                     |
+| :--------: | ------------------------------------------------------------- |
+|   **D**    | Determinar os objetivos da avaliação de IHC.                  |
+|   **E**    | Explorar perguntas a serem respondidas com a avaliação.       |
+|   **C**    | Escolher (Choose) os métodos de avaliação a serem utilizados. |
+|   **I**    | Identificar e administrar as questões práticas da avaliação.  |
+|   **D**    | Decidir como lidar com as questões éticas.                    |
+|   **E**    | Avaliar (Evaluate), interpretar e apresentar os dados.        |
 
 <div style="text-align: center">
     <p> Tabela 1: Framework DECIDE (Fonte:Barbosa, Silva, Silveira, et al. 2021).</p>
@@ -29,12 +29,12 @@ Após a contextualização de cada componente do DECIDE, a seguir são apresenta
 
 O propósito deste documento consiste em estabelecer um planejamento para a avaliação do storyboard desenvolvido, levando em consideração a metodologia adotada e as tarefas realizadas. O objetivo principal é aprimorar as decisões do designer ao longo do projeto, além de obter informações valiosas para aperfeiçoar as funcionalidades presentes no sistema. Sendo mais especifico:
 
-* Solicitar feedback dos usuários sobre a sequência de cenas do storyboard que retrata a realização de uma pesquisa no Wikipedia, a fim de verificar se corresponde à experiência real deles.
-* Solicitar feedback dos usuários sobre a sequência de cenas do storyboard que retrata a forma de relatar um erro na Wikipédia, a fim de verificar se corresponde à experiência real deles.
-* Solicitar feedback dos usuários sobre a sequência de cenas do storyboard que representa a criação de um artigo na Wikipédia, a fim de verificar se corresponde à experiência real deles.
-* Solicitar feedback dos usuários sobre a sequência de cenas do storyboard que retrata a forma de entrar em contato com um mentor na Wikipédia, a fim de verificar se corresponde à experiência real deles.
-* Solicitar feedback dos usuários sobre a sequência de cenas do storyboard que retrata a edição de um artigo na Wikipédia, a fim de verificar se corresponde à experiência real deles.
-* Solicitar feedback dos usuários sobre a sequência de cenas do storyboard que representa a adição de uma discussão na Wikipédia, a fim de verificar se corresponde à experiência real deles.
+- Solicitar feedback dos usuários sobre a sequência de cenas do storyboard que retrata a realização de uma pesquisa no Wikipedia, a fim de verificar se corresponde à experiência real deles.
+- Solicitar feedback dos usuários sobre a sequência de cenas do storyboard que retrata a forma de relatar um erro na Wikipédia, a fim de verificar se corresponde à experiência real deles.
+- Solicitar feedback dos usuários sobre a sequência de cenas do storyboard que representa a criação de um artigo na Wikipédia, a fim de verificar se corresponde à experiência real deles.
+- Solicitar feedback dos usuários sobre a sequência de cenas do storyboard que retrata a forma de entrar em contato com um mentor na Wikipédia, a fim de verificar se corresponde à experiência real deles.
+- Solicitar feedback dos usuários sobre a sequência de cenas do storyboard que retrata a edição de um artigo na Wikipédia, a fim de verificar se corresponde à experiência real deles.
+- Solicitar feedback dos usuários sobre a sequência de cenas do storyboard que representa a adição de uma discussão na Wikipédia, a fim de verificar se corresponde à experiência real deles.
 
 ### Explorar perguntas a serem respondidas com a avaliação
 
@@ -62,7 +62,6 @@ A seguir, encontra-se o Termo de Consentimento que será assinado antes da reali
 
 [Termo de consentimento](../../../pdfs/termoConsentimentoStoryBoard.pdf)
 
-
 ## Identificar e administrar as questões práticas da avaliação.
 
 Nos sub tópicos a seguir, serão abordadas as questões práticas da avaliação.
@@ -85,10 +84,10 @@ Antes de realizar a entrevista com o usuário será realizado um teste piloto. O
 
 No domingo, dia 28 de maio de 2023, o teste piloto, encontrado no vídeo 1, foi conduzido de forma remota no TEAMS com a participação de Lucas e Ana. Durante a realização do teste, foram identificadas algumas possíveis melhorias no storyboard como qualidade de imagem ruim. Como resultado, os storyboards tiverem uma melhoria na resolução. No entanto, os demais aspectos do planejamento estavam em conformidade.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SM_PAuP2bdg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9nRVJ1JPU_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <div style="text-align: center">
-<p>Video 1: Gravação da entrevista com usuário.(Fonte: Autores. 2023).</p>
+<p>Video 1: Gravação do teste piloto.(Fonte: Lucas e Ana. 2023).</p>
 </div>
 
 ### Papéis dos Avaliadores
@@ -99,10 +98,10 @@ Durante a entrevista com o usuário, um dos membros do grupo exercerá o papel d
 
 A seguir, apresentamos a Tabela 1 com o cronograma da avaliação:
 
-|    Data e horário    | Local | Atividade                              | Autor(es)               | Revisor(es)             |
-| :-------------------: | ----- | -------------------------------------- | ----------------------- | ----------------------- |
-| 23/05/2023 às 21:00 | TEAMS | Executar teste piloto                  | Ana Luiza e Lucas Lopes | Chaydson e Pedro        |
-| 24/05/2023 às 20:00 | TEAMS | Entrevistar os usuários               | Chaydson e Pedro        | Lucas Lopes e Ana Luiza |
+|    Data e horário    | Local | Atividade                             | Autor(es)               | Revisor(es)             |
+| :------------------: | ----- | ------------------------------------- | ----------------------- | ----------------------- |
+| 23/05/2023 às 21:00  | TEAMS | Executar teste piloto                 | Ana Luiza e Lucas Lopes | Chaydson e Pedro        |
+| 24/05/2023 às 20:00  | TEAMS | Entrevistar os usuários               | Chaydson e Pedro        | Lucas Lopes e Ana Luiza |
 | 26/05/2023 até 22:00 | TEAMS | Registrar os resultados da entrevista | Chaydson e Pedro        | Lucas Lopes e Ana Luiza |
 
 <div style="text-align: center">
@@ -112,7 +111,6 @@ A seguir, apresentamos a Tabela 1 com o cronograma da avaliação:
 ## Avaliar(Evaluate), interpretar e apresentar os dados
 
 Após a entrevista, os dados coletados serão analisados tanto pelos entrevistadores quanto pela equipe responsável pelo [Relato dos Resultados](./relatoDosResultadosStoryBoard.md) do Storyboard. Será realizada uma avaliação do grau de confiabilidade dos dados obtidos, verificando sua possibilidade de replicação no contexto esperado. Por fim, os problemas encontrados serão documentados junto com as sugestões de melhoria, em formato de texto.
-
 
 ## Storyboards
 
@@ -186,9 +184,10 @@ Lichess. Disponível em: [https://interacao-humano-computador.github.io/2022.2-L
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                      | Autor(es)   | Revisor(es)      |
-| ------- | ---------- | -------------------------------- | ----------- | ---------------- |
-| 1.0     | 16/05/2023 | Criação do documento           | Pedro e Ana | Chaydson e Pedro |
-| 1.1     | 27/05/2023 | Inserindo storyboard da figura 1 | Lucas       | Samuel           |
-| 1.2     | 08/06/2023 | Aplicando correções apontadas pelo monitor | Pedro       | Ana           |
-| 1.3     | 19/06/2023 | Aplicando correções apontadas pelo verificação | Pedro e Ana       | Samuel           |
+| Versão | Data       | Descrição                                      | Autor(es)   | Revisor(es)      |
+| ------ | ---------- | ---------------------------------------------- | ----------- | ---------------- |
+| 1.0    | 16/05/2023 | Criação do documento                           | Pedro e Ana | Chaydson e Pedro |
+| 1.1    | 27/05/2023 | Inserindo storyboard da figura 1               | Lucas       | Samuel           |
+| 1.2    | 08/06/2023 | Aplicando correções apontadas pelo monitor     | Pedro       | Ana              |
+| 1.3    | 19/06/2023 | Aplicando correções apontadas pelo verificação | Pedro e Ana | Samuel           |
+| 1.3    | 05/07/2023 | Gravacão correta do teste piloto               | Lucas e Ana | Gabriel          |
