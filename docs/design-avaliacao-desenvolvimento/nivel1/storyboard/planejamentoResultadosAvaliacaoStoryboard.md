@@ -38,10 +38,10 @@ Deverá também ser escrito sobre o termo de consetimento assinado juntamente co
 
 Por fim, deverá ter escrita em forma de tabela o cronograma da avaliação, especificando a data, o horário, o local, entrevistador e entrevistado.
 
-| Data              | Horário              | Local              | Entrevistador              | Entrevistado              | Termo de consetimento           |
-| ----------------- | -------------------- | ------------------ | -------------------------- | ------------------------- | ------------------------------- |
+| Data               | Horário                | Local                | Entrevistador               | Entrevistado                | Termo de consetimento           |
+| ------------------ | ----------------------- | -------------------- | --------------------------- | --------------------------- | ------------------------------- |
 | Data da reunião 1 | Horário da reunião 1 | Local da reunião 1 | Entrevistador da reunião 1 | Entrevistado da reunião 1 | Link do termo de consetimento 1 |
-| ...               | ...                  | ...                | ...                        | ...                       | ...                             |
+| ...                | ...                     | ...                  | ...                         | ...                         | ...                             |
 | Data da reunião N | Horário da reunião N | Local da reunião N | Entrevistador da reunião N | Entrevistado da reunião N | Link do termo de consetimento N |
 
 <div style="text-align: center">
@@ -57,12 +57,12 @@ Além disso, será dispobilizada a gravação de cada sessão de avaliação ant
 A apresentação dos dados deverá ser feita por meio de uma tabela padrão, encontrada na tabela 1.
 
 | Pergunta   | Entrevistado conseguiu realizar? | Comentário do entrevistado   | Sugestão de melhoria informada |
-| ---------- | -------------------------------- | ---------------------------- | ------------------------------ |
+| ---------- | -------------------------------- | ----------------------------- | ------------------------------- |
 | Pergunta 1 | Sim                              | Comentário do entrevistado 1 | Sugestão do entrevistado 1     |
-| Pergunta 2 | Não                              | Comentário do entrevistado 2 | Sugestão do entrevistado 2     |
-| Pergunta 3 | Sim                              |                              |                                |
-| Pergunta 4 | Não                              |                              |                                |
-| ...        | ....                             | ...                          | ...                            |
+| Pergunta 2 | Não                             | Comentário do entrevistado 2 | Sugestão do entrevistado 2     |
+| Pergunta 3 | Sim                              |                               |                                 |
+| Pergunta 4 | Não                             |                               |                                 |
+| ...        | ....                             | ...                           | ...                             |
 | Pergunta N | Resposta N                       | Comentário N                 | Sugestão do entrevistado N     |
 
 <div style="text-align: center">
@@ -82,10 +82,10 @@ Neste item, deverá ser escrita uma análise dos dados coletados e identificar o
 Os problemas encontrados devem ser listados em uma tabela, seguindo os critérios de classificação e priorização.
 
 | Problema   | Onde se manifestou   | Problema de usabilidade afetado   | Sugestão de melhoria | Quem irá executar a refatoração |
-| ---------- | -------------------- | --------------------------------- | -------------------- | ------------------------------- |
-| Problema 1 | Onde se manifestou 1 | Problema de usabilidade afetado 1 | Sugestão 1           | Pessoa 1                        |
-| ...        | ...                  | ...                               | ...                  | ...                             |
-| Problema N | Onde se manifestou N | Problema de usabilidade afetado N | Sugestão N           | Pessoa N                        |
+| ---------- | -------------------- | --------------------------------- | --------------------- | ---------------------------------- |
+| Problema 1 | Onde se manifestou 1 | Problema de usabilidade afetado 1 | Sugestão 1           | Pessoa 1                           |
+| ...        | ...                  | ...                               | ...                   | ...                                |
+| Problema N | Onde se manifestou N | Problema de usabilidade afetado N | Sugestão N           | Pessoa N                           |
 
 <div style="text-align: center">
     <p> Tabela 3: Problemas encontrados, sugestão de melhoria e quem irá realizar essa sugestão (Fonte: Autores. 2023).</p>
@@ -97,7 +97,7 @@ Os problemas encontrados devem ser listados em uma tabela, seguindo os critério
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                                    | Autor(es) | Revisor(es) |
-| ------ | ---------- | -------------------------------------------- | --------- | ----------- |
-| 1.0    | 21/05/2023 | Criação da Página                            | Chaydson  | Gabriel     |
-| 1.1    | 19/06/2023 | Refatoração do artefato conforme verificação | Lucas     | Gabriel     |
+| Versão | Data       | Descrição                                      | Autor(es)        | Revisor(es) |
+| ------- | ---------- | ------------------------------------------------ | ---------------- | ----------- |
+| 1.0     | 21/05/2023 | Criação da Página                             | Chaydson         | Gabriel     |
+| 1.1     | 19/06/2023 | Refatoração do artefato conforme verificação | Lucas e Chaydson | Gabriel     |

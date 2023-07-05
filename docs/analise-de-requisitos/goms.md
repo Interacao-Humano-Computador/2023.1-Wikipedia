@@ -10,11 +10,11 @@ A análise GOMS é uma técnica bastante útil para avaliar a usabilidade de um 
 
 ## Análise utilizando CMN-GOMS
 
-| Componentes                      | Significado                                                                                   |
-| -------------------------------- | --------------------------------------------------------------------------------------------- |
-| Goal (Meta)                      | o que o usuário deseja alcançar na tarefa em questão                                       |
-| OP (Operador)                    | as ações mentais ou físicas que o usuário executa para atingir as metas                   |
-| Method (Método)                 | as sequências de operadores que o usuário usa para alcançar as metas                       |
+| Componentes                   | Significado                                                                                |
+| ----------------------------- | ------------------------------------------------------------------------------------------ |
+| Goal (Meta)                   | o que o usuário deseja alcançar na tarefa em questão                                       |
+| OP (Operador)                 | as ações mentais ou físicas que o usuário executa para atingir as metas                    |
+| Method (Método)               | as sequências de operadores que o usuário usa para alcançar as metas                       |
 | Sel. rule (Regras de Seleção) | as heurísticas que o usuário usa para decidir qual método ou operador usar em cada momento |
 
 ### Criação de um artigo no Wikipédia
@@ -60,6 +60,10 @@ Esta é a tarefa de criação de um artigo utilizando CMN-GOMS.
 <p style="padding-left: 3vw"><b>OP. 3.A.1:</b> Clicar no botão "Salvar página"</p>
 
 <hr/>
+
+<div style="text-align: center">
+    <p> Diagrama 1: Diagrama sobre a tarefa de criar um artigo (Fonte: Lucas. 2023).</p>
+</div>
 
 ### Realização de uma pesquisa na Wikipédia
 
@@ -267,8 +271,9 @@ CARD, Stuart K. The psychology of human-computer interaction. Hillsdale: Lawrenc
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                                      | Autor(es) | Revisor(es) |
-| ------- | ---------- | ------------------------------------------------ | --------- | ----------- |
-| 1.0     | 07/05/2023 | Criação do documento                           | Samuel    | Lucas       |
-| 1.1     | 27/05/2023 | Adição de análise de tarefa                   | Ana       | Lucas       |
-| 1.2     | 10/06/2023 | Aplicando correções apontadas na verificação | Samuel    | Pedro       |
+| Versão | Data       | Descrição                                        | Autor(es) | Revisor(es) |
+| ------ | ---------- | ------------------------------------------------ | --------- | ----------- |
+| 1.0    | 07/05/2023 | Criação do documento                             | Samuel    | Lucas       |
+| 1.1    | 27/05/2023 | Adição de análise de tarefa                      | Ana       | Lucas       |
+| 1.2    | 27/05/2023 | Adição da análise de tarefa de criação de artigo | Lucas     | Samuel      |
+| 1.3    | 10/06/2023 | Aplicando correções apontadas na verificação     | Samuel    | Pedro       |
