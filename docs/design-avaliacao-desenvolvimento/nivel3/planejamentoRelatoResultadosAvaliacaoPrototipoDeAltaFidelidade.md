@@ -6,7 +6,7 @@ Um relato bem planejado é um documento que apresenta os resultados e conclusõe
 
 ## Metodologia
 
-O relato de resultados será construído seguindo o documento do planejamento da avaliação dos protótipos de alta fidelidade e os elementos de avaliação do livro de Barbosa e Silva [1].
+O relato de resultados será construído seguindo o documento do [Planejamento da Avaliação do Protótipo de alta fidelidade](../nivel3/prototipoAltaFidelidade/planejamentoAvaliacaoPrototipoAltaFidelidade.md) fidelidade e os elementos de avaliação do livro de Barbosa e Silva [1].
 
 Esses elementos são:
 

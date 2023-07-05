@@ -6,7 +6,7 @@ Um relato bem planejado é um documento que apresenta os resultados e conclusõe
 
 ## Metodologia
 
-O relato de resultados será construído seguindo o documento do planejamento da avaliação dos protótipos de alta fidelidade e os elementos de avaliação do livro de Barbosa e Silva [1].
+O relato de resultados será construído seguindo o documento do [Planejamento da Avaliação da Análise de tarefas](../analiseDeTarefas/planejamentoDaAvaliacaoTarefas.md) e os elementos de avaliação do livro de Barbosa e Silva [1].
 
 Esses elementos são:
 
@@ -17,9 +17,9 @@ Esses elementos são:
 - Análise e interpretação dos dados coletados;
 - Listagem de problemas encontrados e reprojeto do sistema.
 
-## Organização do artefato do relato do protótipo de alta fidelidade
+## Organização do artefato do relato da Análise de Tarefas
 
-O artefato do relato do prótotipo de alta fidelidade deverá ter a seguinte estrutura, seguindo o que foi dito por Barbosa e Silva [1]
+O artefato do relato da Análise de Tarefas deverá ter a seguinte estrutura, seguindo o que foi dito por Barbosa e Silva [1]
 
 ### Introdução
 
@@ -27,7 +27,7 @@ Neste item, deverá ser escrita uma introdução sobre a avaliação realizada, 
 
 ### Os objetivos e escopo da avaliação
 
-Neste item, deverá ser escrito os objetivos da avaliação do protótipo de alta fidelidade realizada, explicitando as expectativas e os propósitos que nortearam o processo. Também indicamos se esses objetivos foram atingidos, parcial ou totalmente, e em que medida.
+Neste item, deverá ser escrito os objetivos da avaliação da Análise de Tarefas realizada, explicitando as expectativas e os propósitos que nortearam o processo. Também indicamos se esses objetivos foram atingidos, parcial ou totalmente, e em que medida.
 
 ### Método de avaliação empregado
 
@@ -35,10 +35,10 @@ Neste item, deverá ser escrita a metodologia adotada para a avaliação, justif
 
 Por fim, deverá ter escrita em forma de tabela o cronograma da avaliação, especificando a data, o horário, o local, entrevistador e entrevistado.
 
-| Data              | Horário              | Local              | Entrevistador              | Entrevistado              | Termo de consetimento           |
-| ----------------- | -------------------- | ------------------ | -------------------------- | ------------------------- | ------------------------------- |
+| Data               | Horário                | Local                | Entrevistador               | Entrevistado                | Termo de consetimento           |
+| ------------------ | ----------------------- | -------------------- | --------------------------- | --------------------------- | ------------------------------- |
 | Data da reunião 1 | Horário da reunião 1 | Local da reunião 1 | Entrevistador da reunião 1 | Entrevistado da reunião 1 | Link do termo de consetimento 1 |
-| ...               | ...                  | ...                | ...                        | ...                       | ...                             |
+| ...                | ...                     | ...                  | ...                         | ...                         | ...                             |
 | Data da reunião N | Horário da reunião N | Local da reunião N | Entrevistador da reunião N | Entrevistado da reunião N | Link do termo de consetimento N |
 
 <div style="text-align: center">
@@ -54,13 +54,13 @@ Além disso, será dispobilizada a gravação de cada sessão de avaliação ant
 A apresentação dos dados deverá ser feita por meio de uma tabela padrão, encontrada na tabela 1.
 
 | Pergunta   | Entrevistado conseguiu realizar? | Observação das atividades do entrevistado | Sugestão de melhoria informada |
-| ---------- | -------------------------------- | ----------------------------------------- | ------------------------------ |
-| Pergunta 1 | Sim                              | Observação 1                              | Sugestão do entrevistado 1     |
-| Pergunta 2 | Não                              | Observação 2                              | Sugestão do entrevistado 2     |
-| Pergunta 3 | Sim                              |                                           |                                |
-| Pergunta 4 | Não                              |                                           |                                |
-| ...        | ....                             | ...                                       | ...                            |
-| Pergunta N | Resposta N                       | Observação N                              | Sugestão do entrevistado N     |
+| ---------- | -------------------------------- | ------------------------------------------- | ------------------------------- |
+| Pergunta 1 | Sim                              | Observação 1                             | Sugestão do entrevistado 1     |
+| Pergunta 2 | Não                             | Observação 2                             | Sugestão do entrevistado 2     |
+| Pergunta 3 | Sim                              |                                             |                                 |
+| Pergunta 4 | Não                             |                                             |                                 |
+| ...        | ....                             | ...                                         | ...                             |
+| Pergunta N | Resposta N                       | Observação N                             | Sugestão do entrevistado N     |
 
 <div style="text-align: center">
     <p> Tabela 2: Respostas do entrevistado [NomeDoEntrevistado] (Fonte: Autores. 2023).</p>
@@ -79,10 +79,10 @@ Neste item, deverá ser escrita uma análise dos dados coletados e identificar o
 Os problemas encontrados devem ser listados em uma tabela, seguindo os critérios de classificação e priorização.
 
 | Problema   | Onde se manifestou   | Problema de usabilidade afetado   | Sugestão de melhoria | Quem irá executar a refatoração |
-| ---------- | -------------------- | --------------------------------- | -------------------- | ------------------------------- |
-| Problema 1 | Onde se manifestou 1 | Problema de usabilidade afetado 1 | Sugestão 1           | Pessoa 1                        |
-| ...        | ...                  | ...                               | ...                  | ...                             |
-| Problema N | Onde se manifestou N | Problema de usabilidade afetado N | Sugestão N           | Pessoa N                        |
+| ---------- | -------------------- | --------------------------------- | --------------------- | ---------------------------------- |
+| Problema 1 | Onde se manifestou 1 | Problema de usabilidade afetado 1 | Sugestão 1           | Pessoa 1                           |
+| ...        | ...                  | ...                               | ...                   | ...                                |
+| Problema N | Onde se manifestou N | Problema de usabilidade afetado N | Sugestão N           | Pessoa N                           |
 
 <div style="text-align: center">
     <p> Tabela 3: Problemas encontrados, sugestão de melhoria e quem irá realizar essa sugestão (Fonte: Autores. 2023).</p>
@@ -90,14 +90,13 @@ Os problemas encontrados devem ser listados em uma tabela, seguindo os critério
 
 ## Referências
 
-- Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021
-- TERA. Prototipagem de alta fidelidade: o que é, quando, por que e como usar? Medium. Disponível em: [https://medium.com/somos-tera/prototipagem-de-alta-fidelidade-635d745b662b](https://medium.com/somos-tera/prototipagem-de-alta-fidelidade-635d745b662b). Acesso em: 10 jun. 2023.
+- Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021.
 
 ## Histórico de Versão
 
 | Versão | Data       | Descrição                                          | Autor(es)    | Revisor(es) |
-| ------ | ---------- | -------------------------------------------------- | ------------ | ----------- |
-| 1.0    | 20/05/2023 | Criação do documento                               | Lucas        | Ana         |
-| 1.1    | 03/06/2023 | Refatoração total do documento                     | Lucas        | Ana         |
-| 1.2    | 19/06/2023 | Refatoração do artefato conforme verificação       | Lucas        | Gabriel     |
-| 1.3    | 04/07/2023 | Refatoração do artefato conforme o livro da Simone | Lucas, Pedro | Gabriel     |
+| ------- | ---------- | ---------------------------------------------------- | ------------ | ----------- |
+| 1.0     | 20/05/2023 | Criação do documento                               | Lucas        | Ana         |
+| 1.1     | 03/06/2023 | Refatoração total do documento                     | Lucas        | Ana         |
+| 1.2     | 19/06/2023 | Refatoração do artefato conforme verificação     | Lucas        | Gabriel     |
+| 1.3     | 04/07/2023 | Refatoração do artefato conforme o livro da Simone | Lucas, Pedro | Gabriel     |

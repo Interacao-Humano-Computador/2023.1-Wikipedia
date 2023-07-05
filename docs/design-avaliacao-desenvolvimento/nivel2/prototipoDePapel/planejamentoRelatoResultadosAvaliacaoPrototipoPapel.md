@@ -6,7 +6,7 @@ Um relato bem planejado é um documento que apresenta os resultados e conclusõe
 
 ## Metodologia
 
-O relato de resultados será construído seguindo o documento do planejamento da avaliação dos protótipos de alta fidelidade e os elementos de avaliação do livro de Barbosa e Silva [1].
+O relato de resultados será construído seguindo o documento do [Planejamento da Avaliação do Protótipo de baixa fidelidade](../prototipoDePapel/planejamentoDaAvaliacaoPrototipoDePapel.md) e os elementos de avaliação do livro de Barbosa e Silva [1].
 
 Esses elementos são:
 
@@ -17,9 +17,9 @@ Esses elementos são:
 - Análise e interpretação dos dados coletados;
 - Listagem de problemas encontrados e reprojeto do sistema.
 
-## Organização do artefato do relato do protótipo de alta fidelidade
+## Organização do artefato do relato do protótipo de baixa fidelidade
 
-O artefato do relato do prótotipo de alta fidelidade deverá ter a seguinte estrutura, seguindo o que foi dito por Barbosa e Silva [1]
+O artefato do relato do prótotipo de baixa fidelidade deverá ter a seguinte estrutura, seguindo o que foi dito por Barbosa e Silva [1]
 
 ### Introdução
 
@@ -27,7 +27,7 @@ Neste item, deverá ser escrita uma introdução sobre a avaliação realizada, 
 
 ### Os objetivos e escopo da avaliação
 
-Neste item, deverá ser escrito os objetivos da avaliação do protótipo de alta fidelidade realizada, explicitando as expectativas e os propósitos que nortearam o processo. Também indicamos se esses objetivos foram atingidos, parcial ou totalmente, e em que medida.
+Neste item, deverá ser escrito os objetivos da avaliação do protótipo de baixa fidelidade realizada, explicitando as expectativas e os propósitos que nortearam o processo. Também indicamos se esses objetivos foram atingidos, parcial ou totalmente, e em que medida.
 
 ### Método de avaliação empregado
 
@@ -90,8 +90,7 @@ Os problemas encontrados devem ser listados em uma tabela, seguindo os critério
 
 ## Referências
 
-- Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021
-- TERA. Prototipagem de alta fidelidade: o que é, quando, por que e como usar? Medium. Disponível em: [https://medium.com/somos-tera/prototipagem-de-alta-fidelidade-635d745b662b](https://medium.com/somos-tera/prototipagem-de-alta-fidelidade-635d745b662b). Acesso em: 10 jun. 2023.
+- Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021.
 
 ## Histórico de Versão
 
