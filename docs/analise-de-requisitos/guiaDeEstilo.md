@@ -2,11 +2,21 @@
 
 ## Introdução
 
-O Guia de Estilo é um importante documento que reúne as principais decisões de design adotadas em um projeto. Ele é criado com o objetivo de garantir que essas decisões não sejam perdidas e possam ser facilmente acessíveis para a implementação no produto final e reutilização durante as etapas de extensão do produto.
+Segundo Simone (2021): "É comum, principalmente em projetos grandes, reunir os princípios e as diretrizes adotados em um documento intitulado guia de estilo. Trata-se de um registro das principais decisões de design tomadas, de forma que elas não se percam, isto é, sejam efetivamente incorporadas no produto final. Guias de estilo servem de ferramenta de comunicação entre os membros da equipe de design e também com a equipe de desenvolvimento. É importante que as decisões de design possam ser facilmente consultadas e reutilizadas nas discussões sobre extensões ou versões futuras do produto".
 
-Além disso, o Guia de Estilo também pode ser utilizado como um meio de comunicação efetivo entre as equipes de design e desenvolvimento, facilitando o alinhamento das estratégias e objetivos do projeto.
+## Metodologia
 
-No caso específico do sítio eletrônico Wikipedia, o Guia de Estilo será desenvolvido com base nas Metas de Usabilidade, seguindo o ciclo de vida para engenharia de usabilidade de Mayhew [1]. Isso garantirá que a usabilidade do site seja uma prioridade durante todo o processo de desenvolvimento, desde o planejamento até a implementação final.
+Um guia de estilo deve incorporar decisões de design envolvendo os principais elementos e considerações
+de design de interface. Marcus (1991) considera os seguintes elementos:
+
+- layout: proporção e grids; uso de metáforas espaciais; design gráfico de exibidores e ferramentas;
+- tipografia e seu uso em diálogos, formulários e relatórios;
+- simbolismo: clareza e consistência no design de ícones;
+- cores: os dez mandamentos sobre o uso de cores;
+- visualização de informação: design de gráficos, diagramas e mapas;
+- design de telas e elementos de interface (widgets).
+
+## Introdução
 
 ### Objetivo
 
@@ -27,13 +37,9 @@ Por fim, o Guia de Estilo pode ser uma ferramenta valiosa para manter a consist�
 5. Elementos de ação • Preenchimento de campos • Seleção • Ativação
 6. Vocabulário e padrões • Terminologia • Tipos de tela (para tarefas comuns) • Sequências de diálogos (e.g., para feedback ou confirmação de uma operação)
 
-### Público alvo do guia de estilo (programadores, gerentes, designers, etc)
+### Público-alvo do guia de estilos (programadores, gerentes, equipe de suporte)
 
 O público-alvo do Guia de Estilo são as equipes envolvidas no desenvolvimento do projeto, incluindo designers, desenvolvedores, gerentes de projeto e outros profissionais que trabalham no produto. O guia fornece diretrizes claras e consistentes para a implementação das decisões de design, garantindo que a equipe trabalhe de forma alinhada e eficiente. Além disso, o Guia de Estilo pode ser usado como uma referência para futuros desenvolvimentos e para garantir que a identidade visual e a marca do produto sejam mantidas consistentes em todas as plataformas e canais.
-
-### Como manter o guia
-
-Para manter a eficácia do Guia de Estilo, é importante atualizá-lo regularmente com novas decisões de design e mudanças na identidade visual ou nas diretrizes de marca. A equipe de design deve garantir que todas as mudanças e atualizações sejam documentadas no Guia de Estilo e que as informações estejam sempre acessíveis e atualizadas. Além disso, é importante educar e conscientizar a equipe de desenvolvimento sobre o uso e a importância do Guia de Estilo, garantindo que ele seja seguido de forma consistente em todas as etapas do projeto. Ao manter o Guia de Estilo atualizado e fazer com que a equipe de desenvolvimento o siga adequadamente, é possível garantir a consistência do design e da identidade visual do produto, melhorar a eficácia da equipe e a satisfação do cliente.
 
 ### Como utilizar o guia de estilo
 
@@ -64,6 +70,10 @@ O Guia de Estilo é uma ferramenta essencial para orientar o processo de design 
 - Não hesite em atualizar o Guia de Estilo com base no feedback dos usuários e nas lições aprendidas ao longo do desenvolvimento. O guia deve ser um documento vivo, adaptável e aprimorado continuamente para atender às necessidades do projeto.
 
 Seguindo essas orientações, você poderá utilizar o Guia de Estilo de forma eficiente, garantindo a consistência do design, a usabilidade do produto final e uma comunicação eficaz entre as equipes envolvidas no projeto.
+
+### Como manter o guia
+
+Para manter a eficácia do Guia de Estilo, é importante atualizá-lo regularmente com novas decisões de design e mudanças na identidade visual ou nas diretrizes de marca. A equipe de design deve garantir que todas as mudanças e atualizações sejam documentadas no Guia de Estilo e que as informações estejam sempre acessíveis e atualizadas. Além disso, é importante educar e conscientizar a equipe de desenvolvimento sobre o uso e a importância do Guia de Estilo, garantindo que ele seja seguido de forma consistente em todas as etapas do projeto. Ao manter o Guia de Estilo atualizado e fazer com que a equipe de desenvolvimento o siga adequadamente, é possível garantir a consistência do design e da identidade visual do produto, melhorar a eficácia da equipe e a satisfação do cliente.
 
 ## Resultados de análise
 
@@ -115,6 +125,8 @@ O site utiliza o Sans Serif (Figura 5) como família de fonte com tamanho de 16p
     <p> Figura 5: Tipografia do Sans serif (Fonte: Microsoft. 2023).</p>
 </div>
 
+### Símbolos não tipográficos
+
 ### Cores
 
 O site utiliza as cores azul e branco, como pode ser visto na Figura 6.
@@ -124,6 +136,8 @@ O site utiliza as cores azul e branco, como pode ser visto na Figura 6.
 <div style="text-align: center">
     <p> Figura 6: Paleta de cores da wikipedia (Fonte: Autores. 2023).</p>
 </div>
+
+### Animações
 
 ## Elementos de interação
 
@@ -153,7 +167,7 @@ Na Wikipédia o preenchimento de campos ocorre na maior parte da aplicação, po
 
 ### Seleção
 
-Os elementos de seleção são mais raros, porém pode-se encontrar campos de seleção de datas e etiquetas em algumas funcionalidades da Wikipédia. 
+Os elementos de seleção são mais raros, porém pode-se encontrar campos de seleção de datas e etiquetas em algumas funcionalidades da Wikipédia.
 
 ### Ativação
 
@@ -209,17 +223,23 @@ As principais telas da Wikipédia são as telas de leitura de artigo, a página 
 
 A Wikipédia não possui nenhum tipo de confirmação de operações e os feedbacks só são dados quando a ação foi completamente realizada.
 
-## Referências bibliográficas
-[1] Processo de Design. Disponível em: https://interacao-humano-computador.github.io/2023.1-Wikipedia/planejamento/processo/ . Acesso em 15 de maio de 2023.
+## Conclusão
+
+Não adianta fazer um guia de estilo e deixar ele de lado. Temos que mostrar para os outros designers e desenvolvedores que ele existe e é importante, ensinar como usar, facilitar o acesso ao documento ou a alguma parte dele e mudar a cultura de design e desenvolvimento da equipe. Também temos que ver o guia de estilo como uma ajuda para o trabalho e a criatividade, não como regras. Ou seja, um guia de estilo deve ser usado para pensar melhor o design, não para copiar soluções ou fórmulas.
 
 ## Bibliografia
 
-BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador. 1ª Edição. Elsevier, 2010.
+Mayhew, Deborah J. (1999). The Usability Engineering Lifecycle: A Practitioner’s Handbook for User
+Interface Design. Morgan Kaufmann, 1st edition edition.
 
-Guia de estilo do projeto Skoob. Disponível em: <https://interacao-humano-computador.github.io/2022.2-Skoob/analise-de-requisitos/guia-de-estilo/>. Acesso em: 13 de maio de 2023.
+Marcus, Aaron (1991). Graphic design for electronic documents and user interfaces. Association for
+Computing Machinery, New York, NY, USA.
+
+Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição            | Autor(es)        | Revisor(es)      |
-| ------ | ---------- | -------------------- | ---------------- | ---------------- |
-| 1.0    | 13/05/2023 | Criação do documento | Chaydson e Lucas | Gabriel e Samuel |
+| Versão | Data       | Descrição                              | Autor(es)        | Revisor(es)      |
+| ------ | ---------- | -------------------------------------- | ---------------- | ---------------- |
+| 1.0    | 13/05/2023 | Criação do documento                   | Chaydson e Lucas | Gabriel e Samuel |
+| 1.1    | 05/07/2023 | Colocando elementos do livro da Simone | Lucas e Chaydson | Gabriel e Samuel |
