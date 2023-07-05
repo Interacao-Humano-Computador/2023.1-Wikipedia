@@ -200,3 +200,4 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 | 1.1     | 07/04/2023 | Heuristica 4, 5 e 6                                         | Lucas                        | Gabriel     |
 | 1.3     | 22/04/2023 | Criação do texto do decide e as heurísticas que faltavam | Lucas, Pedro, Ana e Chaydson | Gabriel     |
 | 1.4     | 28/04/2023 | Padronizando imagens da avaliação heurística             | Lucas                        | Grupo       |
+| 1.5     | 05/07/2023 | Corrigindo DECIDE      | Ana                        |        |
