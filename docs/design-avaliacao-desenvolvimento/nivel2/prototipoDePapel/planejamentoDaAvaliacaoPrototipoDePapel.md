@@ -154,4 +154,4 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 | ------ | ---------- | --------------------------------------------------------- | -------------------- | ----------- |
 | 1.0    | 29/05/2023 | Criação do documento                                      | Lucas, Ana e Gabriel | Pedro       |
 | 1.1    | 19/06/2023 | Ajustes e Correções do artefato                           | Gabriel, Lucas e Ana | Chaydson    |
-| 1.2    | 05/07/2023 | Refatoração total do documento seguindo o livro da Simone | Lucas, Gabriel       | Chaydson    |
+| 1.2    | 05/07/2023 | Refatoração total do documento seguindo o livro da Simone | Lucas, Gabriel e Ana       | Chaydson    |
