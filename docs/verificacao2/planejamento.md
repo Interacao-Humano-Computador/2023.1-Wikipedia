@@ -21,37 +21,38 @@ Vale ressaltar que a verificação da verificação será feita pelo autor do ar
 
 <center>
 
-| Artefato                                                            | Avaliador(es)    |
-| ------------------------------------------------------------------- | ---------------- |
-| Cronogramas                                                         | Pedro            |
-| Sites avaliados                                                     | Ana              |
-| Site selecionado                                                    | Chaydson         |
-| Metodologia                                                         | Gabriel          |
-| Ferramentas                                                         | Lucas            |
-| Processo de design                                                  | Samuel           |
-| Perfil de Usuario                                                   | Lucas            |
-| Personas                                                            | Samuel           |
+| Artefato                                                               | Avaliador(es)    |
+| ---------------------------------------------------------------------- | ---------------- |
+| Cronogramas                                                            | Pedro            |
+| Sites avaliados                                                        | Ana              |
+| Site selecionado                                                       | Chaydson         |
+| Metodologia                                                            | Gabriel          |
+| Ferramentas                                                            | Lucas            |
+| Processo de design                                                     | Samuel           |
+| Perfil de Usuario                                                      | Lucas            |
+| Personas                                                               | Samuel           |
 | Análise das tarefas do usuário (técnicas HTA e GOMS)                | Pedro            |
-| Aspectos éticos de pesquisa envolvendo pessoas                      | Gabriel          |
-| Definir os princípios gerais do projeto                             | Lucas            |
-| Determinar as metas de usabilidade                                  | Pedro            |
-| Criar o guia de estilo                                              | Gabriel e Samuel |
-| Determinar as características da plataforma para o projeto          | Ana e Chaydson   |
-| Planejar a avaliação do Story Board                                 | Chaydson         |
+| Aspectos éticos de pesquisa envolvendo pessoas                        | Gabriel          |
+| Definir os princípios gerais do projeto                               | Lucas            |
+| Determinar as metas de usabilidade                                     | Pedro            |
+| Criar o guia de estilo                                                 | Gabriel e Samuel |
+| Determinar as características da plataforma para o projeto            | Ana e Chaydson   |
+| Planejar a avaliação do Story Board                                  | Chaydson         |
 | Planejar a avaliação da Análise de Tarefas                          | Ana e Pedro      |
-| Planejar o relato da avaliação do Story Board                       | Samuel           |
+| Planejar o relato da avaliação do Story Board                        | Samuel           |
 | Planejar o relato da avaliação da Análise de Tarefas                | Gabriel          |
-| Relatar os resultados do Story Board                                | Gabriel e Samuel |
-| Relatar os resultados da análise de tarefas                         | Ana e Lucas      |
+| Relatar os resultados do Story Board                                   | Gabriel e Samuel |
+| Relatar os resultados da análise de tarefas                           | Ana e Lucas      |
 | Planejar a avaliação do protótipo de papel                          | Chaydson         |
 | Planejar o relato dos resultados da avaliação do protótipo de papel | Pedro            |
 | Planejar a avaliação do protótipo de alta fidelidade                | Chaydson         |
-| Planejar o relato do protótipo de alta fidelidade                   | Lucas            |
+| Planejar o relato do protótipo de alta fidelidade                    | Lucas            |
 
 <div style="text-align: center">
 <p> Tabela 1: Tabela do cronograma de avaliação (Fonte: Lucas Frazão, 2023). </p>
 </div>
 </center>
+
 ## Preparação
 
 Antes da verificação, precisamos inserir os metadados do artefato avaliado, conforme a tabela 2 abaixo:
@@ -59,7 +60,7 @@ Antes da verificação, precisamos inserir os metadados do artefato avaliado, co
 <center>
 
 | Versão avaliada | Autor             | Revisor             |
-| --------------- | ----------------- | ------------------- |
+| ---------------- | ----------------- | ------------------- |
 | versão x        | Autor do artefato | Revisor do artefato |
 
 <div style="text-align: center">
@@ -83,16 +84,16 @@ A seguir, na tabela 3, temos as perguntas que serão feitas em todos os artefato
 
 <center>
 
-| ID  |                                 Questão                                  | Inspeção |
-| :-: | :----------------------------------------------------------------------: | :------: |
-|  1  |                 As legendas estão no padrão do projeto?                  |    🟢    |
-|  2  |                  Possui links para os outros artefatos?                  |    🟡    |
-|  3  |                    Existe uma introdução no artefato?                    |    🔴    |
-|  4  |               Existe tabela de versionamento padronizado?                |    🟢    |
-|  5  |        Há referências bibliográficas ou referências no artefato?         |    🟢    |
-|  6  | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |    🟢    |
-|  7  |                         O artefato possui autor?                         |    🟢    |
-|  8  |                        O artefato possui revisor?                        |    🟢    |
+| ID |                                 Questão                                 | Inspeção |
+| :-: | :-----------------------------------------------------------------------: | :--------: |
+| 1 |                 As legendas estão no padrão do projeto?                 |     🟢     |
+| 2 |                  Possui links para os outros artefatos?                  |     🟡     |
+| 3 |                   Existe uma introdução no artefato?                   |     🔴     |
+| 4 |                Existe tabela de versionamento padronizado?                |     🟢     |
+| 5 |      Há referências bibliográficas ou referências no artefato?      |     🟢     |
+| 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |     🟢     |
+| 7 |                         O artefato possui autor?                         |     🟢     |
+| 8 |                        O artefato possui revisor?                        |     🟢     |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela de avaliação com as padroẽs para todos os artefatos (Fonte: NomeAutor, 2023). </p>
@@ -104,13 +105,13 @@ Após o preenchimento da tabela padrão, o avaliador deve fazer uma tabela separ
 
 <center>
 
-| ID  |       Questão        | Inspeção |
-| :-: | :------------------: | :------: |
-|  9  | Questão específica 1 |    🟢    |
-| 10  | Questão específica 2 |    🟡    |
-| 11  | Questão específica 3 |    🔴    |
-| 12  | Questão específica 3 |    🔴    |
-| ... |         ...          |   ...    |
+| ID |        Questão        | Inspeção |
+| :-: | :--------------------: | :--------: |
+|  9  | Questão específica 1 |     🟢     |
+| 10 | Questão específica 2 |     🟡     |
+| 11 | Questão específica 3 |     🔴     |
+| 12 | Questão específica 3 |     🔴     |
+| ... |          ...          |    ...    |
 
 <div style="text-align: center">
 <p> Tabela 4: Tabela de avaliação com as questões específicas do artefato (Fonte: Lucas, 2023). </p>
@@ -126,12 +127,12 @@ Por fim, o avaliador deve fazer uma série de planejamentos para melhorar o arte
 
 <center>
 
-| ID Correção | Tarefa        |
-| ----------- | ------------- |
-| IDC1        | Ajustar x     |
-| IDC2        | Incluir X     |
-| IDC3        | Remover x     |
-| IDC4        | Especificar x |
+| ID Correção | Tarefa         |
+| ------------- | -------------- |
+| IDC1          | Ajustar x      |
+| IDC2          | Incluir X      |
+| IDC3          | Remover x      |
+| IDC4          | Especificar x |
 
 <div style="text-align: center">
 <p> Tabela 5: Tabela do que precisa ser ajustado (Fonte: Lucas, 2023). </p>
@@ -155,10 +156,10 @@ Para saber a porcentagem de aproveitamento do artefato, será utilizado a expres
 
 <center>
 
-| Acrônimo | Descrição                      |
-| -------- | ------------------------------ |
-| QTDE     | Quantidade Total de Exigências |
-| EC       | Exigências Completas           |
+| Acrônimo | Descrição                     |
+| --------- | ------------------------------- |
+| QTDE      | Quantidade Total de Exigências |
+| EC        | Exigências Completas           |
 
 <div style="text-align: center">
 <p> Tabela 6: Legenda da Figura 1 (Fonte: Gabriel, 2023). </p>
@@ -212,8 +213,8 @@ A tabela 7, contém o cronograma para a correção dos problemas identficiados n
 <center>
 
 | Data início | Data fim |
-| ----------- | -------- |
-| 20/06       | 05/07    |
+| ------------- | -------- |
+| 20/06         | 05/07    |
 
 <div style="text-align: center">
 <p> Tabela 7: Cronograma de correção dos artefatos (Fonte: Lucas, 2023). </p>
@@ -225,12 +226,12 @@ Depois da verificação, o autor do artefato, indicado na tabela 2, deverá faze
 
 <center>
 
-| ID Correção | Tarefa        | Ajuste                       |
-| ----------- | ------------- | ---------------------------- |
-| IDC1        | Ajustar x     | Foi ajustado x realizando... |
-| IDC2        | Incluir X     | Foi incluido x em ...        |
-| IDC3        | Remover x     | Foi removido x ...           |
-| IDC4        | Especificar x | X foi especificaod melhor... |
+| ID Correção | Tarefa         | Ajuste                        |
+| ------------- | -------------- | ----------------------------- |
+| IDC1          | Ajustar x      | Foi ajustado x realizando...  |
+| IDC2          | Incluir X      | Foi incluido x em ...         |
+| IDC3          | Remover x      | Foi removido x ...            |
+| IDC4          | Especificar x | X foi especificado melhor... |
 
 <div style="text-align: center">
 <p> Tabela 8: Tabela de ajustes feitos (Fonte: Lucas, 2023). </p>
@@ -245,8 +246,8 @@ Depois da verificação, o autor do artefato, indicado na tabela 2, deverá faze
 
 ## Histórico de versão
 
-|    Data    | Versão |            Descrição             | Autor(es) | Revisor(es) |
-| :--------: | :----: | :------------------------------: | :-------: | :---------: |
-| 17/06/2023 |  1.0   |       Criação do documento       |   Lucas   |   Gabriel   |
-| 17/06/2023 |  1.1   |        Criação da fórmula        |  Gabriel  |    Lucas    |
-| 05/07/2023 |  1.2   | Adicionando metodologia do Fagan |   Lucas   |   Gabriel   |
+|    Data    | Versão |           Descrição           | Autor(es) | Revisor(es) |
+| :--------: | :-----: | :------------------------------: | :-------: | :---------: |
+| 17/06/2023 |   1.0   |      Criação do documento      |   Lucas   |   Gabriel   |
+| 17/06/2023 |   1.1   |      Criação da fórmula      |  Gabriel  |    Lucas    |
+| 05/07/2023 |   1.2   | Adicionando metodologia do Fagan |   Lucas   |   Gabriel   |
