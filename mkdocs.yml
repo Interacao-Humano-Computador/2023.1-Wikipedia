@@ -160,9 +160,3 @@ nav:
           - Relato do prótipo de papel: verificacao2/pontoControle7/relatoPrototipoDePapel.md
           - Planejamento da avaliação do protótipo de alta fidelidade: verificacao2/pontoControle7/planejamentoAvaliacaoPrototipoDeAltaFidelidade.md
           - Planejamento do relato dos resultados do protótipo de alta fidelidade: verificacao2/pontoControle7/planejamentoRelatoPrototipoDeAltaFidelidade.md
-  - Politicas:
-      - Metodologias: politicas/metodologias.md
-      - Issues: politicas/issues.md
-      - Pull requests: politicas/pullrequest.md
-      - Commit: politicas/commit.md
-      - Branch: politicas/branch.md
