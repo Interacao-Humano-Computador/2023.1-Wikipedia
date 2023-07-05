@@ -1053,9 +1053,30 @@ Na Tabela 3, estão contidos dados sobre as avaliações ocorridas durante o pro
 
 aaaa
 
+## Síntese das técnicas utilizadas
+
+A tabela 6 mostra os artefatos e as técnicas utilizadas durante o projeto. A tabela foi organizada em ordem de elaboração.
+
+| Artefato             | Técnica                                 | Autor(es)              | 
+| -------              | ----------                              | ---------------------- | 
+| [Sites analisados](../planejamento/sitesAnalisados.md)     | Framework DECIDE e avaliação heurística | Samuel                 |
+| [Sites escolhido](../planejamento/siteEscolhido.md)       | Framework DECIDE e avaliação heurística | Ana e Chaydson         | 
+| [Processo de design](../planejamento/processo.md)   | Ciclo de Vida de Mayhew                 | Gabriel                | 
+| Análise de tarefas [AHT](../analise-de-requisitos/aht.md) e [GOMS](../analise-de-requisitos/goms.md)  | AHT e GOMS                              | Chaydson, Samuel, Gabriel, Lucas, Pedro e Ana | 
+| [Planejamento da avaliação do storyboard](../design-avaliacao-desenvolvimento/nivel1/storyboard/planejamentoDaAvaliacao.md) | framework DECIDE e observação | Pedro e Ana     | 
+| [Planejamento da avaliação da análise de tarefas](../design-avaliacao-desenvolvimento/nivel1/analiseDeTarefas/planejamentoDaAvaliacaoTarefas.md)     | framework DECIDE e observação | Gabriel e Samuel   | 
+| [Planejamento da avaliação do protótipo de papel](../design-avaliacao-desenvolvimento/nivel2/prototipoDePapel/planejamentoDaAvaliacaoPrototipoDePapel.md)   | framework DECIDE, investigação e observação | Gabriel, Lucas e Ana | 
+| [Planejamento da avaliação do protótipo de alta fidelidade](../design-avaliacao-desenvolvimento/nivel3/prototipoAltaFidelidade/planejamentoAvaliacaoPrototipoAltaFidelidade.md)    | framework DECIDE, investigação e observação | Chaydson e Ana| 
+| [Verificações](../verificacao/planejamento.md)        | Inspeção               | Ana, Chaydson, Gabriel, Lucas, Pedro e Samuel | 
+
+<div style="text-align: center">
+<p> Tabela 6: Técnicas utilizadas no projeto (Fonte: Ana, 2023). </p>
+</div>
+
+
 ## Apresentações do Projeto
 
-A Tabela 6 contém as apresentações durante o projeto, as apresentações são reflexos do que foi desenvolvido em cada etapa do projeto.
+A Tabela 7 contém as apresentações durante o projeto, as apresentações são reflexos do que foi desenvolvido em cada etapa do projeto.
 
 | Etapa | Apresentações                                                                      | Participantes                                 |
 | ----- | ------------------------------------------------------------------------------------ | --------------------------------------------- |
@@ -1070,7 +1091,7 @@ A Tabela 6 contém as apresentações durante o projeto, as apresentações são
 | 8     | [Apresentação 9](https://www.youtube.com/watch?v=EAXv8YcH7hw&ab_channel=GabrielSilvs) | Ana, Chaydson, Gabriel, Lucas, Pedro e Samuel |
 
 <div style="text-align: center">
-<p> Tabela 6: Entrevistas do Projeto sobre Protótipos (Fonte: Samuel, 2023). </p>
+<p> Tabela 7: Entrevistas do Projeto sobre Protótipos (Fonte: Samuel, 2023). </p>
 </div>
 
 ## Bibliografia
