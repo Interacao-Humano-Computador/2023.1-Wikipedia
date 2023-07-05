@@ -4,21 +4,58 @@
 
 Os protótipos desempenham um papel fundamental ao permitir que usuários e partes interessadas interajam com um produto em fase de concepção. Essa prática é extremamente útil para coletar feedback sobre pontos positivos e negativos relacionados a funcionalidades específicas ou ao produto como um todo.
 
-Principais benefícios da utilização de protótipos incluem: análise do design, esclarecimento de requisitos e realização de testes iniciais sobre a interface da aplicação.
+A utilização de protótipos de alta fidelidade apresenta vantagens e desvantagens, dentre as vantagens ressaltam-se a interatividade completa do usuário com o protótipo, análise do design, esclarecimento de requisitos e realização de testes iniciais sobre a interface da aplicação. Em contrapartida, a elaboração de protótipos de alta fidelidade tem um custo maior, demanda mais tempo e não serve para coletas de requisitos. Ou seja, a prototipação de alta fidelidade deve ser aplicada nas etapas mais avançadas do design, pois não serve para coleta de requisitos.
 
-A utilização de protótipos de alta fidelidade apresenta vantagens e desvantagens, dentre as vantagens ressaltam-se a interatividade completa do usuário com o protótipo, o uso conduzido pelo usuário e as mesmas aparências e interações do produto final. Em contrapartida, a elaboração de protótipos de alta fidelidade tem um custo maior, demanda mais tempo e não serve para coletas de requisitos. Ou seja, a prototipação de alta fidelidade deve ser aplicada nas etapas mais avançadas do design, pois não serve para coleta de requisitos.
+Neste artefato será apresentado o planejamento da avaliação do protótipo de alta fidelidade realizado pela equipe.
 
-## Objetivos
+## Metodologia
 
-O objetivo desta avaliação é compreender se os aspectos do aplicativo e dos fluxos alternativos estão bem implementados e se foram aprimorados. Buscamos obter um feedback positivo baseado nos dados coletados com entrevistas com usuários e outros artefatos.
+O planejamento seguirá o framework DECIDE, que consiste em seis etapas representadas pelas letras da palavra. A tabela 1 mostra o que cada letra significa.
 
-## Metodologias
+| Componente | Descrição                                                     |
+| :--------: | ------------------------------------------------------------- |
+|   **D**    | Determinar os objetivos da avaliação de IHC.                  |
+|   **E**    | Explorar perguntas a serem respondidas com a avaliação.       |
+|   **C**    | Escolher (Choose) os métodos de avaliação a serem utilizados. |
+|   **I**    | Identificar e administrar as questões práticas da avaliação.  |
+|   **D**    | Decidir como lidar com as questões éticas.                    |
+|   **E**    | Avaliar (Evaluate), interpretar e apresentar os dados.        |
 
-A avaliação será um teste de usabilidade, que utiliza o método de observação para fazer a avaliação. A avaliação será feita em laboratório, em um ambiente controlado, pois esse tipo de avaliação fornece um maior controle sobre as interferências do ambiente na interação usuário-sistema e facilita o registro dos dados. 
+<div style="text-align: center">
+    <p> Tabela 1: Framework DECIDE (Fonte:Barbosa, Silva, Silveira, et al. 2021).</p>
+</div>
 
-Antes do teste de usabilidade, duas ações devem ser executadas: a elaboração do protótipo de alta fidelidade e a realização de um teste piloto.
+## D - Determinar os objetivos
 
-O teste piloto consiste em uma execução preliminar do protótipo que será realizado utilizando o Figma e verificação do ambiente onde será realizado o teste, para garantir um ambiente controlado para facilitar o registro de dados.
+O objetivo desta avaliação é compreender se aspectos do protótipo estão sendo bem implementados. Buscamos obter uma lista de feedback proveniente de usuários reais, com isso, iremos buscar responder as perguntas que foram elaboradas com base no livro da Simone(2021):
+
+- Avaliar a usabilidade do protótipo de alta fidelidade;
+
+- Identificar problemas na interação e interface.
+
+## E - Explorar Perguntas Respondidas com a Avaliação
+
+O objetivo deste planejamento da avaliação é responder às seguintes perguntas, que foram elaboradas com base no livro da Simone(2021):
+
+- O usuário consegue operar o sistema?
+
+- Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?
+
+- Que parte da interface e da interação o deixa insatisfeito?
+
+- Que parte da interface o desmotiva a explorar novas funcionalidades?
+
+- Ele entende o que significa e para que serve cada elemento de interface?
+
+- Ele vai entender o que deve fazer em seguida?
+
+## C - Escolher os métodos de avaliação a serem utilizados.
+
+A avaliação será feita por meio do métodos de investigação e observação, que consiste em entrevistar e observar os usuários interagindo com o protótipo.
+
+O registro e a análise dos dados coletados permitem identificar problemas reais que os participantes enfrentaram, e não apenas problemas potenciais previstos pelo avaliador como em uma avaliação por inspeção. 
+
+Esse método foi escolhido porque permite obter muitas informações e fazer perguntas que exploram os objetivos dos usuários. Além disso, a entrevista deverá ser gravada e documentada no [relato](relatoPrototipoAltaFidelidade.md).
 
 ## Cronograma
 
@@ -122,3 +159,4 @@ BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, 
 | Versão | Data       | Descrição            | Autor(es)            | Revisor(es) |
 | ------- | ---------- | ---------------------- | -------------------- | ----------- |
 | 1.0     | 12/06/2023 | Criação do documento | Ana e Chaydson | Pedro e Samuel       |
+| 1.1     | 05/07/2023 | Corrigindo o DECIDE | Ana e Chaydson |        |
