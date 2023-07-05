@@ -40,7 +40,7 @@ A Tabela 2 contém os participantes da entrevista 2, que ocorreu no dia 12 de ju
     <p> Tabela 2: Participantes da entrevista 2</p>
 </div>
 
-# Protótipo
+## Protótipo
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fda5fwgO6puPRNnHawUrk4Y%2FIHC---Prot%25C3%25B3tipo-de-Papel%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D4-3%26viewport%3D-6%252C257%252C0.15%26scaling%3Dmin-zoom%26starting-point-node-id%3D4%253A3" allowfullscreen></iframe>
 

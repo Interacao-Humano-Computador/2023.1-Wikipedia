@@ -40,7 +40,7 @@ A Tabela 2 contém os participantes da entrevista 2, que ocorreu no dia 25 de ju
     <p> Tabela 2: Participantes da entrevista 2</p>
 </div>
 
-# Protótipo
+## Protótipo
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FppVu27Rf6XW6Fxe32t4Hhp%2FIHC---Prototipos-team-library%3Ftype%3Ddesign%26node-id%3D2015-135%26scaling%3Dmin-zoom%26page-id%3D2015%253A134%26starting-point-node-id%3D2015%253A135%26show-proto-sidebar%3D1%26mode%3Ddesign" allowfullscreen></iframe>
 
@@ -121,3 +121,4 @@ Lichess. Disponível em: https://interacao-humano-computador.github.io/2022.2-Li
 | Versão | Data       | Descrição            | Autor(es)        | Revisor(es)       |
 | ------- | ---------- | ---------------------- | ---------------- | ----------------- |
 | 1.0     | 26/06/2023 | Criação do documento | Gabriel e Samuel | Chaydson e Lucas |
+| 1.1     | 05/07/2023 | Revisão de texto      | Gabriel          | ---               |
