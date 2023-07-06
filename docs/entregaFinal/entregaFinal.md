@@ -494,8 +494,6 @@ A tabela a seguir, Tabela 22, apresenta todas as ferramentas utilizadas no proje
 <p> Tabela 22: Ferramentas utilizadas durante o projeto (Fonte: Pedro, 2023). </p>
 </div>
 
-## Técnicas Utilizadas no Projeto
-
 ## Artefatos criados no projeto
 
 A tabela a seguir, Tabela 23, apresenta todos os artefatos criados no projeto, organizados por etapa, juntamente com seus respectivos autores e revisores.
