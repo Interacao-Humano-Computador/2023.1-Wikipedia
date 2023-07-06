@@ -470,7 +470,7 @@ Sendo assim, tem-se que como resultados alcançados temos a sólida base constru
 
 ## Ferramentas
 
-A tabela a seguir, Tabela 1, apresenta todas as ferramentas utilizadas no projeto, bem como sua aplicação em cada etapa correspondente.
+A tabela a seguir, Tabela 22, apresenta todas as ferramentas utilizadas no projeto, bem como sua aplicação em cada etapa correspondente.
 
 | Logo                                                                   | Ferramenta                 | Etapa                                                        | Descrição                                                                                                                                                                                                                                                                                                      |
 | ---------------------------------------------------------------------- | -------------------------- | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -491,14 +491,14 @@ A tabela a seguir, Tabela 1, apresenta todas as ferramentas utilizadas no projet
 | <img src="../../images/figma.png">                                     | Figma                      | Design,Avalição e Desenvolvimento                            | O Figma é uma ferramenta de design de interface de usuário (UI) e prototipagem, que será utilizada para elaborar os protótipos de alta fidelidade do projeto.                                                                                                                                                  |
 
 <div style="text-align: center">
-<p> Tabela 1: Ferramentas utilizadas durante o projeto (Fonte: Pedro, 2023). </p>
+<p> Tabela 22: Ferramentas utilizadas durante o projeto (Fonte: Pedro, 2023). </p>
 </div>
 
 ## Técnicas Utilizadas no Projeto
 
 ## Artefatos criados no projeto
 
-A tabela a seguir, Tabela 2, apresenta todos os artefatos criados no projeto, organizados por etapa, juntamente com seus respectivos autores e revisores.
+A tabela a seguir, Tabela 23, apresenta todos os artefatos criados no projeto, organizados por etapa, juntamente com seus respectivos autores e revisores.
 
 <table>
   <thead>
@@ -1024,14 +1024,14 @@ A tabela a seguir, Tabela 2, apresenta todos os artefatos criados no projeto, or
 </table>
 
 <div style="text-align: center">
-<p> Tabela 2: Artefatos do Projeto, organizado por Etapa (Fonte: Pedro, 2023). </p>
+<p> Tabela 23: Artefatos do Projeto, organizado por Etapa (Fonte: Pedro, 2023). </p>
 </div>
 
 ## Síntese dos métodos de Verificação
 
 Foi utilizado a [metodologia](../verificacao2/planejamento.md) definida por Fagan e utilizada a verificação por inspenção, utilizamos o livro da Simone como base para a construção do que seria verificado nos artefatos analisados.
 
-Não foi definido revisores para o cronograma da tabela 3, referente à verificação dos artefatos, pois na [metodologia](../verificacao2/planejamento.md) utilizada pelo grupo, foi definido que o revisor da verificação seria o autor do artefato verificado.
+Não foi definido revisores para o cronograma da tabela 24, referente à verificação dos artefatos, pois na [metodologia](../verificacao2/planejamento.md) utilizada pelo grupo, foi definido que o revisor da verificação seria o autor do artefato verificado.
 
 | Artefato                                                                                                                                                                                  | Avaliador(es)    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
@@ -1061,12 +1061,12 @@ Não foi definido revisores para o cronograma da tabela 3, referente à verifica
 | [Planejar o relato do protótipo de alta fidelidade](../design-avaliacao-desenvolvimento/nivel3/planejamentoRelatoResultadosAvaliacaoPrototipoDeAltaFidelidade.md)                         | Lucas            |
 
 <div style="text-align: center">
-<p> Tabela 3: Tabela do cronograma de verificação dos artefatos (Fonte: Lucas Frazão, 2023). </p>
+<p> Tabela 24: Tabela do cronograma de verificação dos artefatos (Fonte: Lucas Frazão, 2023). </p>
 </div>
 
 ## Sintese das Avaliações
 
-Na Tabela 3, estão contidos dados sobre as avaliações ocorridas durante o projeto, sendo elas do storyboard, da análise de tarefas e dos protótipos de baixa e alta fidelidade, a Tabela 3 contém informações valiosas para se entender os responsáveis pela criação das avaliações que ditaram o rumo do projeto.
+Na Tabela 25, estão contidos dados sobre as avaliações ocorridas durante o projeto, sendo elas do storyboard, da análise de tarefas e dos protótipos de baixa e alta fidelidade, a Tabela 25 contém informações valiosas para se entender os responsáveis pela criação das avaliações que ditaram o rumo do projeto.
 
 | Artefato Avaliado                                                                                                                                  | Metodologia(s)                                 |         Entrevistador(es)          | Número de Participantes | Resultados da Avaliação                                                                                                             | Data da Avaliação |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- | :--------------------------------: | :---------------------: | ----------------------------------------------------------------------------------------------------------------------------------- | :---------------: |
@@ -1076,12 +1076,12 @@ Na Tabela 3, estão contidos dados sobre as avaliações ocorridas durante o pro
 | [Protótipo de Alta Fidelidade](../design-avaliacao-desenvolvimento/nivel3/prototipoAltaFidelidade/planejamentoAvaliacaoPrototipoAltaFidelidade.md) | Entrevista Investigativa, Teste de Usabilidade | Ana e Lucas,<br />Chaydson e Pedro |            2            | [Protótipo de Alta Fidelidade](../design-avaliacao-desenvolvimento/nivel3/prototipoAltaFidelidade/relatoPrototipoAltaFidelidade.md) |    25/06/2023     |
 
 <div style="text-align: center">
-<p> Tabela 5: Entrevistas do Projeto sobre Protótipos (Fonte: Gabriel, 2023). </p>
+<p> Tabela 25: Entrevistas do Projeto sobre Protótipos (Fonte: Gabriel, 2023). </p>
 </div>
 
 ## Síntese das técnicas utilizadas
 
-A tabela 6 mostra os artefatos e as técnicas utilizadas durante o projeto. A tabela foi organizada em ordem de elaboração.
+A tabela 26 mostra os artefatos e as técnicas utilizadas durante o projeto. A tabela foi organizada em ordem de elaboração.
 
 | Artefato                                                                                                                                                                        | Técnica                                     | Autor(es)                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- | --------------------------------------------- |
@@ -1096,12 +1096,12 @@ A tabela 6 mostra os artefatos e as técnicas utilizadas durante o projeto. A ta
 | [Verificações](../verificacao/planejamento.md)                                                                                                                                  | Inspeção                                    | Ana, Chaydson, Gabriel, Lucas, Pedro e Samuel |
 
 <div style="text-align: center">
-<p> Tabela 6: Técnicas utilizadas no projeto (Fonte: Ana, 2023). </p>
+<p> Tabela 26: Técnicas utilizadas no projeto (Fonte: Ana, 2023). </p>
 </div>
 
 ## Apresentações do Projeto
 
-A Tabela 7 contém as apresentações durante o projeto, as apresentações são reflexos do que foi desenvolvido em cada etapa do projeto.
+A Tabela 27 contém as apresentações durante o projeto, as apresentações são reflexos do que foi desenvolvido em cada etapa do projeto.
 
 | Etapa | Apresentações                                                                         | Participantes                                 |
 | ----- | ------------------------------------------------------------------------------------- | --------------------------------------------- |
@@ -1116,7 +1116,7 @@ A Tabela 7 contém as apresentações durante o projeto, as apresentações são
 | 8     | [Apresentação 9](https://www.youtube.com/watch?v=EAXv8YcH7hw&ab_channel=GabrielSilvs) | Ana, Chaydson, Gabriel, Lucas, Pedro e Samuel |
 
 <div style="text-align: center">
-<p> Tabela 7: Entrevistas do Projeto sobre Protótipos (Fonte: Samuel, 2023). </p>
+<p> Tabela 27: Entrevistas do Projeto sobre Protótipos (Fonte: Samuel, 2023). </p>
 </div>
 
 ## Dificuldades e Facilidades
