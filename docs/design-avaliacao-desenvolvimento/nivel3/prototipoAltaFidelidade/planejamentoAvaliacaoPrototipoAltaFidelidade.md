@@ -153,13 +153,6 @@ No Video 1, encontra-se a gravação do teste piloto realizado pelos membros Gab
     <p> Tabela 3: Realização do teste piloto (Fonte: Gabriel e Samuel. 2023).</p>
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eApdoKMY0Oo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-<div style="text-align: center">
-    <p> Vídeo 1: Teste piloto (Fonte: Gabriel e Samuel. 2023).</p>
-</div>
-
 ## Conclusão
 
 Essa página apresenta o planejamento da avaliação do protótipo de papel. O avaliador pode seguir o que está descrito e fazer alterações caso haja necessário.
