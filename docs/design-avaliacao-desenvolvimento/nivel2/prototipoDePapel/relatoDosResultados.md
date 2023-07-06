@@ -170,7 +170,7 @@ Com o dado exposto nas entrevistas, é possível compreender que existem certas 
 
 ## Problemas Identificados
 
-A partir das eEntrevista 1 e Entrevista 2, foi possível verificar que a protótipação possui lados bons, mas tambem possui lados ruins como citado na entrevista 2 pelo entrevistado Pedro Rosa, que certas páginas apresentam problemas como :
+A partir das Entrevista 1 e Entrevista 2, foi possível verificar que a protótipação possui lados bons, mas tambem possui lados ruins como citado na entrevista 2 pelo entrevistado Pedro Rosa, que certas páginas apresentam problemas como :
 
 - Criar artigo está muito escondido para usuários
 - O botão de identificar erro, está mais semelhante a um de denúncia de página

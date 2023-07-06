@@ -7,8 +7,8 @@ O presente documento apresentará a verificação do relato da análise de taref
 <center>
 
 | Versão avaliada | Autor            | Revisor  |
-| --------------- | ---------------- | -------- |
-| 1.0             | Gabriel e Samuel | Chaydson |
+| ---------------- | ---------------- | -------- |
+| 1.0              | Gabriel e Samuel | Chaydson |
 
 </center>
 
@@ -16,34 +16,34 @@ O presente documento apresentará a verificação do relato da análise de taref
 <p> Tabela 1: Metadados do artefato (Fonte: Lucas Frazão, 2023). </p>
 </div>
 
-| ID  |                                 Questão                                  | Inspeção |
-| :-: | :----------------------------------------------------------------------: | :------: |
-|  1  |                 As legendas estão no padrão do projeto?                  |    🟡    |
-|  2  |                  Possui links para os outros artefatos?                  |    🟢    |
-|  3  |                    Existe uma introdução no artefato?                    |    🟢    |
-|  4  |               Existe tabela de versionamento padronizado?                |    🟢    |
-|  5  |        Há referências bibliográficas ou referências no artefato?         |    🟢    |
-|  6  | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |    🟢    |
-|  7  |                         O artefato possui autor?                         |    🟢    |
-|  8  |                        O artefato possui revisor?                        |    🟢    |
+| ID |                                 Questão                                 | Inspeção |
+| :-: | :-----------------------------------------------------------------------: | :--------: |
+| 1 |                 As legendas estão no padrão do projeto?                 |     🟡     |
+| 2 |                  Possui links para os outros artefatos?                  |     🟢     |
+| 3 |                   Existe uma introdução no artefato?                   |     🟢     |
+| 4 |                Existe tabela de versionamento padronizado?                |     🟢     |
+| 5 |      Há referências bibliográficas ou referências no artefato?      |     🟢     |
+| 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |     🟢     |
+| 7 |                         O artefato possui autor?                         |     🟢     |
+| 8 |                        O artefato possui revisor?                        |     🟢     |
 
 <div style="text-align: center">
 <p> Tabela 2: Tabela de avaliação com as gerais para todos os artefatos (Fonte: Lucas Frazão, 2023). </p>
 </div>
 
-| ID  |                           Questão                            | Inspeção |
-| :-: | :----------------------------------------------------------: | :------: |
-|  9  |           A entrevista da avaliação está gravada?            |    🟢    |
-| 10  |     O artefato apresenta as respostas dos entrevistados?     |    🟢    |
-| 11  |       O artefato apresenta os resultados para análise?       |    🔴    |
-| 12  | O artefato apresenta como serão tratadas as questões éticas? |    🟢    |
-| 13  |           Os objetivos do relato são apresentados?           |    🟡    |
-| 14  |            A metodologia do relato é apresentado?            |    🟢    |
-| 15  |          O teste piloto NÃO se encontra no relato?           |    🔴    |
-| 16  |         Existe um teste piloto antes da entrevista?          |    🟢    |
-| 17  |    Existe uma tabela com os participantes e o seu papel?     |    🟢    |
-| 18  |         O artefato possui os problemas encontrados?          |    🟢    |
-| 19  |          O artefato possui as possíveis melhorias?           |    🟢    |
+| ID |                            Questão                            | Inspeção |
+| :-: | :-------------------------------------------------------------: | :--------: |
+| 9 |           A entrevista da avaliação está gravada?           |     🟢     |
+| 10 |      O artefato apresenta as respostas dos entrevistados?      |     🟢     |
+| 11 |        O artefato apresenta os resultados para análise?        |     🔴     |
+| 12 | O artefato apresenta como serão tratadas as questões éticas? |     🟢     |
+| 13 |            Os objetivos do relato são apresentados?            |     🟡     |
+| 14 |             A metodologia do relato é apresentado?             |     🟢     |
+| 15 |           O teste piloto NÃO se encontra no relato?           |     🔴     |
+| 16 |           Existe um teste piloto antes da entrevista?           |     🟢     |
+| 17 |      Existe uma tabela com os participantes e o seu papel?      |     🟢     |
+| 18 |           O artefato possui os problemas encontrados?           |     🟢     |
+| 19 |           O artefato possui as possíveis melhorias?           |     🟢     |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela de avaliação com as questões específicas do artefato (Fonte: Lucas Frazão, 2023). </p>
@@ -52,11 +52,11 @@ O presente documento apresentará a verificação do relato da análise de taref
 ## Planejamento do ajuste
 
 | ID Correção | Tarefa                                                                                  |
-| ----------- | --------------------------------------------------------------------------------------- |
-| IDC1        | Algumas legendas estão com espaços e outras não, arrumar este problema                  |
-| IDC2        | Escrever sobre o resultado obtido com as respostas dos entrevistados, um tipo de resumo |
-| IDC3        | Mover o teste piloto para o planejamento da avaliação                                   |
-| IDC3        | Concertar erros gramaticais do artefato                                                 |
+| ------------- | --------------------------------------------------------------------------------------- |
+| IDC1          | Algumas legendas estão com espaços e outras não, arrumar este problema               |
+| IDC2          | Escrever sobre o resultado obtido com as respostas dos entrevistados, um tipo de resumo |
+| IDC3          | Mover o teste piloto para o planejamento da avaliação                                 |
+| IDC3          | Concertar erros gramaticais do artefato                                                 |
 
 <div style="text-align: center">
 <p> Tabela 4: Tabela do que precisa ser ajustado no artefato (Fonte: Lucas, 2023). </p>
@@ -72,10 +72,10 @@ Para saber a porcentagem de aproveitamento do artefato, será utilizado a expres
 <p> Figura 1: Fórmula para calcular aproveitamento (Fonte: Gabriel, 2023). </p>
 </div>
 
-| Acrônimo | Descrição                      |
-| -------- | ------------------------------ |
-| QTDE     | Quantidade Total de Exigências |
-| EC       | Exigências Completas           |
+| Acrônimo | Descrição                     |
+| --------- | ------------------------------- |
+| QTDE      | Quantidade Total de Exigências |
+| EC        | Exigências Completas           |
 
 <div style="text-align: center">
 <p> Tabela 5: Legenda da Figura 1 (Fonte: Gabriel, 2023). </p>
@@ -95,17 +95,17 @@ Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento de
 
 Depois da verificação, o autor do artefato, indicado na tabela 2, deverá fazer as correções indicadas no planejamento dos ajustes e calcular a nova porcentagem.
 
-| ID Correção | Tarefa | Ajuste |
-| ----------- | ------ | ------ |
-| IDC1        |        |        |
-| IDC2        |        |        |
-| IDC3        |        |        |
-| IDC4        |        |        |
+| ID Correção | Tarefa                                                                                  | Ajuste                          |
+| ------------- | --------------------------------------------------------------------------------------- | ------------------------------- |
+| IDC1          | Algumas legendas estão com espaços e outras não, arrumar este problema               | Foi Ajustado                    |
+| IDC2          | Escrever sobre o resultado obtido com as respostas dos entrevistados, um tipo de resumo | Foi Adicionado                  |
+| IDC3          | Mover o teste piloto para o planejamento da avaliação                                 | Foi movido                      |
+| IDC4          | Consertar erros gramaticais do artefato                                                 | Consertado os erros gramaticais |
 
 <!-- Atualizar histórico de versão, após corrigir. -->
 
 <div style="text-align: center">
-<p> Tabela 6: Tabela dos ajustes realizados no artefato (Fonte: Lucas, 2023). </p>
+<p> Tabela 6: Tabela dos ajustes realizados no artefato (Fonte: Gabriel, 2023). </p>
 </div>
 
 Após as correções, a nova porcentagem de aproveitamento é de: p% correto.
@@ -116,6 +116,7 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 
 ## Histórico de versão
 
-|    Data    | Versão |      Descrição       | Autor(es) |
-| :--------: | :----: | :------------------: | :-------: |
-| 17/06/2023 |  1.0   | Criação do documento |   Lucas   |
+|    Data    | Versão |              Descrição              | Autor(es) |
+| :--------: | :-----: | :-----------------------------------: | :-------: |
+| 17/06/2023 |   1.0   |        Criação do documento        |   Lucas   |
+| 05/07/2023 |   1.1   | Correção da Tabela de Verificação |  Gabriel  |

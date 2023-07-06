@@ -10,7 +10,7 @@ A metodologia utilizada nessa etapa do projeto, foi através da entrevista, a qu
 
 ## Objetivos
 
-O objetivo da página é reunir as informações e extrair dados a partir do que foi realizado, para definir se a análise de tarefas faz sentido e está completa, todas no nível das tarefas evitando-se pensar na telas, além de interpretar os resultados obtidos.
+O objetivo da página é reunir as informações e extrair dados a partir do que foi realizado, para definir se a análise de tarefas faz sentido e está completa, todas no nível das tarefas evitando-se pensar na telas, além de interpretar os resultados obtidos para um possível re-projeto.
 
 ## Participantes
 
@@ -29,7 +29,7 @@ Na Tabela 1 estão descritos os participantes dessa etapa de entrevistas, sendo 
 
 ## Relatos dos Resultados
 
-Nos video 3 e video 4, estão os acontecimentos da entrevistas feitas pelos componentes Gabriel e Samuel, que ocorreram nos momentos descritos na Tabela 3.  
+Nos video 3 e video 4, estão os acontecimentos da entrevistas feitas pelos componentes Gabriel e Samuel, que ocorreram nos momentos descritos na Tabela 3.
 
 | Local       | Entrevistado | Entrevistador    | Data e hora          |
 | ----------- | ------------ | ---------------- | -------------------- |
@@ -52,7 +52,7 @@ Nos video 3 e video 4, estão os acontecimentos da entrevistas feitas pelos comp
     <p> Video 4: Entrevista 2 (Fonte:Gabriel e Samuel.2023).</p>
 </div>
 
-## Dados obtidos
+## Sumário dos Dados
 
 Esses são dados obtidos são relacionados a perguntas que foram feitam ao entrevistado, tais perguntas ajudam a entender as tarefas, entretanto, somente com o complemento das gravações, pode-se entender mais por meio da observação do jeito de falar ou se expressar do entrevistado, que percebe-se o quanto a tarefa pode influência-lo ou não, e que tipos de melhorias e problemas essas tarefas tem, o que foi inesperado apesar da entrevista bem-estruturada, estando na Tabela 4 e 5, as respostas de cada um dos entrevistados.
 
@@ -91,10 +91,13 @@ Esses são dados obtidos são relacionados a perguntas que foram feitam ao entre
 |        11        | Como você pensa que as tarefas descritas afetam a facilidade de um usuário completar uma atividade?               | "Na minha opinião, é extremamente relevante para completar essas atividades (isso) provê até mais credibilidade para o site. Por exemplo, se eu vejo um erro e eu sou capaz de verificar esse erro, editar ou simplesmente relatar o problema, eu vejo que isso traz mais credibilidade e eu vou me sentir mais confiante [...]. Então, na minha opinião, todos esses tópicos são de extrema relevancia para a página e para o usuário"                                                                   |      Aberta      |
 |        12        | Demoraria para os usuários completarem as atividades dessas tarefas?                                               | "Na minha opinião, o método de criar uma página poderia ser mais simples [...]. E também na costrução de um artigo, se você tivesse uma ferramenta pra ir te auxiliando, porque o editor é bem seco, parece um Word de mil novecentos e bolinha, então se você tivesse ferramentas pra formatação que te auxiliasse seria muito bacana e assim, sonhando auto, se você tivesse uma I.A. ali por trás pra ir dando um auto complete no que você estivesse escrevendo também seria bem interessante." |      Aberta      |
 
-
 <div style="text-align: center">
     <p> Tabela 5: Tabela do Entrevistado 2 - Pedro (Fonte: Gabriel e Samuel. 2023)</p>
 </div>
+
+## Análise e Intepretação dos Dados
+
+Utilzando-se os dados obtidos expostos, é possível compreender que os usuários conseguiram realizar as tarefas com grande êxito, tanto o entrevistado 1, quanto entrevistado 2, ambos apresentaram pontos válido relacionados ao fluxo de criação de artigo que foi algo que desagradou ambos, por se um fluxo mais complexo de se encontrar, quando deveria ser uma das funcionalidades mais fácil de se encontrar, ambos os entrevistados conseguiram lembrar de memória e facilmente reconhecer o fluxo da tarefa ao qual ela representava, representando que a facilidade de se lembrar do fluxo está bom.
 
 ## Problemas
 
@@ -105,6 +108,14 @@ Durante a entrevista, ambos os entrevistados identificaram um desafio com o flux
 Durante a entrevista, Pedro apresentou algumas sugestões para aprimorar a Wikipédia. Uma delas foi a implementação de uma opção para entrar em contato com os mentores de forma privada, proporcionando uma comunicação mais direta e personalizada. Além disso, ele propôs melhorias na criação de artigos, destacando a utilização de uma inteligência artificial capaz de oferecer recursos de autocompletar mais abrangentes e eficientes. Outra sugestão importante de Pedro foi aprimorar a precisão da pesquisa na plataforma, visando facilitar a localização de informações específicas com maior facilidade e rapidez.
 
 Ambos os entrevistados destacaram a necessidade de aprimorar a parte de criação de artigos, considerando-a pouco prática.
+
+| Problema   | Onde se manifestou | Problema de usabilidade afetado                                                                                      | Sugestão de melhoria                                                                         | Quem irá executar a refatoração |
+| ---------- | ------------------ | -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ---------------------------------- |
+| Problema 1 | Fluxo de Criação | Tamanho do fluxo de tarefas e ações pode ser demasiado grande e confuso para as pessoas que querem criar um artigo | Aplicar em fases posteriores uma maneira de diminuir tal fluxo e ações que foram realizadas | Samuel                             |
+
+<div style="text-align: center">
+    <p> Tabela 6: Problemas encontrados, sugestão de melhoria e quem irá realizar essa sugestão (Fonte: Autores. 2023).</p>
+</div>
 
 ## Termos de Consentimentos
 
@@ -124,6 +135,7 @@ Relato dos Resultados Análises de Tarefas do projeto Lichess. Disponível em: h
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição            | Autor(es)        | Revisor(es) |
-| ------- | ---------- | ---------------------- | ---------------- | ----------- |
-| 1.0     | 28/05/2023 | Criação do documento | Gabriel e Samuel | Chaydson    |
+| Versão | Data       | Descrição                   | Autor(es)        | Revisor(es) |
+| ------- | ---------- | ----------------------------- | ---------------- | ----------- |
+| 1.0     | 28/05/2023 | Criação do documento        | Gabriel e Samuel | Chaydson    |
+| 1.1     | 05/07/2023 | Reestruturação do documento | Gabriel          | Lucas       |
