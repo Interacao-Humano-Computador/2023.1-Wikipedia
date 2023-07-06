@@ -25,7 +25,7 @@ Vamos definir as personas de acordo com as definições de Courage e Baxter (200
 
 ### Luís Silva
 
-|                                                                                                                                                                                           <img width='50%' src="../../images/personas/luis.jpeg">                                                                                                                                                                                            |
+|                                                                                                                                                                                            <img width='50%' src="../../images/personas/luis.jpeg">                                                                                                                                                                                             |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                                                                                                                                              **Nome:** Luís Silva                                                                                                                                                                                                              |
 |                                                                                                                                                                                                             **Gênero:** Masculino                                                                                                                                                                                                              |
@@ -48,7 +48,7 @@ Vamos definir as personas de acordo com as definições de Courage e Baxter (200
 
 ### Rodrigo Lucas da Cunha
 
-|                                                                                                        <img width='50%' src="../../images/personas/rodrigo.jpeg">                                                                                                        |
+|                                                                                                         <img width='50%' src="../../images/personas/rodrigo.jpeg">                                                                                                         |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                                                      **Nome:** Rodrigo Lucas da Cunha                                                                                                                      |
 |                                                                                                                           **Gênero:** Masculino                                                                                                                            |
@@ -73,7 +73,7 @@ Vamos definir as personas de acordo com as definições de Courage e Baxter (200
 
 ### Nelson Ricardo Jesus
 
-|                                                                                                                          <img width='50%' src="../../images/personas/nelson.jpeg">                                                                                                                          |
+|                                                                                                                           <img width='50%' src="../../images/personas/nelson.jpeg">                                                                                                                           |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                                                                        **Nome:** Nelson Ricardo Jesus                                                                                                                                         |
 |                                                                                                                                             **Gênero:** Masculino                                                                                                                                             |
@@ -94,7 +94,7 @@ Vamos definir as personas de acordo com as definições de Courage e Baxter (200
 
 ### Francisco Davi Ramos
 
-|                                                                    <img width='50%' src="../../images/personas/francisco.jpeg">                                                                     |
+|                                                                     <img width='50%' src="../../images/personas/francisco.jpeg">                                                                      |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                    **Nome:** Francisco Davi Ramos                                                                                     |
 |                                                                                         **Gênero:** Masculino                                                                                         |

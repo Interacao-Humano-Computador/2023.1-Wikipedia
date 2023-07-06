@@ -1,101 +1,200 @@
-# Planejamento da Verificação
+# Metodologia de verificação
 
 ## Introdução
 
-A etapa de verificação é uma parte essencial do desenvolvimento de projetos, que tem como objetivo garantir que os produtos de trabalho atendam aos requisitos especificados. Existem duas abordagens principais para realizar essa verificação: análise estática e análise dinâmica. A análise estática não requer a execução de código, enquanto a análise dinâmica envolve a execução do código. Dependendo da natureza do projeto e dos artefatos selecionados, a verificação pode ser realizada por meio da análise estática, que permite uma análise detalhada dos elementos do projeto sem a necessidade de execução.
+A etapa de verificação é uma parte essencial do desenvolvimento de projetos, que tem como objetivo garantir que os produtos de trabalho atendam aos requisitos especificados. Existem algumas abordagens para a realização da verificação, por exemplo: Inspenção, estratégias formais e reutilização de dóminios. A verificação por inspenção é aplicada para verificação em artefatos, produzidos por clientes e sem alguma estrutura ou produzidos por engenheiros de software. Tem como objetivo encontrar defeitos nos artefatos, deve ter definições claras sobre os papéis dos avaliadores e os resultados que devem ser alcançados. Esse método tem sido excelente, portanto consegue-se, efetivamente, descobrir os defeitos de um artefato [2].
 
 ## Metodologia
 
-A verificação será feita por meio do metodo da inspeção proposto por Fagan que consiste em seis etapas, porém para o contexto da disciplina serão utilizados quatro etapas, são eles: planejamento, visão geral, preparação, realização da inspeção. Será elaborado um checklist para verificar os artefatos e para estabelecer critérios específicos, o responsável pelo artefato deve consultar os elementos previamente estipulados no plano de ensino da disciplina, as correções fornecidas pelo monitor e os trabalhos de semestres anteriores como fonte de inspiração na definição dos critérios.
+O objetivo básico das inspenções é verificar se os artefatos produzidos pelo [grupo 3](https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral) está de acordo com o esperado, com isso, Fagan estabele-se os 6 passos principais para uma boa inspenção:
 
-Os checklists elaborados para verificação dos artefatos respeitará o seguinte padrão:
+- Planejamento,
+- Visão Geral,
+- Preparação,
+- Inspenção,
+- Correção,
+- Acompanhamento.
 
-* 🟢: Completamente Satisfatório;
-* 🟡: Incompleto;
-* 🔴: Não realizado ou Errado;
-* N/A: Não se aplica.
+Porém, iremos até a fase inspenção, pois a parte da correção e acompanhamento não será feita pelo nosso grupo, na tabela 1 se encontra o cronograma de verificação.
 
-Com as classificações defininas, utilizaremos o padrão de tabela a seguir:
+## Planejamento
+
+| Artefato                                                            | Avaliador(es)     |
+| ------------------------------------------------------------------- | ----------------- |
+| Cronogramas                                                         | Pedro             |
+| Sites avaliados                                                     | Ana               |
+| Site selecionado                                                    | Chaydson          |
+| Metodologia                                                         | Gabriel           |
+| Ferramentas                                                         | Lucas             |
+| Processo de design                                                  | Samuel            |
+| Perfil de Usuario                                                   | Lucas             |
+| Personas                                                            | Samuel e Chaydson |
+| Análise das tarefas do usuário (técnicas HTA e GOMS)                | Pedro             |
+| Aspectos éticos de pesquisa envolvendo pessoas                      | Gabriel           |
+| Criação dos cenário                                                 | Ana               |
+| Definir os princípios gerais do projeto                             | Lucas             |
+| Determinar as metas de usabilidade                                  | Pedro             |
+| Criar o guia de estilo                                              | Gabriel e Samuel  |
+| Determinar as características da plataforma para o projeto          | Ana e Chaydson    |
+| Planejar a avaliação do Story Board                                 | Chaydson e Lucas  |
+| Planejar a avaliação da Análise de Tarefas                          | Ana e Pedro       |
+| Planejar o relato da avaliação do Story Board                       | Samuel            |
+| Planejar o relato da avaliação da Análise de Tarefas                | Gabriel           |
+| Relatar os resultados do Story Board                                | Gabriel e Samuel  |
+| Relatar os resultados da análise de tarefas                         | Ana e Lucas       |
+| Planejar a avaliação do protótipo de papel                          | Chaydson          |
+| Planejar o relato dos resultados da avaliação do protótipo de papel | Pedro             |
+
+<div style="text-align: center">
+<p> Tabela 1: Tabela do cronograma de avaliação (Fonte: Lucas Frazão, 2023). </p>
+</div>
+
+## Método de avaliação
+
+Antes da verificação, precisamos inserir os metadados do artefato avaliado, conforme a tabela 2 abaixo:
 
 <center>
 
-| ID |  Questão  | Inspeção |
-| :-: | :--------: | :--------: |
-| 1 | Pergunta 1 |     🔴     |
-| 2 | Pergunta 2 |     🟡     |
-| 3 | Pergunta 3 |     🟢     |
-| 4 | Pergunta 4 |     🔴     |
-| 5 | Pergunta 5 |     🟢     |
-| 6 | Pergunta 6 |     🔴     |
-| 7 | Pergunta 7 |     🟢     |
-| 8 | Pergunta 8 |     🟢     |
+| Versão avaliada | Autor             | Revisor             |
+| --------------- | ----------------- | ------------------- |
+| versão x        | Autor do artefato | Revisor do artefato |
+
+</center>
 
 <div style="text-align: center">
-    <p> Tabela 1: Exemplo a ser seguido. (Fonte: Autores. 2023).</p>
+<p> Tabela 2: Metadados do artefato (Fonte: NomeAutor, 2023). </p>
+</div>
+
+Para a verificação, será adotada a técnica de inspeção, a qual será realizada por meio de uma checklist. Essa checklist consiste em uma série de perguntas que têm como objetivo avaliar se o artefato foi desenvolvido de acordo com as exigências da disciplina.
+
+A checklist será preenchida com base em diferentes classificações, que incluem:
+
+- 🟢: Completamente Satisfatório;
+- 🟡: Incompleto;
+- 🔴: Não realizado ou Errado;
+- N/A: Não se aplica.
+
+Os membros avaliarão os artefatos com base no livro: Simone[1] e utilizarão o método de inspenção.
+
+A seguir, na tabela 3, temos as perguntas que serão feitas em todos os artefatos, são as perguntas padrões.
+
+<center>
+
+| ID  |                                 Questão                                  | Inspeção | Observações                      |
+| :-: | :----------------------------------------------------------------------: | :------: | -------------------------------- |
+|  1  |                 As legendas estão no padrão do projeto?                  |    🟢    |                                  |
+|  2  |                  Possui links para os outros artefatos?                  |    🟡    | Breve comentário                 |
+|  3  |                    Existe uma introdução no artefato?                    |    🔴    | Será justificado nos comentários |
+|  4  |               Existe tabela de versionamento padronizado?                |    🟢    |                                  |
+|  5  |        Há referências bibliográficas ou referências no artefato?         |    🟢    |                                  |
+|  6  | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |    🟢    |                                  |
+|  7  |                         O artefato possui autor?                         |    🟢    |                                  |
+|  8  |                        O artefato possui revisor?                        |    🟢    |                                  |
+
+</center>
+
+<div style="text-align: center">
+<p> Tabela 3: Tabela de avaliação com as padroẽs para todos os artefatos (Fonte: NomeAutor, 2023). </p>
+</div>
+
+Após o preenchimento da tabela padrão, o avaliador deve fazer uma tabela separada onde deve ter as questões do cenários especifico, veja mais na tabela 4.
+
+<center>
+
+| ID  |       Questão        | Inspeção | Obersevação                      |
+| :-: | :------------------: | :------: | -------------------------------- |
+|  1  | Questão específica 1 |    🟢    | -                                |
+|  2  | Questão específica 2 |    🟡    | Breve comentário                 |
+|  3  | Questão específica 3 |    🔴    | Será justificado nos comentários |
+| ... |         ...          |   ...    | ...                              |
+
+</center>
+
+<div style="text-align: center">
+<p> Tabela 4: Tabela de avaliação com as questões específicas do artefato (Fonte: NomeAutor, 2023). </p>
+</div>
+
+## Comentários
+
+Por fim, o avaliador deve fazer uma série de comentários onde ele avaliou como incompleto ou não realizado/errado, justificando sua resposta, caso não caiba na 3 coluna, observação.
+
+### ID 2 - Questão específica 2
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque maximus orci placerat lorem fringilla, non suscipit dui iaculis. Pellentesque placerat auctor porta. Nunc sit amet porta nisl. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum a lorem ligula. Aliquam aliquam, sapien ut laoreet cursus, nunc dui porttitor est, at vehicula orci est ut est. Praesent sit amet nulla nec diam aliquam tempus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla turpis lacus, finibus vel malesuada et, semper sit amet lectus. Morbi ac gravida elit, at mattis lorem. Suspendisse a tellus pharetra, commodo nisi et, rhoncus urna.
+
+## Resultados
+
+Para saber a porcentagem de aproveitamento do artefato, será utilizado a expressão da Figura 1, no qual a Tabela 5 apresenta o significado dessa legendas.
+
+<center>
+
+<img src="../../images/formulaCalculoAproveitamento.png"  alt="legenda da fórmula da figura 1"/>
+<div style="text-align: center">
+
+<p> Figura 1: Fórmula para calcular aproveitamento (Fonte: Gabriel, 2023). </p>
 </div>
 
 </center>
 
-## Planejamento
+<center>
 
-Os materias verificados nessa etapa são satisfatorios e requisitados pelo docente da disciplina de Interação Humano-Computador. O local de realização das inspeções será o aplicativo discord para discussão e o ambiente será a cargo dos participantes da insepeção. A seguir, a organização das pessoas que irão participar da inspeção:
+| Acrônimo | Descrição                      |
+| -------- | ------------------------------ |
+| QTDE     | Quantidade Total de Exigências |
+| EC       | Exigências Completas           |
 
-PONTO DE CONTROLE 1 <br/>
-Cronograma - Pedro <br/>
-Sites avaliados - Ana <br/>
-Site selecionado - Chaydson <br/>
-Metodologia - Gabriel <br/>
-Ferramentas - Lucas <br/>
-Processos de Design - Samuel <br/>
+<div style="text-align: center">
+<p> Tabela 6: Legenda da Figura 1 (Fonte: Gabriel, 2023). </p>
+</div>
 
-PONTO DE CONTROLE 2 <br/>
-Criação do perfil do Usuário - Lucas <br/>
-Desenvolvimento das personas - Samuel e Chaydson <br/>
-Análise das tarefas do usuário (técnicas HTA e CTT) - Pedro <br/>
-Aspectos éticos de pesquisa envolvendo pessoas - Gabriel <br/>
-Criação dos cenário - Ana <br/>
+</center>
 
-PONTO DE CONTROLE 3 <br/>
-Definir os princípios gerais do projeto - Lucas <br/>
-Determinar as metas de usabilidade - Pedro <br/>
-Criar o guia de estilo - Gabriel e Samuel <br/>
-Determinar as características da plataforma para o projeto - Ana e Chaydson <br/>
+Nos checklists realizados e que serão descritos, podemos observar que:
 
-PONTO DE CONTROLE 4 <br/>
-Planejar a avaliação do Story Board - Chaydson e Lucas <br/>
-Planejar a avaliação da Análise de Tarefas - Ana e Pedro <br/>
-Planejar o retato da avaliação do Story Board - Samuel <br/>
-Planejar o retato da avaliação da Análise de Tarefas - Gabriel <br/>
+- y/x exigências são atendidas;
+- w/x exigências estão incompletas;
+- z/x exigências estão erradas ou não foram realizadas.
 
-PONTO DE CONTROLE 5 <br/>
-Relatar os resultados do Story Board - Gabriel e Samuel <br/>
-Relatar a análise de tarefas - Ana e Lucas <br/>
-Planejar a avaliação do protótipo de papel - Chaydson <br/>
-Planejar o relato dos resultados da avaliação do protótipo de papel - Pedro <br/>
+onde x é a quantidade de exigências.
 
-## Visão Geral
+```vegalite
+{
+    "title": "Acompanhamento",
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "A simple donut chart with embedded data.",
+  "data": {
+    "values": [
+      {"legenda": "Completo", "value": 15},
+      {"legenda": "Incompleto", "value": 1},
+      {"legenda": "Errado", "value": 4}
+    ]
+  },
+  "mark": {"type": "arc", "innerRadius": 50, "tooltip": true},
+  "encoding": {
+    "theta": {"field": "value", "type": "quantitative"},
+    "color": {
+      "field": "legenda",
+      "type": "nominal",
+      "scale": {
+        "domain": ["Completo", "Incompleto", "Errado"],
+        "range": ["green", "yellow", "red"]
+      }
+    }
+  }
+}
+```
 
-O material a ser inspercionado pelos participantes será o [Banco Central do Brasil](https://interacao-humano-computador.github.io/2023.1-BancoCentral/) e as funções de cada participante da inspeção já foram organizadas no planejamento.
-
-## Preparação
-
-Os participantes da etapa de inspeção já possuem treinamento para a realização da atividade devido as aulas administradas na materia de Interação Humano-Computador.
-
-## Realização da Inspeção
-
-A realização da insepção será efetuada conforme o [cronograma](../planejamento/cronogramaPlanejado.md) planejado e a documentação dos resultados que podem ser encontrados nos Pontos de Controle nessa seção.
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em p%.
 
 ## Referência Bibliografica
 
-CASTRO, E. QUAL A DIFERENÇA ENTRE INSPEÇÃO E TESTE DE SOFTWARE? VOCE CONHECE O PROCESSO DE INSPEÇÃO? Disponível em: [http://rederequisitos.com.br/qual-diferenca-entre-inspecao-e-teste-de-software-voce-conhece-o-processo-de-inspecao/#:~:text=A%20t%C3%A9cnica%20de%20Inspe%C3%A7%C3%A3o%20elimina,com%20corre%C3%A7%C3%A3o%20em%20fases%20posteriores.](http://rederequisitos.com.br/qual-diferenca-entre-inspecao-e-teste-de-software-voce-conhece-o-processo-de-inspecao/#:~:text=A%20t%C3%A9cnica%20de%20Inspe%C3%A7%C3%A3o%20elimina,com%20corre%C3%A7%C3%A3o%20em%20fases%20posteriores.). Acesso em: 3 jun. 2023.
+[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
-Banco Central. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/>. Acesso em: 3 jun. 2023.
-
-‌
-‌
+[2] EICKELMANN, Nancy S. et al. An empirical study of modifying the Fagan inspection process and the resulting main effects and interaction effects among defects found, effort required, rate of preparation and inspection, number of team members and product 1st pass quality. In: 27th Annual NASA Goddard/IEEE Software Engineering Workshop, 2002. Proceedings. IEEE, 2002. p. 58-64.
 
 ## Histórico de versão
 
-|    Data    | Versão |      Descrição      |   Autor(es)   | Revisor(es) |
-| :--------: | :-----: | :--------------------: | :-----------: | :---------: |
-| 03/06/2023 |   1.0   | Criação do documento | Pedro e Lucas |  Chaydson  |
+|    Data    | Versão |              Descrição               |   Autor(es)   | Revisor(es) |
+| :--------: | :----: | :----------------------------------: | :-----------: | :---------: |
+| 03/06/2023 |  1.0   |         Criação do documento         | Pedro e Lucas |  Chaydson   |
+| 05/07/2023 |  1.0   | Aplicando Fagan e Simone no artefato |     Lucas     |  Chaydson   |

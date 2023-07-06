@@ -30,6 +30,24 @@ theme:
 
   logo: images/wikipedia.png
 
+plugins:
+  - search
+  - charts
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/vega@5
+  - https://cdn.jsdelivr.net/npm/vega-lite@5
+  - https://cdn.jsdelivr.net/npm/vega-embed@6
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences:
+      custom_fences:
+        - name: vegalite
+          class: vegalite
+          format: !!python/name:mkdocs_charts_plugin.fences.fence_vegalite
+
 nav:
   - Home: index.md
   - Atas:
@@ -160,3 +178,4 @@ nav:
           - Relato do prótipo de papel: verificacao2/pontoControle7/relatoPrototipoDePapel.md
           - Planejamento da avaliação do protótipo de alta fidelidade: verificacao2/pontoControle7/planejamentoAvaliacaoPrototipoDeAltaFidelidade.md
           - Planejamento do relato dos resultados do protótipo de alta fidelidade: verificacao2/pontoControle7/planejamentoRelatoPrototipoDeAltaFidelidade.md
+  - Entrega Final: entregaFinal/entregaFinal.md

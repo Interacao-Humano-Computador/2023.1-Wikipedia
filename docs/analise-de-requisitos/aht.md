@@ -40,8 +40,8 @@ Realizar uma contribução/edição a algum artigo é uma das principais ativida
     <p> Tabela 1: HTA em tabela (Fonte: Chaydson. 2023).</p>
 </div>
 
-`<br><br>`
-`<img src="../../images/aht.png"/>`
+<br><br>
+<img src="../../images/aht.png"/>
 
 <div style="text-align: center">
     <p> Figura 1: Diagrama HTA (Fonte: Chaydson. 2023).</p>
