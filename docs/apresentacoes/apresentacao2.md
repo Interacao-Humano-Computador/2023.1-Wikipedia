@@ -1,6 +1,6 @@
 # Introdução
 
-Nessa página está localizado o segundo video de apresentação do projeto referente a Etapa 2 - : Perfil do usuário, Aspectos Éticos de Pesquisas Envolvendo Pessoas, Personas
+Nessa página está localizado o segundo video de apresentação do projeto referente a Etapa 2 -  Perfil do usuário, Aspectos Éticos de Pesquisas Envolvendo Pessoas, Personas
 e Análise de tarefas.
 
 ## Video da Apresentação
