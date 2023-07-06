@@ -29,7 +29,7 @@ Na Tabela 1 estão descritos os participantes dessa etapa de entrevistas, sendo 
 
 ## Relatos dos Resultados
 
-Nos video 3 e video 4, estão os acontecimentos da entrevistas feitas pelos componentes Gabriel e Samuel, que ocorreram nos momentos descritos na Tabela 3.  
+Nos video 3 e video 4, estão os acontecimentos da entrevistas feitas pelos componentes Gabriel e Samuel, que ocorreram nos momentos descritos na Tabela 3.
 
 | Local       | Entrevistado | Entrevistador    | Data e hora          |
 | ----------- | ------------ | ---------------- | -------------------- |
@@ -91,10 +91,34 @@ Esses são dados obtidos são relacionados a perguntas que foram feitam ao entre
 |        11        | Como você pensa que as tarefas descritas afetam a facilidade de um usuário completar uma atividade?               | "Na minha opinião, é extremamente relevante para completar essas atividades (isso) provê até mais credibilidade para o site. Por exemplo, se eu vejo um erro e eu sou capaz de verificar esse erro, editar ou simplesmente relatar o problema, eu vejo que isso traz mais credibilidade e eu vou me sentir mais confiante [...]. Então, na minha opinião, todos esses tópicos são de extrema relevancia para a página e para o usuário"                                                                   |      Aberta      |
 |        12        | Demoraria para os usuários completarem as atividades dessas tarefas?                                               | "Na minha opinião, o método de criar uma página poderia ser mais simples [...]. E também na costrução de um artigo, se você tivesse uma ferramenta pra ir te auxiliando, porque o editor é bem seco, parece um Word de mil novecentos e bolinha, então se você tivesse ferramentas pra formatação que te auxiliasse seria muito bacana e assim, sonhando auto, se você tivesse uma I.A. ali por trás pra ir dando um auto complete no que você estivesse escrevendo também seria bem interessante." |      Aberta      |
 
-
 <div style="text-align: center">
     <p> Tabela 5: Tabela do Entrevistado 2 - Pedro (Fonte: Gabriel e Samuel. 2023)</p>
 </div>
+
+## Analise e interpretação dos dados
+
+Apropriação da tecnlogia pelo o usuário:
+
+1. A maneira em que os usuários seguem o fluxo das tarefas apresentam alternativas para se alcançar o objetivo? Encontraram alguma dificuldade durante a execução do fluxo? <p>Sim, existem outras alternativas para os fluxos. No entanto, ambos os entrevistados enfrentaram dificuldades na tarefa de criação de artigos.</p>
+2. Quais são os pontos fortes e fracos do fluxo das tarefas, na opinião dos usuários?<p>Em relação aos pontos fortes, foi observado que os usuários acharam relativamente fácil algumas tarefas que nunca tinham realizados no uso da Wikipédia antes. Em relação aos pontos fracos, os usuários acharam complicado o fluxo de criação de artigo.<p/>
+3. Quais tarefas dos usuários podem ser alcançados através do fluxo? Quais houve pior desempenho?<p>Todas as tarefas puderam ser alcançadas, a com pior foi a de criação de artigo.</p>
+
+Problemas com os fluxos da tarefas apresentadas:
+
+1. Os usuários conseguiram identificar o fluxo da tarefa com eficiência?<p>Sim.</p>
+2. O fluxo das tarefas agrada o usuário?<p>Com exceção da criação de artigos, os outros fluxo em geral agradaram os usuários.</p>
+3. Existe alguma parte do fluxo que deixa o usuário insatisfeito?<p>O fluxo de criação de artigos.</p>
+4. O usuário consegue realizar o fluxo das tarefas com entedimento do que ele está realizando? Existe alguma barreira?<p>Sim, os usuários conseguiram entrender os fluxos.</p>
+
+Possíveis alternativas de fluxo de tarefas:
+
+1. Na opinião do usuário, existe algum fluxo a ser melhorado para ser mais eficiente?<p>Sim, como dito anteriormente, o fluxo de criação de artigo precisa ser simplificado.</p>
+
+O fluxo da tarefa interfere com alguma meta de usabilidade?
+
+1. Os fluxos de tarefas são fáceis de se lembrar?<p>De acordo com o que foi observado nos usuários, as tarfeas são fáceis de lembrar.</p>
+2. O usuário consegue memorizar os fluxos de maneira rápida?<p>De acordo com o observador, sim.</p>
+3. O fluxo apresenta alguma alternativa caso o usuário se perca na tarefa?<p>Sim, o usuário pode voltar paraa página inicial, por exemplo.</p>
 
 ## Problemas
 
