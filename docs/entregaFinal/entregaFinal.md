@@ -2,6 +2,8 @@
 
 ## Introdução
 
+Nesse artefato, iremos apresentar a entrega final do projeto e tudo que foi desenvolvido durante este semestre, em um breve resumo.
+
 ## Site Selecionado
 
 ### Sobre a Wikipédia
@@ -213,7 +215,7 @@ No início do projeto, a equipe planejou as datas para cada uma das atividades q
 
 | Tarefa                                                 | Autor(es)                                      | Data limite da entrega | Revisor(es)                                   | Data limite da revisão |
 | ------------------------------------------------------ | ---------------------------------------------- | ---------------------- | --------------------------------------------- | ---------------------- |
-| Relato dos resultados do protótipo de alta fidelidade. | Lucas, Chaydson, Pedro, Samuel, Gabriel e Anaa | 12/06 - 23/06          | Lucas, Chaydson, Pedro, Samuel, Gabriel e Ana | 24/06 - 25/06          |
+| Relato dos resultados do protótipo de alta fidelidade. | Lucas, Chaydson, Pedro, Samuel, Gabriel e Ana | 12/06 - 23/06          | Lucas, Chaydson, Pedro, Samuel, Gabriel e Ana | 24/06 - 25/06          |
 | Gravação da apresentação                               | Lucas, Chaydson, Pedro, Samuel, Gabriel e Ana  | 12/06 - 23/06          | Lucas, Chaydson, Pedro, Samuel, Gabriel e Ana | 24/06 - 25/06          |
 | Finalização                                            | Lucas, Chaydson, Pedro, Samuel, Gabriel e Ana  | 12/06 - 23/06          | Lucas, Chaydson, Pedro, Samuel, Gabriel e Ana | 24/06 - 25/06          |
 
