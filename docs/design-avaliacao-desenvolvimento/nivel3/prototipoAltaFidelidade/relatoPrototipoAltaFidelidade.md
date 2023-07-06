@@ -99,7 +99,7 @@ O protótipo de alta fidelidade foi facilmente entendido pelos usuários, fornec
   Resposta: Sim, o usuário consegue se localizar no sistema com certa facilidade, já que os elementos se presentes na tela diminuíram o suficiente para o mesmo conseguir realizar a atividade iria querer.
 - Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?
 
-  Resposta: Os usuários conseguiram realizar as atividades pretentidas com sucesso, na Tabela 3, está localizada qual a atividade o tempo que os mesmos levaram para concluírem e se precisaram de ajuda ou não.
+  Resposta: Os usuários conseguiram realizar as atividades pretentidas com sucesso, está localizada qual a atividade o tempo que os mesmos levaram para concluírem e se precisaram de ajuda ou não.
 - Que parte da interface e da interação o deixa insatisfeito?
 
   Resposta: As partes da interface que deixaram os usuários insastifeitos foram tópicos relacionados ao menu superior, por não fechar ao tirar o mouse de cima e relacionados a página de discussão que possui um botão verde que chama atenção de mais e parece muito diferente do padrão do site.
