@@ -25,20 +25,29 @@ Após a contextualização de cada componente do DECIDE, a seguir são apresenta
 
 ## Planejamento da avaliação
 
-### Determinar os objetivos da avaliação
+### D - Determinar os objetivos da avaliação
 
-O propósito deste documento consiste em estabelecer um planejamento para a avaliação do storyboard desenvolvido, levando em consideração a metodologia adotada e as tarefas realizadas. O objetivo principal é aprimorar as decisões do designer ao longo do projeto, além de obter informações valiosas para aperfeiçoar as funcionalidades presentes no sistema. Sendo mais especifico:
+O propósito deste documento consiste em estabelecer um planejamento para a avaliação do storyboard desenvolvido, levando em consideração a metodologia adotada e as tarefas realizadas. Buscamos obter uma lista de feedback proveniente de usuários reais, com isso, iremos buscar responder à perguntas que foram elaboradas com base no livro da Simone(2021) que estão no tópico "Explorar perguntas a serem respondidas com a avaliação". Com base nessas perguntas temos os seguintes objetivos:
+  
+* identificar problemas na interação;
+  
+* analisar a apropriação da tecnologia;
 
-- Solicitar feedback dos usuários sobre a sequência de cenas do storyboard que retrata a realização de uma pesquisa no Wikipedia, a fim de verificar se corresponde à experiência real deles.
-- Solicitar feedback dos usuários sobre a sequência de cenas do storyboard que retrata a forma de relatar um erro na Wikipédia, a fim de verificar se corresponde à experiência real deles.
-- Solicitar feedback dos usuários sobre a sequência de cenas do storyboard que representa a criação de um artigo na Wikipédia, a fim de verificar se corresponde à experiência real deles.
-- Solicitar feedback dos usuários sobre a sequência de cenas do storyboard que retrata a forma de entrar em contato com um mentor na Wikipédia, a fim de verificar se corresponde à experiência real deles.
-- Solicitar feedback dos usuários sobre a sequência de cenas do storyboard que retrata a edição de um artigo na Wikipédia, a fim de verificar se corresponde à experiência real deles.
-- Solicitar feedback dos usuários sobre a sequência de cenas do storyboard que representa a adição de uma discussão na Wikipédia, a fim de verificar se corresponde à experiência real deles.
+### E - Explorar perguntas a serem respondidas com a avaliação
 
-### Explorar perguntas a serem respondidas com a avaliação
+O planejamento da avaliação tem como objetivo responder as seguintes perguntas com base nos objetivos estabelecidos:
 
-As perguntas apresentadas na Figura 1 comporão a entrevista com o usuário, as perguntas 1, 2 e 3 são um misto entre perguntas fechadas e abertas dependendo da resposta do usuario, enquanto a 4 e 5 são perguntas abertas.
+* Qual parte da iteração nos storyboards deixa o convidado da avaliação insatisfeito?
+
+* Os personagens dos storyboards atingem seus objetivos do ponto de vista do convidado da avaliação?
+
+* A maneira como o personagem do storyboard utiliza o sistema, difere em algo do que o convidado da avaliação espera?
+
+* Quais são os pontos fortes e fracos do sistema representado em cada storyboard, na opinião do convidado da avaliação?
+
+* O que é possivel mudar no sistema representado em cada storyboard para adequa-lo melhor ao ambiente de trabalho?
+
+As perguntas apresentadas na Figura 1 também auxiliarão na entrevista com o usuário, as perguntas 1, 2 e 3 são um misto entre perguntas fechadas e abertas dependendo da resposta do usuario, enquanto a 4 e 5 são perguntas abertas.
 
 ![Perguntas para entrevista ](../../../images/roteiroPerguntas.png)
 
@@ -46,23 +55,13 @@ As perguntas apresentadas na Figura 1 comporão a entrevista com o usuário, as 
 <p>Figura 1: Roteiro de perguntas, versão 1.(Fonte: Autores. 2023).</p>
 </div>
 
-### Escolher (Choose) os métodos de avaliação a serem utilizados.
+### C - Escolher (Choose) os métodos de avaliação a serem utilizados.
 
 Para realizar essa avaliação, será adotada uma abordagem de entrevista semiestruturada, na qual um conjunto de perguntas adaptadas será seguido, levando em consideração o conhecimento prévio do usuário sobre os seis storyboards desenvolvidos pela equipe da disciplina de Interação Humano-Computador. Essa abordagem visa promover uma interação mais fluida durante a entrevista.
 
 No que diz respeito à exposição dos storyboards ao entrevistado, eles serão apresentados na sequência em que são apresentados no tópico "Storyboards" deste mesmo documento, sendo lidos pelos dois entrevistadores (um storyboard para cada entrevistador). Após essa etapa, um dos entrevistadores conduzirá as perguntas ao usuário (entrevistado), enquanto o outro entrevistador registrará cuidadosamente as respostas fornecidas.
 
-## Decidir como lidar com as questões éticas.
-
-Ao realizar avaliações que envolvem a participação de indivíduos, é imprescindível obter o consentimento dos mesmos por meio de um Termo de Consentimento Livre e Esclarecido, em conformidade com os princípios éticos estabelecidos para o projeto.
-
-### Termo de Consentimento
-
-A seguir, encontra-se o Termo de Consentimento que será assinado antes da realização da entrevista, como parte do processo necessário para obter a permissão do participante.
-
-[Termo de consentimento](../../../pdfs/termoConsentimentoStoryBoard.pdf)
-
-## Identificar e administrar as questões práticas da avaliação.
+## I - Identificar e administrar as questões práticas da avaliação.
 
 Nos sub tópicos a seguir, serão abordadas as questões práticas da avaliação.
 
@@ -108,7 +107,17 @@ A seguir, apresentamos a Tabela 1 com o cronograma da avaliação:
     <p> Tabela 1: Cronograma da avaliação. (Fonte: Autores. 2023).</p>
 </div>
 
-## Avaliar(Evaluate), interpretar e apresentar os dados
+## D - Decidir como lidar com as questões éticas.
+
+Ao realizar avaliações que envolvem a participação de indivíduos, é imprescindível obter o consentimento dos mesmos por meio de um Termo de Consentimento Livre e Esclarecido, em conformidade com os princípios éticos estabelecidos para o projeto.
+
+### Termo de Consentimento
+
+A seguir, encontra-se o Termo de Consentimento que será assinado antes da realização da entrevista, como parte do processo necessário para obter a permissão do participante.
+
+[Termo de consentimento](../../../pdfs/termoConsentimentoStoryBoard.pdf)
+
+## E - Avaliar(Evaluate), interpretar e apresentar os dados
 
 Após a entrevista, os dados coletados serão analisados tanto pelos entrevistadores quanto pela equipe responsável pelo [Relato dos Resultados](./relatoDosResultadosStoryBoard.md) do Storyboard. Será realizada uma avaliação do grau de confiabilidade dos dados obtidos, verificando sua possibilidade de replicação no contexto esperado. Por fim, os problemas encontrados serão documentados junto com as sugestões de melhoria, em formato de texto.
 

@@ -40,7 +40,7 @@ A Tabela 2 contém os participantes da entrevista 2, que ocorreu no dia 25 de ju
     <p> Tabela 2: Participantes da entrevista 2</p>
 </div>
 
-# Protótipo
+## Protótipo
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FppVu27Rf6XW6Fxe32t4Hhp%2FIHC---Prototipos-team-library%3Ftype%3Ddesign%26node-id%3D2015-135%26scaling%3Dmin-zoom%26page-id%3D2015%253A134%26starting-point-node-id%3D2015%253A135%26show-proto-sidebar%3D1%26mode%3Ddesign" allowfullscreen></iframe>
 
@@ -73,7 +73,7 @@ A entrevista 2 realizada com Henrique, apesar de saber as atividades e conseguir
 <img src="../../../../images/prototipoAltaHenrique.jpeg"/>
 
 <div style="text-align: center">
-    <p> Tabela 3: Perguntas da Entrevista 1 (Fonte: Autores. 2023).</p>
+    <p> Figura 1: Perguntas da Entrevista 1 (Fonte: Autores. 2023).</p>
 </div>
 
 ### Respostas do Entrevistado 2
@@ -81,7 +81,7 @@ A entrevista 2 realizada com Henrique, apesar de saber as atividades e conseguir
 <img src="../../../../images/prototipoAltaYan.jpeg"/>
 
 <div style="text-align: center">
-    <p> Tabela 4: Perguntas da Entrevista 2 (Fonte: Autores. 2023).</p>
+    <p> Figura 2: Perguntas da Entrevista 2 (Fonte: Autores. 2023).</p>
 </div>
 
 A entrevista 2 realizada com Yan, apesar de saber as atividades e conseguir realizar o fluxo com certa facilidade, o mesmo apresenta algumas ressalvas quanto há criar artigo e informar erro, os quais essas ressalvas serão melhor desenvolvidas na seção de problemas encontrados.
@@ -93,6 +93,26 @@ As entrevistas foram realizadas levando em consideração [aspectos éticos](../
 ## Análise e Intepretação dos Dados
 
 O protótipo de alta fidelidade foi facilmente entendido pelos usuários, fornecendo uma experiência fácil de entender ao longo dos fluxos de interação, de acordo com as análise dos dados coletados das entrevistas. A conclusão de todas as tarefas propostas foi significativamente facilitada como resultado disso. Os participantes da pesquisa disseram que o protótipo demonstrou claramente sua funcionalidade e propósito, permitindo que eles usassem o sistema rapidamente e sem problemas. O protótipo deu aos usuários uma sensação de segurança e confiança durante as interação, o que tornou o processo mais simples e eficaz. Essas descobertas mostram que o desenvolvimento do protótipo de alta fidelidade foi bem-sucedido ao garantir uma experiência de usuário fácil de entender e acessível, promovendo uma conclusão eficaz de todas as tarefas propostas.
+
+
+- O usuário consegue operar o sistema?
+  Resposta: Sim, o usuário consegue se localizar no sistema com certa facilidade, já que os elementos se presentes na tela diminuíram o suficiente para o mesmo conseguir realizar a atividade iria querer.
+- Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?
+
+  Resposta: Os usuários conseguiram realizar as atividades pretentidas com sucesso, está localizada qual a atividade o tempo que os mesmos levaram para concluírem e se precisaram de ajuda ou não.
+- Que parte da interface e da interação o deixa insatisfeito?
+
+  Resposta: As partes da interface que deixaram os usuários insastifeitos foram tópicos relacionados ao menu superior, por não fechar ao tirar o mouse de cima e relacionados a página de discussão que possui um botão verde que chama atenção de mais e parece muito diferente do padrão do site.
+- Que parte da interface o desmotiva a explorar novas funcionalidades?
+
+  Resposta:  A edição de artigos, foi algo que passou despercebido pelos usuários, o qual deveria ser uma das funcionalidades/tarefas que deveria ter certo destaque.
+- Ele entende o que significa e para que serve cada elemento de interface?
+
+  Resposta: O usuário entende com quais elementos ele pode interagir, esses mesmo estão em um formato(retângular) que os deixa fácil de identificar onde é possível clicar, ou algum palavra sublinhada que fica bem-destacada, mas qe não atrapalha a leitura, por esse motivo, é perceptível que entende os elementos apresentados por terem esse destaque.
+- Ele vai entender o que deve fazer em seguida?
+
+  Resposta: Sim,  ele consegue entender, de acordo com as atividades passadas, foi explicado e/ou falado, antes e durante a entrevista quais as tarefas deveriam ser realizadas, dessa maneira o usuário poderia seguir as tarefas qee o mesmo desejar ou seguir na ordem em que foi citado para o mesmo sem nenhum problema.
+
 
 ## Problemas Identificados
 
@@ -121,3 +141,4 @@ Lichess. Disponível em: https://interacao-humano-computador.github.io/2022.2-Li
 | Versão | Data       | Descrição            | Autor(es)        | Revisor(es)       |
 | ------- | ---------- | ---------------------- | ---------------- | ----------------- |
 | 1.0     | 26/06/2023 | Criação do documento | Gabriel e Samuel | Chaydson e Lucas |
+| 1.1     | 05/07/2023 | Revisão de texto      | Gabriel          | ---               |
