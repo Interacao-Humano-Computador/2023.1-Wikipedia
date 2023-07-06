@@ -1123,6 +1123,14 @@ A Tabela 7 contém as apresentações durante o projeto, as apresentações são
 <p> Tabela 7: Entrevistas do Projeto sobre Protótipos (Fonte: Samuel, 2023). </p>
 </div>
 
+## Dificuldades e Facilidades
+
+### Lucas Lopes Frazão
+
+Negativo: Acredito que o cronograma foi muito apertado, pois havia entregas toda semana, o que dificultou a realização com maestria de alguns artefatos.
+
+Positivo: Foi de muita utilidade o livro da Simone, grande parte do contéudo estava lá, foi uma ótima bibliografia da disciplina. A comunicação com os membros do grupo foi muito boa, o que facilitou a realização das atividades. A matéria também foi de muito aprendizado, pois foi possível aprender sobre a interação humano-computador de forma prática. 
+
 ## Bibliografia
 
 <!-- Essa bibliografia talvez não exista -->
