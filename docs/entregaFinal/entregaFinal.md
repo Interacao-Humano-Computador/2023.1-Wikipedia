@@ -493,8 +493,6 @@ A tabela a seguir, Tabela 1, apresenta todas as ferramentas utilizadas no projet
 <p> Tabela 1: Ferramentas utilizadas durante o projeto (Fonte: Pedro, 2023). </p>
 </div>
 
-## Técnicas Utilizadas no Projeto
-
 ## Artefatos criados no projeto
 
 A tabela a seguir, Tabela 2, apresenta todos os artefatos criados no projeto, organizados por etapa, juntamente com seus respectivos autores e revisores.
@@ -1082,7 +1080,7 @@ Na Tabela 3, estão contidos dados sobre as avaliações ocorridas durante o pro
 
 aaaa
 
-## Síntese das técnicas utilizadas
+## Técnicas utilizadas no projeto
 
 A tabela 6 mostra os artefatos e as técnicas utilizadas durante o projeto. A tabela foi organizada em ordem de elaboração.
 
@@ -1130,6 +1128,12 @@ A Tabela 7 contém as apresentações durante o projeto, as apresentações são
 Negativo: Acredito que o cronograma foi muito apertado, pois havia entregas toda semana, o que dificultou a realização com maestria de alguns artefatos.
 
 Positivo: Foi de muita utilidade o livro da Simone, grande parte do contéudo estava lá, foi uma ótima bibliografia da disciplina. A comunicação com os membros do grupo foi muito boa, o que facilitou a realização das atividades. A matéria também foi de muito aprendizado, pois foi possível aprender sobre a interação humano-computador de forma prática. 
+
+### Ana Luíza Rodrigues da Silva
+
+Negativo: Os prazoz apertados para a entrega. Com mais tempo teria como desenvolver melhor o projeto.
+
+Positivo: Os materiais disponibilizados foram essenciais para a realização o projeto. Todo o grupo fez sua parte e foi uma disciplina bem colaborativa e de grande contribuição para aprendizado.
 
 ## Bibliografia
 
